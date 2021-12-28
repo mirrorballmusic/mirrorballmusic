@@ -1,4 +1,5 @@
-time
+[default]
+timeout = 12000
 
 [albums]
 title = "미러볼뮤직 ─ ALBUMS"
