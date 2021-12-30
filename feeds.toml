@@ -1,6 +1,3 @@
-[default]
-timeout = 12000
-
 [albums]
 title = "미러볼뮤직 ─ ALBUMS"
 url = "http://mirrorballmusic.co.kr/albums/"
@@ -9,4 +6,24 @@ titleSelector = "h1.album-title"
 linkSelector = "a.inner"
 imageSelector = "div.tb img"
 contentSelector = "h2.artist-name"
-waitForSelector = "div.album-item"
+waitUntil = "networkidle"
+
+[kindiechart]
+title = "미러볼뮤직 ─ K-INDIE CHART"
+url = "http://mirrorballmusic.co.kr/k-indie-chart/"
+entrySelector = "div[class='category-post-list'] article"
+titleSelector = "h1[class='post-title blue']"
+linkSelector = "div a[class='btn-view-chart']"
+imageSelector = "div[class='post-thumb'] img"
+contentSelector = "h2[class='sub-title']"
+waitUntil = "networkidle"
+
+[recommended]
+title = "미러볼뮤직 ─ RECOMMENDED"
+url = "http://mirrorballmusic.co.kr/recommended/"
+entrySelector = "div.category-post-list article.category-post.clearfix"
+titleSelector = "h1.post-title.blue"
+linkSelector = "div.post-excerpt p:nth-child(2) a"
+imageSelector = "div.post-thumb img"
+contentSelector = "div.post-excerpt"
+waitUntil = "networkidle"
