@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://mirrorballmusic.co.kr/recommended/</id>
+    <title>미러볼뮤직 ─ RECOMMENDED</title>
+    <updated>2021-12-31T17:44:46.843Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://mirrorballmusic.co.kr/recommended/favicon.ico</icon>
+</feed>
