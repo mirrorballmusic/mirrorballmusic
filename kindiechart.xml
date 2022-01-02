@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://mirrorballmusic.co.kr/k-indie-chart/</id>
-    <title>미러볼뮤직 ─ K-INDIE CHART</title>
-    <updated>2022-01-01T17:44:39.568Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://mirrorballmusic.co.kr/k-indie-chart/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>미러볼뮤직 ─ K-INDIE CHART</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 02 Jan 2022 05:37:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.210]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-210/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-210/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.11 - 2021.11.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%9D%B4%EC%8A%B9%EC%9C%A4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.209]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-209/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-209/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.26 - 2021.11.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/New-Century-Masterpiece-Cinema-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.208]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-208/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-208/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.11 - 2021.10.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/11/Stairs-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.207]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-207/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-207/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.26 - 2021.10.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/11/%EC%B5%9C%EC%9C%A0%EB%A6%AC_%EC%97%AC%EC%A0%95-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.206]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-206/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-206/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.11 - 2021.09.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/10/template-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.205]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-205/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-205/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.26 - 2021.09.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/10/%EB%84%AC-NELL_600-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.204]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-204/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-204/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.11 - 2021.08.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/09/%ED%99%98%EC%83%81%EC%9D%98-%EB%82%98%EB%9D%BC_600-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.203]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-203/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-203/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.07.26 - 2021.08.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/08/%ED%95%B4%EB%A8%B8%EB%A7%81Hammering-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.202]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-202/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-202/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.07.11 - 2021.07.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/08/template1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.201]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-201/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-201/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.06.26 - 2021.07.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/07/template-3-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.200]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-200/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-200/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.06.11 - 2021.06.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/07/template_200-3-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.199]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-199/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-199/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.05.26 - 2021.06.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/07/template-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

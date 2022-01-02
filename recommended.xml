@@ -1,8 +1,167 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://mirrorballmusic.co.kr/recommended/</id>
-    <title>미러볼뮤직 ─ RECOMMENDED</title>
-    <updated>2022-01-01T17:44:39.564Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://mirrorballmusic.co.kr/recommended/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>미러볼뮤직 ─ RECOMMENDED</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 02 Jan 2022 05:37:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악]]></title>
+            <link>https://www.dailian.co.kr/news/view/888230</link>
+            <guid>https://www.dailian.co.kr/news/view/888230</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color"> 음악은 단순히 귀를 즐겁게 하는 멜로디에 그치지 않는다. 음악의 특성상 한 이야기를 함축해 가사에 담아내는데, 이를 저마다 해석해 듣는 것도 음악을 즐기는 나름의 재미 요소다. 그런 면에서 하드 록 밴드 ABTB가 지난 1일 발매한 정규 2집 ‘데이드림’(daydream)은 대중에게 매우 친절한 앨범이라고 할 수 있다. 강력한 사운드에 정교한 연주, 대중적인 멜로디는 물론이고 음악과 한 맥락에 있는 단편소설 ‘백일몽’을 함께 실었다. 또 이 소설을 시각화한 만화도 인상적이다. 하드 록의 특성상 직관적이고 강렬한 사운드를 보이지만 이번 앨범만큼은 친절한 설명이 곁들여지면서 어찌 보면 ‘츤데레’ 같기도 하다. </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color">   <img draggable="false" class="emoji" alt="👉" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f449.svg"> <strong>READ FULL ARTICLE : </strong> <br><a href="https://www.dailian.co.kr/news/view/888230">https://www.dailian.co.kr/news/view/888230</a> </p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/05/news_1588742621_888230_m_1-3-300x300.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[우효, ‘담백한’ 노래로 표현하는 삶의 방향성]]></title>
+            <link>https://www.dailian.co.kr/news/view/887335</link>
+            <guid>https://www.dailian.co.kr/news/view/887335</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color">주로 신스팝 장르를 잘 활용하기로 알려진 우효의 이번 싱글도 같은 장르의 곡이다. 불규칙한 듯 하면서도 섬세하게 정돈된 신스 사운드에 특별한 기교 없이 투명한 우효의 목소리가 조화롭게 어우러진다. 가사를 읊조리듯 나긋나긋한 목소리로 들려주는 우효의 노래는 그래서 더 매력적이다.</p>
+
+
+
+<p class="has-background has-very-light-gray-background-color">  <img draggable="false" class="emoji" alt="👉" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f449.svg"> <strong>READ FULL ARTICLE : </strong> <br><a href="https://www.dailian.co.kr/news/view/887335">https://www.dailian.co.kr/news/view/887335</a> </p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/05/news_1588131971_887335_m_1-300x300.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[가수 박소은, 음악이라는 ‘처방전’…그 안에 담은 위로]]></title>
+            <link>https://www.dailian.co.kr/news/view/878583</link>
+            <guid>https://www.dailian.co.kr/news/view/878583</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color"> 5년의 시간이 흐른 지금, ‘슈스케7’을 울렸던 그 여고생은 어느덧 스물넷의 아티스트 박소은으로서 이야기를 들려주고 있다. 데뷔곡 ‘그믐달’을 시작으로 첫 EP ‘일기’, 디지털 싱글 ‘위성에게’ 등을 내놓은 그는 26일 데뷔 후 첫 정규 앨범 ‘고강동’을 선보인다. 여전히 앳된 외모지만 음악은 더 성숙해졌다. 절제된 감성 표현과 사소한 이야기로 채운 가사는 듣는 이들에게 공감과 위로를 안기기에 충분하다. </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"> <img draggable="false" class="emoji" alt="👉" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f449.svg"> <strong>READ FULL ARTICLE : </strong> <br><a href="https://www.dailian.co.kr/news/view/878583">https://www.dailian.co.kr/news/view/878583</a> </p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/05/news_1585102845_878583_m_1-300x300.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[여성 듀오 ‘열두달’이 빚어낸 빈틈없는 시너지]]></title>
+            <link>https://www.dailian.co.kr/news/view/880328</link>
+            <guid>https://www.dailian.co.kr/news/view/880328</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color"> 외모에서 풍기는 분위기부터 목소리, 지내온 배경도 다른 두 사람이 하나의 곡을 함께 만들어간다는 건 큰 의미가 있다. 가수들의 협업, 혹은 그룹 활동이 힘든 건 각자 가지고 있는 것들을 가끔은 내려놓을 줄 알아야 해서다. 그런 면에서 여성 듀오 열두달(12DAL)의 음악은 섬세함과 조화가 돋보인다. 서로에 대한 존중과 배려가 음악에도 적잖은 영향을 미쳤을 것으로 보인다. </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><img draggable="false" class="emoji" alt="👉" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f449.svg"> <strong>READ FULL ARTICLE : </strong> <br><a href="https://www.dailian.co.kr/news/view/880328">https://www.dailian.co.kr/news/view/880328</a> </p>
+
+
+
+<p></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/05/news_1585710168_880328_m_1-300x300.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[제주의 바람과 바다를 닮은 싱어송라이터 이소]]></title>
+            <link>http://theviewers.co.kr/View.aspx?No=661889</link>
+            <guid>http://theviewers.co.kr/View.aspx?No=661889</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color"> 이번 디지털 싱글 ‘서로에게 기대어 삼각형을 만들어요’는 이소가 혼자 여행을 다니고, 다시 한국으로 돌아오는 과정에서 느낀 감정을 담고 있다. 6개월, 그 이상의 여행 계획을 세웠지만 100일 가량의 여행을 마치고 한국으로 돌아왔다. 그 이유는 바로 ‘사람’ 때문이었다.&nbsp; </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="http://theviewers.co.kr/View.aspx?No=661889" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;이소 (새탭으로 열기)">Read Full Article Here : </a></strong><a href="http://theviewers.co.kr/View.aspx?No=661889" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;이소 (새탭으로 열기)">[인디;파인(人)더]</a><strong><a href="http://theviewers.co.kr/View.aspx?No=661889" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;이소 (새탭으로 열기)"> –&nbsp;</a></strong><a href="http://theviewers.co.kr/View.aspx?No=661889" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;이소 (새탭으로 열기)">이소</a><a rel="noreferrer noopener" href="http://theviewers.co.kr/View.aspx?No=361309" target="_blank">﻿</a></p>
+
+
+
+<p></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/01/ff-3-600x400-1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황휘현 밴드, 지독하게 솔직한 음악의 힘]]></title>
+            <link>http://theviewers.co.kr/View.aspx?No=361309</link>
+            <guid>http://theviewers.co.kr/View.aspx?No=361309</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color">직접 노래를 만들어 부르는 가수들이 입버릇처럼 하는 말이다. 그렇다고 모두 원하는 결과물을 내놓는 건 아니다. 혹 솔직한 음악을 썼다고 하더라도, 듣는 이의 기준에서는 그렇지 못하다고 느끼는 경우도 허다하다. 황휘현 밴드는 노래 제목부터 가사까지 ‘솔직’함의 끝을 보여준다. 제목과 가사에 조금의 모호함도 없다.&nbsp; </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="http://theviewers.co.kr/View.aspx?No=361309" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;황휘현 밴드 (새탭으로 열기)">Read Full Article Here : </a></strong><a href="http://theviewers.co.kr/View.aspx?No=361309" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;황휘현 밴드 (새탭으로 열기)">[인디;파인(人)더]</a><strong><a href="http://theviewers.co.kr/View.aspx?No=361309" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;황휘현 밴드 (새탭으로 열기)"> –&nbsp;</a></strong><a href="http://theviewers.co.kr/View.aspx?No=361309" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;황휘현 밴드 (새탭으로 열기)">황휘현 밴드</a></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/01/1894_20191220174301606-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송라이터 승언, 잔잔한 멜로디에 담은 공감의 메시지]]></title>
+            <link>http://theviewers.co.kr/View.aspx?No=352345</link>
+            <guid>http://theviewers.co.kr/View.aspx?No=352345</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color">어릴 때부터 뭐 하나 꾸준히 하는 법이 없었던 소년이 있었다. 우연히 중학교 밴드 동아리에서 기타를 잡게 되기 전까지의 일이다. 현재 승언이라는 예명으로 활동 중인 양범근은 유독 기타에 애착을 보였고, 온종일 기타를 잡고 연습하는 게 일상이 됐다. 그렇게 시간이 흐르고 그는 스스로 자신의 음악을 만들고, 노래를 부르는 싱어송라이터 승언이 됐다.&nbsp; </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="http://theviewers.co.kr/View.aspx?No=352345" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;승언 (새탭으로 열기)">Read Full Article Here : </a></strong><a href="http://theviewers.co.kr/View.aspx?No=352345" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;승언 (새탭으로 열기)">[인디;파인(人)더]</a><strong><a href="http://theviewers.co.kr/View.aspx?No=352345" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;승언 (새탭으로 열기)"> –&nbsp;</a></strong><a href="http://theviewers.co.kr/View.aspx?No=352345" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;승언 (새탭으로 열기)">승언</a></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/01/1894_20191212172442621-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슬로우진, 무모했던 도전 그리고 ‘아무르’]]></title>
+            <link>https://bit.ly/2NtZWIn</link>
+            <guid>https://bit.ly/2NtZWIn</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color">음악은 만국의 공통어다. 말 없이도 보편적인 감수성에 호소할 수 있는 있는 것이 바로 음악의 언어다. 예컨대 알 수 없는 언어의 음악을 듣고도, 그 음악에서 느껴지는 분위기가 실제 가사와 맞닿아 있는 경우가 있다. 가수 슬로우진은 이 말만 믿고 지구 반대편으로 여행을 떠나는 과감하지만, 용기 있는 선택을 했다.&nbsp; </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="https://bit.ly/2NtZWIn" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;슬로우진 (새탭으로 열기)">Read Full Article Here : </a></strong><a href="https://bit.ly/2NtZWIn" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;슬로우진 (새탭으로 열기)">[인디;파인(人)더]</a><strong><a href="https://bit.ly/2NtZWIn" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;슬로우진 (새탭으로 열기)"> –&nbsp;</a></strong><a href="https://bit.ly/2NtZWIn" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;슬로우진 (새탭으로 열기)">슬로우진</a></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/01/1894_20191206071525605-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마인드바디앤소울, 불편하고 힘든 길 걷는 이유]]></title>
+            <link>http://theviewers.co.kr/View.aspx?No=638798</link>
+            <guid>http://theviewers.co.kr/View.aspx?No=638798</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color">평균 연령 35세인 블루스밴드 마인드바디앤소울은 남들보다 늦게 시작했지만, 그만큼 더 열정적으로 무대에 서고 있다. 광주에 거주하고 있는 멤버들은 최근에도 한국블루스소사이어티를 중심으로 다양한 클럽에서 라이브 활동을 이어가고 있다. 밴드가 결성된 것은 불과 2~3년 전이다.&nbsp; </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="http://theviewers.co.kr/View.aspx?No=638798" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;마인드바디앤소울 (새탭으로 열기)">Read Full Article Here : </a></strong><a href="http://theviewers.co.kr/View.aspx?No=638798" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;마인드바디앤소울 (새탭으로 열기)">[인디;파인(人)더]</a><strong><a href="http://theviewers.co.kr/View.aspx?No=638798" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;마인드바디앤소울 (새탭으로 열기)"> –&nbsp;</a></strong><a href="http://theviewers.co.kr/View.aspx?No=638798" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;마인드바디앤소울 (새탭으로 열기)">마인드바디앤소울</a></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/01/1894_20191227095624830-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권선홍이 찾은 ‘재미’, 부모님에게도 통한 음악]]></title>
+            <link>http://theviewers.co.kr/View.aspx?No=337733</link>
+            <guid>http://theviewers.co.kr/View.aspx?No=337733</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color">
+
+이번 권선홍의 ‘가장 어두운 밤의 끝에서’에는 ‘빠이’(Pai) ‘시간이 됐어’(Gettin’ Over) ‘제인’(Jane) ‘고마우니까’(Song for You) ‘매일 밤’(Nights and Dreams) ‘위로’(Cheer Up, Go Up) 등 총 여섯 곡이 담겼다. 삶의 가장 어두운 밤의 끝자락에 있는 듯하면서도 위로와 희망의 메시지를 함께 담아낸 앨범이다.&nbsp;
+
+</p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"> <strong><a rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;권선홍 (새탭으로 열기)" href="http://theviewers.co.kr/View.aspx?No=337733" target="_blank">Read Full Article Here : </a></strong><a rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;권선홍 (새탭으로 열기)" href="http://theviewers.co.kr/View.aspx?No=337733" target="_blank">[인디;파인(人)더]</a><strong><a rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;권선홍 (새탭으로 열기)" href="http://theviewers.co.kr/View.aspx?No=337733" target="_blank"> –&nbsp;</a></strong><a rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;권선홍 (새탭으로 열기)" href="http://theviewers.co.kr/View.aspx?No=337733" target="_blank">권선홍</a></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/01/1894_20191129021336239-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김선욱 2집에서 발견한 공감 노래 셋]]></title>
+            <link>https://blog.naver.com/mirrorball_m/221668056704</link>
+            <guid>https://blog.naver.com/mirrorball_m/221668056704</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color"> 지난달 발매된 싱어송라이터 김선욱의 정규 2집 ‘Sunshine Highway’는 듣자마자 푹 빠져들게 하는 마력을 갖췄다. 6년 전 발매된 1집과는 많이 달라졌지만, 자근자근 공감가는 가사와 기분까지 좋아지는 사운드는 역시 ‘유재하 동문’답다. 오는 10월5일 카페언플러그드에서 열리는 2집 발매 기념공연 준비에 여념이 없는 그를 [3시의 인디살롱]에서 만났다. </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="https://blog.naver.com/mirrorball_m/221668056704" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : 3시의 인디살롱 –&nbsp;김선욱 (새탭으로 열기)">Read Full Article Here : 3시의 인디살롱 –&nbsp;</a></strong><a href="https://blog.naver.com/mirrorball_m/221668056704" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : 3시의 인디살롱 –&nbsp;김선욱 (새탭으로 열기)">김선욱</a><strong>﻿</strong></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2019/10/201909281856777850_5d8f2ec1dafe8-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로빈X오주 ‘꽃따러 가자’, 첫술에 배부른 사제지간 첫 앨범]]></title>
+            <link>https://blog.naver.com/mirrorball_m/221652118877</link>
+            <guid>https://blog.naver.com/mirrorball_m/221652118877</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color"> 올해 MBC뮤직 ‘창작의 신’에서 톱20에 들었던 로빈(박상빈)이 ‘제자’ 오주(오주현)와 함께 앨범을 냈다. 8월14일 나온 EP ‘꽃따러 가자’다. 사랑에 빠진 소녀의 마음을 노래한 ‘꽃따러 가자’, 비루한 현실 고백 ‘뻔한 노래’ 등 4곡이 담겼다. 대학가요제 동상 수상, EBS 헬로루키 선정, 혼성듀오 더치어스 활동 등 화려한 경력의 로빈과, 올해 2월 대학을 갓 졸업한 신예 오주의 완성도 높은 첫 결과물이다. [3시의 인디살롱]에서 로빈과 오주를 만났다. </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="https://blog.naver.com/mirrorball_m/221652118877" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : 3시의 인디살롱 –&nbsp;로빈X오주 (새탭으로 열기)">Read Full Article Here : 3시의 인디살롱 –&nbsp;</a></strong><a href="https://blog.naver.com/mirrorball_m/221652118877" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : 3시의 인디살롱 –&nbsp;로빈X오주 (새탭으로 열기)">로빈X오주</a><strong>﻿</strong></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2019/10/201909281901776270_5d8f3019d4ea4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

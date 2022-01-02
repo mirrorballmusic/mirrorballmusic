@@ -1,7 +1,503 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mirrorballmusic.github.io/mirrorballmusic/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-01-01T17:44:39.569Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 02 Jan 2022 05:37:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슬픔의 맛 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%8a%ac%ed%94%94%ec%9d%98-%eb%a7%9b/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%8a%ac%ed%94%94%ec%9d%98-%eb%a7%9b/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[코스모스 슈퍼스타]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%BD%94%EC%8A%A4%EB%AA%A8%EC%8A%A4%EC%8A%88%ED%8D%BC%EC%8A%A4%ED%83%80-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넌 나만의 빛 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%84%8c-%eb%82%98%eb%a7%8c%ec%9d%98-%eb%b9%9b/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%8c-%eb%82%98%eb%a7%8c%ec%9d%98-%eb%b9%9b/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[정단]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%A0%95%EB%8B%A8-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Me (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/love-me-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/love-me-2/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[HEEE]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%ED%9D%AC-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우여곡쩔 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%ec%97%ac%ea%b3%a1%ec%a9%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%ec%97%ac%ea%b3%a1%ec%a9%94/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[여미]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%97%AC%EB%AF%B8-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세대소통 프로젝트, 인생 O.S.T. 2 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%84%b8%eb%8c%80%ec%86%8c%ed%86%b5-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%9d%b8%ec%83%9d-o-s-t-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%b8%eb%8c%80%ec%86%8c%ed%86%b5-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%9d%b8%ec%83%9d-o-s-t-2/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[홍갑, 룬디마틴, 김사월]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%84%B8%EB%8C%80%EC%86%8C%ED%86%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%B8%EC%83%9D-OST-%EC%95%84%ED%8A%B8%EC%9B%8D-002-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버찌 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b2%84%ec%b0%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b2%84%ec%b0%8c/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[튜즈데이 서울]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%ED%8A%9C%EC%A6%88%EB%8D%B0%EC%9D%B4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리의 만남이 쓸모없진 않을 거야 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%a7%8c%eb%82%a8%ec%9d%b4-%ec%93%b8%eb%aa%a8%ec%97%86%ec%a7%84-%ec%95%8a%ec%9d%84-%ea%b1%b0%ec%95%bc/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%a7%8c%eb%82%a8%ec%9d%b4-%ec%93%b8%eb%aa%a8%ec%97%86%ec%a7%84-%ec%95%8a%ec%9d%84-%ea%b1%b0%ec%95%bc/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[우리같은사람들]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%9A%B0%EB%A6%AC%EA%B0%99%EC%9D%80%EC%82%AC%EB%9E%8C%EB%93%A4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재밌는 여행 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%ac%eb%b0%8c%eb%8a%94-%ec%97%ac%ed%96%89/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%ac%eb%b0%8c%eb%8a%94-%ec%97%ac%ed%96%89/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[안승준]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%95%88%EC%8A%B9%EC%A4%80-2-1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deep (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/deep/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/deep/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[BOTH]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/BOTH-%EC%88%98%EC%A0%95-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Make a change (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/make-a-change/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/make-a-change/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[헤이맨]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%ED%97%A4%EC%9D%B4%EB%A7%A8-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몫 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%aa%ab/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%aa%ab/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[이어진8]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%9D%B4%EC%96%B4%EC%A7%848-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛이 그린 그림 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%9b%ec%9d%b4-%ea%b7%b8%eb%a6%b0-%ea%b7%b8%eb%a6%bc/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%9b%ec%9d%b4-%ea%b7%b8%eb%a6%b0-%ea%b7%b8%eb%a6%bc/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[박기만]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EB%B0%95%EA%B8%B0%EB%A7%8C-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Far East Asian Tigers (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/far-east-asian-tigers/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/far-east-asian-tigers/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[극동아시아타이거즈]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EA%B7%B9%EB%8F%99%EC%95%84%EC%8B%9C%EC%95%84%ED%83%80%EC%9D%B4%EA%B1%B0%EC%A6%88-1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I’d Rather Stay Home (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/id-rather-stay-home/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/id-rather-stay-home/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[Park Bench Club]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/Park-Bench-Club-1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gone (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/gone-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/gone-3/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[해주 (Heju)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%ED%95%B4%EC%A3%BC-Heju-300x300.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[네오유니버스.3 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%84%a4%ec%98%a4%ec%9c%a0%eb%8b%88%eb%b2%84%ec%8a%a4-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%a4%ec%98%a4%ec%9c%a0%eb%8b%88%eb%b2%84%ec%8a%a4-3/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[정현우]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%A0%95%ED%98%84%EC%9A%B0-%EC%9E%90%EC%BC%93%EC%9D%B4%EB%AF%B8%EC%A7%80-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10월의 태풍 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/10%ec%9b%94%ec%9d%98-%ed%83%9c%ed%92%8d/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/10%ec%9b%94%ec%9d%98-%ed%83%9c%ed%92%8d/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[오로라스팅]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%98%A4%EB%A1%9C%EB%9D%BC%EC%8A%A4%ED%8C%85-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunset Park (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sunset-park/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sunset-park/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[뉴튼]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/Newton-Sunset-Park_COVER-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tell me Merry Christmas (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/tell-me-merry-christmas/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/tell-me-merry-christmas/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[Grabber]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/Grabber-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Loop (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/loop/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/loop/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[g0nny (거니)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/g0nny-%EA%B1%B0%EB%8B%88%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 난 미지근하게 축제 (Live) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%eb%82%9c-%eb%af%b8%ec%a7%80%ea%b7%bc%ed%95%98%ea%b2%8c-%ec%b6%95%ec%a0%9c-live/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%eb%82%9c-%eb%af%b8%ec%a7%80%ea%b7%bc%ed%95%98%ea%b2%8c-%ec%b6%95%ec%a0%9c-live/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[최고은, 김소연]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%B5%9C%EA%B3%A0%EC%9D%80_%EC%98%A4%EB%8A%98%EC%9D%98%EB%82%9C%EB%AF%B8%EC%A7%80%EA%B7%BC%ED%95%98%EA%B2%8C%EC%B6%95%EC%A0%9CLive_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬공기 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b0%ac%ea%b3%b5%ea%b8%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b0%ac%ea%b3%b5%ea%b8%b0/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[찬공기]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%B0%AC%EA%B3%B5%EA%B8%B0_%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Me (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/love-me/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/love-me/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[박소현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EB%B0%95%EC%86%8C%ED%98%84_%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[괜찮아진다며 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b4%9c%ec%b0%ae%ec%95%84%ec%a7%84%eb%8b%a4%eb%a9%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b4%9c%ec%b0%ae%ec%95%84%ec%a7%84%eb%8b%a4%eb%a9%b0/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[skip intro (스킵인트로)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/skip-intro-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grab (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/grab/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/grab/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[권유 (gwon.u)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EA%B6%88%EB%89%B4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽃은 다시 필 텐데 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%bd%83%ec%9d%80-%eb%8b%a4%ec%8b%9c-%ed%95%84-%ed%85%90%eb%8d%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%bd%83%ec%9d%80-%eb%8b%a4%ec%8b%9c-%ed%95%84-%ed%85%90%eb%8d%b0/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[23]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/23_%EA%BD%83%EC%9D%80-%EB%8B%A4%EC%8B%9C-%ED%95%84%ED%85%90%EB%8D%B0_cover-image_3000x3000-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마음이 내려 쌓이면 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%9d%8c%ec%9d%b4-%eb%82%b4%eb%a0%a4-%ec%8c%93%ec%9d%b4%eb%a9%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%9d%8c%ec%9d%b4-%eb%82%b4%eb%a0%a4-%ec%8c%93%ec%9d%b4%eb%a9%b4/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[홍이삭]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%ED%99%8D%EC%9D%B4%EC%82%AD%EB%A7%88%EC%9D%8C%EC%9D%B4-%EB%82%B4%EB%A0%A4-%EC%8C%93%EC%9D%B4%EB%A9%B4-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Exchange Diary (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/exchange-diary/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/exchange-diary/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[DAMSUS]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/DAMSUS_Exchange-Diary-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘했어, 알 수 없는 시간 속에 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%98%ed%96%88%ec%96%b4-%ec%95%8c-%ec%88%98-%ec%97%86%eb%8a%94-%ec%8b%9c%ea%b0%84-%ec%86%8d%ec%97%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%98%ed%96%88%ec%96%b4-%ec%95%8c-%ec%88%98-%ec%97%86%eb%8a%94-%ec%8b%9c%ea%b0%84-%ec%86%8d%ec%97%90/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[CR태규]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%94%A8%EC%95%8C%ED%83%9C%EA%B7%9C-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Psycho (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/psycho/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/psycho/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[FOOL IN THE POOL (풀인더풀)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%ED%92%80%EC%9D%B8%EB%8D%94%ED%92%80-300x300.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.210 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-210/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-210/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.11 - 2021.11.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/%EC%9D%B4%EC%8A%B9%EC%9C%A4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.209 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-209/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-209/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.26 - 2021.11.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/12/New-Century-Masterpiece-Cinema-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.208 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-208/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-208/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.11 - 2021.10.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/11/Stairs-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.207 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-207/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-207/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.26 - 2021.10.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/11/%EC%B5%9C%EC%9C%A0%EB%A6%AC_%EC%97%AC%EC%A0%95-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.206 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-206/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-206/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.11 - 2021.09.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/10/template-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.205 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-205/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-205/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.26 - 2021.09.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/10/%EB%84%AC-NELL_600-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.204 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-204/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-204/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.11 - 2021.08.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/09/%ED%99%98%EC%83%81%EC%9D%98-%EB%82%98%EB%9D%BC_600-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.203 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-203/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-203/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.07.26 - 2021.08.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/08/%ED%95%B4%EB%A8%B8%EB%A7%81Hammering-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.202 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-202/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-202/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.07.11 - 2021.07.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/08/template1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.201 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-201/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-201/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.06.26 - 2021.07.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/07/template-3-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.200 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-200/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-200/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.06.11 - 2021.06.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/07/template_200-3-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.199 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-199/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-199/</guid>
+            <pubDate>Sun, 02 Jan 2022 05:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.05.26 - 2021.06.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2021/07/template-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
+            <link>https://www.dailian.co.kr/news/view/888230</link>
+            <guid>https://www.dailian.co.kr/news/view/888230</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color"> 음악은 단순히 귀를 즐겁게 하는 멜로디에 그치지 않는다. 음악의 특성상 한 이야기를 함축해 가사에 담아내는데, 이를 저마다 해석해 듣는 것도 음악을 즐기는 나름의 재미 요소다. 그런 면에서 하드 록 밴드 ABTB가 지난 1일 발매한 정규 2집 ‘데이드림’(daydream)은 대중에게 매우 친절한 앨범이라고 할 수 있다. 강력한 사운드에 정교한 연주, 대중적인 멜로디는 물론이고 음악과 한 맥락에 있는 단편소설 ‘백일몽’을 함께 실었다. 또 이 소설을 시각화한 만화도 인상적이다. 하드 록의 특성상 직관적이고 강렬한 사운드를 보이지만 이번 앨범만큼은 친절한 설명이 곁들여지면서 어찌 보면 ‘츤데레’ 같기도 하다. </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color">   <img draggable="false" class="emoji" alt="👉" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f449.svg"> <strong>READ FULL ARTICLE : </strong> <br><a href="https://www.dailian.co.kr/news/view/888230">https://www.dailian.co.kr/news/view/888230</a> </p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/05/news_1588742621_888230_m_1-3-300x300.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[우효, ‘담백한’ 노래로 표현하는 삶의 방향성 (미러볼뮤직 ─ RECOMMENDED)]]></title>
+            <link>https://www.dailian.co.kr/news/view/887335</link>
+            <guid>https://www.dailian.co.kr/news/view/887335</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color">주로 신스팝 장르를 잘 활용하기로 알려진 우효의 이번 싱글도 같은 장르의 곡이다. 불규칙한 듯 하면서도 섬세하게 정돈된 신스 사운드에 특별한 기교 없이 투명한 우효의 목소리가 조화롭게 어우러진다. 가사를 읊조리듯 나긋나긋한 목소리로 들려주는 우효의 노래는 그래서 더 매력적이다.</p>
+
+
+
+<p class="has-background has-very-light-gray-background-color">  <img draggable="false" class="emoji" alt="👉" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f449.svg"> <strong>READ FULL ARTICLE : </strong> <br><a href="https://www.dailian.co.kr/news/view/887335">https://www.dailian.co.kr/news/view/887335</a> </p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/05/news_1588131971_887335_m_1-300x300.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[가수 박소은, 음악이라는 ‘처방전’…그 안에 담은 위로 (미러볼뮤직 ─ RECOMMENDED)]]></title>
+            <link>https://www.dailian.co.kr/news/view/878583</link>
+            <guid>https://www.dailian.co.kr/news/view/878583</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color"> 5년의 시간이 흐른 지금, ‘슈스케7’을 울렸던 그 여고생은 어느덧 스물넷의 아티스트 박소은으로서 이야기를 들려주고 있다. 데뷔곡 ‘그믐달’을 시작으로 첫 EP ‘일기’, 디지털 싱글 ‘위성에게’ 등을 내놓은 그는 26일 데뷔 후 첫 정규 앨범 ‘고강동’을 선보인다. 여전히 앳된 외모지만 음악은 더 성숙해졌다. 절제된 감성 표현과 사소한 이야기로 채운 가사는 듣는 이들에게 공감과 위로를 안기기에 충분하다. </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"> <img draggable="false" class="emoji" alt="👉" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f449.svg"> <strong>READ FULL ARTICLE : </strong> <br><a href="https://www.dailian.co.kr/news/view/878583">https://www.dailian.co.kr/news/view/878583</a> </p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/05/news_1585102845_878583_m_1-300x300.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[여성 듀오 ‘열두달’이 빚어낸 빈틈없는 시너지 (미러볼뮤직 ─ RECOMMENDED)]]></title>
+            <link>https://www.dailian.co.kr/news/view/880328</link>
+            <guid>https://www.dailian.co.kr/news/view/880328</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color"> 외모에서 풍기는 분위기부터 목소리, 지내온 배경도 다른 두 사람이 하나의 곡을 함께 만들어간다는 건 큰 의미가 있다. 가수들의 협업, 혹은 그룹 활동이 힘든 건 각자 가지고 있는 것들을 가끔은 내려놓을 줄 알아야 해서다. 그런 면에서 여성 듀오 열두달(12DAL)의 음악은 섬세함과 조화가 돋보인다. 서로에 대한 존중과 배려가 음악에도 적잖은 영향을 미쳤을 것으로 보인다. </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><img draggable="false" class="emoji" alt="👉" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f449.svg"> <strong>READ FULL ARTICLE : </strong> <br><a href="https://www.dailian.co.kr/news/view/880328">https://www.dailian.co.kr/news/view/880328</a> </p>
+
+
+
+<p></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/05/news_1585710168_880328_m_1-300x300.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[제주의 바람과 바다를 닮은 싱어송라이터 이소 (미러볼뮤직 ─ RECOMMENDED)]]></title>
+            <link>http://theviewers.co.kr/View.aspx?No=661889</link>
+            <guid>http://theviewers.co.kr/View.aspx?No=661889</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color"> 이번 디지털 싱글 ‘서로에게 기대어 삼각형을 만들어요’는 이소가 혼자 여행을 다니고, 다시 한국으로 돌아오는 과정에서 느낀 감정을 담고 있다. 6개월, 그 이상의 여행 계획을 세웠지만 100일 가량의 여행을 마치고 한국으로 돌아왔다. 그 이유는 바로 ‘사람’ 때문이었다.&nbsp; </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="http://theviewers.co.kr/View.aspx?No=661889" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;이소 (새탭으로 열기)">Read Full Article Here : </a></strong><a href="http://theviewers.co.kr/View.aspx?No=661889" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;이소 (새탭으로 열기)">[인디;파인(人)더]</a><strong><a href="http://theviewers.co.kr/View.aspx?No=661889" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;이소 (새탭으로 열기)"> –&nbsp;</a></strong><a href="http://theviewers.co.kr/View.aspx?No=661889" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;이소 (새탭으로 열기)">이소</a><a rel="noreferrer noopener" href="http://theviewers.co.kr/View.aspx?No=361309" target="_blank">﻿</a></p>
+
+
+
+<p></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/01/ff-3-600x400-1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황휘현 밴드, 지독하게 솔직한 음악의 힘 (미러볼뮤직 ─ RECOMMENDED)]]></title>
+            <link>http://theviewers.co.kr/View.aspx?No=361309</link>
+            <guid>http://theviewers.co.kr/View.aspx?No=361309</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color">직접 노래를 만들어 부르는 가수들이 입버릇처럼 하는 말이다. 그렇다고 모두 원하는 결과물을 내놓는 건 아니다. 혹 솔직한 음악을 썼다고 하더라도, 듣는 이의 기준에서는 그렇지 못하다고 느끼는 경우도 허다하다. 황휘현 밴드는 노래 제목부터 가사까지 ‘솔직’함의 끝을 보여준다. 제목과 가사에 조금의 모호함도 없다.&nbsp; </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="http://theviewers.co.kr/View.aspx?No=361309" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;황휘현 밴드 (새탭으로 열기)">Read Full Article Here : </a></strong><a href="http://theviewers.co.kr/View.aspx?No=361309" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;황휘현 밴드 (새탭으로 열기)">[인디;파인(人)더]</a><strong><a href="http://theviewers.co.kr/View.aspx?No=361309" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;황휘현 밴드 (새탭으로 열기)"> –&nbsp;</a></strong><a href="http://theviewers.co.kr/View.aspx?No=361309" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;황휘현 밴드 (새탭으로 열기)">황휘현 밴드</a></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/01/1894_20191220174301606-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송라이터 승언, 잔잔한 멜로디에 담은 공감의 메시지 (미러볼뮤직 ─ RECOMMENDED)]]></title>
+            <link>http://theviewers.co.kr/View.aspx?No=352345</link>
+            <guid>http://theviewers.co.kr/View.aspx?No=352345</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color">어릴 때부터 뭐 하나 꾸준히 하는 법이 없었던 소년이 있었다. 우연히 중학교 밴드 동아리에서 기타를 잡게 되기 전까지의 일이다. 현재 승언이라는 예명으로 활동 중인 양범근은 유독 기타에 애착을 보였고, 온종일 기타를 잡고 연습하는 게 일상이 됐다. 그렇게 시간이 흐르고 그는 스스로 자신의 음악을 만들고, 노래를 부르는 싱어송라이터 승언이 됐다.&nbsp; </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="http://theviewers.co.kr/View.aspx?No=352345" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;승언 (새탭으로 열기)">Read Full Article Here : </a></strong><a href="http://theviewers.co.kr/View.aspx?No=352345" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;승언 (새탭으로 열기)">[인디;파인(人)더]</a><strong><a href="http://theviewers.co.kr/View.aspx?No=352345" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;승언 (새탭으로 열기)"> –&nbsp;</a></strong><a href="http://theviewers.co.kr/View.aspx?No=352345" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;승언 (새탭으로 열기)">승언</a></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/01/1894_20191212172442621-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슬로우진, 무모했던 도전 그리고 ‘아무르’ (미러볼뮤직 ─ RECOMMENDED)]]></title>
+            <link>https://bit.ly/2NtZWIn</link>
+            <guid>https://bit.ly/2NtZWIn</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color">음악은 만국의 공통어다. 말 없이도 보편적인 감수성에 호소할 수 있는 있는 것이 바로 음악의 언어다. 예컨대 알 수 없는 언어의 음악을 듣고도, 그 음악에서 느껴지는 분위기가 실제 가사와 맞닿아 있는 경우가 있다. 가수 슬로우진은 이 말만 믿고 지구 반대편으로 여행을 떠나는 과감하지만, 용기 있는 선택을 했다.&nbsp; </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="https://bit.ly/2NtZWIn" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;슬로우진 (새탭으로 열기)">Read Full Article Here : </a></strong><a href="https://bit.ly/2NtZWIn" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;슬로우진 (새탭으로 열기)">[인디;파인(人)더]</a><strong><a href="https://bit.ly/2NtZWIn" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;슬로우진 (새탭으로 열기)"> –&nbsp;</a></strong><a href="https://bit.ly/2NtZWIn" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;슬로우진 (새탭으로 열기)">슬로우진</a></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/01/1894_20191206071525605-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마인드바디앤소울, 불편하고 힘든 길 걷는 이유 (미러볼뮤직 ─ RECOMMENDED)]]></title>
+            <link>http://theviewers.co.kr/View.aspx?No=638798</link>
+            <guid>http://theviewers.co.kr/View.aspx?No=638798</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color">평균 연령 35세인 블루스밴드 마인드바디앤소울은 남들보다 늦게 시작했지만, 그만큼 더 열정적으로 무대에 서고 있다. 광주에 거주하고 있는 멤버들은 최근에도 한국블루스소사이어티를 중심으로 다양한 클럽에서 라이브 활동을 이어가고 있다. 밴드가 결성된 것은 불과 2~3년 전이다.&nbsp; </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="http://theviewers.co.kr/View.aspx?No=638798" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;마인드바디앤소울 (새탭으로 열기)">Read Full Article Here : </a></strong><a href="http://theviewers.co.kr/View.aspx?No=638798" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;마인드바디앤소울 (새탭으로 열기)">[인디;파인(人)더]</a><strong><a href="http://theviewers.co.kr/View.aspx?No=638798" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;마인드바디앤소울 (새탭으로 열기)"> –&nbsp;</a></strong><a href="http://theviewers.co.kr/View.aspx?No=638798" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;마인드바디앤소울 (새탭으로 열기)">마인드바디앤소울</a></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/01/1894_20191227095624830-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권선홍이 찾은 ‘재미’, 부모님에게도 통한 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
+            <link>http://theviewers.co.kr/View.aspx?No=337733</link>
+            <guid>http://theviewers.co.kr/View.aspx?No=337733</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color">
+
+이번 권선홍의 ‘가장 어두운 밤의 끝에서’에는 ‘빠이’(Pai) ‘시간이 됐어’(Gettin’ Over) ‘제인’(Jane) ‘고마우니까’(Song for You) ‘매일 밤’(Nights and Dreams) ‘위로’(Cheer Up, Go Up) 등 총 여섯 곡이 담겼다. 삶의 가장 어두운 밤의 끝자락에 있는 듯하면서도 위로와 희망의 메시지를 함께 담아낸 앨범이다.&nbsp;
+
+</p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"> <strong><a rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;권선홍 (새탭으로 열기)" href="http://theviewers.co.kr/View.aspx?No=337733" target="_blank">Read Full Article Here : </a></strong><a rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;권선홍 (새탭으로 열기)" href="http://theviewers.co.kr/View.aspx?No=337733" target="_blank">[인디;파인(人)더]</a><strong><a rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;권선홍 (새탭으로 열기)" href="http://theviewers.co.kr/View.aspx?No=337733" target="_blank"> –&nbsp;</a></strong><a rel="noreferrer noopener" aria-label="Read Full Article Here : [인디;파인(人)더] –&nbsp;권선홍 (새탭으로 열기)" href="http://theviewers.co.kr/View.aspx?No=337733" target="_blank">권선홍</a></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2020/01/1894_20191129021336239-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김선욱 2집에서 발견한 공감 노래 셋 (미러볼뮤직 ─ RECOMMENDED)]]></title>
+            <link>https://blog.naver.com/mirrorball_m/221668056704</link>
+            <guid>https://blog.naver.com/mirrorball_m/221668056704</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color"> 지난달 발매된 싱어송라이터 김선욱의 정규 2집 ‘Sunshine Highway’는 듣자마자 푹 빠져들게 하는 마력을 갖췄다. 6년 전 발매된 1집과는 많이 달라졌지만, 자근자근 공감가는 가사와 기분까지 좋아지는 사운드는 역시 ‘유재하 동문’답다. 오는 10월5일 카페언플러그드에서 열리는 2집 발매 기념공연 준비에 여념이 없는 그를 [3시의 인디살롱]에서 만났다. </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="https://blog.naver.com/mirrorball_m/221668056704" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : 3시의 인디살롱 –&nbsp;김선욱 (새탭으로 열기)">Read Full Article Here : 3시의 인디살롱 –&nbsp;</a></strong><a href="https://blog.naver.com/mirrorball_m/221668056704" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : 3시의 인디살롱 –&nbsp;김선욱 (새탭으로 열기)">김선욱</a><strong>﻿</strong></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2019/10/201909281856777850_5d8f2ec1dafe8-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로빈X오주 ‘꽃따러 가자’, 첫술에 배부른 사제지간 첫 앨범 (미러볼뮤직 ─ RECOMMENDED)]]></title>
+            <link>https://blog.naver.com/mirrorball_m/221652118877</link>
+            <guid>https://blog.naver.com/mirrorball_m/221652118877</guid>
+            <pubDate>Sun, 02 Jan 2022 05:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p class="has-background has-very-light-gray-background-color"> 올해 MBC뮤직 ‘창작의 신’에서 톱20에 들었던 로빈(박상빈)이 ‘제자’ 오주(오주현)와 함께 앨범을 냈다. 8월14일 나온 EP ‘꽃따러 가자’다. 사랑에 빠진 소녀의 마음을 노래한 ‘꽃따러 가자’, 비루한 현실 고백 ‘뻔한 노래’ 등 4곡이 담겼다. 대학가요제 동상 수상, EBS 헬로루키 선정, 혼성듀오 더치어스 활동 등 화려한 경력의 로빈과, 올해 2월 대학을 갓 졸업한 신예 오주의 완성도 높은 첫 결과물이다. [3시의 인디살롱]에서 로빈과 오주를 만났다. </p>
+
+
+
+<p class="has-background has-very-light-gray-background-color"><strong><a href="https://blog.naver.com/mirrorball_m/221652118877" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : 3시의 인디살롱 –&nbsp;로빈X오주 (새탭으로 열기)">Read Full Article Here : 3시의 인디살롱 –&nbsp;</a></strong><a href="https://blog.naver.com/mirrorball_m/221652118877" target="_blank" rel="noreferrer noopener" aria-label="Read Full Article Here : 3시의 인디살롱 –&nbsp;로빈X오주 (새탭으로 열기)">로빈X오주</a><strong>﻿</strong></p>]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2019/10/201909281901776270_5d8f3019d4ea4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
