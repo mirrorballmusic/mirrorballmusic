@@ -6,7 +6,7 @@ titleSelector = "h1.album-title"
 linkSelector = "a.inner"
 imageSelector = "div.tb img"
 contentSelector = "h2.artist-name"
-waitUntil = "networkidle"
+waitForSelector = "div.album-list div.album-item"
 
 [kindiechart]
 title = "미러볼뮤직 ─ K-INDIE CHART"
@@ -16,7 +16,7 @@ titleSelector = "h1[class='post-title blue']"
 linkSelector = "div a[class='btn-view-chart']"
 imageSelector = "div[class='post-thumb'] img"
 contentSelector = "h2[class='sub-title']"
-waitUntil = "networkidle"
+waitForSelector = "div.category-post-list article.category-post.clearfix"
 
 [recommended]
 title = "미러볼뮤직 ─ RECOMMENDED"
@@ -26,4 +26,4 @@ titleSelector = "h1.post-title.blue"
 linkSelector = "div.post-excerpt p:nth-child(2) a"
 imageSelector = "div.post-thumb img"
 contentSelector = "div.post-excerpt"
-waitUntil = "networkidle"
+waitForSelector = "div.category-post-list article.category-post.clearfix"
