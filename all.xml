@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 02:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 03:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좋아해줘 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%95%84%ed%95%b4%ec%a4%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%95%84%ed%95%b4%ec%a4%98/</guid>
+            <pubDate>Fri, 24 Feb 2023 03:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[정재하]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EC%9E%AC%ED%95%98_%EC%A2%8B%EC%95%84%ED%95%B4%EC%A4%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구스다운필로우 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b5%ac%ec%8a%a4%eb%8b%a4%ec%9a%b4%ed%95%84%eb%a1%9c%ec%9a%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b5%ac%ec%8a%a4%eb%8b%a4%ec%9a%b4%ed%95%84%eb%a1%9c%ec%9a%b0/</guid>
+            <pubDate>Fri, 24 Feb 2023 03:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[엘리펀트 쥬스 (Elephant Juice)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%98%EB%A6%AC%ED%8E%80%ED%8A%B8-%EC%A5%AC%EC%8A%A4-Elephant-Juice-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It’s Alright (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/its-alright/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/its-alright/</guid>
+            <pubDate>Fri, 24 Feb 2023 03:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[skip intro (스킵인트로)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_skip-intro-%EC%8A%A4%ED%82%B5%EC%9D%B8%ED%8A%B8%EB%A1%9C_Its-Alright-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Earl Grey (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/earl-grey/</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Various-Artists_%EB%8C%80%EA%B5%AC%EC%9D%B8%EB%94%94%EC%9D%8C%EC%95%85%EC%97%B0%EB%8C%80%EA%B8%B02022-Lets-Roll-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주문 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a3%bc%eb%ac%b8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a3%bc%eb%ac%b8/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[파고 (PAGO)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8C%8C%EA%B3%A0-PAGO_%EC%A3%BC%EB%AC%B8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coming back to you (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/coming-back-to-you/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/coming-back-to-you/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[Muhwa (무화)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Muhwa-%EB%AC%B4%ED%99%94_Coming-back-to-you-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봐요 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%90%ec%9a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%90%ec%9a%94/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[Coker (코커)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Coker-%EC%BD%94%EC%BB%A4_%EB%B4%90%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.238 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
