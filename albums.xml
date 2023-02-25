@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 02:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 03:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이고 의미 없다]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%9d%b4%ea%b3%a0-%ec%9d%98%eb%af%b8-%ec%97%86%eb%8b%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%9d%b4%ea%b3%a0-%ec%9d%98%eb%af%b8-%ec%97%86%eb%8b%a4/</guid>
+            <pubDate>Sat, 25 Feb 2023 03:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[안희수]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%ED%9D%AC%EC%88%98_%EC%95%84%EC%9D%B4%EA%B3%A0-%EC%9D%98%EB%AF%B8-%EC%97%86%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[좋아해줘]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%95%84%ed%95%b4%ec%a4%98/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
             <content:encoded><![CDATA[브릴리언트 블루 (Brilliant Blue)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B8%8C%EB%A6%B4%EB%A6%AC%EC%96%B8%ED%8A%B8-%EB%B8%94%EB%A3%A8-Brilliant-Blue_%ED%88%AC%EB%AA%85%ED%95%9C-%EB%82%A0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/various-artists/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/various-artists/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Various-Artists_%EB%8C%80%EA%B5%AC%EC%9D%B8%EB%94%94%EC%9D%8C%EC%95%85%EC%97%B0%EB%8C%80%EA%B8%B02022-Lets-Roll-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
