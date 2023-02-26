@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 02:57:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 03:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄이 오는 이 계절에서]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%b4-%ec%98%a4%eb%8a%94-%ec%9d%b4-%ea%b3%84%ec%a0%88%ec%97%90%ec%84%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%b4-%ec%98%a4%eb%8a%94-%ec%9d%b4-%ea%b3%84%ec%a0%88%ec%97%90%ec%84%9c/</guid>
+            <pubDate>Sun, 26 Feb 2023 03:28:45 GMT</pubDate>
+            <content:encoded><![CDATA[서교동의 밤]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EA%B5%90%EB%8F%99%EC%9D%98-%EB%B0%A4_%EB%B4%84%EC%9D%B4-%EC%98%A4%EB%8A%94-%EC%9D%B4-%EA%B3%84%EC%A0%88%EC%97%90%EC%84%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이고 의미 없다]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%9d%b4%ea%b3%a0-%ec%9d%98%eb%af%b8-%ec%97%86%eb%8b%a4/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
             <content:encoded><![CDATA[Fuzzy Pug (퍼지퍼그)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fuzzy-Pug-%ED%8D%BC%EC%A7%80%ED%8D%BC%EA%B7%B8_Overdrive-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투명한 날]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%88%ac%eb%aa%85%ed%95%9c-%eb%82%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%88%ac%eb%aa%85%ed%95%9c-%eb%82%a0/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[브릴리언트 블루 (Brilliant Blue)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B8%8C%EB%A6%B4%EB%A6%AC%EC%96%B8%ED%8A%B8-%EB%B8%94%EB%A3%A8-Brilliant-Blue_%ED%88%AC%EB%AA%85%ED%95%9C-%EB%82%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
