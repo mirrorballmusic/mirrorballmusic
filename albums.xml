@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 02:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음의 고향]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%9d%8c%ec%9d%98-%ea%b3%a0%ed%96%a5/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%9d%8c%ec%9d%98-%ea%b3%a0%ed%96%a5/</guid>
+            <pubDate>Mon, 27 Feb 2023 03:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[문없는집]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AC%B8%EC%97%86%EB%8A%94%EC%A7%91_%EB%A7%88%EC%9D%8C%EC%9D%98-%EA%B3%A0%ED%96%A5-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mist]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/mist/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/mist/</guid>
+            <pubDate>Mon, 27 Feb 2023 03:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[De'beus (디비어스)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Debeus-%EB%94%94%EB%B9%84%EC%96%B4%EC%8A%A4_Mist-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심연]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%8b%ac%ec%97%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%8b%ac%ec%97%b0/</guid>
+            <pubDate>Mon, 27 Feb 2023 03:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[랑잇 (Langit)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9E%91%EC%9E%87-Langit_%EC%8B%AC%EC%97%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섬아리랑]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%84%ac%ec%95%84%eb%a6%ac%eb%9e%91/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%ac%ec%95%84%eb%a6%ac%eb%9e%91/</guid>
+            <pubDate>Mon, 27 Feb 2023 03:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[노올량]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%98%AC%EB%9F%89_%EC%84%AC%EC%95%84%EB%A6%AC%EB%9E%91-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄이 오는 이 계절에서]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%b4-%ec%98%a4%eb%8a%94-%ec%9d%b4-%ea%b3%84%ec%a0%88%ec%97%90%ec%84%9c/</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
             <content:encoded><![CDATA[이태백]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%ED%83%9C%EB%B0%B1_%EC%9D%B4%ED%83%9C%EB%B0%B1%EB%A5%98-%EC%95%84%EC%9F%81%EC%82%B0%EC%A1%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 그만]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%9c-%ea%b7%b8%eb%a7%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%9c-%ea%b7%b8%eb%a7%8c/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[김지우]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%A7%80%EC%9A%B0_%EC%9D%B4%EC%A0%9C-%EA%B7%B8%EB%A7%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Full Time Workers]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/full-time-workers/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/full-time-workers/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[8호실 peridot]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_8%ED%98%B8%EC%8B%A4-peridot_Full-Time-Workers-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 시절 우리가 사랑했던 노래]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%8b%9c%ec%a0%88-%ec%9a%b0%eb%a6%ac%ea%b0%80-%ec%82%ac%eb%9e%91%ed%96%88%eb%8d%98-%eb%85%b8%eb%9e%98/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%8b%9c%ec%a0%88-%ec%9a%b0%eb%a6%ac%ea%b0%80-%ec%82%ac%eb%9e%91%ed%96%88%eb%8d%98-%eb%85%b8%eb%9e%98/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[twte.]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_twte._%EA%B7%B8-%EC%8B%9C%EC%A0%88-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%82%AC%EB%9E%91%ED%96%88%EB%8D%98-%EB%85%B8%EB%9E%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Overdrive]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/overdrive/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/overdrive/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[Fuzzy Pug (퍼지퍼그)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fuzzy-Pug-%ED%8D%BC%EC%A7%80%ED%8D%BC%EA%B7%B8_Overdrive-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
