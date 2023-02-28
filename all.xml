@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 08:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 09:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왜 또 설레 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%99%9c-%eb%98%90-%ec%84%a4%eb%a0%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%99%9c-%eb%98%90-%ec%84%a4%eb%a0%88/</guid>
+            <pubDate>Tue, 28 Feb 2023 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[리하 (LIHA)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A6%AC%ED%95%98-LIHA_%EC%99%9C-%EB%98%90-%EC%84%A4%EB%A0%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롤러코스터 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%a1%a4%eb%9f%ac%ec%bd%94%ec%8a%a4%ed%84%b0/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
             <content:encoded><![CDATA[재즈말 (JAZZMAL)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%AC%EC%A6%88%EB%A7%90-JAZZMAL_%EB%B0%80%EB%A6%B0-%EC%82%B0%EC%B1%85-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Proof (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/proof/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/proof/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[UO]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_UO_Proof-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.239 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
