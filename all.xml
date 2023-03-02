@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 08:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 09:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 02 Mar 2023 03:25:08 GMT</pubDate>
             <content:encoded><![CDATA[문웅주]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AC%B8%EC%9B%85%EC%A3%BC_CTC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이지영 가야금 진도씻김굿 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a7%80%ec%98%81-%ea%b0%80%ec%95%bc%ea%b8%88-%ec%a7%84%eb%8f%84%ec%94%bb%ea%b9%80%ea%b5%bf/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a7%80%ec%98%81-%ea%b0%80%ec%95%bc%ea%b8%88-%ec%a7%84%eb%8f%84%ec%94%bb%ea%b9%80%ea%b5%bf/</guid>
+            <pubDate>Thu, 02 Mar 2023 09:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[이지영]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A7%80%EC%98%81_%EC%9D%B4%EC%A7%80%EC%98%81-%EA%B0%80%EC%95%BC%EA%B8%88-%EC%A7%84%EB%8F%84%EC%94%BB%EA%B9%80%EA%B5%BF-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보이진 않아도 어딘가 (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
             <content:encoded><![CDATA[Asian Boys, Crying 아시안 보이즈 크라잉]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Asian-Boys-Crying-%EC%95%84%EC%8B%9C%EC%95%88-%EB%B3%B4%EC%9D%B4%EC%A6%88-%ED%81%AC%EB%9D%BC%EC%9E%89_I%E2%80%99m-a-kid-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[별 볼일 없는 사람 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b3%84-%eb%b3%bc%ec%9d%bc-%ec%97%86%eb%8a%94-%ec%82%ac%eb%9e%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b3%84-%eb%b3%bc%ec%9d%bc-%ec%97%86%eb%8a%94-%ec%82%ac%eb%9e%8c/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[홈메이드레코딩]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%88%EB%A9%94%EC%9D%B4%EB%93%9C%EB%A0%88%EC%BD%94%EB%94%A9_%EB%B3%84-%EB%B3%BC%EC%9D%BC-%EC%97%86%EB%8A%94-%EC%82%AC%EB%9E%8C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.239 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
