@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 02:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 03:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CTC]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/ctc/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/ctc/</guid>
+            <pubDate>Thu, 02 Mar 2023 03:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[문웅주]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AC%B8%EC%9B%85%EC%A3%BC_CTC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이진 않아도 어딘가]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b3%b4%ec%9d%b4%ec%a7%84-%ec%95%8a%ec%95%84%eb%8f%84-%ec%96%b4%eb%94%98%ea%b0%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b3%b4%ec%9d%b4%ec%a7%84-%ec%95%8a%ec%95%84%eb%8f%84-%ec%96%b4%eb%94%98%ea%b0%80/</guid>
+            <pubDate>Thu, 02 Mar 2023 03:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[뭉]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AD%89_%EB%B3%B4%EC%9D%B4%EC%A7%84-%EC%95%8A%EC%95%84%EB%8F%84-%EC%96%B4%EB%94%98%EA%B0%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[덫]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8d%ab/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8d%ab/</guid>
+            <pubDate>Thu, 02 Mar 2023 03:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[강표]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%ED%91%9C_%EB%8D%AB-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정직한 후보 2 OST]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%a0%95%ec%a7%81%ed%95%9c-%ed%9b%84%eb%b3%b4-2-ost/</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
             <content:encoded><![CDATA[홈메이드레코딩]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%88%EB%A9%94%EC%9D%B4%EB%93%9C%EB%A0%88%EC%BD%94%EB%94%A9_%EB%B3%84-%EB%B3%BC%EC%9D%BC-%EC%97%86%EB%8A%94-%EC%82%AC%EB%9E%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AnnE]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/anne/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/anne/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[서진주]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%A7%84%EC%A3%BC_AnnE-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reverse]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/reverse/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/reverse/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[김승범]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%8A%B9%EB%B2%94_Reverse-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STORY#24]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/story24/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/story24/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[Collective Arts (콜렉티브아츠), 길선민]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Collective-Arts-%EC%BD%9C%EB%A0%89%ED%8B%B0%EB%B8%8C%EC%95%84%EC%B8%A0-%EA%B8%B8%EC%84%A0%EB%AF%BC_STORY24-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
