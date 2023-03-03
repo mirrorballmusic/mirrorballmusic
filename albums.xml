@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 23:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 03:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[REFRESH]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/refresh/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/refresh/</guid>
+            <pubDate>Fri, 03 Mar 2023 03:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[DREAMMY]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_DREAMMY_REFRESH-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아홉시의 노래]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ed%99%89%ec%8b%9c%ec%9d%98-%eb%85%b8%eb%9e%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ed%99%89%ec%8b%9c%ec%9d%98-%eb%85%b8%eb%9e%98/</guid>
+            <pubDate>Fri, 03 Mar 2023 03:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[장이재]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%A5%EC%9D%B4%EC%9E%AC_%EC%95%84%ED%99%89%EC%8B%9C%EC%9D%98-%EB%85%B8%EB%9E%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화가 나 있어]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%99%94%ea%b0%80-%eb%82%98-%ec%9e%88%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%99%94%ea%b0%80-%eb%82%98-%ec%9e%88%ec%96%b4/</guid>
+            <pubDate>Fri, 03 Mar 2023 03:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[요정]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%ED%99%94%EA%B0%80-%EB%82%98-%EC%9E%88%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CTC]]></title>
             <link>http://mirrorballmusic.co.kr/albums/ctc/</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
             <content:encoded><![CDATA[솔플라워 (Sol' Flower)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%94%ED%94%8C%EB%9D%BC%EC%9B%8C-Sol-Flower_%EC%8B%9C%EA%B0%84%EC%9D%80-%EB%A7%90%EC%9D%84-%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Typing]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/typing/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/typing/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[moonflower]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_moonflower_Typing-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 더 사랑해서]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80-%eb%8d%94-%ec%82%ac%eb%9e%91%ed%95%b4%ec%84%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80-%eb%8d%94-%ec%82%ac%eb%9e%91%ed%95%b4%ec%84%9c/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[태석 (TAESEOK)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%9C%EC%84%9D-TAESEOK_%EB%82%B4%EA%B0%80-%EB%8D%94-%EC%82%AC%EB%9E%91%ED%95%B4%EC%84%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I’m a kid]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/im-a-kid/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/im-a-kid/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[Asian Boys, Crying 아시안 보이즈 크라잉]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Asian-Boys-Crying-%EC%95%84%EC%8B%9C%EC%95%88-%EB%B3%B4%EC%9D%B4%EC%A6%88-%ED%81%AC%EB%9D%BC%EC%9E%89_I%E2%80%99m-a-kid-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
