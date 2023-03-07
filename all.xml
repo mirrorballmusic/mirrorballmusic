@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 02:59:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 03:32:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펭귄 하이웨이 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%8e%ad%ea%b7%84-%ed%95%98%ec%9d%b4%ec%9b%a8%ec%9d%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%8e%ad%ea%b7%84-%ed%95%98%ec%9d%b4%ec%9b%a8%ec%9d%b4/</guid>
+            <pubDate>Tue, 07 Mar 2023 03:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[어바웃어보이]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%B4%EB%B0%94%EC%9B%83%EC%96%B4%EB%B3%B4%EC%9D%B4_%ED%8E%AD%EA%B7%84-%ED%95%98%EC%9D%B4%EC%9B%A8%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Purple (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/purple-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/purple-3/</guid>
+            <pubDate>Tue, 07 Mar 2023 03:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[블루 코크와인]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B8%94%EB%A3%A8-%EC%BD%94%ED%81%AC%EC%99%80%EC%9D%B8_Purple-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Open your eyes (張開眼發現) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/open-your-eyes-%e5%bc%b5%e9%96%8b%e7%9c%bc%e7%99%bc%e7%8f%be/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/open-your-eyes-%e5%bc%b5%e9%96%8b%e7%9c%bc%e7%99%bc%e7%8f%be/</guid>
+            <pubDate>Tue, 07 Mar 2023 03:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[WonderGarl (神奇膠)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WonderGarl-%E7%A5%9E%E5%A5%87%E8%86%A0_Open-your-eyes-%E5%BC%B5%E9%96%8B%E7%9C%BC%E7%99%BC%E7%8F%BE-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어른아이 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%96%b4%eb%a5%b8%ec%95%84%ec%9d%b4/</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 23 Feb 2023 04:20:55 GMT</pubDate>
             <content:encoded><![CDATA[sodi (신지혜)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_sodi-%EC%8B%A0%EC%A7%80%ED%98%9C_HIKI-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웅크린 마음 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9b%85%ed%81%ac%eb%a6%b0-%eb%a7%88%ec%9d%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9b%85%ed%81%ac%eb%a6%b0-%eb%a7%88%ec%9d%8c/</guid>
-            <pubDate>Thu, 23 Feb 2023 04:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[임혜원]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%84%ED%98%9C%EC%9B%90_%EC%9B%85%ED%81%AC%EB%A6%B0-%EB%A7%88%EC%9D%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CONFEXXION (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/confexxion/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/confexxion/</guid>
-            <pubDate>Wed, 22 Feb 2023 03:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[유신]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%EC%8B%A0_CONFEXXION-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[착한아이 (Marionette) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b0%a9%ed%95%9c%ec%95%84%ec%9d%b4-marionette/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b0%a9%ed%95%9c%ec%95%84%ec%9d%b4-marionette/</guid>
-            <pubDate>Wed, 22 Feb 2023 03:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[보비 (BOBI)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B3%B4%EB%B9%84-BOBI_%EC%B0%A9%ED%95%9C%EC%95%84%EC%9D%B4-Marionette-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.239 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
