@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 02:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 03:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소현의 계절 : 봄]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%86%8c%ed%98%84%ec%9d%98-%ea%b3%84%ec%a0%88-%eb%b4%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%86%8c%ed%98%84%ec%9d%98-%ea%b3%84%ec%a0%88-%eb%b4%84/</guid>
+            <pubDate>Fri, 10 Mar 2023 03:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[조소현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%86%8C%ED%98%84_%EC%86%8C%ED%98%84%EC%9D%98-%EA%B3%84%EC%A0%88-%EB%B4%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hydrangea]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/hydrangea/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/hydrangea/</guid>
+            <pubDate>Fri, 10 Mar 2023 03:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[Rsh]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Rsh_Hydrangea-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바다]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4-4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4-4/</guid>
+            <pubDate>Fri, 10 Mar 2023 03:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[REST]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_REST_%EB%B0%94%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아직]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%a7%81/</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 27 Feb 2023 03:22:05 GMT</pubDate>
             <content:encoded><![CDATA[De'beus (디비어스)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Debeus-%EB%94%94%EB%B9%84%EC%96%B4%EC%8A%A4_Mist-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심연]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%8b%ac%ec%97%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%8b%ac%ec%97%b0/</guid>
-            <pubDate>Mon, 27 Feb 2023 03:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[랑잇 (Langit)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9E%91%EC%9E%87-Langit_%EC%8B%AC%EC%97%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섬 아리랑_일곱번째 (대기점도, 소기점도, 소악도)편]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%84%ac%ec%95%84%eb%a6%ac%eb%9e%91/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%ac%ec%95%84%eb%a6%ac%eb%9e%91/</guid>
-            <pubDate>Mon, 27 Feb 2023 03:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[노올량]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%98%AC%EB%9F%89_%EC%84%AC%EC%95%84%EB%A6%AC%EB%9E%91-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄이 오는 이 계절에서]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%b4-%ec%98%a4%eb%8a%94-%ec%9d%b4-%ea%b3%84%ec%a0%88%ec%97%90%ec%84%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%b4-%ec%98%a4%eb%8a%94-%ec%9d%b4-%ea%b3%84%ec%a0%88%ec%97%90%ec%84%9c/</guid>
-            <pubDate>Sun, 26 Feb 2023 03:28:45 GMT</pubDate>
-            <content:encoded><![CDATA[서교동의 밤]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EA%B5%90%EB%8F%99%EC%9D%98-%EB%B0%A4_%EB%B4%84%EC%9D%B4-%EC%98%A4%EB%8A%94-%EC%9D%B4-%EA%B3%84%EC%A0%88%EC%97%90%EC%84%9C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
