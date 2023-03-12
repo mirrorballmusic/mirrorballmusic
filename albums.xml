@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 02:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 03:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄은 그대를 잊은 적 없다]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%80-%ea%b7%b8%eb%8c%80%eb%a5%bc-%ec%9e%8a%ec%9d%80-%ec%a0%81-%ec%97%86%eb%8b%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%80-%ea%b7%b8%eb%8c%80%eb%a5%bc-%ec%9e%8a%ec%9d%80-%ec%a0%81-%ec%97%86%eb%8b%a4/</guid>
+            <pubDate>Sun, 12 Mar 2023 03:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[홈메이드레코딩]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%88%EB%A9%94%EC%9D%B4%EB%93%9C%EB%A0%88%EC%BD%94%EB%94%A9_%EB%B4%84%EC%9D%80-%EA%B7%B8%EB%8C%80%EB%A5%BC-%EC%9E%8A%EC%9D%80-%EC%A0%81-%EC%97%86%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휴지통]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%9c%b4%ec%a7%80%ed%86%b5/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 03:21:11 GMT</pubDate>
             <content:encoded><![CDATA[유승균]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%EC%8A%B9%EA%B7%A0_%EB%88%88-%EA%B0%90%EC%9D%80-%EB%A7%88%EC%9D%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음의 고향]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%9d%8c%ec%9d%98-%ea%b3%a0%ed%96%a5/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%9d%8c%ec%9d%98-%ea%b3%a0%ed%96%a5/</guid>
-            <pubDate>Mon, 27 Feb 2023 03:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[문없는집]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AC%B8%EC%97%86%EB%8A%94%EC%A7%91_%EB%A7%88%EC%9D%8C%EC%9D%98-%EA%B3%A0%ED%96%A5-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
