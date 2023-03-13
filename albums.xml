@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 02:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 03:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낙타]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%99%ed%83%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%99%ed%83%80/</guid>
+            <pubDate>Mon, 13 Mar 2023 03:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[포유류 (PO.U.RYU)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8F%AC%EC%9C%A0%EB%A5%98-PO.U.RYU_%EB%82%99%ED%83%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 느끼곤 해]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%84-%eb%8a%90%eb%81%bc%ea%b3%a4-%ed%95%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%84-%eb%8a%90%eb%81%bc%ea%b3%a4-%ed%95%b4/</guid>
+            <pubDate>Mon, 13 Mar 2023 03:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[연관형]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%97%B0%EA%B4%80%ED%98%95_%EC%9E%90%EC%BC%93-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wave]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/wave-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/wave-2/</guid>
+            <pubDate>Mon, 13 Mar 2023 03:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[성지광]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%B1%EC%A7%80%EA%B4%91_Wave-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tell a Vision]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/tell-a-vision/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/tell-a-vision/</guid>
+            <pubDate>Mon, 13 Mar 2023 03:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[Jngkn]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jngkn_Tell-a-Vision-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄은 그대를 잊은 적 없다]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%80-%ea%b7%b8%eb%8c%80%eb%a5%bc-%ec%9e%8a%ec%9d%80-%ec%a0%81-%ec%97%86%eb%8b%a4/</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 02 Mar 2023 03:25:08 GMT</pubDate>
             <content:encoded><![CDATA[강표]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%ED%91%9C_%EB%8D%AB-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정직한 후보 2 OST]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%95%ec%a7%81%ed%95%9c-%ed%9b%84%eb%b3%b4-2-ost/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%95%ec%a7%81%ed%95%9c-%ed%9b%84%eb%b3%b4-2-ost/</guid>
-            <pubDate>Wed, 01 Mar 2023 03:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%9E%AC%EC%A7%84_%EC%A0%95%EC%A7%81%ED%95%9C-%ED%9B%84%EB%B3%B4-2-OST-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 또 설레]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%99%9c-%eb%98%90-%ec%84%a4%eb%a0%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%99%9c-%eb%98%90-%ec%84%a4%eb%a0%88/</guid>
-            <pubDate>Tue, 28 Feb 2023 09:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[리하 (LIHA)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A6%AC%ED%95%98-LIHA_%EC%99%9C-%EB%98%90-%EC%84%A4%EB%A0%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롤러코스터]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%a1%a4%eb%9f%ac%ec%bd%94%ec%8a%a4%ed%84%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%a1%a4%eb%9f%ac%ec%bd%94%ec%8a%a4%ed%84%b0/</guid>
-            <pubDate>Tue, 28 Feb 2023 03:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[니하]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%88%ED%95%98_%EB%A1%A4%EB%9F%AC%EC%BD%94%EC%8A%A4%ED%84%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈 감은 마음]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%88%88-%ea%b0%90%ec%9d%80-%eb%a7%88%ec%9d%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%88%88-%ea%b0%90%ec%9d%80-%eb%a7%88%ec%9d%8c/</guid>
-            <pubDate>Tue, 28 Feb 2023 03:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[유승균]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%EC%8A%B9%EA%B7%A0_%EB%88%88-%EA%B0%90%EC%9D%80-%EB%A7%88%EC%9D%8C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
