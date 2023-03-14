@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 02:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 03:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Goodbye My Love]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/goodbye-my-love/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/goodbye-my-love/</guid>
+            <pubDate>Tue, 14 Mar 2023 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[크랙샷 (Crackshot)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%81%AC%EB%9E%99%EC%83%B7-Crackshot_Goodbye-My-Love-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1985]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/1985/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/1985/</guid>
+            <pubDate>Tue, 14 Mar 2023 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[모험]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AA%A8%ED%97%98_1985-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ten Directions (十方)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/ten-directions-%e5%8d%81%e6%96%b9/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/ten-directions-%e5%8d%81%e6%96%b9/</guid>
+            <pubDate>Tue, 14 Mar 2023 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[Andy Schaub (安哲逸)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Andy-Schaub-%E5%AE%89%E5%93%B2%E9%80%B8_Ten-Directions-%E5%8D%81%E6%96%B9-2-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑의 쿵쿵따]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%98-%ec%bf%b5%ec%bf%b5%eb%94%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%98-%ec%bf%b5%ec%bf%b5%eb%94%b0/</guid>
+            <pubDate>Tue, 14 Mar 2023 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[박지지]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%A7%80%EC%A7%80_%EC%82%AC%EB%9E%91%EC%9D%98-%EC%BF%B5%EC%BF%B5%EB%94%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낙타]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%82%99%ed%83%80/</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 03 Mar 2023 03:17:54 GMT</pubDate>
             <content:encoded><![CDATA[요정]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%ED%99%94%EA%B0%80-%EB%82%98-%EC%9E%88%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CTC]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/ctc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/ctc/</guid>
-            <pubDate>Thu, 02 Mar 2023 03:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[문웅주]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AC%B8%EC%9B%85%EC%A3%BC_CTC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지영 가야금 진도씻김굿]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a7%80%ec%98%81-%ea%b0%80%ec%95%bc%ea%b8%88-%ec%a7%84%eb%8f%84%ec%94%bb%ea%b9%80%ea%b5%bf/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a7%80%ec%98%81-%ea%b0%80%ec%95%bc%ea%b8%88-%ec%a7%84%eb%8f%84%ec%94%bb%ea%b9%80%ea%b5%bf/</guid>
-            <pubDate>Thu, 02 Mar 2023 09:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[이지영]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A7%80%EC%98%81_%EC%9D%B4%EC%A7%80%EC%98%81-%EA%B0%80%EC%95%BC%EA%B8%88-%EC%A7%84%EB%8F%84%EC%94%BB%EA%B9%80%EA%B5%BF-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이진 않아도 어딘가]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b3%b4%ec%9d%b4%ec%a7%84-%ec%95%8a%ec%95%84%eb%8f%84-%ec%96%b4%eb%94%98%ea%b0%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b3%b4%ec%9d%b4%ec%a7%84-%ec%95%8a%ec%95%84%eb%8f%84-%ec%96%b4%eb%94%98%ea%b0%80/</guid>
-            <pubDate>Thu, 02 Mar 2023 03:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[뭉]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AD%89_%EB%B3%B4%EC%9D%B4%EC%A7%84-%EC%95%8A%EC%95%84%EB%8F%84-%EC%96%B4%EB%94%98%EA%B0%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덫]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8d%ab/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8d%ab/</guid>
-            <pubDate>Thu, 02 Mar 2023 03:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[강표]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%ED%91%9C_%EB%8D%AB-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
