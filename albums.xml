@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 02:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 03:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 페이지]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ed%8e%98%ec%9d%b4%ec%a7%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ed%8e%98%ec%9d%b4%ec%a7%80/</guid>
+            <pubDate>Thu, 16 Mar 2023 03:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[홍예진]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%8E%98%EC%9D%B4%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[난 바다에 빠진 사람 넌 날 구하러 온 바람]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%9c-%eb%b0%94%eb%8b%a4%ec%97%90-%eb%b9%a0%ec%a7%84-%ec%82%ac%eb%9e%8c-%eb%84%8c-%eb%82%a0-%ea%b5%ac%ed%95%98%eb%9f%ac-%ec%98%a8-%eb%b0%94%eb%9e%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%9c-%eb%b0%94%eb%8b%a4%ec%97%90-%eb%b9%a0%ec%a7%84-%ec%82%ac%eb%9e%8c-%eb%84%8c-%eb%82%a0-%ea%b5%ac%ed%95%98%eb%9f%ac-%ec%98%a8-%eb%b0%94%eb%9e%8c/</guid>
+            <pubDate>Thu, 16 Mar 2023 03:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[레인인더캠프 (Rain In The Camp)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A0%88%EC%9D%B8%EC%9D%B8%EB%8D%94%EC%BA%A0%ED%94%84-Rain-In-The-Camp_%EB%82%9C-%EB%B0%94%EB%8B%A4%EC%97%90-%EB%B9%A0%EC%A7%84-%EC%82%AC%EB%9E%8C-%EB%84%8C-%EB%82%A0-%EA%B5%AC%ED%95%98%EB%9F%AC-%EC%98%A8-%EB%B0%94%EB%9E%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[톡, Talk]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%86%a1-talk/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%86%a1-talk/</guid>
+            <pubDate>Thu, 16 Mar 2023 03:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[구슬이 (Gu seul i)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B5%AC%EC%8A%AC%EC%9D%B4-Gu-seul-i_%ED%86%A1-Talk-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84/</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 05 Mar 2023 03:31:57 GMT</pubDate>
             <content:encoded><![CDATA[하승진]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%98%EC%8A%B9%EC%A7%84_%EC%9D%B4%EA%B1%B8-%ED%95%B4-%EB%A7%90%EC%95%84-%EB%B6%80%EC%A0%9C-I-wanna-tell-you-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tell Me]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/tell-me/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/tell-me/</guid>
-            <pubDate>Sat, 04 Mar 2023 03:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[두솜 (dusom)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%91%90%EC%86%9Cdusom_Tell-Me-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬스터 오디세이 (Monster Odyssey)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%aa%ac%ec%8a%a4%ed%84%b0-%ec%98%a4%eb%94%94%ec%84%b8%ec%9d%b4-monster-odyssey/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%aa%ac%ec%8a%a4%ed%84%b0-%ec%98%a4%eb%94%94%ec%84%b8%ec%9d%b4-monster-odyssey/</guid>
-            <pubDate>Fri, 03 Mar 2023 09:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[배인혁]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B0%EC%9D%B8%ED%98%81_%EB%AA%AC%EC%8A%A4%ED%84%B0-%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4-Monster-Odyssey-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[REFRESH]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/refresh/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/refresh/</guid>
-            <pubDate>Fri, 03 Mar 2023 03:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[DREAMMY]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_DREAMMY_REFRESH-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
