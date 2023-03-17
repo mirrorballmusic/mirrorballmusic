@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 02:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 03:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동정에 대하여 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%99%ec%a0%95%ec%97%90-%eb%8c%80%ed%95%98%ec%97%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%99%ec%a0%95%ec%97%90-%eb%8c%80%ed%95%98%ec%97%ac/</guid>
+            <pubDate>Fri, 17 Mar 2023 03:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[피에타 (PIETA)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%BC%EC%97%90%ED%83%80-PIETA_%EB%8F%99%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽃다워 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%bd%83%eb%8b%a4%ec%9b%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%bd%83%eb%8b%a4%ec%9b%8c/</guid>
+            <pubDate>Fri, 17 Mar 2023 03:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[강소리]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EA%BD%83%EB%8B%A4%EC%9B%8C-%EC%9E%90%EC%BC%93-JPG-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘의 페이지 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ed%8e%98%ec%9d%b4%ec%a7%80/</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 06 Mar 2023 03:22:59 GMT</pubDate>
             <content:encoded><![CDATA[강허달림]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%ED%97%88%EB%8B%AC%EB%A6%BC_%EC%96%B4%EB%A5%B8%EC%95%84%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고개 숙인 모두의 밤은 아름다워야 해 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%ea%b0%9c-%ec%88%99%ec%9d%b8-%eb%aa%a8%eb%91%90%ec%9d%98-%eb%b0%a4%ec%9d%80-%ec%95%84%eb%a6%84%eb%8b%a4%ec%9b%8c%ec%95%bc-%ed%95%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%ea%b0%9c-%ec%88%99%ec%9d%b8-%eb%aa%a8%eb%91%90%ec%9d%98-%eb%b0%a4%ec%9d%80-%ec%95%84%eb%a6%84%eb%8b%a4%ec%9b%8c%ec%95%bc-%ed%95%b4/</guid>
-            <pubDate>Mon, 06 Mar 2023 03:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[밤마루]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%A4%EB%A7%88%EB%A3%A8_%EA%B3%A0%EA%B0%9C-%EC%88%99%EC%9D%B8-%EB%AA%A8%EB%91%90%EC%9D%98-%EB%B0%A4%EC%9D%80-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C%EC%95%BC-%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이걸 해 말아 (부제: I wanna tell you) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ea%b1%b8-%ed%95%b4-%eb%a7%90%ec%95%84-%eb%b6%80%ec%a0%9c-i-wanna-tell-you/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ea%b1%b8-%ed%95%b4-%eb%a7%90%ec%95%84-%eb%b6%80%ec%a0%9c-i-wanna-tell-you/</guid>
-            <pubDate>Sun, 05 Mar 2023 03:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[하승진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%98%EC%8A%B9%EC%A7%84_%EC%9D%B4%EA%B1%B8-%ED%95%B4-%EB%A7%90%EC%95%84-%EB%B6%80%EC%A0%9C-I-wanna-tell-you-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.240 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
