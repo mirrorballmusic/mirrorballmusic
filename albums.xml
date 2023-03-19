@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 08:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 09:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흐드러지게]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%9d%90%eb%93%9c%eb%9f%ac%ec%a7%80%ea%b2%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%9d%90%eb%93%9c%eb%9f%ac%ec%a7%80%ea%b2%8c/</guid>
+            <pubDate>Sun, 19 Mar 2023 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_%ED%9D%90%EB%93%9C%EB%9F%AC%EC%A7%80%EA%B2%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[종이학]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%a2%85%ec%9d%b4%ed%95%99/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Mar 2023 03:32:29 GMT</pubDate>
             <content:encoded><![CDATA[블루 코크와인]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B8%94%EB%A3%A8-%EC%BD%94%ED%81%AC%EC%99%80%EC%9D%B8_Purple-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Open your eyes (張開眼發現)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/open-your-eyes-%e5%bc%b5%e9%96%8b%e7%9c%bc%e7%99%bc%e7%8f%be/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/open-your-eyes-%e5%bc%b5%e9%96%8b%e7%9c%bc%e7%99%bc%e7%8f%be/</guid>
-            <pubDate>Tue, 07 Mar 2023 03:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[WonderGarl (神奇膠)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WonderGarl-%E7%A5%9E%E5%A5%87%E8%86%A0_Open-your-eyes-%E5%BC%B5%E9%96%8B%E7%9C%BC%E7%99%BC%E7%8F%BE-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
