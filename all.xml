@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 02:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 03:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LOVE (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/love-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/love-3/</guid>
+            <pubDate>Tue, 21 Mar 2023 03:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[강허달림]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%ED%97%88%EB%8B%AC%EB%A6%BC_LOVE-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라떼에게 아아가 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%9d%bc%eb%96%bc%ec%97%90%ea%b2%8c-%ec%95%84%ec%95%84%ea%b0%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%9d%bc%eb%96%bc%ec%97%90%ea%b2%8c-%ec%95%84%ec%95%84%ea%b0%80/</guid>
+            <pubDate>Tue, 21 Mar 2023 03:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[한이]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EC%9D%B4_%EB%9D%BC%EB%96%BC%EC%97%90%EA%B2%8C-%EC%95%84%EC%95%84%EA%B0%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stubborn (feat. 82K) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/stubborn-feat-82k/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/stubborn-feat-82k/</guid>
+            <pubDate>Tue, 21 Mar 2023 03:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[JUNGL$ (정글스)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_JUNGL-%EC%A0%95%EA%B8%80%EC%8A%A4_Stubborn-feat.-82K-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do What Feels Right (無重狀態) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/do-what-feels-right-%e7%84%a1%e9%87%8d%e7%8b%80%e6%85%8b/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/do-what-feels-right-%e7%84%a1%e9%87%8d%e7%8b%80%e6%85%8b/</guid>
+            <pubDate>Tue, 21 Mar 2023 03:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[Andy Schaub (安哲逸)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Andy-Schaub-%E5%AE%89%E5%93%B2%E9%80%B8_Do-What-Feels-Right-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어떤 하루 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%96%b4%eb%96%a4-%ed%95%98%eb%a3%a8/</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 09 Mar 2023 03:24:29 GMT</pubDate>
             <content:encoded><![CDATA[어바웃어스]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8_%EC%95%84%EC%A7%81-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미움다툼시기질투버리고 I (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%9b%80%eb%8b%a4%ed%88%bc%ec%8b%9c%ea%b8%b0%ec%a7%88%ed%88%ac%eb%b2%84%eb%a6%ac%ea%b3%a0-i/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%9b%80%eb%8b%a4%ed%88%bc%ec%8b%9c%ea%b8%b0%ec%a7%88%ed%88%ac%eb%b2%84%eb%a6%ac%ea%b3%a0-i/</guid>
-            <pubDate>Thu, 09 Mar 2023 03:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[온시 (on_poem)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A8%EC%8B%9C-on_poem_%EB%AF%B8%EC%9B%80%EB%8B%A4%ED%88%BC%EC%8B%9C%EA%B8%B0%EC%A7%88%ED%88%AC%EB%B2%84%EB%A6%AC%EA%B3%A0-I-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜곡된 시선 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%99%9c%ea%b3%a1%eb%90%9c-%ec%8b%9c%ec%84%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%99%9c%ea%b3%a1%eb%90%9c-%ec%8b%9c%ec%84%a0/</guid>
-            <pubDate>Thu, 09 Mar 2023 03:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[시올]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%9C%EC%98%AC_%EC%99%9C%EA%B3%A1%EB%90%9C-%EC%8B%9C%EC%84%A0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기 있을게요 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%97%ac%ea%b8%b0-%ec%9e%88%ec%9d%84%ea%b2%8c%ec%9a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%ac%ea%b8%b0-%ec%9e%88%ec%9d%84%ea%b2%8c%ec%9a%94/</guid>
-            <pubDate>Wed, 08 Mar 2023 03:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[뷰티핸섬]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B7%B0%ED%8B%B0%ED%95%B8%EC%84%AC_%EC%97%AC%EA%B8%B0-%EC%9E%88%EC%9D%84%EA%B2%8C%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy Song (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/happy-song/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/happy-song/</guid>
-            <pubDate>Wed, 08 Mar 2023 04:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[Griffy]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/Griffy-Happy-Song-Album-Cover-3000x3000-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.240 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
