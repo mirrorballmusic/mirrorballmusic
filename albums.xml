@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 02:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 03:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재즈동요이야기 ‘달조각’]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%ac%ec%a6%88%eb%8f%99%ec%9a%94%ec%9d%b4%ec%95%bc%ea%b8%b0-%eb%8b%ac%ec%a1%b0%ea%b0%81/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%ac%ec%a6%88%eb%8f%99%ec%9a%94%ec%9d%b4%ec%95%bc%ea%b8%b0-%eb%8b%ac%ec%a1%b0%ea%b0%81/</guid>
+            <pubDate>Sat, 25 Mar 2023 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[조정희 (Jung-hee Cho)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%A0%95%ED%9D%AC-Jung-hee-Cho_%EC%9E%AC%EC%A6%88%EB%8F%99%EC%9A%94%EC%9D%B4%EC%95%BC%EA%B8%B0-%EB%8B%AC%EC%A1%B0%EA%B0%81-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PING]]></title>
             <link>http://mirrorballmusic.co.kr/albums/ping/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Mar 2023 03:17:38 GMT</pubDate>
             <content:encoded><![CDATA[크랙샷 (Crackshot)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%81%AC%EB%9E%99%EC%83%B7-Crackshot_Goodbye-My-Love-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1985]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/1985/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/1985/</guid>
-            <pubDate>Tue, 14 Mar 2023 03:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[모험]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AA%A8%ED%97%98_1985-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
