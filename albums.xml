@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 02:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 03:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발걸음]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%9c%ea%b1%b8%ec%9d%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%9c%ea%b1%b8%ec%9d%8c/</guid>
+            <pubDate>Mon, 27 Mar 2023 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[조선블루스]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%84%A0%EB%B8%94%EB%A3%A8%EC%8A%A4_%EB%B0%9C%EA%B1%B8%EC%9D%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Faraway]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/faraway/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/faraway/</guid>
+            <pubDate>Mon, 27 Mar 2023 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[Jury]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jury_Faraway-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보고싶어요 목록]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b3%b4%ea%b3%a0%ec%8b%b6%ec%96%b4%ec%9a%94-%eb%aa%a9%eb%a1%9d/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b3%b4%ea%b3%a0%ec%8b%b6%ec%96%b4%ec%9a%94-%eb%aa%a9%eb%a1%9d/</guid>
+            <pubDate>Mon, 27 Mar 2023 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[tang.erine]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_tang.erine_%EB%B3%B4%EA%B3%A0%EC%8B%B6%EC%96%B4%EC%9A%94-%EB%AA%A9%EB%A1%9D-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I LIVE ALONE]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/i-live-alone/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/i-live-alone/</guid>
+            <pubDate>Mon, 27 Mar 2023 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[공베드 (0BED)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%B5%EB%B2%A0%EB%93%9C-0BED_I-LIVE-ALONE-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Neon]]></title>
             <link>http://mirrorballmusic.co.kr/albums/neon/</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 16 Mar 2023 03:17:04 GMT</pubDate>
             <content:encoded><![CDATA[홍예진]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%8E%98%EC%9D%B4%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난 바다에 빠진 사람 넌 날 구하러 온 바람]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%9c-%eb%b0%94%eb%8b%a4%ec%97%90-%eb%b9%a0%ec%a7%84-%ec%82%ac%eb%9e%8c-%eb%84%8c-%eb%82%a0-%ea%b5%ac%ed%95%98%eb%9f%ac-%ec%98%a8-%eb%b0%94%eb%9e%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%9c-%eb%b0%94%eb%8b%a4%ec%97%90-%eb%b9%a0%ec%a7%84-%ec%82%ac%eb%9e%8c-%eb%84%8c-%eb%82%a0-%ea%b5%ac%ed%95%98%eb%9f%ac-%ec%98%a8-%eb%b0%94%eb%9e%8c/</guid>
-            <pubDate>Thu, 16 Mar 2023 03:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[레인인더캠프 (Rain In The Camp)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A0%88%EC%9D%B8%EC%9D%B8%EB%8D%94%EC%BA%A0%ED%94%84-Rain-In-The-Camp_%EB%82%9C-%EB%B0%94%EB%8B%A4%EC%97%90-%EB%B9%A0%EC%A7%84-%EC%82%AC%EB%9E%8C-%EB%84%8C-%EB%82%A0-%EA%B5%AC%ED%95%98%EB%9F%AC-%EC%98%A8-%EB%B0%94%EB%9E%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톡, Talk]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%86%a1-talk/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%86%a1-talk/</guid>
-            <pubDate>Thu, 16 Mar 2023 03:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[구슬이 (Gu seul i)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B5%AC%EC%8A%AC%EC%9D%B4-Gu-seul-i_%ED%86%A1-Talk-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%84/</guid>
-            <pubDate>Wed, 15 Mar 2023 03:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[김형중]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%ED%98%95%EC%A4%91_%EB%B4%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지영 가야금 영산회상 도드리]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a7%80%ec%98%81-%ea%b0%80%ec%95%bc%ea%b8%88-%ec%98%81%ec%82%b0%ed%9a%8c%ec%83%81-%eb%8f%84%eb%93%9c%eb%a6%ac/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a7%80%ec%98%81-%ea%b0%80%ec%95%bc%ea%b8%88-%ec%98%81%ec%82%b0%ed%9a%8c%ec%83%81-%eb%8f%84%eb%93%9c%eb%a6%ac/</guid>
-            <pubDate>Wed, 15 Mar 2023 03:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[이지영]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A7%80%EC%98%81_%EC%9D%B4%EC%A7%80%EC%98%81-%EA%B0%80%EC%95%BC%EA%B8%88-%EC%98%81%EC%82%B0%ED%9A%8C%EC%83%81-%EB%8F%84%EB%93%9C%EB%A6%AC-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
