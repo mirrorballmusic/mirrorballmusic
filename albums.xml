@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 02:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 03:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃바람]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%bd%83%eb%b0%94%eb%9e%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%bd%83%eb%b0%94%eb%9e%8c/</guid>
+            <pubDate>Tue, 28 Mar 2023 03:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[moc]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EA%BD%83%EB%B0%94%EB%9E%8C-artwork-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[좋은 날]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%9d%80-%eb%82%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%9d%80-%eb%82%a0/</guid>
+            <pubDate>Tue, 28 Mar 2023 03:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[피아노 제제]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%BC%EC%95%84%EB%85%B8-%EC%A0%9C%EC%A0%9C_%EC%A2%8B%EC%9D%80-%EB%82%A0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삶과 죽음 (윤동주 시)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%b6%ea%b3%bc-%ec%a3%bd%ec%9d%8c-%ec%9c%a4%eb%8f%99%ec%a3%bc-%ec%8b%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%b6%ea%b3%bc-%ec%a3%bd%ec%9d%8c-%ec%9c%a4%eb%8f%99%ec%a3%bc-%ec%8b%9c/</guid>
+            <pubDate>Tue, 28 Mar 2023 03:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[노올량]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%98%AC%EB%9F%89_%EC%82%B6%EA%B3%BC-%EC%A3%BD%EC%9D%8C-%EC%9C%A4%EB%8F%99%EC%A3%BC-%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그대로만 그때의 난]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8c%80%eb%a1%9c%eb%a7%8c-%ea%b7%b8%eb%95%8c%ec%9d%98-%eb%82%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8c%80%eb%a1%9c%eb%a7%8c-%ea%b7%b8%eb%95%8c%ec%9d%98-%eb%82%9c/</guid>
+            <pubDate>Tue, 28 Mar 2023 03:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[sucozy]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_sucozy_%EA%B7%B8%EB%8C%80%EB%A1%9C%EB%A7%8C-%EA%B7%B8%EB%95%8C%EC%9D%98-%EB%82%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발걸음]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b0%9c%ea%b1%b8%ec%9d%8c/</link>
@@ -214,38 +246,6 @@
             <pubDate>Sun, 19 Mar 2023 09:15:43 GMT</pubDate>
             <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_%ED%9D%90%EB%93%9C%EB%9F%AC%EC%A7%80%EA%B2%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종이학]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a2%85%ec%9d%b4%ed%95%99/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a2%85%ec%9d%b4%ed%95%99/</guid>
-            <pubDate>Sat, 18 Mar 2023 03:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[김결]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EA%B2%B0_%EC%A2%85%EC%9D%B4%ED%95%99-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동정에 대하여]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%99%ec%a0%95%ec%97%90-%eb%8c%80%ed%95%98%ec%97%ac/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%99%ec%a0%95%ec%97%90-%eb%8c%80%ed%95%98%ec%97%ac/</guid>
-            <pubDate>Fri, 17 Mar 2023 03:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[피에타 (PIETA)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%BC%EC%97%90%ED%83%80-PIETA_%EB%8F%99%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃다워]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%bd%83%eb%8b%a4%ec%9b%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%bd%83%eb%8b%a4%ec%9b%8c/</guid>
-            <pubDate>Fri, 17 Mar 2023 03:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[강소리]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EA%BD%83%EB%8B%A4%EC%9B%8C-%EC%9E%90%EC%BC%93-JPG-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 페이지]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ed%8e%98%ec%9d%b4%ec%a7%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ed%8e%98%ec%9d%b4%ec%a7%80/</guid>
-            <pubDate>Thu, 16 Mar 2023 03:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[홍예진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%8E%98%EC%9D%B4%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
