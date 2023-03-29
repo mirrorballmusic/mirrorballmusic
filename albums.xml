@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 02:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 03:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄의 낮과 밤]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%98-%eb%82%ae%ea%b3%bc-%eb%b0%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%98-%eb%82%ae%ea%b3%bc-%eb%b0%a4/</guid>
+            <pubDate>Wed, 29 Mar 2023 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[이정권]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방 (Room)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%a9-room/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%a9-room/</guid>
+            <pubDate>Wed, 29 Mar 2023 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[쟁반땅콩]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9F%81%EB%B0%98%EB%95%85%EC%BD%A9_%EB%B0%A9-Room-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dream Of Butterfly]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/dream-of-butterfly/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/dream-of-butterfly/</guid>
+            <pubDate>Wed, 29 Mar 2023 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[김동인 (Kim Dong In)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EB%8F%99%EC%9D%B8-Kim-Dong-In_Dream-Of-Butterfly-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[못난 자들의 무도회]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%aa%bb%eb%82%9c-%ec%9e%90%eb%93%a4%ec%9d%98-%eb%ac%b4%eb%8f%84%ed%9a%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%aa%bb%eb%82%9c-%ec%9e%90%eb%93%a4%ec%9d%98-%eb%ac%b4%eb%8f%84%ed%9a%8c/</guid>
+            <pubDate>Wed, 29 Mar 2023 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[등아]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%93%B1%EC%95%84_%EB%AA%BB%EB%82%9C-%EC%9E%90%EB%93%A4%EC%9D%98-%EB%AC%B4%EB%8F%84%ED%9A%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃바람]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%bd%83%eb%b0%94%eb%9e%8c/</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 21 Mar 2023 03:15:53 GMT</pubDate>
             <content:encoded><![CDATA[Andy Schaub (安哲逸)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Andy-Schaub-%E5%AE%89%E5%93%B2%E9%80%B8_Do-What-Feels-Right-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤 하루]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%96%b4%eb%96%a4-%ed%95%98%eb%a3%a8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%96%b4%eb%96%a4-%ed%95%98%eb%a3%a8/</guid>
-            <pubDate>Mon, 20 Mar 2023 03:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[곽동현 (KWAK DONG HYUN)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%BD%EB%8F%99%ED%98%84-KWAK-DONG-HYUN_%EC%96%B4%EB%96%A4-%ED%95%98%EB%A3%A8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[속마음 전시회]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%86%8d%eb%a7%88%ec%9d%8c-%ec%a0%84%ec%8b%9c%ed%9a%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%86%8d%eb%a7%88%ec%9d%8c-%ec%a0%84%ec%8b%9c%ed%9a%8c/</guid>
-            <pubDate>Mon, 20 Mar 2023 03:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[조이준]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%9D%B4%EC%A4%80_%EC%86%8D%EB%A7%88%EC%9D%8C-%EC%A0%84%EC%8B%9C%ED%9A%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소나기]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%86%8c%eb%82%98%ea%b8%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%86%8c%eb%82%98%ea%b8%b0/</guid>
-            <pubDate>Mon, 20 Mar 2023 03:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[신직선]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%86%8C%EA%B0%9C_%EC%8B%A0%EC%A7%81%EC%84%A0_%EC%86%8C%EB%82%98%EA%B8%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흐드러지게]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%9d%90%eb%93%9c%eb%9f%ac%ec%a7%80%ea%b2%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%9d%90%eb%93%9c%eb%9f%ac%ec%a7%80%ea%b2%8c/</guid>
-            <pubDate>Sun, 19 Mar 2023 09:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_%ED%9D%90%EB%93%9C%EB%9F%AC%EC%A7%80%EA%B2%8C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
