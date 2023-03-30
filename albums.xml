@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 02:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 03:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쪽빛물색]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%aa%bd%eb%b9%9b%eb%ac%bc%ec%83%89/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%aa%bd%eb%b9%9b%eb%ac%bc%ec%83%89/</guid>
+            <pubDate>Thu, 30 Mar 2023 03:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[코토바 (cotoba)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/cotoba-water-blue-indigo-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누아르 (Noir)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%88%84%ec%95%84%eb%a5%b4-noir/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%88%84%ec%95%84%eb%a5%b4-noir/</guid>
+            <pubDate>Thu, 30 Mar 2023 03:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[Analog Invasion X BAEK (아날로그 인베이전 X 백경호)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/Noir-cover-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 길]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b8%b8-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b8%b8-2/</guid>
+            <pubDate>Thu, 30 Mar 2023 03:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[허정혁]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%EC%A0%95%ED%98%81_%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B8-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아무렇지 않어]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%eb%ac%b4%eb%a0%87%ec%a7%80-%ec%95%8a%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%eb%ac%b4%eb%a0%87%ec%a7%80-%ec%95%8a%ec%96%b4/</guid>
+            <pubDate>Thu, 30 Mar 2023 03:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[오올블루]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%98%AC%EB%B8%94%EB%A3%A8_%EC%95%84%EB%AC%B4%EB%A0%87%EC%A7%80-%EC%95%8A%EC%96%B4-2-1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄의 낮과 밤]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%98-%eb%82%ae%ea%b3%bc-%eb%b0%a4/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 22 Mar 2023 03:16:04 GMT</pubDate>
             <content:encoded><![CDATA[청요일]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B2%AD%EC%9A%94%EC%9D%BC_%EB%B9%84%EC%95%A0%EC%8A%A4%ED%83%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/love-3/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/love-3/</guid>
-            <pubDate>Tue, 21 Mar 2023 03:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[강허달림]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%ED%97%88%EB%8B%AC%EB%A6%BC_LOVE-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라떼에게 아아가]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%9d%bc%eb%96%bc%ec%97%90%ea%b2%8c-%ec%95%84%ec%95%84%ea%b0%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%9d%bc%eb%96%bc%ec%97%90%ea%b2%8c-%ec%95%84%ec%95%84%ea%b0%80/</guid>
-            <pubDate>Tue, 21 Mar 2023 03:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[한이]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EC%9D%B4_%EB%9D%BC%EB%96%BC%EC%97%90%EA%B2%8C-%EC%95%84%EC%95%84%EA%B0%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stubborn (feat. 82K)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/stubborn-feat-82k/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/stubborn-feat-82k/</guid>
-            <pubDate>Tue, 21 Mar 2023 03:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[JUNGL$ (정글스)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_JUNGL-%EC%A0%95%EA%B8%80%EC%8A%A4_Stubborn-feat.-82K-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Do What Feels Right (無重狀態)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/do-what-feels-right-%e7%84%a1%e9%87%8d%e7%8b%80%e6%85%8b/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/do-what-feels-right-%e7%84%a1%e9%87%8d%e7%8b%80%e6%85%8b/</guid>
-            <pubDate>Tue, 21 Mar 2023 03:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[Andy Schaub (安哲逸)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Andy-Schaub-%E5%AE%89%E5%93%B2%E9%80%B8_Do-What-Feels-Right-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
