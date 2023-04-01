@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 02:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 03:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[everything is gonna be alright (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/everything-is-gonna-be-alright/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/everything-is-gonna-be-alright/</guid>
+            <pubDate>Sat, 01 Apr 2023 03:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[Asian Boys, Crying 아시안 보이즈 크라잉]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Asian-Boys-Crying-%EC%95%84%EC%8B%9C%EC%95%88-%EB%B3%B4%EC%9D%B4%EC%A6%88-%ED%81%AC%EB%9D%BC%EC%9E%89_everything-is-gonna-be-alright-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선선한 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%84%a0%ec%84%a0%ed%95%9c/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Mar 2023 03:15:42 GMT</pubDate>
             <content:encoded><![CDATA[최재흠]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%9E%AC%ED%9D%A0_%EC%A1%B0%EC%88%98%EA%B0%84%EB%A7%8C%EC%9D%98-%EC%B0%A8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Too Good To Be True (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/too-good-to-be-true/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/too-good-to-be-true/</guid>
-            <pubDate>Thu, 23 Mar 2023 03:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[가은희]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%80%EC%9D%80%ED%9D%AC_Too-Good-To-Be-True-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.241 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
