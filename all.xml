@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 02:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 03:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FOREVER (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/forever-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/forever-2/</guid>
+            <pubDate>Fri, 07 Apr 2023 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[오렌지인디고]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EB%A0%8C%EC%A7%80%EC%9D%B8%EB%94%94%EA%B3%A0_FOREVER-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Freedom Train (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/freedom-train/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/freedom-train/</guid>
+            <pubDate>Fri, 07 Apr 2023 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[Sunset On The Bridge]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Sunset-On-The-Bridge_Freedom-Train-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Place (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/the-place/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/the-place/</guid>
+            <pubDate>Fri, 07 Apr 2023 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[Red C]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Red-C_The-Place-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 섬 나의 바다 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%ec%9d%98-%ec%84%ac-%eb%82%98%ec%9d%98-%eb%b0%94%eb%8b%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%ec%9d%98-%ec%84%ac-%eb%82%98%ec%9d%98-%eb%b0%94%eb%8b%a4/</guid>
+            <pubDate>Fri, 07 Apr 2023 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[밤마루]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%A4%EB%A7%88%EB%A3%A8_%EB%82%98%EC%9D%98-%EC%84%AC-%EB%82%98%EC%9D%98-%EB%B0%94%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빨간소파 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b9%a8%ea%b0%84%ec%86%8c%ed%8c%8c/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 29 Mar 2023 03:16:29 GMT</pubDate>
             <content:encoded><![CDATA[쟁반땅콩]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9F%81%EB%B0%98%EB%95%85%EC%BD%A9_%EB%B0%A9-Room-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream Of Butterfly (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/dream-of-butterfly/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/dream-of-butterfly/</guid>
-            <pubDate>Wed, 29 Mar 2023 03:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[김동인 (Kim Dong In)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EB%8F%99%EC%9D%B8-Kim-Dong-In_Dream-Of-Butterfly-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[못난 자들의 무도회 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%aa%bb%eb%82%9c-%ec%9e%90%eb%93%a4%ec%9d%98-%eb%ac%b4%eb%8f%84%ed%9a%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%aa%bb%eb%82%9c-%ec%9e%90%eb%93%a4%ec%9d%98-%eb%ac%b4%eb%8f%84%ed%9a%8c/</guid>
-            <pubDate>Wed, 29 Mar 2023 03:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[등아]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%93%B1%EC%95%84_%EB%AA%BB%EB%82%9C-%EC%9E%90%EB%93%A4%EC%9D%98-%EB%AC%B4%EB%8F%84%ED%9A%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃바람 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%bd%83%eb%b0%94%eb%9e%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%bd%83%eb%b0%94%eb%9e%8c/</guid>
-            <pubDate>Tue, 28 Mar 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[moc]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EA%BD%83%EB%B0%94%EB%9E%8C-artwork-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좋은 날 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%9d%80-%eb%82%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%9d%80-%eb%82%a0/</guid>
-            <pubDate>Tue, 28 Mar 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[피아노 제제]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%BC%EC%95%84%EB%85%B8-%EC%A0%9C%EC%A0%9C_%EC%A2%8B%EC%9D%80-%EB%82%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.241 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
