@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 02:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 03:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Drawing]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/drawing/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/drawing/</guid>
+            <pubDate>Sat, 08 Apr 2023 03:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[안희수]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%ED%9D%AC%EC%88%98_Drawing%EB%B2%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FOREVER]]></title>
             <link>http://mirrorballmusic.co.kr/albums/forever-2/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Mar 2023 03:16:29 GMT</pubDate>
             <content:encoded><![CDATA[이정권]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방 (Room)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%a9-room/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%a9-room/</guid>
-            <pubDate>Wed, 29 Mar 2023 03:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[쟁반땅콩]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9F%81%EB%B0%98%EB%95%85%EC%BD%A9_%EB%B0%A9-Room-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
