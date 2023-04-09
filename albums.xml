@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 02:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 03:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무궁화 꽃이 피었습니다]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ea%b6%81%ed%99%94-%ea%bd%83%ec%9d%b4-%ed%94%bc%ec%97%88%ec%8a%b5%eb%8b%88%eb%8b%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ea%b6%81%ed%99%94-%ea%bd%83%ec%9d%b4-%ed%94%bc%ec%97%88%ec%8a%b5%eb%8b%88%eb%8b%a4/</guid>
+            <pubDate>Sun, 09 Apr 2023 03:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[두솜 (dusom)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%91%90%EC%86%9C-dusom_%EB%AC%B4%EA%B6%81%ED%99%94-%EA%BD%83%EC%9D%B4-%ED%94%BC%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Drawing]]></title>
             <link>http://mirrorballmusic.co.kr/albums/drawing/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 03:16:58 GMT</pubDate>
             <content:encoded><![CDATA[오올블루]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%98%AC%EB%B8%94%EB%A3%A8_%EC%95%84%EB%AC%B4%EB%A0%87%EC%A7%80-%EC%95%8A%EC%96%B4-2-1-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄의 낮과 밤]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%98-%eb%82%ae%ea%b3%bc-%eb%b0%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%98-%eb%82%ae%ea%b3%bc-%eb%b0%a4/</guid>
-            <pubDate>Wed, 29 Mar 2023 03:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[이정권]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
