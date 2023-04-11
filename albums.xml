@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 02:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 03:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정석 “신쾌동류 거문고산조”]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%95%ec%84%9d-%ec%8b%a0%ec%be%8c%eb%8f%99%eb%a5%98-%ea%b1%b0%eb%ac%b8%ea%b3%a0%ec%82%b0%ec%a1%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%95%ec%84%9d-%ec%8b%a0%ec%be%8c%eb%8f%99%eb%a5%98-%ea%b1%b0%eb%ac%b8%ea%b3%a0%ec%82%b0%ec%a1%b0/</guid>
+            <pubDate>Tue, 11 Apr 2023 03:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[이정석]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A0%95%EC%84%9D_%EC%9D%B4%EC%A0%95%EC%84%9D-%EC%8B%A0%EC%BE%8C%EB%8F%99%EB%A5%98-%EA%B1%B0%EB%AC%B8%EA%B3%A0%EC%82%B0%EC%A1%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑하고 싶지 않아요]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ed%95%98%ea%b3%a0-%ec%8b%b6%ec%a7%80-%ec%95%8a%ec%95%84%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ed%95%98%ea%b3%a0-%ec%8b%b6%ec%a7%80-%ec%95%8a%ec%95%84%ec%9a%94/</guid>
+            <pubDate>Tue, 11 Apr 2023 03:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[산월]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%B0%EC%9B%94_%EC%82%AC%EB%9E%91%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%A7%80-%EC%95%8A%EC%95%84%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽃 둘]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%bd%83-%eb%91%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%bd%83-%eb%91%98/</guid>
+            <pubDate>Tue, 11 Apr 2023 03:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[이유진]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%9C%A0%EC%A7%84_%EA%BD%83-%EB%91%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나는 무슨 마음으로]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8a%94-%eb%ac%b4%ec%8a%a8-%eb%a7%88%ec%9d%8c%ec%9c%bc%eb%a1%9c/</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 31 Mar 2023 03:16:23 GMT</pubDate>
             <content:encoded><![CDATA[연우 (Yeonwoo)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%B0%EC%9A%B0-Yeonwoo_%EC%84%A0%EC%84%A0%ED%95%9C-2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 달력을 샀다]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8a%94-%eb%8b%ac%eb%a0%a5%ec%9d%84-%ec%83%80%eb%8b%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8a%94-%eb%8b%ac%eb%a0%a5%ec%9d%84-%ec%83%80%eb%8b%a4/</guid>
-            <pubDate>Fri, 31 Mar 2023 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[Soppy]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Soppy_%EC%9A%B0%EB%A6%AC%EB%8A%94-%EB%8B%AC%EB%A0%A5%EC%9D%84-%EC%83%80%EB%8B%A4-2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다짐]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%ec%a7%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%ec%a7%90/</guid>
-            <pubDate>Fri, 31 Mar 2023 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[안시온]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%EC%8B%9C%EC%98%A8_%EB%8B%A4%EC%A7%90-2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[When I Saw The Star]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/when-i-saw-the-star/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/when-i-saw-the-star/</guid>
-            <pubDate>Fri, 31 Mar 2023 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[윤준 (GIDS)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%9C%A4%EC%A4%80GIDS-_When-I-Saw-The-Star-_Album-Cover-2-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
