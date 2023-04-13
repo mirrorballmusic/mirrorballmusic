@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 04:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 05:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 13 Apr 2023 03:15:44 GMT</pubDate>
             <content:encoded><![CDATA[한민우 (Han Minu)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EB%AF%BC%EC%9A%B0-Han-Minu_DM-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Smiling (feat. ChrisFlow 唐仲彣)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/smiling-feat-chrisflow-%e5%94%90%e4%bb%b2%e5%bd%a3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/smiling-feat-chrisflow-%e5%94%90%e4%bb%b2%e5%bd%a3/</guid>
+            <pubDate>Thu, 13 Apr 2023 05:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[제이윈 (J.win)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%9C%EC%9D%B4%EC%9C%88-J.win_Smiling-feat.-ChrisFlow-2-1-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CLOCK]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Apr 2023 03:15:17 GMT</pubDate>
             <content:encoded><![CDATA[호수]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%98%B8%EC%88%98_%EC%96%B4%EB%8A%90%EC%83%88-%EB%B4%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beta to Alpha]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/beta-to-alpha/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/beta-to-alpha/</guid>
-            <pubDate>Tue, 04 Apr 2023 03:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[Scotch (스카치)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Scotch-%EC%8A%A4%EC%B9%B4%EC%B9%98_Beta-to-Alpha-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
