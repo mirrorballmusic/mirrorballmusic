@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 01:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 03:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I Hate Winter]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/i-hate-winter/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/i-hate-winter/</guid>
+            <pubDate>Sat, 15 Apr 2023 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[OAH! (오아!)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_OAH-%EC%98%A4%EC%95%84_I-Hate-Winter-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GREEN TATTOO]]></title>
             <link>http://mirrorballmusic.co.kr/albums/green-tattoo/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Apr 2023 03:16:36 GMT</pubDate>
             <content:encoded><![CDATA[프리다앤 (FRIDA-ANNE)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%84%EB%A6%AC%EB%8B%A4%EC%95%A4-FRIDA-ANNE_NO-THANKS-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate (feat. Annisa Diadra)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/celebrate-feat-annisa-diadra/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/celebrate-feat-annisa-diadra/</guid>
-            <pubDate>Fri, 14 Apr 2023 05:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[윌리엄 손]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%8C%EB%A6%AC%EC%97%84-%EC%86%90_Celebrate-feat.-Annisa-Diadra-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
