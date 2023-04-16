@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 02:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 03:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이력서 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%a0%a5%ec%84%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%a0%a5%ec%84%9c/</guid>
+            <pubDate>Sun, 16 Apr 2023 03:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[홈메이드레코딩]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%88%EB%A9%94%EC%9D%B4%EB%93%9C%EB%A0%88%EC%BD%94%EB%94%A9_%EC%9D%B4%EB%A0%A5%EC%84%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I Hate Winter (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/i-hate-winter/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Apr 2023 03:15:34 GMT</pubDate>
             <content:encoded><![CDATA[니하]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%88%ED%95%98_%EC%86%8C%EC%9D%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NO THANKS (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/no-thanks/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/no-thanks/</guid>
-            <pubDate>Wed, 05 Apr 2023 03:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[프리다앤 (FRIDA-ANNE)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%84%EB%A6%AC%EB%8B%A4%EC%95%A4-FRIDA-ANNE_NO-THANKS-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.242 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
