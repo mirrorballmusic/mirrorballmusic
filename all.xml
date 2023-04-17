@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 05:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 06:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%95%bc%ec%a7%84-%eb%b0%94%eb%8b%a4-ayajin-ocean/</guid>
             <pubDate>Mon, 17 Apr 2023 03:16:01 GMT</pubDate>
             <content:encoded><![CDATA[준서 (JUNSEO)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/themes/mirrorballmusic/img/image-not-found.png" length="0" type="image/png"/>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A4%80%EC%84%9C-JUNSEO_%EC%95%84%EC%95%BC%EC%A7%84-%EB%B0%94%EB%8B%A4-AYAJIN-OCEAN-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이력서 (미러볼뮤직 ─ ALBUMS)]]></title>
