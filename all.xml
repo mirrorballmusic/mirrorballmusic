@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 02:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 03:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[On My Way (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/on-my-way/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/on-my-way/</guid>
+            <pubDate>Thu, 20 Apr 2023 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[오아랜 (or&amp;)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%95%84%EB%9E%9C-or_On-My-Way-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[침대의 요정 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b9%a8%eb%8c%80%ec%9d%98-%ec%9a%94%ec%a0%95/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b9%a8%eb%8c%80%ec%9d%98-%ec%9a%94%ec%a0%95/</guid>
+            <pubDate>Thu, 20 Apr 2023 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[요정]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%EC%B9%A8%EB%8C%80%EC%9D%98-%EC%9A%94%EC%A0%95-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마침내 나는 신록의 봉우리를 비집고 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%b9%a8%eb%82%b4-%eb%82%98%eb%8a%94-%ec%8b%a0%eb%a1%9d%ec%9d%98-%eb%b4%89%ec%9a%b0%eb%a6%ac%eb%a5%bc-%eb%b9%84%ec%a7%91%ea%b3%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%b9%a8%eb%82%b4-%eb%82%98%eb%8a%94-%ec%8b%a0%eb%a1%9d%ec%9d%98-%eb%b4%89%ec%9a%b0%eb%a6%ac%eb%a5%bc-%eb%b9%84%ec%a7%91%ea%b3%a0/</guid>
+            <pubDate>Thu, 20 Apr 2023 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[송남현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/themes/mirrorballmusic/img/image-not-found.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunshower (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sunshower/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sunshower/</guid>
+            <pubDate>Thu, 20 Apr 2023 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[퓰리 (PEULY)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/sunshower_final_3000x3000px-2-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제는 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%9c%eb%8a%94/</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 10 Apr 2023 03:15:45 GMT</pubDate>
             <content:encoded><![CDATA[DEKARD]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_DEKARD_Hittin-On-Ya-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우린 아직 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%b0-%ec%95%84%ec%a7%81/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%b0-%ec%95%84%ec%a7%81/</guid>
-            <pubDate>Mon, 10 Apr 2023 03:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[권주원]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B6%8C%EC%A3%BC%EC%9B%90_%EC%9A%B0%EB%A6%B0-%EC%95%84%EC%A7%81-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무궁화 꽃이 피었습니다 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ea%b6%81%ed%99%94-%ea%bd%83%ec%9d%b4-%ed%94%bc%ec%97%88%ec%8a%b5%eb%8b%88%eb%8b%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ea%b6%81%ed%99%94-%ea%bd%83%ec%9d%b4-%ed%94%bc%ec%97%88%ec%8a%b5%eb%8b%88%eb%8b%a4/</guid>
-            <pubDate>Sun, 09 Apr 2023 03:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[두솜 (dusom)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%91%90%EC%86%9C-dusom_%EB%AC%B4%EA%B6%81%ED%99%94-%EA%BD%83%EC%9D%B4-%ED%94%BC%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drawing (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/drawing/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/drawing/</guid>
-            <pubDate>Sat, 08 Apr 2023 03:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[안희수]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%ED%9D%AC%EC%88%98_Drawing%EB%B2%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FOREVER (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/forever-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/forever-2/</guid>
-            <pubDate>Fri, 07 Apr 2023 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[오렌지인디고]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EB%A0%8C%EC%A7%80%EC%9D%B8%EB%94%94%EA%B3%A0_FOREVER-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.242 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
