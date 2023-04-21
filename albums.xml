@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 02:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 03:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Midnight Love]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/midnight-love/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/midnight-love/</guid>
+            <pubDate>Fri, 21 Apr 2023 03:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[러브송 (LoveSong)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9F%AC%EB%B8%8C%EC%86%A1-LoveSong_Midnight-Love-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Muriwai]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/muriwai/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/muriwai/</guid>
+            <pubDate>Fri, 21 Apr 2023 03:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[쓰나미 (Tsunami)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/Muriwai-EP-Original-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Universe]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/universe-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/universe-2/</guid>
+            <pubDate>Fri, 21 Apr 2023 03:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[MOON IN REVERSE]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/MOON-IN-REVERSE-Universe-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%ec%9d%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%ec%9d%98/</guid>
+            <pubDate>Fri, 21 Apr 2023 03:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[김다예]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/cover_3000-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[On My Way]]></title>
             <link>http://mirrorballmusic.co.kr/albums/on-my-way/</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 11 Apr 2023 03:16:14 GMT</pubDate>
             <content:encoded><![CDATA[산월]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%B0%EC%9B%94_%EC%82%AC%EB%9E%91%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%A7%80-%EC%95%8A%EC%95%84%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃 둘]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%bd%83-%eb%91%98/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%bd%83-%eb%91%98/</guid>
-            <pubDate>Tue, 11 Apr 2023 03:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[이유진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%9C%A0%EC%A7%84_%EA%BD%83-%EB%91%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 무슨 마음으로]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8a%94-%eb%ac%b4%ec%8a%a8-%eb%a7%88%ec%9d%8c%ec%9c%bc%eb%a1%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8a%94-%eb%ac%b4%ec%8a%a8-%eb%a7%88%ec%9d%8c%ec%9c%bc%eb%a1%9c/</guid>
-            <pubDate>Mon, 10 Apr 2023 03:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[김결]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EA%B2%B0_%EB%82%98%EB%8A%94-%EB%AC%B4%EC%8A%A8-%EB%A7%88%EC%9D%8C%EC%9C%BC%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지화좋소]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%80%ed%99%94%ec%a2%8b%ec%86%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%80%ed%99%94%ec%a2%8b%ec%86%8c/</guid>
-            <pubDate>Mon, 10 Apr 2023 03:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[노올량]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%98%AC%EB%9F%89_%EC%A7%80%ED%99%94%EC%A2%8B%EC%86%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hittin’ On Ya]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/hittin-on-ya/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/hittin-on-ya/</guid>
-            <pubDate>Mon, 10 Apr 2023 03:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[DEKARD]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_DEKARD_Hittin-On-Ya-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
