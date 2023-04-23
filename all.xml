@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 02:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 03:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[STORY#25 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/story25/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/story25/</guid>
+            <pubDate>Sun, 23 Apr 2023 03:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[Collective Arts (콜렉티브아츠), 허랑맨]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Collective-Arts-%EC%BD%9C%EB%A0%89%ED%8B%B0%EB%B8%8C%EC%95%84%EC%B8%A0-%ED%97%88%EB%9E%91%EB%A7%A8_STORY25-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hello Again (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/hello-again/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Apr 2023 05:13:54 GMT</pubDate>
             <content:encoded><![CDATA[아도레 (adore)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EB%8F%84%EB%A0%88-adore_%EB%88%88%EC%9D%84-%EA%B0%90%EA%B3%A0-%EC%82%B4%EB%A9%B4-%EB%82%AE%EB%8F%84-%EA%BF%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정석 “신쾌동류 거문고산조” (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%95%ec%84%9d-%ec%8b%a0%ec%be%8c%eb%8f%99%eb%a5%98-%ea%b1%b0%eb%ac%b8%ea%b3%a0%ec%82%b0%ec%a1%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%95%ec%84%9d-%ec%8b%a0%ec%be%8c%eb%8f%99%eb%a5%98-%ea%b1%b0%eb%ac%b8%ea%b3%a0%ec%82%b0%ec%a1%b0/</guid>
-            <pubDate>Tue, 11 Apr 2023 03:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[이정석]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A0%95%EC%84%9D_%EC%9D%B4%EC%A0%95%EC%84%9D-%EC%8B%A0%EC%BE%8C%EB%8F%99%EB%A5%98-%EA%B1%B0%EB%AC%B8%EA%B3%A0%EC%82%B0%EC%A1%B0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.242 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
