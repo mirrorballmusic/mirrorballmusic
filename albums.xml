@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 02:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 03:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BBA]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/bba/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/bba/</guid>
+            <pubDate>Thu, 27 Apr 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[더 보울스 (The Bowls)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8D%94-%EB%B3%B4%EC%9A%B8%EC%8A%A4-The-Bowls_BBA-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Just Right (剛剛好)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/just-right-%e5%89%9b%e5%89%9b%e5%a5%bd/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/just-right-%e5%89%9b%e5%89%9b%e5%a5%bd/</guid>
+            <pubDate>Thu, 27 Apr 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[Andy Schaub (安哲逸)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Andy-Schaub-%E5%AE%89%E5%93%B2%E9%80%B8_Just-Right-%E5%89%9B%E5%89%9B%E5%A5%BD-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In 1]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/in-1/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/in-1/</guid>
+            <pubDate>Thu, 27 Apr 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[세란]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%B8%EB%9E%80_In-1-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄꽃]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ea%bd%83/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ea%bd%83/</guid>
+            <pubDate>Thu, 27 Apr 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[ADYNE]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ADYNE_%EB%B4%84%EA%BD%83-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그늘]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8a%98/</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 17 Apr 2023 03:16:01 GMT</pubDate>
             <content:encoded><![CDATA[준서 (JUNSEO)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A4%80%EC%84%9C-JUNSEO_%EC%95%84%EC%95%BC%EC%A7%84-%EB%B0%94%EB%8B%A4-AYAJIN-OCEAN-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이력서]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%a0%a5%ec%84%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%a0%a5%ec%84%9c/</guid>
-            <pubDate>Sun, 16 Apr 2023 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[홈메이드레코딩]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%88%EB%A9%94%EC%9D%B4%EB%93%9C%EB%A0%88%EC%BD%94%EB%94%A9_%EC%9D%B4%EB%A0%A5%EC%84%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Hate Winter]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-hate-winter/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-hate-winter/</guid>
-            <pubDate>Sat, 15 Apr 2023 03:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[OAH! (오아!)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_OAH-%EC%98%A4%EC%95%84_I-Hate-Winter-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GREEN TATTOO]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/green-tattoo/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/green-tattoo/</guid>
-            <pubDate>Fri, 14 Apr 2023 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[Daddy O Radio (데디오레디오)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Daddy-O-Radio-%EB%8D%B0%EB%94%94%EC%98%A4%EB%A0%88%EB%94%94%EC%98%A4_GREEN-TATTOO-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[77%]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/77/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/77/</guid>
-            <pubDate>Fri, 14 Apr 2023 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[유도원]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%EB%8F%84%EC%9B%90_77-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
