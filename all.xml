@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 02:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 03:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Home (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/home-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/home-3/</guid>
+            <pubDate>Sat, 29 Apr 2023 03:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[신경우]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EA%B2%BD%EC%9A%B0_Home-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[곁에 있어줘 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b3%81%ec%97%90-%ec%9e%88%ec%96%b4%ec%a4%98/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Apr 2023 03:15:35 GMT</pubDate>
             <content:encoded><![CDATA[퓰리 (PEULY)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/sunshower_final_3000x3000px-2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제는 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%9c%eb%8a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%9c%eb%8a%94/</guid>
-            <pubDate>Wed, 19 Apr 2023 03:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[극동아시아타이거즈]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B7%B9%EB%8F%99%EC%95%84%EC%8B%9C%EC%95%84%ED%83%80%EC%9D%B4%EA%B1%B0%EC%A6%88_%EC%9D%B4%EC%A0%9C%EB%8A%94-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.242 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
