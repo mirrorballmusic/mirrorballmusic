@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 02:31:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 03:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Only One (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/only-one/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/only-one/</guid>
+            <pubDate>Sun, 30 Apr 2023 03:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Only-One-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Home (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/home-3/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Apr 2023 03:15:35 GMT</pubDate>
             <content:encoded><![CDATA[송남현]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%86%A1%EB%82%A8%ED%98%84_%EC%8B%A0%EB%A1%9D-1-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunshower (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/sunshower/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/sunshower/</guid>
-            <pubDate>Thu, 20 Apr 2023 03:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[퓰리 (PEULY)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/sunshower_final_3000x3000px-2-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.242 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
