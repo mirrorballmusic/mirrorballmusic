@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 02:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 03:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Spotting]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/spotting/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/spotting/</guid>
+            <pubDate>Fri, 05 May 2023 03:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[권유 (gwon.u)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B6%8C%EC%9C%A0-gwon.u_Spotting-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네 마음이 필요해]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%84%a4-%eb%a7%88%ec%9d%8c%ec%9d%b4-%ed%95%84%ec%9a%94%ed%95%b4/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Apr 2023 03:16:04 GMT</pubDate>
             <content:encoded><![CDATA[아이오웰 (Aiowell)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EC%9D%B4%EC%98%A4%EC%9B%B0-Aiowell_5-Minutes-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝이라는 생각으로]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%81%9d%ec%9d%b4%eb%9d%bc%eb%8a%94-%ec%83%9d%ea%b0%81%ec%9c%bc%eb%a1%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%81%9d%ec%9d%b4%eb%9d%bc%eb%8a%94-%ec%83%9d%ea%b0%81%ec%9c%bc%eb%a1%9c/</guid>
-            <pubDate>Tue, 25 Apr 2023 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[플라잉독]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%8C%EB%9D%BC%EC%9E%89%EB%8F%85_%EB%81%9D%EC%9D%B4%EB%9D%BC%EB%8A%94-%EC%83%9D%EA%B0%81%EC%9C%BC%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
