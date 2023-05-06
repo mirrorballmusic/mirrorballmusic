@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 02:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 03:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채워줘 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/81659/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/81659/</guid>
+            <pubDate>Sat, 06 May 2023 03:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_%EC%B1%84%EC%9B%8C%EC%A4%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Spotting (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/spotting/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Apr 2023 03:16:04 GMT</pubDate>
             <content:encoded><![CDATA[TJ &amp; Kekoa]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_TJ-Kekoa_%EB%88%84%EA%B5%AC%EB%82%98-%EA%B1%B4%EC%B6%95%ED%95%99-%EA%B3%A0%EC%96%91%EC%9D%B4OST-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 Minutes (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/5-minutes/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/5-minutes/</guid>
-            <pubDate>Tue, 25 Apr 2023 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[아이오웰 (Aiowell)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EC%9D%B4%EC%98%A4%EC%9B%B0-Aiowell_5-Minutes-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.243 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
