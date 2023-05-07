@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 02:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 04:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[29 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/29-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/29-2/</guid>
+            <pubDate>Sun, 07 May 2023 04:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[반디 (bandi)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%98%EB%94%94-bandi_29-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채워줘 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/81659/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Apr 2023 03:16:04 GMT</pubDate>
             <content:encoded><![CDATA[타린(TARIN), 롱디(LONG:D)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%A6%B0TARIN-%EB%A1%B1%EB%94%94LONGD_%EC%82%AC%EB%9E%91%EC%9D%B4-%EC%A0%9C%EA%B3%B1%EC%9D%B4-%EB%90%98%EC%97%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구나 (건축학 고양이OST) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%88%84%ea%b5%ac%eb%82%98-%ea%b1%b4%ec%b6%95%ed%95%99-%ea%b3%a0%ec%96%91%ec%9d%b4ost/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%88%84%ea%b5%ac%eb%82%98-%ea%b1%b4%ec%b6%95%ed%95%99-%ea%b3%a0%ec%96%91%ec%9d%b4ost/</guid>
-            <pubDate>Tue, 25 Apr 2023 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[TJ &amp; Kekoa]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_TJ-Kekoa_%EB%88%84%EA%B5%AC%EB%82%98-%EA%B1%B4%EC%B6%95%ED%95%99-%EA%B3%A0%EC%96%91%EC%9D%B4OST-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.243 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
