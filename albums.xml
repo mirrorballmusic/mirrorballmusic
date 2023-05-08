@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 02:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 03:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[After Midnight]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/after-midnight/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/after-midnight/</guid>
+            <pubDate>Mon, 08 May 2023 03:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[nawhij]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_nawhij_aftermidnight-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[40]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/40/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/40/</guid>
+            <pubDate>Mon, 08 May 2023 03:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[JSB]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_JSB_40-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Embrace You]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/embrace-you/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/embrace-you/</guid>
+            <pubDate>Mon, 08 May 2023 03:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[임방우 (林芳宇, Evelyn)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%84%EB%B0%A9%EC%9A%B0-%E6%9E%97%E8%8A%B3%E5%AE%87-Evelyn_Embrace-You-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All I Wanna Say]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/all-i-wanna-say/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/all-i-wanna-say/</guid>
+            <pubDate>Mon, 08 May 2023 03:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[Nohd X MILI B]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Nohd-X-MILI-B_All-I-Wanna-Say-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[29]]></title>
             <link>http://mirrorballmusic.co.kr/albums/29-2/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 26 Apr 2023 03:15:57 GMT</pubDate>
             <content:encoded><![CDATA[뷰티핸섬]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B7%B0%ED%8B%B0%ED%95%B8%EC%84%AC_%EA%B7%B8%EB%8A%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RAIN]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/rain-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/rain-2/</guid>
-            <pubDate>Wed, 26 Apr 2023 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[피아노 제제]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%BC%EC%95%84%EB%85%B8-%EC%A0%9C%EC%A0%9C_RAIN-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사월의 편지 (feat. 원태림)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%ec%9b%94%ec%9d%98-%ed%8e%b8%ec%a7%80-feat-%ec%9b%90%ed%83%9c%eb%a6%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%ec%9b%94%ec%9d%98-%ed%8e%b8%ec%a7%80-feat-%ec%9b%90%ed%83%9c%eb%a6%bc/</guid>
-            <pubDate>Wed, 26 Apr 2023 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[고유연]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%A0%EC%9C%A0%EC%97%B0_%EC%82%AC%EC%9B%94%EC%9D%98-%ED%8E%B8%EC%A7%80-feat.-%EC%9B%90%ED%83%9C%EB%A6%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지영 가야금 서공철류 가야금산조(비단나비 ver.)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a7%80%ec%98%81-%ea%b0%80%ec%95%bc%ea%b8%88-%ec%84%9c%ea%b3%b5%ec%b2%a0%eb%a5%98-%ea%b0%80%ec%95%bc%ea%b8%88%ec%82%b0%ec%a1%b0%eb%b9%84%eb%8b%a8%eb%82%98%eb%b9%84-ver/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a7%80%ec%98%81-%ea%b0%80%ec%95%bc%ea%b8%88-%ec%84%9c%ea%b3%b5%ec%b2%a0%eb%a5%98-%ea%b0%80%ec%95%bc%ea%b8%88%ec%82%b0%ec%a1%b0%eb%b9%84%eb%8b%a8%eb%82%98%eb%b9%84-ver/</guid>
-            <pubDate>Wed, 26 Apr 2023 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[이지영]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A7%80%EC%98%81_%EC%9D%B4%EC%A7%80%EC%98%81-%EA%B0%80%EC%95%BC%EA%B8%88-%EC%84%9C%EA%B3%B5%EC%B2%A0%EB%A5%98-%EA%B0%80%EC%95%BC%EA%B8%88%EC%82%B0%EC%A1%B0-%EB%B9%84%EB%8B%A8%EB%82%98%EB%B9%84-ver.-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이 제곱이 되었다]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%b4-%ec%a0%9c%ea%b3%b1%ec%9d%b4-%eb%90%98%ec%97%88%eb%8b%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%b4-%ec%a0%9c%ea%b3%b1%ec%9d%b4-%eb%90%98%ec%97%88%eb%8b%a4/</guid>
-            <pubDate>Tue, 25 Apr 2023 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[타린(TARIN), 롱디(LONG:D)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%A6%B0TARIN-%EB%A1%B1%EB%94%94LONGD_%EC%82%AC%EB%9E%91%EC%9D%B4-%EC%A0%9C%EA%B3%B1%EC%9D%B4-%EB%90%98%EC%97%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
