@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 05:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 06:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 10 May 2023 04:18:07 GMT</pubDate>
             <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Mingginyu-%EB%B0%8D%EA%B8%B0%EB%89%B4_%EB%8F%8C-%EC%95%84-%EC%98%A4-%EC%A7%80-%EB%A7%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Take one]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/take-one/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/take-one/</guid>
-            <pubDate>Wed, 10 May 2023 04:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[HIPE (하이프)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_HIPE_Takeone-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이지영 가야금 현대 마스터피스]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 28 Apr 2023 03:15:35 GMT</pubDate>
             <content:encoded><![CDATA[서교동의 밤]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EA%B5%90%EB%8F%99%EC%9D%98-%EB%B0%A4_%EA%B3%81%EC%97%90-%EC%9E%88%EC%96%B4%EC%A4%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불 켜는 이]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%88-%ec%bc%9c%eb%8a%94-%ec%9d%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%88-%ec%bc%9c%eb%8a%94-%ec%9d%b4/</guid>
+            <pubDate>Wed, 10 May 2023 06:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[노래하는 꿈틀이들]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94-%EA%BF%88%ED%8B%80%EC%9D%B4%EB%93%A4_%EB%B6%88-%EC%BC%9C%EB%8A%94-%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
