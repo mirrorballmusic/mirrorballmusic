@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 02:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 04:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alchemist]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/alchemist/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/alchemist/</guid>
+            <pubDate>Fri, 12 May 2023 04:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[문없는집]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AC%B8%EC%97%86%EB%8A%94%EC%A7%91_Alchemist-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IN MY TIME]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/in-my-time/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/in-my-time/</guid>
+            <pubDate>Fri, 12 May 2023 04:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[SIN]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SIN_IN-MY-TIME-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대천]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8c%80%ec%b2%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8c%80%ec%b2%9c/</guid>
+            <pubDate>Fri, 12 May 2023 04:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[PPS (print print shop)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_PPS-print-print-shop_%EB%8C%80%EC%B2%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[풀악셀]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%92%80%ec%95%85%ec%85%80/</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 02 May 2023 09:14:35 GMT</pubDate>
             <content:encoded><![CDATA[정가이 (와인루프)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EA%B0%80%EC%9D%B4-%EC%99%80%EC%9D%B8%EB%A3%A8%ED%94%84_%EB%84%88%EB%A5%BC-%EB%A7%8E%EC%9D%B4-%EC%A2%8B%EC%95%84%ED%95%98%EB%82%98-%EB%B4%90-2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난밤]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%80%eb%82%9c%eb%b0%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%80%eb%82%9c%eb%b0%a4/</guid>
-            <pubDate>Tue, 02 May 2023 03:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[SHUYA]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SHUYA_%EC%A7%80%EB%82%9C%EB%B0%A4-2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넌 어떤 생각이었어]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%84%8c-%ec%96%b4%eb%96%a4-%ec%83%9d%ea%b0%81%ec%9d%b4%ec%97%88%ec%96%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%8c-%ec%96%b4%eb%96%a4-%ec%83%9d%ea%b0%81%ec%9d%b4%ec%97%88%ec%96%b4/</guid>
-            <pubDate>Tue, 02 May 2023 03:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[공류영]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%B5%EB%A5%98%EC%98%81_%EB%84%8C-%EC%96%B4%EB%96%A4-%EC%83%9D%EA%B0%81%EC%9D%B4%EC%97%88%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[how do I fill this empty space?]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/how-do-i-fill-this-empty-space/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/how-do-i-fill-this-empty-space/</guid>
-            <pubDate>Mon, 01 May 2023 03:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[Griffy]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Griffy_how-do-I-fill-this-empty-space-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
