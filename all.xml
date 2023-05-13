@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 02:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 03:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 내가 널 어떻게 만나 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%9f%b0-%eb%82%b4%ea%b0%80-%eb%84%90-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%a7%8c%eb%82%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%9f%b0-%eb%82%b4%ea%b0%80-%eb%84%90-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%a7%8c%eb%82%98/</guid>
+            <pubDate>Sat, 13 May 2023 03:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[김 봄]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80-%EB%B4%84_%EC%9D%B4%EB%9F%B0-%EB%82%B4%EA%B0%80-%EB%84%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%82%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alchemist (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/alchemist/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 May 2023 03:15:35 GMT</pubDate>
             <content:encoded><![CDATA[이지영]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A7%80%EC%98%81_%EC%9D%B4%EC%A7%80%EC%98%81-%EA%B0%80%EC%95%BC%EA%B8%88-%ED%97%88%ED%8A%BC%EA%B0%80%EB%9D%BD-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너를 많이 좋아하나 봐 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a5%bc-%eb%a7%8e%ec%9d%b4-%ec%a2%8b%ec%95%84%ed%95%98%eb%82%98-%eb%b4%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a5%bc-%eb%a7%8e%ec%9d%b4-%ec%a2%8b%ec%95%84%ed%95%98%eb%82%98-%eb%b4%90/</guid>
-            <pubDate>Tue, 02 May 2023 09:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[정가이 (와인루프)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EA%B0%80%EC%9D%B4-%EC%99%80%EC%9D%B8%EB%A3%A8%ED%94%84_%EB%84%88%EB%A5%BC-%EB%A7%8E%EC%9D%B4-%EC%A2%8B%EC%95%84%ED%95%98%EB%82%98-%EB%B4%90-2-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.243 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
