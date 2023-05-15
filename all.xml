@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 02:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 03:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고백 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%eb%b0%b1/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%eb%b0%b1/</guid>
+            <pubDate>Mon, 15 May 2023 03:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[마치 (Marchi)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%EC%B9%98-Marchi_%EA%B3%A0%EB%B0%B1-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발걸음 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%9c%ea%b1%b8%ec%9d%8c-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%9c%ea%b1%b8%ec%9d%8c-2/</guid>
+            <pubDate>Mon, 15 May 2023 03:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[유시은]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%EC%8B%9C%EC%9D%80_%EB%B0%9C%EA%B1%B8%EC%9D%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내게 사랑이라 부르는 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b2%8c-%ec%82%ac%eb%9e%91%ec%9d%b4%eb%9d%bc-%eb%b6%80%eb%a5%b4%eb%8a%94/</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 03 May 2023 03:15:35 GMT</pubDate>
             <content:encoded><![CDATA[동경]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8F%99%EA%B2%BD_%EB%B9%99%EB%B9%99-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너를 집에 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a5%bc-%ec%a7%91%ec%97%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a5%bc-%ec%a7%91%ec%97%90/</guid>
-            <pubDate>Wed, 03 May 2023 03:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[김건민]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EA%B1%B4%EB%AF%BC_%EB%84%88%EB%A5%BC-%EC%A7%91%EC%97%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Salvation (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/salvation/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/salvation/</guid>
-            <pubDate>Wed, 03 May 2023 03:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[임호연]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%84%ED%98%B8%EC%97%B0_Salvation-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.243 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
