@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 01:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 03:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SPANGLE]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/spangle/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/spangle/</guid>
+            <pubDate>Wed, 17 May 2023 03:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[이희문&amp;허송세월&amp;놈놈 (OBSG)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%ED%9D%AC%EB%AC%B8%ED%97%88%EC%86%A1%EC%84%B8%EC%9B%94%EB%86%88%EB%86%88-OBSG_SPANGLE-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[And now]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/and-now/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/and-now/</guid>
+            <pubDate>Wed, 17 May 2023 03:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[Be The Voice]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Be-the-Voice_And-now-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강권순 십이가사]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b0%95%ea%b6%8c%ec%88%9c-%ec%8b%ad%ec%9d%b4%ea%b0%80%ec%82%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b0%95%ea%b6%8c%ec%88%9c-%ec%8b%ad%ec%9d%b4%ea%b0%80%ec%82%ac/</guid>
+            <pubDate>Wed, 17 May 2023 03:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[강권순]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EA%B6%8C%EC%88%9C_%EA%B0%95%EA%B6%8C%EC%88%9C-%EC%8B%AD%EC%9D%B4%EA%B0%80%EC%82%AC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿈속]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ec%86%8d/</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 08 May 2023 03:16:10 GMT</pubDate>
             <content:encoded><![CDATA[Nohd X MILI B]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Nohd-X-MILI-B_All-I-Wanna-Say-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[29]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/29-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/29-2/</guid>
-            <pubDate>Sun, 07 May 2023 04:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[반디 (bandi)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%98%EB%94%94-bandi_29-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채워줘]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/81659/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/81659/</guid>
-            <pubDate>Sat, 06 May 2023 03:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_%EC%B1%84%EC%9B%8C%EC%A4%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spotting]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/spotting/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/spotting/</guid>
-            <pubDate>Fri, 05 May 2023 03:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[권유 (gwon.u)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B6%8C%EC%9C%A0-gwon.u_Spotting-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
