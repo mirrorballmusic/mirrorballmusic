@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 02:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 03:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 여름]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%97%ac%eb%a6%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%97%ac%eb%a6%84/</guid>
+            <pubDate>Fri, 19 May 2023 03:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[정우]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EC%9A%B0_%EA%B7%B8-%EC%97%AC%EB%A6%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What’s wrong?]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/whats-wrong/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/whats-wrong/</guid>
+            <pubDate>Fri, 19 May 2023 03:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[히제]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9E%88%EC%A0%9C_Whats-wrong-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Bread No Love]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/no-bread-no-love/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/no-bread-no-love/</guid>
+            <pubDate>Fri, 19 May 2023 03:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[퓰리 (PEULY)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%93%B0%EB%A6%AC-PEULY_No-Bread-No-Love-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Right NOW]]></title>
             <link>http://mirrorballmusic.co.kr/albums/right-now/</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 09 May 2023 03:16:04 GMT</pubDate>
             <content:encoded><![CDATA[선혜]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%A0%ED%98%9C_%EB%87%8C%EC%9D%98-%ED%9A%8C%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b2%ad%ec%b6%98/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b2%ad%ec%b6%98/</guid>
-            <pubDate>Tue, 09 May 2023 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[가현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%80%ED%98%84_%EC%B2%AD%EC%B6%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soft Dance with You]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/soft-dance-with-you/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/soft-dance-with-you/</guid>
-            <pubDate>Tue, 09 May 2023 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[Eisen]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Eisen_Soft-Dance-with-You-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[After Midnight]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/after-midnight/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/after-midnight/</guid>
-            <pubDate>Mon, 08 May 2023 03:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[nawhij]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_nawhij_aftermidnight-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
