@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 02:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 03:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봉오리 시절]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%89%ec%98%a4%eb%a6%ac-%ec%8b%9c%ec%a0%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%89%ec%98%a4%eb%a6%ac-%ec%8b%9c%ec%a0%88/</guid>
+            <pubDate>Sat, 20 May 2023 03:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[허정혁]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%EC%A0%95%ED%98%81_%EB%B4%89%EC%98%A4%EB%A6%AC-%EC%8B%9C%EC%A0%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 여름]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%97%ac%eb%a6%84/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 May 2023 03:16:04 GMT</pubDate>
             <content:encoded><![CDATA[615]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_615_3-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뇌의 회로]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%87%8c%ec%9d%98-%ed%9a%8c%eb%a1%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%87%8c%ec%9d%98-%ed%9a%8c%eb%a1%9c/</guid>
-            <pubDate>Tue, 09 May 2023 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[선혜]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%A0%ED%98%9C_%EB%87%8C%EC%9D%98-%ED%9A%8C%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
