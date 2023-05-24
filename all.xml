@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 02:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 03:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Spring Summmer (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/spring-summmer/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/spring-summmer/</guid>
+            <pubDate>Wed, 24 May 2023 03:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[뷰티핸섬]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B7%B0%ED%8B%B0%ED%95%B8%EC%84%AC_Spring-Summmer-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맞춤법 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%9e%ec%b6%a4%eb%b2%95/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%9e%ec%b6%a4%eb%b2%95/</guid>
+            <pubDate>Wed, 24 May 2023 03:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[That]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_That_%EB%A7%9E%EC%B6%A4%EB%B2%95-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바다에게 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4%ec%97%90%ea%b2%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4%ec%97%90%ea%b2%8c/</guid>
+            <pubDate>Wed, 24 May 2023 03:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[신선혜]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EC%84%A0%ED%98%9C_%EB%B0%94%EB%8B%A4%EC%97%90%EA%B2%8C-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김치볶음밥 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b9%80%ec%b9%98%eb%b3%b6%ec%9d%8c%eb%b0%a5/</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 12 May 2023 04:17:08 GMT</pubDate>
             <content:encoded><![CDATA[SIN]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SIN_IN-MY-TIME-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대천 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8c%80%ec%b2%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8c%80%ec%b2%9c/</guid>
-            <pubDate>Fri, 12 May 2023 04:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[PPS (print print shop)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_PPS-print-print-shop_%EB%8C%80%EC%B2%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풀악셀 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%92%80%ec%95%85%ec%85%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%92%80%ec%95%85%ec%85%80/</guid>
-            <pubDate>Thu, 11 May 2023 03:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[we hate jh]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_we-hate-jh_%ED%92%80%EC%95%85%EC%85%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bright Light (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/bright-light/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/bright-light/</guid>
-            <pubDate>Thu, 11 May 2023 03:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[강구미]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EA%B5%AC%EB%AF%B8_Bright-Light-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.244 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
