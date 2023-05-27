@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 08:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 09:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상아 잘 부탁해]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%84%b8%ec%83%81%ec%95%84-%ec%9e%98-%eb%b6%80%ed%83%81%ed%95%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%b8%ec%83%81%ec%95%84-%ec%9e%98-%eb%b6%80%ed%83%81%ed%95%b4/</guid>
+            <pubDate>Sat, 27 May 2023 09:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼아이돌zx]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8A%88%ED%8D%BC%EC%95%84%EC%9D%B4%EB%8F%8Czx_%EC%84%B8%EC%83%81%EC%95%84-%EC%9E%98-%EB%B6%80%ED%83%81%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[STORY#26]]></title>
             <link>http://mirrorballmusic.co.kr/albums/story26/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 May 2023 03:15:49 GMT</pubDate>
             <content:encoded><![CDATA[태윤 (TAEYOON)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%9C%EC%9C%A4-TAEYOON_%EA%BF%88%EC%86%8D-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무늬]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%eb%8a%ac/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%eb%8a%ac/</guid>
-            <pubDate>Tue, 16 May 2023 03:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[엄기현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%84%EA%B8%B0%ED%98%84_%EB%AC%B4%EB%8A%AC-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
