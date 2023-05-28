@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 02:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 03:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8a%94-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8a%94-2/</guid>
+            <pubDate>Sun, 28 May 2023 03:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[요정]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%EC%9A%B0%EB%A6%AC%EB%8A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상아 잘 부탁해]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%84%b8%ec%83%81%ec%95%84-%ec%9e%98-%eb%b6%80%ed%83%81%ed%95%b4/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 17 May 2023 03:16:39 GMT</pubDate>
             <content:encoded><![CDATA[강권순]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EA%B6%8C%EC%88%9C_%EA%B0%95%EA%B6%8C%EC%88%9C-%EC%8B%AD%EC%9D%B4%EA%B0%80%EC%82%AC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈속]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ec%86%8d/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ec%86%8d/</guid>
-            <pubDate>Tue, 16 May 2023 03:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[태윤 (TAEYOON)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%9C%EC%9C%A4-TAEYOON_%EA%BF%88%EC%86%8D-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
