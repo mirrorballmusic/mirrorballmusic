@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 02:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 04:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그림에 갇히다]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a6%bc%ec%97%90-%ea%b0%87%ed%9e%88%eb%8b%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a6%bc%ec%97%90-%ea%b0%87%ed%9e%88%eb%8b%a4/</guid>
+            <pubDate>Tue, 30 May 2023 04:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[안희수]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%ED%9D%AC%EC%88%98_%EA%B7%B8%EB%A6%BC%EC%97%90-%EA%B0%87%ED%9E%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Origin]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/origin/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/origin/</guid>
+            <pubDate>Tue, 30 May 2023 04:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[oshii]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_oshii_Origin-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Persona]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/persona-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/persona-3/</guid>
+            <pubDate>Tue, 30 May 2023 04:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[박지현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%A7%80%ED%98%84_Persona-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이의 형태소]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%9d%b4%ec%9d%98-%ed%98%95%ed%83%9c%ec%86%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%9d%b4%ec%9d%98-%ed%98%95%ed%83%9c%ec%86%8c/</guid>
+            <pubDate>Tue, 30 May 2023 04:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[환상문학청년]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%98%EC%83%81%EB%AC%B8%ED%95%99%EC%B2%AD%EB%85%84_%EC%95%84%EC%9D%B4%EC%9D%98-%ED%98%95%ED%83%9C%EC%86%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[참 좋은 날들]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%b0%b8-%ec%a2%8b%ec%9d%80-%eb%82%a0%eb%93%a4/</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 19 May 2023 03:15:32 GMT</pubDate>
             <content:encoded><![CDATA[히제]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9E%88%EC%A0%9C_Whats-wrong-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No Bread No Love]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/no-bread-no-love/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/no-bread-no-love/</guid>
-            <pubDate>Fri, 19 May 2023 03:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[퓰리 (PEULY)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%93%B0%EB%A6%AC-PEULY_No-Bread-No-Love-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Right NOW]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/right-now/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/right-now/</guid>
-            <pubDate>Thu, 18 May 2023 03:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[마이 앤트 메리(My Aunt Mary)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%EC%9D%B4-%EC%95%A4%ED%8A%B8-%EB%A9%94%EB%A6%AC-My-Aunt-Mary_Right-NOW-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy Ending]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/happy-ending/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/happy-ending/</guid>
-            <pubDate>Thu, 18 May 2023 03:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[윌리엄 손]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%8C%EB%A6%AC%EC%97%84-%EC%86%90_Happy-Ending-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Begin Again]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/begin-again/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/begin-again/</guid>
-            <pubDate>Thu, 18 May 2023 03:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[라던 (La Dawn)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2017/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9D%BC%EB%8D%98-La-Dawn_Begin-Again-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
