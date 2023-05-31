@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 02:53:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 03:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[To all my questions]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/to-all-my-questions/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/to-all-my-questions/</guid>
+            <pubDate>Wed, 31 May 2023 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[Flint]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Flint_To-all-my-questions-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/100/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/100/</guid>
+            <pubDate>Wed, 31 May 2023 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_100-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드림팰리스 OST]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%93%9c%eb%a6%bc%ed%8c%b0%eb%a6%ac%ec%8a%a4-ost/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%93%9c%eb%a6%bc%ed%8c%b0%eb%a6%ac%ec%8a%a4-ost/</guid>
+            <pubDate>Wed, 31 May 2023 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[연리목]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%B0%EB%A6%AC%EB%AA%A9_%EB%93%9C%EB%A6%BC%ED%8C%B0%EB%A6%AC%EC%8A%A4OST-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그림에 갇히다]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a6%bc%ec%97%90-%ea%b0%87%ed%9e%88%eb%8b%a4/</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 21 May 2023 03:15:25 GMT</pubDate>
             <content:encoded><![CDATA[홈메이드레코딩]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%88%EB%A9%94%EC%9D%B4%EB%93%9C%EB%A0%88%EC%BD%94%EB%94%A9_%EB%8C%80%EC%8B%A0-%EC%B6%9C%EA%B7%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봉오리 시절]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%89%ec%98%a4%eb%a6%ac-%ec%8b%9c%ec%a0%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%89%ec%98%a4%eb%a6%ac-%ec%8b%9c%ec%a0%88/</guid>
-            <pubDate>Sat, 20 May 2023 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[허정혁]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%EC%A0%95%ED%98%81_%EB%B4%89%EC%98%A4%EB%A6%AC-%EC%8B%9C%EC%A0%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 여름]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%97%ac%eb%a6%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%97%ac%eb%a6%84/</guid>
-            <pubDate>Fri, 19 May 2023 03:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[정우]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EC%9A%B0_%EA%B7%B8-%EC%97%AC%EB%A6%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What’s wrong?]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/whats-wrong/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/whats-wrong/</guid>
-            <pubDate>Fri, 19 May 2023 03:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[히제]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9E%88%EC%A0%9C_Whats-wrong-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
