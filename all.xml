@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 01:45:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 03:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사실은 (with 택우) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%ec%8b%a4%ec%9d%80-with-%ed%83%9d%ec%9a%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%ec%8b%a4%ec%9d%80-with-%ed%83%9d%ec%9a%b0/</guid>
+            <pubDate>Sun, 04 Jun 2023 03:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[강전한]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EC%A0%84%ED%95%9C_%EC%82%AC%EC%8B%A4%EC%9D%80-with-%ED%83%9D%EC%9A%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[별 우주 너 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b3%84-%ec%9a%b0%ec%a3%bc-%eb%84%88/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 May 2023 03:15:48 GMT</pubDate>
             <content:encoded><![CDATA[이상의날개]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%83%81%EC%9D%98%EB%82%A0%EA%B0%9C_%EC%88%9C%EA%B0%84%EA%B3%BC-%EC%98%81%EC%9B%90%EC%9D%84-%EB%8B%B4%EC%9D%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spring Summmer (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/spring-summmer/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/spring-summmer/</guid>
-            <pubDate>Wed, 24 May 2023 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[뷰티핸섬]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B7%B0%ED%8B%B0%ED%95%B8%EC%84%AC_Spring-Summmer-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.245 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
