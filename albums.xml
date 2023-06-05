@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 08:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 09:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야근]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%bc%ea%b7%bc/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%bc%ea%b7%bc/</guid>
+            <pubDate>Mon, 05 Jun 2023 09:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[크라잉넛 (CRYING NUT)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%81%AC%EB%9D%BC%EC%9E%89%EB%84%9B-CRYING-NUT_%EC%95%BC%EA%B7%BC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘의 나]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%eb%82%98/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 May 2023 03:15:44 GMT</pubDate>
             <content:encoded><![CDATA[pickyourown]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_pickyourown_FROM-ME-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 나를 미워한 적 있었네]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8a%94-%eb%82%98%eb%a5%bc-%eb%af%b8%ec%9b%8c%ed%95%9c-%ec%a0%81-%ec%9e%88%ec%97%88%eb%84%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8a%94-%eb%82%98%eb%a5%bc-%eb%af%b8%ec%9b%8c%ed%95%9c-%ec%a0%81-%ec%9e%88%ec%97%88%eb%84%a4/</guid>
-            <pubDate>Thu, 25 May 2023 03:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[강아루]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EC%95%84%EB%A3%A8_%EB%82%98%EB%8A%94-%EB%82%98%EB%A5%BC-%EB%AF%B8%EC%9B%8C%ED%95%9C-%EC%A0%81-%EC%9E%88%EC%97%88%EB%84%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
