@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 08:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 09:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 파도에 휩쓸려도 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ea%b0%80-%ed%8c%8c%eb%8f%84%ec%97%90-%ed%9c%a9%ec%93%b8%eb%a0%a4%eb%8f%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ea%b0%80-%ed%8c%8c%eb%8f%84%ec%97%90-%ed%9c%a9%ec%93%b8%eb%a0%a4%eb%8f%84/</guid>
+            <pubDate>Tue, 06 Jun 2023 09:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%8C%8C%EB%8F%84%EC%97%90-%ED%9C%A9%EC%93%B8%EB%A0%A4%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야근 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%95%bc%ea%b7%bc/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 May 2023 03:15:44 GMT</pubDate>
             <content:encoded><![CDATA[허지]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%EC%A7%80_Good-Life-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FROM ME (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/from-me/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/from-me/</guid>
-            <pubDate>Fri, 26 May 2023 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[pickyourown]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_pickyourown_FROM-ME-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.245 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
