@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 02:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 03:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복순투어 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b3%b5%ec%88%9c%ed%88%ac%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b3%b5%ec%88%9c%ed%88%ac%ec%96%b4/</guid>
+            <pubDate>Fri, 09 Jun 2023 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[PPS (print print shop)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_PPS-print-print-shop_%EB%B3%B5%EC%88%9C%ED%88%AC%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fantasie (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/fantasie/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/fantasie/</guid>
+            <pubDate>Fri, 09 Jun 2023 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[카르민킴 (Karmin Kim)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B9%B4%EB%A5%B4%EB%AF%BC%ED%82%B4-Karmin-Kim_Fantasie-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It’s Not A Summer For Me (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/its-not-a-summer-for-me/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/its-not-a-summer-for-me/</guid>
+            <pubDate>Fri, 09 Jun 2023 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[London Fuzz]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_London-Fuzz_Its-Not-A-Summer-For-Me-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Color de Latin (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/color-de-latin/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/color-de-latin/</guid>
+            <pubDate>Fri, 09 Jun 2023 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[Triomenon (트리오메논)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Triomenon-%ED%8A%B8%EB%A6%AC%EC%98%A4%EB%A9%94%EB%85%BC_Color-de-Latin-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[분 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%84/</guid>
+            <pubDate>Fri, 09 Jun 2023 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[모스힐 (Mosshill)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AA%A8%EC%8A%A4%ED%9E%90-Mosshill_%EB%B6%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[INFP (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/infp/</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 30 May 2023 04:17:36 GMT</pubDate>
             <content:encoded><![CDATA[안희수]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%ED%9D%AC%EC%88%98_%EA%B7%B8%EB%A6%BC%EC%97%90-%EA%B0%87%ED%9E%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Origin (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/origin/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/origin/</guid>
-            <pubDate>Tue, 30 May 2023 04:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[oshii]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_oshii_Origin-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Persona (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/persona-3/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/persona-3/</guid>
-            <pubDate>Tue, 30 May 2023 04:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[박지현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%A7%80%ED%98%84_Persona-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이의 형태소 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%9d%b4%ec%9d%98-%ed%98%95%ed%83%9c%ec%86%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%9d%b4%ec%9d%98-%ed%98%95%ed%83%9c%ec%86%8c/</guid>
-            <pubDate>Tue, 30 May 2023 04:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[환상문학청년]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%98%EC%83%81%EB%AC%B8%ED%95%99%EC%B2%AD%EB%85%84_%EC%95%84%EC%9D%B4%EC%9D%98-%ED%98%95%ED%83%9C%EC%86%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참 좋은 날들 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b0%b8-%ec%a2%8b%ec%9d%80-%eb%82%a0%eb%93%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b0%b8-%ec%a2%8b%ec%9d%80-%eb%82%a0%eb%93%a4/</guid>
-            <pubDate>Mon, 29 May 2023 03:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[홍예진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%8D%EC%98%88%EC%A7%84_%EC%B0%B8-%EC%A2%8B%EC%9D%80-%EB%82%A0%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커피 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%bb%a4%ed%94%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%bb%a4%ed%94%bc/</guid>
-            <pubDate>Mon, 29 May 2023 03:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[ORANGE&amp;LEMON]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ORANGELEMON_%EC%BB%A4%ED%94%BC-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.245 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
