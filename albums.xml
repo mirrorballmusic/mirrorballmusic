@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 01:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 03:02:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맺는 말]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%ba%eb%8a%94-%eb%a7%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%ba%eb%8a%94-%eb%a7%90/</guid>
+            <pubDate>Sun, 11 Jun 2023 03:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[양자인 (Yang Jain)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%91%EC%9E%90%EC%9D%B8_%EB%A7%BA%EB%8A%94-%EB%A7%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마츠코]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%b8%a0%ec%bd%94/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 May 2023 03:18:57 GMT</pubDate>
             <content:encoded><![CDATA[Flint]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Flint_To-all-my-questions-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드림팰리스 OST]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%93%9c%eb%a6%bc%ed%8c%b0%eb%a6%ac%ec%8a%a4-ost/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%93%9c%eb%a6%bc%ed%8c%b0%eb%a6%ac%ec%8a%a4-ost/</guid>
-            <pubDate>Wed, 31 May 2023 03:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[연리목]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%B0%EB%A6%AC%EB%AA%A9_%EB%93%9C%EB%A6%BC%ED%8C%B0%EB%A6%AC%EC%8A%A4OST-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
