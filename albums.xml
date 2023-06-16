@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 02:41:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 03:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[할머니 사진]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%95%a0%eb%a8%b8%eb%8b%88-%ec%82%ac%ec%a7%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%95%a0%eb%a8%b8%eb%8b%88-%ec%82%ac%ec%a7%84/</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[강백수]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%ED%95%A0%EB%A8%B8%EB%8B%88%EC%82%AC%EC%A7%84_%EC%B5%9C%EC%A2%85-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비가 와도 비행기는 뜨고]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%84%ea%b0%80-%ec%99%80%eb%8f%84-%eb%b9%84%ed%96%89%ea%b8%b0%eb%8a%94-%eb%9c%a8%ea%b3%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%84%ea%b0%80-%ec%99%80%eb%8f%84-%eb%b9%84%ed%96%89%ea%b8%b0%eb%8a%94-%eb%9c%a8%ea%b3%a0/</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[취향상점 (Tasty Shop)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B7%A8%ED%96%A5%EC%83%81%EC%A0%90-Tasty-Shop_%EB%B9%84%EA%B0%80-%EC%99%80%EB%8F%84-%EB%B9%84%ED%96%89%EA%B8%B0%EB%8A%94-%EB%9C%A8%EA%B3%A0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낙원]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%99%ec%9b%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%99%ec%9b%90/</guid>
+            <pubDate>Fri, 16 Jun 2023 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[혜아]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%98%9C%EC%95%84_%EB%82%99%EC%9B%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스무살]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%8a%a4%eb%ac%b4%ec%82%b4/</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 05 Jun 2023 03:17:36 GMT</pubDate>
             <content:encoded><![CDATA[반예림]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%98%EC%98%88%EB%A6%BC_%EC%98%A4%EB%8A%98%EC%9D%98-%EB%82%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뒷자리블루스]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%92%b7%ec%9e%90%eb%a6%ac%eb%b8%94%eb%a3%a8%ec%8a%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%92%b7%ec%9e%90%eb%a6%ac%eb%b8%94%eb%a3%a8%ec%8a%a4/</guid>
-            <pubDate>Mon, 05 Jun 2023 03:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[오올블루 (4ll8lue)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%98%AC%EB%B8%94%EB%A3%A8-4ll8lue_%EB%92%B7%EC%9E%90%EB%A6%AC%EB%B8%94%EB%A3%A8%EC%8A%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사실은 (with 택우)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%ec%8b%a4%ec%9d%80-with-%ed%83%9d%ec%9a%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%ec%8b%a4%ec%9d%80-with-%ed%83%9d%ec%9a%b0/</guid>
-            <pubDate>Sun, 04 Jun 2023 03:06:26 GMT</pubDate>
-            <content:encoded><![CDATA[강전한]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/album-cover-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[별 우주 너]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b3%84-%ec%9a%b0%ec%a3%bc-%eb%84%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b3%84-%ec%9a%b0%ec%a3%bc-%eb%84%88/</guid>
-            <pubDate>Sat, 03 Jun 2023 03:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[어바웃어스 (About Us)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%B4%EB%B0%94%EC%9B%83%EC%96%B4%EC%8A%A4-About-Us_%EB%B3%84-%EC%9A%B0%EC%A3%BC-%EB%84%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
