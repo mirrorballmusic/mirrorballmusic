@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 02:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 03:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[everyone makes love (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/everyone-makes-love/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/everyone-makes-love/</guid>
+            <pubDate>Wed, 21 Jun 2023 03:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[pickyourown]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_pickyourown_everyone-makes-love-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸른 밤 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%91%b8%eb%a5%b8-%eb%b0%a4/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Jun 2023 03:19:20 GMT</pubDate>
             <content:encoded><![CDATA[그냥준수 (of 미국거지)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B7%B8%EB%83%A5%EC%A4%80%EC%88%98-of-%EB%AF%B8%EA%B5%AD%EA%B1%B0%EC%A7%80_%EB%B3%84%EB%98%A5%EB%B3%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홀수의 사랑 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%99%80%ec%88%98%ec%9d%98-%ec%82%ac%eb%9e%91/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%99%80%ec%88%98%ec%9d%98-%ec%82%ac%eb%9e%91/</guid>
-            <pubDate>Thu, 08 Jun 2023 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[소재 (SOJAE)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%8C%EC%9E%AC-SOJAE_%ED%99%80%EC%88%98%EC%9D%98-%EC%82%AC%EB%9E%91-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.246 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
