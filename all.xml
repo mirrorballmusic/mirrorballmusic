@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 01:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 03:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Our favorite words (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/our-favorite-words/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/our-favorite-words/</guid>
+            <pubDate>Sun, 25 Jun 2023 03:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[박진휘]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%A7%84%ED%9C%98_Our-favorite-words-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#RADIO_PLAYLIST_01 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/radio_playlist_01/</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 12 Jun 2023 03:21:21 GMT</pubDate>
             <content:encoded><![CDATA[포유류 (PO.U.RYU)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8F%AC%EC%9C%A0%EB%A5%98-PO.U.RYU_%EC%A7%80%EA%B5%AC%EC%B2%98%EB%9F%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고요 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%ec%9a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%ec%9a%94/</guid>
-            <pubDate>Mon, 12 Jun 2023 03:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[호선]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%98%B8%EC%84%A0_%EA%B3%A0%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.246 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
