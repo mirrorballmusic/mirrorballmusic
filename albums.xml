@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 01:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:05:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Open Sesame]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/open-sesame/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/open-sesame/</guid>
+            <pubDate>Mon, 26 Jun 2023 03:05:16 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%8C%EB%A0%88%ED%94%84-ALEPH_Open-Sesame-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Modern Kidults]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/modern-kidults/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/modern-kidults/</guid>
+            <pubDate>Mon, 26 Jun 2023 03:05:16 GMT</pubDate>
+            <content:encoded><![CDATA[Kunoo]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kunoo_Modern-Kidults-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사계절]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%ea%b3%84%ec%a0%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%ea%b3%84%ec%a0%88/</guid>
+            <pubDate>Mon, 26 Jun 2023 03:05:16 GMT</pubDate>
+            <content:encoded><![CDATA[이효운]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%ED%9A%A8%EC%9A%B4_%EC%82%AC%EA%B3%84%EC%A0%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Our favorite words]]></title>
             <link>http://mirrorballmusic.co.kr/albums/our-favorite-words/</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 14 Jun 2023 03:15:57 GMT</pubDate>
             <content:encoded><![CDATA[tang.erine]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_tang.erine_%EB%A9%80%EB%AF%B8-Prod.-ojyun-feat.anna-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이름으로]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%a6%84%ec%9c%bc%eb%a1%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%a6%84%ec%9c%bc%eb%a1%9c/</guid>
-            <pubDate>Tue, 13 Jun 2023 03:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[조형우]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%ED%98%95%EC%9A%B0_%EC%9D%B4%EB%A6%84%EC%9C%BC%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream Of Kimchi (feat. Diamonie)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/dream-of-kimchi-feat-diamonie/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/dream-of-kimchi-feat-diamonie/</guid>
-            <pubDate>Tue, 13 Jun 2023 03:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[국악전자유랑단]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B5%AD%EC%95%85%EC%A0%84%EC%9E%90%EC%9C%A0%EB%9E%91%EB%8B%A8_Dream-Of-Kimchi-feat.-Diamonie-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구처럼]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%80%ea%b5%ac%ec%b2%98%eb%9f%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%80%ea%b5%ac%ec%b2%98%eb%9f%bc/</guid>
-            <pubDate>Mon, 12 Jun 2023 03:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[포유류 (PO.U.RYU)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8F%AC%EC%9C%A0%EB%A5%98-PO.U.RYU_%EC%A7%80%EA%B5%AC%EC%B2%98%EB%9F%BC-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
