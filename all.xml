@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 08:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 09:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너로 가득해 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a1%9c-%ea%b0%80%eb%93%9d%ed%95%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a1%9c-%ea%b0%80%eb%93%9d%ed%95%b4/</guid>
+            <pubDate>Tue, 27 Jun 2023 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[슬로디 (Slou.D)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8A%AC%EB%A1%9C%EB%94%94-Slou.D_%EB%84%88%EB%A1%9C-%EA%B0%80%EB%93%9D%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YA (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/ya/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 15 Jun 2023 03:16:05 GMT</pubDate>
             <content:encoded><![CDATA[Absolute (앱솔루트)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Absolute-%EC%95%B1%EC%86%94%EB%A3%A8%ED%8A%B8_%EC%84%9C%EC%9E%88%EC%9D%84%EA%B2%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BAD (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/bad/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/bad/</guid>
-            <pubDate>Wed, 14 Jun 2023 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[TK]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_TK_BAD-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.246 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
