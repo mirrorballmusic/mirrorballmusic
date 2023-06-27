@@ -4,9 +4,25 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 02:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 03:32:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YA]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/ya/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/ya/</guid>
+            <pubDate>Tue, 27 Jun 2023 03:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[가테 (Ga Teh)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%80%ED%85%8C-Ga-Teh_YA-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀찮아]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%80%ec%b0%ae%ec%95%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%80%ec%b0%ae%ec%95%84/</guid>
+            <pubDate>Tue, 27 Jun 2023 03:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[권한경]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EA%B6%8C%ED%95%9C%EA%B2%BD-%EA%B7%80%EC%B0%AE%EC%95%84-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Open Sesame]]></title>
             <link>http://mirrorballmusic.co.kr/albums/open-sesame/</link>
@@ -56,20 +72,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Ashmute-%EC%95%A0%EC%89%AC%EB%AE%A4%ED%8A%B8_%EA%B7%B8%EA%B3%B3%EC%9D%80-%EB%8D%94-%EC%9D%B4%EC%83%81-%EC%A1%B4%EC%9E%AC%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빙글빙글]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%99%ea%b8%80%eb%b9%99%ea%b8%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%99%ea%b8%80%eb%b9%99%ea%b8%80/</guid>
-            <pubDate>Fri, 23 Jun 2023 03:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[변하은]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B3%80%ED%95%98%EC%9D%80_%EB%B9%99%EA%B8%80%EB%B9%99%EA%B8%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2/4분기 실적보고서]]></title>
             <link>http://mirrorballmusic.co.kr/albums/2-4%eb%b6%84%ea%b8%b0-%ec%8b%a4%ec%a0%81%eb%b3%b4%ea%b3%a0%ec%84%9c/</link>
             <guid>http://mirrorballmusic.co.kr/albums/2-4%eb%b6%84%ea%b8%b0-%ec%8b%a4%ec%a0%81%eb%b3%b4%ea%b3%a0%ec%84%9c/</guid>
             <pubDate>Fri, 23 Jun 2023 03:33:00 GMT</pubDate>
             <content:encoded><![CDATA[전파상사]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%84%ED%8C%8C%EC%83%81%EC%82%AC_2-4%EB%B6%84%EA%B8%B0-%EC%8B%A4%EC%A0%81%EB%B3%B4%EA%B3%A0%EC%84%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빙글빙글]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%99%ea%b8%80%eb%b9%99%ea%b8%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%99%ea%b8%80%eb%b9%99%ea%b8%80/</guid>
+            <pubDate>Fri, 23 Jun 2023 03:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[변하은]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B3%80%ED%95%98%EC%9D%80_%EB%B9%99%EA%B8%80%EB%B9%99%EA%B8%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고슴도치]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 14 Jun 2023 03:15:57 GMT</pubDate>
             <content:encoded><![CDATA[TK]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_TK_BAD-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love in The Air]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/love-in-the-air/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/love-in-the-air/</guid>
-            <pubDate>Wed, 14 Jun 2023 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[nawhij, I'MIN]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_nawhij-IMIN_Love-in-The-Air-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멀미 (Prod. ojyun) (feat. anna)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%a9%80%eb%af%b8-prod-ojyun-feat-anna/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%a9%80%eb%af%b8-prod-ojyun-feat-anna/</guid>
-            <pubDate>Wed, 14 Jun 2023 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[tang.erine]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_tang.erine_%EB%A9%80%EB%AF%B8-Prod.-ojyun-feat.anna-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
