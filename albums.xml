@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 02:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 03:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bright & Light]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/bright-light-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/bright-light-2/</guid>
+            <pubDate>Fri, 30 Jun 2023 03:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Bright-Light-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말해줘]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%90%ed%95%b4%ec%a4%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%90%ed%95%b4%ec%a4%98/</guid>
+            <pubDate>Fri, 30 Jun 2023 03:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[이나현 (LeeNa)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%82%98%ED%98%84-LeeNa_%EB%A7%90%ED%95%B4%EC%A4%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일종의 레슨 (prod. 최용환)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ec%a2%85%ec%9d%98-%eb%a0%88%ec%8a%a8-prod-%ec%b5%9c%ec%9a%a9%ed%99%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ec%a2%85%ec%9d%98-%eb%a0%88%ec%8a%a8-prod-%ec%b5%9c%ec%9a%a9%ed%99%98/</guid>
+            <pubDate>Fri, 30 Jun 2023 03:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[그냥준수 (of 미국거지)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B7%B8%EB%83%A5%EC%A4%80%EC%88%98-of-%EB%AF%B8%EA%B5%AD%EA%B1%B0%EC%A7%80_%EC%9D%BC%EC%A2%85%EC%9D%98-%EB%A0%88%EC%8A%A8-prod.-%EC%B5%9C%EC%9A%A9%ED%99%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[책갈피]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%b1%85%ea%b0%88%ed%94%bc/</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 20 Jun 2023 03:15:57 GMT</pubDate>
             <content:encoded><![CDATA[최승훈]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%8A%B9%ED%9B%88_%EA%B7%B8-%EC%8B%9C%EC%A0%88-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%82%AC%EB%9E%91%ED%96%88%EB%8D%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴근송]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%87%b4%ea%b7%bc%ec%86%a1/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%87%b4%ea%b7%bc%ec%86%a1/</guid>
-            <pubDate>Mon, 19 Jun 2023 03:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[홈메이드레코딩]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%88%EB%A9%94%EC%9D%B4%EB%93%9C%EB%A0%88%EC%BD%94%EB%94%A9_%ED%87%B4%EA%B7%BC%EC%86%A1-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Time, Light and Dark (光陰)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/time-light-and-dark-%e5%85%89%e9%99%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/time-light-and-dark-%e5%85%89%e9%99%b0/</guid>
-            <pubDate>Mon, 19 Jun 2023 03:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[유동 (侑彤, Verity)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%EB%8F%99-%E4%BE%91%E5%BD%A4-Verity_Time-Light-and-Dark-%E5%85%89%E9%99%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사람 사는 세상]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%8c-%ec%82%ac%eb%8a%94-%ec%84%b8%ec%83%81/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%8c-%ec%82%ac%eb%8a%94-%ec%84%b8%ec%83%81/</guid>
-            <pubDate>Sun, 18 Jun 2023 03:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[권우유 (KwonMilk)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B6%8C%EC%9A%B0%EC%9C%A0-KwonMilk_%EC%82%AC%EB%9E%8C-%EC%82%AC%EB%8A%94-%EC%84%B8%EC%83%81-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
