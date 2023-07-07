@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 02:58:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 03:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rock Star (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/rock-star/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/rock-star/</guid>
+            <pubDate>Fri, 07 Jul 2023 03:28:55 GMT</pubDate>
+            <content:encoded><![CDATA[뷰렛]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B7%B0%EB%A0%9B_Rock-Star-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바다를 보았네 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4%eb%a5%bc-%eb%b3%b4%ec%95%98%eb%84%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4%eb%a5%bc-%eb%b3%b4%ec%95%98%eb%84%a4/</guid>
+            <pubDate>Fri, 07 Jul 2023 03:28:55 GMT</pubDate>
+            <content:encoded><![CDATA[솔가]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%94%EA%B0%80_%EB%B0%94%EB%8B%A4%EB%A5%BC-%EB%B3%B4%EC%95%98%EB%84%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sprinkle! (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sprinkle/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sprinkle/</guid>
+            <pubDate>Fri, 07 Jul 2023 03:28:55 GMT</pubDate>
+            <content:encoded><![CDATA[취향상점 (Tasty Shop)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B7%A8%ED%96%A5%EC%83%81%EC%A0%90-Tasty-Shop_Sprinkle-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ZERO SUGAR (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/zero-sugar/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/zero-sugar/</guid>
+            <pubDate>Fri, 07 Jul 2023 03:28:55 GMT</pubDate>
+            <content:encoded><![CDATA[두솜 (dusom)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%91%90%EC%86%9C-dusom_ZERO-SUGAR-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ENERGY DRINK (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/energy-drink/</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 09:16:42 GMT</pubDate>
             <content:encoded><![CDATA[슬로디 (Slou.D)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8A%AC%EB%A1%9C%EB%94%94-Slou.D_%EB%84%88%EB%A1%9C-%EA%B0%80%EB%93%9D%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YA (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/ya/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/ya/</guid>
-            <pubDate>Tue, 27 Jun 2023 03:31:48 GMT</pubDate>
-            <content:encoded><![CDATA[가테 (Ga Teh)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%80%ED%85%8C-Ga-Teh_YA-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀찮아 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%80%ec%b0%ae%ec%95%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%80%ec%b0%ae%ec%95%84/</guid>
-            <pubDate>Tue, 27 Jun 2023 03:31:48 GMT</pubDate>
-            <content:encoded><![CDATA[권한경]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EA%B6%8C%ED%95%9C%EA%B2%BD-%EA%B7%80%EC%B0%AE%EC%95%84-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Open Sesame (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/open-sesame/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/open-sesame/</guid>
-            <pubDate>Mon, 26 Jun 2023 03:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%8C%EB%A0%88%ED%94%84-ALEPH_Open-Sesame-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Modern Kidults (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/modern-kidults/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/modern-kidults/</guid>
-            <pubDate>Mon, 26 Jun 2023 03:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[Kunoo]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kunoo_Modern-Kidults-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.247 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
