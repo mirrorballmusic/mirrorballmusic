@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 01:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 03:31:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sunny Morning (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sunny-morning/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sunny-morning/</guid>
+            <pubDate>Thu, 13 Jul 2023 03:30:55 GMT</pubDate>
+            <content:encoded><![CDATA[청춘낭만사 (GSR), 필통]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B2%AD%EC%B6%98%EB%82%AD%EB%A7%8C%EC%82%AC-GSR-%ED%95%84%ED%86%B5_Sunny-Morning-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 계속 사랑을 하자 (feat. 김형준) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ea%b3%84%ec%86%8d-%ec%82%ac%eb%9e%91%ec%9d%84-%ed%95%98%ec%9e%90-feat-%ea%b9%80%ed%98%95%ec%a4%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ea%b3%84%ec%86%8d-%ec%82%ac%eb%9e%91%ec%9d%84-%ed%95%98%ec%9e%90-feat-%ea%b9%80%ed%98%95%ec%a4%80/</guid>
+            <pubDate>Thu, 13 Jul 2023 03:30:55 GMT</pubDate>
+            <content:encoded><![CDATA[한음]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EC%9D%8C_%EC%9A%B0%EB%A6%AC-%EA%B3%84%EC%86%8D-%EC%82%AC%EB%9E%91%EC%9D%84-%ED%95%98%EC%9E%90-feat.-%EA%B9%80%ED%98%95%EC%A4%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Closed My Mind (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/closed-my-mind/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/closed-my-mind/</guid>
+            <pubDate>Thu, 13 Jul 2023 03:30:55 GMT</pubDate>
+            <content:encoded><![CDATA[BIG PANTS GUYS]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BIG-PANTS-GUYS_Closed-My-Mind-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mercedes Girl (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/mercedes-girl/</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 03 Jul 2023 03:27:28 GMT</pubDate>
             <content:encoded><![CDATA[향니]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%96%A5%EB%8B%88_%ED%95%98%EB%8A%98%EC%9D%84-%EB%82%A0%EC%95%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[True (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/true/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/true/</guid>
-            <pubDate>Mon, 03 Jul 2023 03:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[ANTHONY]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/True_album_cover-final-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daydream (feat. Summer Soul) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/daydream-feat-summer-soul/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/daydream-feat-summer-soul/</guid>
-            <pubDate>Mon, 03 Jul 2023 03:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[sense bleu]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_sense-bleu_Daydream-feat.-Summer-Soul-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%95%a8%ea%bb%98/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%95%a8%ea%bb%98/</guid>
-            <pubDate>Mon, 03 Jul 2023 03:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[Kekoa (케코아)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kekoa-%EC%BC%80%EC%BD%94%EC%95%84_%ED%95%A8%EA%BB%98-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.247 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
