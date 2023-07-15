@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 01:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 03:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴가 주세요 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%9c%b4%ea%b0%80-%ec%a3%bc%ec%84%b8%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%9c%b4%ea%b0%80-%ec%a3%bc%ec%84%b8%ec%9a%94/</guid>
+            <pubDate>Sat, 15 Jul 2023 03:01:48 GMT</pubDate>
+            <content:encoded><![CDATA[홈메이드레코딩]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%88%EB%A9%94%EC%9D%B4%EB%93%9C%EB%A0%88%EC%BD%94%EB%94%A9_%ED%9C%B4%EA%B0%80-%EC%A3%BC%EC%84%B8%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부스러기 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b6%80%ec%8a%a4%eb%9f%ac%ea%b8%b0/</link>
@@ -240,12 +248,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8D%95%EC%9D%B4408_%EC%9D%B4%EA%B2%8C-%EC%82%AC%EB%9E%91%EC%9D%B8-%EA%B1%B8%EA%B9%8C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[WHAT DO YOU DREAM AT NIGHT? (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/what-do-you-dream-at-night/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/what-do-you-dream-at-night/</guid>
-            <pubDate>Wed, 05 Jul 2023 03:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[Hayoung]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Hayoung_WHAT-DO-YOU-DREAM-AT-NIGHT-2-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.248 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-248/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-248/</guid>
+            <pubDate>Sat, 15 Jul 2023 03:01:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11 ~ 2023.06.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EA%B0%95%EC%95%84%EC%86%94-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.247 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -334,14 +342,6 @@
             <pubDate>Tue, 21 Feb 2023 20:19:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.26 ~ 2023.01.10]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/01/%ED%81%AC%EB%A5%B4%EB%A5%B4-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.236 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-236/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-236/</guid>
-            <pubDate>Tue, 21 Feb 2023 20:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.11~2022.12.25]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/01/%ED%97%88%ED%9A%8C%EA%B2%BD-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
