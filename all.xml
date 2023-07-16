@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 01:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 03:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cricket and Lavender (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/cricket-and-lavender/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/cricket-and-lavender/</guid>
+            <pubDate>Sun, 16 Jul 2023 03:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[NEON (네온)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_NEON-%EB%84%A4%EC%98%A8_Cricket-and-Lavender-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휴가 주세요 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%9c%b4%ea%b0%80-%ec%a3%bc%ec%84%b8%ec%9a%94/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Jul 2023 03:31:46 GMT</pubDate>
             <content:encoded><![CDATA[피아노 제제]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%BC%EC%95%84%EB%85%B8-%EC%A0%9C%EC%A0%9C_%EB%B9%84%EC%9D%98-%EA%B3%84%EC%A0%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 사랑인 걸까? (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ea%b2%8c-%ec%82%ac%eb%9e%91%ec%9d%b8-%ea%b1%b8%ea%b9%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ea%b2%8c-%ec%82%ac%eb%9e%91%ec%9d%b8-%ea%b1%b8%ea%b9%8c/</guid>
-            <pubDate>Wed, 05 Jul 2023 03:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[덕이408]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8D%95%EC%9D%B4408_%EC%9D%B4%EA%B2%8C-%EC%82%AC%EB%9E%91%EC%9D%B8-%EA%B1%B8%EA%B9%8C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.248 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
