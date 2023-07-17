@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 01:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 03:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Couch Potato (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/couch-potato/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/couch-potato/</guid>
+            <pubDate>Mon, 17 Jul 2023 03:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[허지]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%EC%A7%80_Couch-Potato-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NOMINATE (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/nominate/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/nominate/</guid>
+            <pubDate>Mon, 17 Jul 2023 03:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[서안 (SEOAN)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%95%88-SEOAN_NOMINATE-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mystery Story (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/mystery-story/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/mystery-story/</guid>
+            <pubDate>Mon, 17 Jul 2023 03:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[김화종]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%ED%99%94%EC%A2%85_Mystery-Story-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cricket and Lavender (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/cricket-and-lavender/</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 06 Jul 2023 03:33:16 GMT</pubDate>
             <content:encoded><![CDATA[Asian Boys, Crying 아시안 보이즈 크라잉]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Asian-Boys-Crying-%EC%95%84%EC%8B%9C%EC%95%88-%EB%B3%B4%EC%9D%B4%EC%A6%88-%ED%81%AC%EB%9D%BC%EC%9E%89_a-s-l-o-w-l-o-s-s-o-f-a-g-e-n-c-y-2-1-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리에게 있던 날들 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%97%90%ea%b2%8c-%ec%9e%88%eb%8d%98-%eb%82%a0%eb%93%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%97%90%ea%b2%8c-%ec%9e%88%eb%8d%98-%eb%82%a0%eb%93%a4/</guid>
-            <pubDate>Thu, 06 Jul 2023 03:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[니하]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%88%ED%95%98_%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C-%EC%9E%88%EB%8D%98-%EB%82%A0%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그늘 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8a%98-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8a%98-2/</guid>
-            <pubDate>Wed, 05 Jul 2023 03:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[네쉬핍 (Nashpeep)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%84%A4%EC%89%AC%ED%95%8D-Nashpeep_%EA%B7%B8%EB%8A%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비의 계절 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%84%ec%9d%98-%ea%b3%84%ec%a0%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%84%ec%9d%98-%ea%b3%84%ec%a0%88/</guid>
-            <pubDate>Wed, 05 Jul 2023 03:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[피아노 제제]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%BC%EC%95%84%EB%85%B8-%EC%A0%9C%EC%A0%9C_%EB%B9%84%EC%9D%98-%EA%B3%84%EC%A0%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.248 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
