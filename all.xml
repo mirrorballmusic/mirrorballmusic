@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 03:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 03:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[64 see me (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/64-see-me/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/64-see-me/</guid>
+            <pubDate>Tue, 18 Jul 2023 03:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[OVerdrive Philosophy]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_OVerdrive-Philosophy_64-see-me-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청춘가 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b2%ad%ec%b6%98%ea%b0%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b2%ad%ec%b6%98%ea%b0%80/</guid>
+            <pubDate>Tue, 18 Jul 2023 03:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[장소영]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%A5%EC%86%8C%EC%98%81_%EC%B2%AD%EC%B6%98%EA%B0%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer hater (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/summer-hater/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/summer-hater/</guid>
+            <pubDate>Tue, 18 Jul 2023 03:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[sodi (신지혜)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_sodi-%EC%8B%A0%EC%A7%80%ED%98%9C_Summer-hater-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Couch Potato (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/couch-potato/</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 07 Jul 2023 03:28:55 GMT</pubDate>
             <content:encoded><![CDATA[취향상점 (Tasty Shop)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B7%A8%ED%96%A5%EC%83%81%EC%A0%90-Tasty-Shop_Sprinkle-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ZERO SUGAR (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/zero-sugar/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/zero-sugar/</guid>
-            <pubDate>Fri, 07 Jul 2023 03:28:55 GMT</pubDate>
-            <content:encoded><![CDATA[두솜 (dusom)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%91%90%EC%86%9C-dusom_ZERO-SUGAR-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENERGY DRINK (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/energy-drink/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/energy-drink/</guid>
-            <pubDate>Thu, 06 Jul 2023 03:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[롱디 (LONG:D), LUZY]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A1%B1%EB%94%94-LONG-D-LUZY_ENERGY-DRINK-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[a s l o w l o s s o f a g e n c y (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/a-s-l-o-w-l-o-s-s-o-f-a-g-e-n-c-y/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/a-s-l-o-w-l-o-s-s-o-f-a-g-e-n-c-y/</guid>
-            <pubDate>Thu, 06 Jul 2023 03:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[Asian Boys, Crying 아시안 보이즈 크라잉]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Asian-Boys-Crying-%EC%95%84%EC%8B%9C%EC%95%88-%EB%B3%B4%EC%9D%B4%EC%A6%88-%ED%81%AC%EB%9D%BC%EC%9E%89_a-s-l-o-w-l-o-s-s-o-f-a-g-e-n-c-y-2-1-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.248 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
