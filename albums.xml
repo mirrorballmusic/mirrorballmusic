@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 08:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 09:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hi, Hello]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/hi-hello/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/hi-hello/</guid>
+            <pubDate>Wed, 19 Jul 2023 09:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[Jaw (죠)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jaw-%EC%A3%A0_Hi-Hello-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밧줄을 잡고 정상으로]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b0%a7%ec%a4%84%ec%9d%84-%ec%9e%a1%ea%b3%a0-%ec%a0%95%ec%83%81%ec%9c%bc%eb%a1%9c/</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Jul 2023 03:30:55 GMT</pubDate>
             <content:encoded><![CDATA[프롬마스 (FROMMARS)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%84%EB%A1%AC%EB%A7%88%EC%8A%A4-FROMMARS_SYNC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rock Star]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/rock-star/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/rock-star/</guid>
-            <pubDate>Fri, 07 Jul 2023 03:28:55 GMT</pubDate>
-            <content:encoded><![CDATA[뷰렛]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B7%B0%EB%A0%9B_Rock-Star-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
