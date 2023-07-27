@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 07:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 08:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9D%AC%EC%A3%BC_%EC%97%AC%EB%A6%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%84%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Starlight]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/starlight-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/starlight-2/</guid>
-            <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[Monday Feeling]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2018/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Monday-Feeling_Starlight-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Straight To You]]></title>
             <link>http://mirrorballmusic.co.kr/albums/straight-to-you/</link>
             <guid>http://mirrorballmusic.co.kr/albums/straight-to-you/</guid>
             <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
             <content:encoded><![CDATA[IZON]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_IZON_Straight-To-You-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starlight]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/starlight-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/starlight-2/</guid>
+            <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[Monday Feeling]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2018/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Monday-Feeling_Starlight-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STORY#27]]></title>
