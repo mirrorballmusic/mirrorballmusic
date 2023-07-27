@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 02:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 03:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노들섬 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%93%a4%ec%84%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%93%a4%ec%84%ac/</guid>
+            <pubDate>Thu, 27 Jul 2023 03:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[디너코트 (Dinner Coat)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%94%94%EB%84%88%EC%BD%94%ED%8A%B8-Dinner-Coat_%EB%85%B8%EB%93%A4%EC%84%AC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새빨간 고백 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%83%88%eb%b9%a8%ea%b0%84-%ea%b3%a0%eb%b0%b1/</link>
@@ -48,20 +56,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9D%AC%EC%A3%BC_%EC%97%AC%EB%A6%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%84%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Starlight (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/starlight-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/starlight-2/</guid>
-            <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[Monday Feeling]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2018/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Monday-Feeling_Starlight-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Straight To You (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/straight-to-you/</link>
             <guid>http://mirrorballmusic.co.kr/albums/straight-to-you/</guid>
             <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
             <content:encoded><![CDATA[IZON]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_IZON_Straight-To-You-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starlight (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/starlight-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/starlight-2/</guid>
+            <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[Monday Feeling]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2018/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Monday-Feeling_Starlight-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STORY#27 (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 04:19:48 GMT</pubDate>
             <content:encoded><![CDATA[U.Ni]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_U.Ni_texture-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inter high (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/inter-high/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/inter-high/</guid>
-            <pubDate>Fri, 14 Jul 2023 04:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[Cosmic Comics]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Cosmic-Comics_Inter-high-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.248 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
