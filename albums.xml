@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 02:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 03:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beautiful Dream]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/beautiful-dream/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/beautiful-dream/</guid>
+            <pubDate>Sun, 30 Jul 2023 03:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Beautiful-Dream-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Another Day]]></title>
             <link>http://mirrorballmusic.co.kr/albums/another-day/</link>
@@ -96,20 +104,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9D%AC%EC%A3%BC_%EC%97%AC%EB%A6%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%84%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Starlight]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/starlight-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/starlight-2/</guid>
-            <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[Monday Feeling]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2018/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Monday-Feeling_Starlight-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Straight To You]]></title>
             <link>http://mirrorballmusic.co.kr/albums/straight-to-you/</link>
             <guid>http://mirrorballmusic.co.kr/albums/straight-to-you/</guid>
             <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
             <content:encoded><![CDATA[IZON]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_IZON_Straight-To-You-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starlight]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/starlight-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/starlight-2/</guid>
+            <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[Monday Feeling]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2018/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Monday-Feeling_Starlight-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STORY#27]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Jul 2023 03:04:09 GMT</pubDate>
             <content:encoded><![CDATA[서안 (SEOAN)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%95%88-SEOAN_NOMINATE-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mystery Story]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/mystery-story/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/mystery-story/</guid>
-            <pubDate>Mon, 17 Jul 2023 03:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[김화종]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%ED%99%94%EC%A2%85_Mystery-Story-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
