@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 02:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 03:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Summer Night (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/summer-night/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/summer-night/</guid>
+            <pubDate>Tue, 01 Aug 2023 03:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[Ezzle (이즐)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Ezzle-%EC%9D%B4%EC%A6%90_Summer-Night-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[After Coldsnap Before Cloudburst (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/after-coldsnap-before-cloudburst/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/after-coldsnap-before-cloudburst/</guid>
+            <pubDate>Tue, 01 Aug 2023 03:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[Pedals On Carpet]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Pedals-On-Carpet_After-Coldsnap-Before-Cloudburst-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Redline (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/redline/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/redline/</guid>
+            <pubDate>Tue, 01 Aug 2023 03:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[호선]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%98%B8%EC%84%A0_Redlline-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ALL IN (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/all-in/</link>
@@ -136,20 +160,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9D%AC%EC%A3%BC_%EC%97%AC%EB%A6%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%84%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Straight To You (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/straight-to-you/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/straight-to-you/</guid>
-            <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[IZON]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_IZON_Straight-To-You-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Starlight (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/starlight-2/</link>
             <guid>http://mirrorballmusic.co.kr/albums/starlight-2/</guid>
             <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
             <content:encoded><![CDATA[Monday Feeling]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2018/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Monday-Feeling_Starlight-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Straight To You (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/straight-to-you/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/straight-to-you/</guid>
+            <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[IZON]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_IZON_Straight-To-You-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STORY#27 (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 19 Jul 2023 09:14:55 GMT</pubDate>
             <content:encoded><![CDATA[Jaw (죠)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jaw-%EC%A3%A0_Hi-Hello-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밧줄을 잡고 정상으로 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%a7%ec%a4%84%ec%9d%84-%ec%9e%a1%ea%b3%a0-%ec%a0%95%ec%83%81%ec%9c%bc%eb%a1%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%a7%ec%a4%84%ec%9d%84-%ec%9e%a1%ea%b3%a0-%ec%a0%95%ec%83%81%ec%9c%bc%eb%a1%9c/</guid>
-            <pubDate>Wed, 19 Jul 2023 03:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[서상욱]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%83%81%EC%9A%B1_%EB%B0%A7%EC%A4%84%EC%9D%84-%EC%9E%A1%EA%B3%A0-%EC%A0%95%EC%83%81%EC%9C%BC%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dive (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/dive-4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/dive-4/</guid>
-            <pubDate>Wed, 19 Jul 2023 03:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[청요일]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B2%AD%EC%9A%94%EC%9D%BC_Dive-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[64 see me (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/64-see-me/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/64-see-me/</guid>
-            <pubDate>Tue, 18 Jul 2023 03:28:01 GMT</pubDate>
-            <content:encoded><![CDATA[OVerdrive Philosophy]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_OVerdrive-Philosophy_64-see-me-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.249 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
