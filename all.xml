@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 02:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 03:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Letter (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/letter/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/letter/</guid>
+            <pubDate>Sun, 06 Aug 2023 03:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[ECHOINSIDE (에코인사이드)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ECHOINSIDE-%EC%97%90%EC%BD%94%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C_Letter-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Brighton (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/brighton/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Jul 2023 03:15:07 GMT</pubDate>
             <content:encoded><![CDATA[이하경]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%ED%95%98%EA%B2%BD_%EC%96%B4%EB%96%A4-%EC%82%AC%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름, 그리고 너 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%84%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%84%88/</guid>
-            <pubDate>Mon, 24 Jul 2023 03:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[희주]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9D%AC%EC%A3%BC_%EC%97%AC%EB%A6%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%84%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.249 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
