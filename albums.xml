@@ -4,9 +4,25 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 02:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 03:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Summer Fever]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/summer-fever/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/summer-fever/</guid>
+            <pubDate>Tue, 08 Aug 2023 03:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[Soffee, Joy Yoon]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Soffee-Joy-Yoon_Summer-Fever-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름의 1층]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84%ec%9d%98-1%ec%b8%b5/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84%ec%9d%98-1%ec%b8%b5/</guid>
+            <pubDate>Tue, 08 Aug 2023 03:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[보허미안 (boHUHmian)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B3%B4%ED%97%88%EB%AF%B8%EC%95%88-boHUHmian_%EC%97%AC%EB%A6%84%EC%9D%98-1%EC%B8%B5-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Raven (Odin’s)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/raven-odins/</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 27 Jul 2023 03:14:25 GMT</pubDate>
             <content:encoded><![CDATA[디너코트 (Dinner Coat)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%94%94%EB%84%88%EC%BD%94%ED%8A%B8-Dinner-Coat_%EB%85%B8%EB%93%A4%EC%84%AC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새빨간 고백]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%83%88%eb%b9%a8%ea%b0%84-%ea%b3%a0%eb%b0%b1/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%83%88%eb%b9%a8%ea%b0%84-%ea%b3%a0%eb%b0%b1/</guid>
-            <pubDate>Wed, 26 Jul 2023 03:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[정가이 (와인루프)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EA%B0%80%EC%9D%B4-%EC%99%80%EC%9D%B8%EB%A3%A8%ED%94%84_%EC%83%88%EB%B9%A8%EA%B0%84-%EA%B3%A0%EB%B0%B1-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해가 나를 밀어내던 밤]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%95%b4%ea%b0%80-%eb%82%98%eb%a5%bc-%eb%b0%80%ec%96%b4%eb%82%b4%eb%8d%98-%eb%b0%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%95%b4%ea%b0%80-%eb%82%98%eb%a5%bc-%eb%b0%80%ec%96%b4%eb%82%b4%eb%8d%98-%eb%b0%a4/</guid>
-            <pubDate>Wed, 26 Jul 2023 03:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[Papa The Cop (파파더캅)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Papa-The-Cop-%ED%8C%8C%ED%8C%8C%EB%8D%94%EC%BA%85_%ED%95%B4%EA%B0%80-%EB%82%98%EB%A5%BC-%EB%B0%80%EC%96%B4%EB%82%B4%EB%8D%98-%EB%B0%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
