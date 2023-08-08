@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 08:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 09:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다정한 혁명 (Da-Jung Punk Generation)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%ec%a0%95%ed%95%9c-%ed%98%81%eb%aa%85-da-jung-punk-generation/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%ec%a0%95%ed%95%9c-%ed%98%81%eb%aa%85-da-jung-punk-generation/</guid>
+            <pubDate>Tue, 08 Aug 2023 09:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[로맨틱펀치 (Romantic Punch)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A1%9C%EB%A7%A8%ED%8B%B1%ED%8E%80%EC%B9%98-Romantic-Punch_%EB%8B%A4%EC%A0%95%ED%95%9C-%ED%98%81%EB%AA%85-Da-Jung-Punk-Generation-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Summer Fever]]></title>
             <link>http://mirrorballmusic.co.kr/albums/summer-fever/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 03:14:17 GMT</pubDate>
             <content:encoded><![CDATA[지음 (JIEUM)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A7%80%EC%9D%8C-JIEUM_%EC%A7%80%EA%B8%88-%EC%9D%B4%EB%8C%80%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노들섬]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%93%a4%ec%84%ac/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%93%a4%ec%84%ac/</guid>
-            <pubDate>Thu, 27 Jul 2023 03:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[디너코트 (Dinner Coat)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%94%94%EB%84%88%EC%BD%94%ED%8A%B8-Dinner-Coat_%EB%85%B8%EB%93%A4%EC%84%AC-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
