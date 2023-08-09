@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 02:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 03:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장마]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%a5%eb%a7%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%a5%eb%a7%88/</guid>
+            <pubDate>Wed, 09 Aug 2023 03:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Mingginyu-%EB%B0%8D%EA%B8%B0%EB%89%B4_%EC%9E%A5%EB%A7%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그럴 수 있잖아요]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9f%b4-%ec%88%98-%ec%9e%88%ec%9e%96%ec%95%84%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9f%b4-%ec%88%98-%ec%9e%88%ec%9e%96%ec%95%84%ec%9a%94/</guid>
+            <pubDate>Wed, 09 Aug 2023 03:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[이승현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%8A%B9%ED%98%84_%EA%B7%B8%EB%9F%B4-%EC%88%98-%EC%9E%88%EC%9E%96%EC%95%84%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Whatever]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/whatever/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/whatever/</guid>
+            <pubDate>Wed, 09 Aug 2023 03:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[BILLOWY (빌로위)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BILLOWY-%EB%B9%8C%EB%A1%9C%EC%9C%84_Whatever-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다정한 혁명 (Da-Jung Punk Generation)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%ec%a0%95%ed%95%9c-%ed%98%81%eb%aa%85-da-jung-punk-generation/</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 03:14:17 GMT</pubDate>
             <content:encoded><![CDATA[최수웅]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%88%98%EC%9B%85_%EC%86%8C%EB%A6%AC%EC%97%86%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blue Hour]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/blue-hour/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/blue-hour/</guid>
-            <pubDate>Fri, 28 Jul 2023 03:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[신경숙 (Shin Kyungsook)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EA%B2%BD%EC%88%99-Shin-Kyungsook_Blue-Hour-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산책]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%82%b0%ec%b1%85-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%b0%ec%b1%85-2/</guid>
-            <pubDate>Fri, 28 Jul 2023 03:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[마린]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%EB%A6%B0_%EC%82%B0%EC%B1%85-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 이대로]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%80%ea%b8%88-%ec%9d%b4%eb%8c%80%eb%a1%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%80%ea%b8%88-%ec%9d%b4%eb%8c%80%eb%a1%9c/</guid>
-            <pubDate>Fri, 28 Jul 2023 03:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[지음 (JIEUM)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A7%80%EC%9D%8C-JIEUM_%EC%A7%80%EA%B8%88-%EC%9D%B4%EB%8C%80%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
