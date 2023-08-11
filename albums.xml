@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 02:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 03:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Seoha pt.1 가고있어]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/seoha-pt-1-%ea%b0%80%ea%b3%a0%ec%9e%88%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/seoha-pt-1-%ea%b0%80%ea%b3%a0%ec%9e%88%ec%96%b4/</guid>
+            <pubDate>Fri, 11 Aug 2023 03:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[WnB, 청춘낭만사 (GSR)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WnB-%EC%B2%AD%EC%B6%98%EB%82%AD%EB%A7%8C%EC%82%AC-GSR_Seoha-pt.1-%EA%B0%80%EA%B3%A0%EC%9E%88%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그려보자]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a0%a4%eb%b3%b4%ec%9e%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a0%a4%eb%b3%b4%ec%9e%90/</guid>
+            <pubDate>Fri, 11 Aug 2023 03:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[RI9SE]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_RI9SE_%EA%B7%B8%EB%A0%A4%EB%B3%B4%EC%9E%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고백]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%eb%b0%b1-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%eb%b0%b1-2/</guid>
+            <pubDate>Fri, 11 Aug 2023 03:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[Babymoon (베이비문)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Babymoon-%EB%B2%A0%EC%9D%B4%EB%B9%84%EB%AC%B8_%EA%B3%A0%EB%B0%B1-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바다로 간 타잔]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4%eb%a1%9c-%ea%b0%84-%ed%83%80%ec%9e%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4%eb%a1%9c-%ea%b0%84-%ed%83%80%ec%9e%94/</guid>
+            <pubDate>Fri, 11 Aug 2023 03:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[다하다]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%A4%ED%95%98%EB%8B%A4_%EB%B0%94%EB%8B%A4%EB%A1%9C-%EA%B0%84-%ED%83%80%EC%9E%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너는 없었다]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%8a%94-%ec%97%86%ec%97%88%eb%8b%a4/</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 01 Aug 2023 03:16:08 GMT</pubDate>
             <content:encoded><![CDATA[Pedals On Carpet]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Pedals-On-Carpet_After-Coldsnap-Before-Cloudburst-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Redline]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/redline/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/redline/</guid>
-            <pubDate>Tue, 01 Aug 2023 03:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[호선]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%98%B8%EC%84%A0_Redlline-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALL IN]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/all-in/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/all-in/</guid>
-            <pubDate>Mon, 31 Jul 2023 03:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[게이트 플라워즈]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B2%8C%EC%9D%B4%ED%8A%B8-%ED%94%8C%EB%9D%BC%EC%9B%8C%EC%A6%88_ALL-IN-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나에겐 착한 개가 돼라]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%ec%97%90%ea%b2%90-%ec%b0%a9%ed%95%9c-%ea%b0%9c%ea%b0%80-%eb%8f%bc%eb%9d%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%ec%97%90%ea%b2%90-%ec%b0%a9%ed%95%9c-%ea%b0%9c%ea%b0%80-%eb%8f%bc%eb%9d%bc/</guid>
-            <pubDate>Mon, 31 Jul 2023 03:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[플라잉독]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%8C%EB%9D%BC%EC%9E%89%EB%8F%85_%EB%82%98%EC%97%90%EA%B2%90-%EC%B0%A9%ED%95%9C-%EA%B0%9C%EA%B0%80-%EB%8F%BC%EB%9D%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer Jealousy]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/summer-jealousy/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/summer-jealousy/</guid>
-            <pubDate>Mon, 31 Jul 2023 03:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[우프]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%B0%ED%94%84_Summer-Jealousy-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
