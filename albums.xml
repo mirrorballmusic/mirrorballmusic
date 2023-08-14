@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 02:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 03:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 방]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%eb%b0%a9/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%eb%b0%a9/</guid>
+            <pubDate>Mon, 14 Aug 2023 03:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[박한, 강파소]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%ED%95%9C-%EA%B0%95%ED%8C%8C%EC%86%8C_%EA%B7%B8-%EB%B0%A9-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[날 살리는 건 너의 다정함]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%a0-%ec%82%b4%eb%a6%ac%eb%8a%94-%ea%b1%b4-%eb%84%88%ec%9d%98-%eb%8b%a4%ec%a0%95%ed%95%a8/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%a0-%ec%82%b4%eb%a6%ac%eb%8a%94-%ea%b1%b4-%eb%84%88%ec%9d%98-%eb%8b%a4%ec%a0%95%ed%95%a8/</guid>
+            <pubDate>Mon, 14 Aug 2023 03:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[민주희]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AF%BC%EC%A3%BC%ED%9D%AC_%EB%82%A0-%EC%82%B4%EB%A6%AC%EB%8A%94-%EA%B1%B4-%EB%84%88%EC%9D%98-%EB%8B%A4%EC%A0%95%ED%95%A8-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[C열 08번]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/c%ec%97%b4-08%eb%b2%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/c%ec%97%b4-08%eb%b2%88/</guid>
+            <pubDate>Mon, 14 Aug 2023 03:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[은결]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%80%EA%B2%B0_C%EC%97%B408%EB%B2%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fiction]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/fiction/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/fiction/</guid>
+            <pubDate>Mon, 14 Aug 2023 03:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[퍼플오션 (Purple Ocean)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8D%BC%ED%94%8C%EC%98%A4%EC%85%98-Purple-Ocean_Fiction-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I Don’t Know]]></title>
             <link>http://mirrorballmusic.co.kr/albums/i-dont-know-3/</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 03 Aug 2023 03:14:53 GMT</pubDate>
             <content:encoded><![CDATA[권한경]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B6%8C%ED%95%9C%EA%B2%BD_%ED%9E%88%ED%9E%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기억은 비처럼]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ec%96%b5%ec%9d%80-%eb%b9%84%ec%b2%98%eb%9f%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ec%96%b5%ec%9d%80-%eb%b9%84%ec%b2%98%eb%9f%bc/</guid>
-            <pubDate>Wed, 02 Aug 2023 03:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[클래디 (ClaD)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%81%B4%EB%9E%98%EB%94%94-ClaD_%EA%B8%B0%EC%96%B5%EC%9D%80-%EB%B9%84%EC%B2%98%EB%9F%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구름을 걸으며 (Walking in the Clouds)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b5%ac%eb%a6%84%ec%9d%84-%ea%b1%b8%ec%9c%bc%eb%a9%b0-walking-in-the-clouds/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b5%ac%eb%a6%84%ec%9d%84-%ea%b1%b8%ec%9c%bc%eb%a9%b0-walking-in-the-clouds/</guid>
-            <pubDate>Wed, 02 Aug 2023 03:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[김경호 (아코디언 킴)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EA%B2%BD%ED%98%B8-%EC%95%84%EC%BD%94%EB%94%94%EC%96%B8-%ED%82%B4_%EA%B5%AC%EB%A6%84%EC%9D%84-%EA%B1%B8%EC%9C%BC%EB%A9%B0-Walking-in-the-Clouds-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크루즈]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%81%ac%eb%a3%a8%ec%a6%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%81%ac%eb%a3%a8%ec%a6%88/</guid>
-            <pubDate>Wed, 02 Aug 2023 03:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[조태준]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%ED%83%9C%EC%A4%80_%ED%81%AC%EB%A3%A8%EC%A6%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방법]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%a9%eb%b2%95/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%a9%eb%b2%95/</guid>
-            <pubDate>Wed, 02 Aug 2023 03:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[도시정전]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8F%84%EC%8B%9C%EC%A0%95%EC%A0%84_%EB%B0%A9%EB%B2%95-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
