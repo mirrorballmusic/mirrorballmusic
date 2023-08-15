@@ -4,9 +4,25 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 02:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 03:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미완성 I]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%99%84%ec%84%b1-i/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%99%84%ec%84%b1-i/</guid>
+            <pubDate>Tue, 15 Aug 2023 03:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[옛그리움 (Old Yearning)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%9B%EA%B7%B8%EB%A6%AC%EC%9B%80-Old-Yearning_%EB%AF%B8%EC%99%84%EC%84%B1-I-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HASY]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/hasy/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/hasy/</guid>
+            <pubDate>Tue, 15 Aug 2023 03:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[BILLER]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BILLER_HASY-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 방]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%eb%b0%a9/</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 04 Aug 2023 03:15:02 GMT</pubDate>
             <content:encoded><![CDATA[8호실 peridot]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_8%ED%98%B8%EC%8B%A4-peridot_she-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sun Shower]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/sun-shower-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/sun-shower-2/</guid>
-            <pubDate>Thu, 03 Aug 2023 03:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[라디오 파라다이스 (Radio Paradise)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9D%BC%EB%94%94%EC%98%A4-%ED%8C%8C%EB%9D%BC%EB%8B%A4%EC%9D%B4%EC%8A%A4-Radio-Paradise_Sun-Shower-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히히]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%9e%88%ed%9e%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%9e%88%ed%9e%88/</guid>
-            <pubDate>Thu, 03 Aug 2023 03:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[권한경]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B6%8C%ED%95%9C%EA%B2%BD_%ED%9E%88%ED%9E%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
