@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 02:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 03:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자격 없어 (feat. 안재우)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%90%ea%b2%a9-%ec%97%86%ec%96%b4-feat-%ec%95%88%ec%9e%ac%ec%9a%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%90%ea%b2%a9-%ec%97%86%ec%96%b4-feat-%ec%95%88%ec%9e%ac%ec%9a%b0/</guid>
+            <pubDate>Wed, 16 Aug 2023 03:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[Bas Bao (바스바오)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Bas-Bao-%EB%B0%94%EC%8A%A4%EB%B0%94%EC%98%A4_%EC%9E%90%EA%B2%A9-%EC%97%86%EC%96%B4-feat.-%EC%95%88%EC%9E%AC%EC%9A%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음음음]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%8c%ec%9d%8c%ec%9d%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%8c%ec%9d%8c%ec%9d%8c/</guid>
+            <pubDate>Wed, 16 Aug 2023 03:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[서상욱]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%83%81%EC%9A%B1_%EC%9D%8C%EC%9D%8C%EC%9D%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lasso (feat. MADDYXP)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/lasso-feat-maddyxp/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/lasso-feat-maddyxp/</guid>
+            <pubDate>Wed, 16 Aug 2023 03:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[ZWOO]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ZWOO_Lasso-feat.-MADDYXP-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힘빼 (Relax)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%9e%98%eb%b9%bc-relax/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%9e%98%eb%b9%bc-relax/</guid>
+            <pubDate>Wed, 16 Aug 2023 03:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[강민]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EB%AF%BC_%ED%9E%98%EB%B9%BC-Relax-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미완성 I]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%99%84%ec%84%b1-i/</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 05 Aug 2023 03:14:37 GMT</pubDate>
             <content:encoded><![CDATA[Jade (제이드)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jade-%EC%A0%9C%EC%9D%B4%EB%93%9C_Brighton-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Shelter (feat. YI SE HYUN)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/pink-shelter-feat-yi-se-hyun/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/pink-shelter-feat-yi-se-hyun/</guid>
-            <pubDate>Fri, 04 Aug 2023 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[Bravo (브라보)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84Bravo-%EB%B8%8C%EB%9D%BC%EB%B3%B4_Pink-Shelter-feat.-YI-SE-HYUN-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파란]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%eb%9e%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%eb%9e%80/</guid>
-            <pubDate>Fri, 04 Aug 2023 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[난파란]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%9C%ED%8C%8C%EB%9E%80_%ED%8C%8C%EB%9E%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강 야경]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%95%9c%ea%b0%95-%ec%95%bc%ea%b2%bd/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%95%9c%ea%b0%95-%ec%95%bc%ea%b2%bd/</guid>
-            <pubDate>Fri, 04 Aug 2023 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[잔별]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%94%EB%B3%84_%ED%95%9C%EA%B0%95-%EC%95%BC%EA%B2%BD-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[she]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/she/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/she/</guid>
-            <pubDate>Fri, 04 Aug 2023 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[8호실 peridot]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_8%ED%98%B8%EC%8B%A4-peridot_she-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
