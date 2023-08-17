@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 07:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 08:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[입을 채운 물건]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%85%ec%9d%84-%ec%b1%84%ec%9a%b4-%eb%ac%bc%ea%b1%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%85%ec%9d%84-%ec%b1%84%ec%9a%b4-%eb%ac%bc%ea%b1%b4/</guid>
+            <pubDate>Thu, 17 Aug 2023 03:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[이호석]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%ED%98%B8%EC%84%9D_%EC%9E%85%EC%9D%84-%EC%B1%84%EC%9A%B4-%EB%AC%BC%EA%B1%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Be mine]]></title>
             <link>http://mirrorballmusic.co.kr/albums/be-mine/</link>
@@ -22,14 +30,6 @@
             <pubDate>Thu, 17 Aug 2023 03:14:15 GMT</pubDate>
             <content:encoded><![CDATA[Minsung (민성)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Minsung-%EB%AF%BC%EC%84%B1_For-Lisa-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입을 채운 물건]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%85%ec%9d%84-%ec%b1%84%ec%9a%b4-%eb%ac%bc%ea%b1%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%85%ec%9d%84-%ec%b1%84%ec%9a%b4-%eb%ac%bc%ea%b1%b4/</guid>
-            <pubDate>Thu, 17 Aug 2023 03:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[이호석]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%ED%98%B8%EC%84%9D_%EC%9E%85%EC%9D%84-%EC%B1%84%EC%9A%B4-%EB%AC%BC%EA%B1%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자격 없어 (feat. 안재우)]]></title>
