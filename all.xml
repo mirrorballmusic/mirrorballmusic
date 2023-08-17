@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 02:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 03:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Be mine (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/be-mine/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/be-mine/</guid>
+            <pubDate>Thu, 17 Aug 2023 03:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[칠론 (CHILoN), 반예림]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B9%A0%EB%A1%A0-CHILoN-%EB%B0%98%EC%98%88%EB%A6%BC_Be-mine-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[For Lisa (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/for-lisa/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/for-lisa/</guid>
+            <pubDate>Thu, 17 Aug 2023 03:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[Minsung (민성)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Minsung-%EB%AF%BC%EC%84%B1_For-Lisa-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[입을 채운 물건 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%85%ec%9d%84-%ec%b1%84%ec%9a%b4-%eb%ac%bc%ea%b1%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%85%ec%9d%84-%ec%b1%84%ec%9a%b4-%eb%ac%bc%ea%b1%b4/</guid>
+            <pubDate>Thu, 17 Aug 2023 03:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[이호석]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%ED%98%B8%EC%84%9D_%EC%9E%85%EC%9D%84-%EC%B1%84%EC%9A%B4-%EB%AC%BC%EA%B1%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자격 없어 (feat. 안재우) (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9e%90%ea%b2%a9-%ec%97%86%ec%96%b4-feat-%ec%95%88%ec%9e%ac%ec%9a%b0/</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 07 Aug 2023 03:15:23 GMT</pubDate>
             <content:encoded><![CDATA[벤치위레오 (BenchWeLeo)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B2%A4%EC%B9%98%EC%9C%84%EB%A0%88%EC%98%A4BenchWeLeo_Raven-Odins-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summertime (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/summertime/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/summertime/</guid>
-            <pubDate>Mon, 07 Aug 2023 03:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[Monday Feeling]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Monday-Feeling_Summertime-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Letter (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/letter/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/letter/</guid>
-            <pubDate>Sun, 06 Aug 2023 03:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[ECHOINSIDE (에코인사이드)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ECHOINSIDE-%EC%97%90%EC%BD%94%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C_Letter-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brighton (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/brighton/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/brighton/</guid>
-            <pubDate>Sat, 05 Aug 2023 03:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[Jade (제이드)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jade-%EC%A0%9C%EC%9D%B4%EB%93%9C_Brighton-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.250 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
