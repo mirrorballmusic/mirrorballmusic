@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 02:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 03:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FHLD (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/fhld/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/fhld/</guid>
+            <pubDate>Fri, 18 Aug 2023 03:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[Sunset On The Bridge]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Sunset-On-The-Bridge_FHLD-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 여름은 가고 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4-%ec%97%ac%eb%a6%84%ec%9d%80-%ea%b0%80%ea%b3%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4-%ec%97%ac%eb%a6%84%ec%9d%80-%ea%b0%80%ea%b3%a0/</guid>
+            <pubDate>Fri, 18 Aug 2023 03:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[SAZA최우준]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SAZA%EC%B5%9C%EC%9A%B0%EC%A4%80_%EC%9D%B4-%EC%97%AC%EB%A6%84%EC%9D%80-%EA%B0%80%EA%B3%A0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BROONGBROONG (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/broongbroong/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/broongbroong/</guid>
+            <pubDate>Fri, 18 Aug 2023 03:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[에어반스(AIRVANS)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%90%EC%96%B4%EB%B0%98%EC%8A%A4-AIRVANS_BROONGBROONG-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Somewhere You Can See Me (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/somewhere-you-can-see-me/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/somewhere-you-can-see-me/</guid>
+            <pubDate>Fri, 18 Aug 2023 03:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[오드리노 (Audrey No)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EB%93%9C%EB%A6%AC%EB%85%B8-Audrey-No_Somewhere-You-Can-See-Me-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[입을 채운 물건 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9e%85%ec%9d%84-%ec%b1%84%ec%9a%b4-%eb%ac%bc%ea%b1%b4/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 09 Aug 2023 03:14:45 GMT</pubDate>
             <content:encoded><![CDATA[BILLOWY (빌로위)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BILLOWY-%EB%B9%8C%EB%A1%9C%EC%9C%84_Whatever-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다정한 혁명 (Da-Jung Punk Generation) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%ec%a0%95%ed%95%9c-%ed%98%81%eb%aa%85-da-jung-punk-generation/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%ec%a0%95%ed%95%9c-%ed%98%81%eb%aa%85-da-jung-punk-generation/</guid>
-            <pubDate>Tue, 08 Aug 2023 09:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[로맨틱펀치 (Romantic Punch)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A1%9C%EB%A7%A8%ED%8B%B1%ED%8E%80%EC%B9%98-Romantic-Punch_%EB%8B%A4%EC%A0%95%ED%95%9C-%ED%98%81%EB%AA%85-Da-Jung-Punk-Generation-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer Fever (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/summer-fever/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/summer-fever/</guid>
-            <pubDate>Tue, 08 Aug 2023 03:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[Soffee, Joy Yoon]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Soffee-Joy-Yoon_Summer-Fever-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름의 1층 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84%ec%9d%98-1%ec%b8%b5/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84%ec%9d%98-1%ec%b8%b5/</guid>
-            <pubDate>Tue, 08 Aug 2023 03:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[보허미안 (boHUHmian)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B3%B4%ED%97%88%EB%AF%B8%EC%95%88-boHUHmian_%EC%97%AC%EB%A6%84%EC%9D%98-1%EC%B8%B5-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Raven (Odin’s) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/raven-odins/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/raven-odins/</guid>
-            <pubDate>Mon, 07 Aug 2023 03:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[벤치위레오 (BenchWeLeo)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B2%A4%EC%B9%98%EC%9C%84%EB%A0%88%EC%98%A4BenchWeLeo_Raven-Odins-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.250 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
