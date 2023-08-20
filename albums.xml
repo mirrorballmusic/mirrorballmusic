@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 02:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 03:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생각보다]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%83%9d%ea%b0%81%eb%b3%b4%eb%8b%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%83%9d%ea%b0%81%eb%b3%b4%eb%8b%a4/</guid>
+            <pubDate>Sun, 20 Aug 2023 03:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[홈메이드레코딩]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%88%EB%A9%94%EC%9D%B4%EB%93%9C%EB%A0%88%EC%BD%94%EB%94%A9_%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[끝말]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%81%9d%eb%a7%90/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Aug 2023 03:14:45 GMT</pubDate>
             <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Mingginyu-%EB%B0%8D%EA%B8%B0%EB%89%B4_%EC%9E%A5%EB%A7%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그럴 수 있잖아요]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9f%b4-%ec%88%98-%ec%9e%88%ec%9e%96%ec%95%84%ec%9a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9f%b4-%ec%88%98-%ec%9e%88%ec%9e%96%ec%95%84%ec%9a%94/</guid>
-            <pubDate>Wed, 09 Aug 2023 03:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[이승현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%8A%B9%ED%98%84_%EA%B7%B8%EB%9F%B4-%EC%88%98-%EC%9E%88%EC%9E%96%EC%95%84%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
