@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 08:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 09:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 날의 우린 어디쯤 있을까 (feat. 김결) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%eb%82%a0%ec%9d%98-%ec%9a%b0%eb%a6%b0-%ec%96%b4%eb%94%94%ec%af%a4-%ec%9e%88%ec%9d%84%ea%b9%8c-feat-%ea%b9%80%ea%b2%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%eb%82%a0%ec%9d%98-%ec%9a%b0%eb%a6%b0-%ec%96%b4%eb%94%94%ec%af%a4-%ec%9e%88%ec%9d%84%ea%b9%8c-feat-%ea%b9%80%ea%b2%b0/</guid>
+            <pubDate>Mon, 21 Aug 2023 09:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[여로]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%AC%EB%A1%9C_%EA%B7%B8-%EB%82%A0%EC%9D%98-%EC%9A%B0%EB%A6%B0-%EC%96%B4%EB%94%94%EC%AF%A4-%EC%9E%88%EC%9D%84%EA%B9%8C-feat.-%EA%B9%80%EA%B2%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 밤이 지나기 전에 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4-%eb%b0%a4%ec%9d%b4-%ec%a7%80%eb%82%98%ea%b8%b0-%ec%a0%84%ec%97%90/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Aug 2023 03:14:41 GMT</pubDate>
             <content:encoded><![CDATA[차윤섭]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B0%A8%EC%9C%A4%EC%84%AD_%EB%84%88%EB%8A%94-%EC%97%86%EC%97%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lovesick (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/lovesick/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/lovesick/</guid>
-            <pubDate>Thu, 10 Aug 2023 03:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[Eisen]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Eisen_Lovesick-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.250 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
