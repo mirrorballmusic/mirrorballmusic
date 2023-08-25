@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 02:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 03:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그리워해 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a6%ac%ec%9b%8c%ed%95%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a6%ac%ec%9b%8c%ed%95%b4/</guid>
+            <pubDate>Fri, 25 Aug 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[SHUYA]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SHUYA_%EA%B7%B8%EB%A6%AC%EC%9B%8C%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[니 맘대로해 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%88-%eb%a7%98%eb%8c%80%eb%a1%9c%ed%95%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%88-%eb%a7%98%eb%8c%80%eb%a1%9c%ed%95%b4/</guid>
+            <pubDate>Fri, 25 Aug 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[신한태]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%ED%95%9C%ED%83%9C_%EB%8B%88-%EB%A7%98%EB%8C%80%EB%A1%9C%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swervin (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/swervin/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/swervin/</guid>
+            <pubDate>Fri, 25 Aug 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[WITHUS (위더스)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WITHUS-%EC%9C%84%EB%8D%94%EC%8A%A4_Swervin-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red City Remix (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/red-city-remix/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/red-city-remix/</guid>
+            <pubDate>Fri, 25 Aug 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[윌리엄 손]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%8C%EB%A6%AC%EC%97%84-%EC%86%90_Red-City-Remix-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해피엔딩 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%95%b4%ed%94%bc%ec%97%94%eb%94%a9/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 16 Aug 2023 03:14:56 GMT</pubDate>
             <content:encoded><![CDATA[ZWOO]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ZWOO_Lasso-feat.-MADDYXP-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힘빼 (Relax) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%9e%98%eb%b9%bc-relax/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%9e%98%eb%b9%bc-relax/</guid>
-            <pubDate>Wed, 16 Aug 2023 03:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[강민]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EB%AF%BC_%ED%9E%98%EB%B9%BC-Relax-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미완성 I (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%99%84%ec%84%b1-i/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%99%84%ec%84%b1-i/</guid>
-            <pubDate>Tue, 15 Aug 2023 03:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[옛그리움 (Old Yearning)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%9B%EA%B7%B8%EB%A6%AC%EC%9B%80-Old-Yearning_%EB%AF%B8%EC%99%84%EC%84%B1-I-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HASY (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/hasy/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/hasy/</guid>
-            <pubDate>Tue, 15 Aug 2023 03:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[BILLER]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BILLER_HASY-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 방 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%eb%b0%a9/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%eb%b0%a9/</guid>
-            <pubDate>Mon, 14 Aug 2023 03:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[박한, 강파소]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%ED%95%9C-%EA%B0%95%ED%8C%8C%EC%86%8C_%EA%B7%B8-%EB%B0%A9-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.250 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
