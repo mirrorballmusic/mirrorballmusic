@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 02:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 03:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RAW (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/raw/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/raw/</guid>
+            <pubDate>Sun, 27 Aug 2023 03:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[우주멍게]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%B0%EC%A3%BC%EB%A9%8D%EA%B2%8C_RAW-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나무의 노래 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%ac%b4%ec%9d%98-%eb%85%b8%eb%9e%98/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Aug 2023 03:14:56 GMT</pubDate>
             <content:encoded><![CDATA[Bas Bao (바스바오)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Bas-Bao-%EB%B0%94%EC%8A%A4%EB%B0%94%EC%98%A4_%EC%9E%90%EA%B2%A9-%EC%97%86%EC%96%B4-feat.-%EC%95%88%EC%9E%AC%EC%9A%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음음음 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%8c%ec%9d%8c%ec%9d%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%8c%ec%9d%8c%ec%9d%8c/</guid>
-            <pubDate>Wed, 16 Aug 2023 03:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[서상욱]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%83%81%EC%9A%B1_%EC%9D%8C%EC%9D%8C%EC%9D%8C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.250 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
