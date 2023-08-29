@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 02:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 03:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 파도의 춤]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8a%94-%ed%8c%8c%eb%8f%84%ec%9d%98-%ec%b6%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8a%94-%ed%8c%8c%eb%8f%84%ec%9d%98-%ec%b6%a4/</guid>
+            <pubDate>Tue, 29 Aug 2023 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[몬구]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AA%AC%EA%B5%AC_%EC%9A%B0%EB%A6%AC%EB%8A%94-%ED%8C%8C%EB%8F%84%EC%9D%98-%EC%B6%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Contradiction]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/contradiction/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/contradiction/</guid>
+            <pubDate>Tue, 29 Aug 2023 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[Cosmic Comics]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Cosmic-Comics_Contradiction-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정규 1집 “Frame”]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%95%ea%b7%9c-1%ec%a7%91-frame/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%95%ea%b7%9c-1%ec%a7%91-frame/</guid>
+            <pubDate>Tue, 29 Aug 2023 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[일렉트리]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A6%AC_%EC%A0%95%EA%B7%9C-1%EC%A7%91-Frame-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Band Vol.5 첫사랑]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/no-band-vol-5-%ec%b2%ab%ec%82%ac%eb%9e%91/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/no-band-vol-5-%ec%b2%ab%ec%82%ac%eb%9e%91/</guid>
+            <pubDate>Tue, 29 Aug 2023 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[No Band, 김바다]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_No-Band-%EA%B9%80%EB%B0%94%EB%8B%A4_No-Band-Vol.5-%EC%B2%AB%EC%82%AC%EB%9E%91-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[늦여름]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%8a%a6%ec%97%ac%eb%a6%84/</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 19 Aug 2023 03:14:18 GMT</pubDate>
             <content:encoded><![CDATA[임보라]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%84%EB%B3%B4%EB%9D%BC_%EB%81%9D%EB%A7%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 여름은 가고]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4-%ec%97%ac%eb%a6%84%ec%9d%80-%ea%b0%80%ea%b3%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4-%ec%97%ac%eb%a6%84%ec%9d%80-%ea%b0%80%ea%b3%a0/</guid>
-            <pubDate>Fri, 18 Aug 2023 03:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[SAZA최우준]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SAZA%EC%B5%9C%EC%9A%B0%EC%A4%80_%EC%9D%B4-%EC%97%AC%EB%A6%84%EC%9D%80-%EA%B0%80%EA%B3%A0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FHLD]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/fhld/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/fhld/</guid>
-            <pubDate>Fri, 18 Aug 2023 03:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[Sunset On The Bridge]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Sunset-On-The-Bridge_FHLD-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BROONGBROONG]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/broongbroong/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/broongbroong/</guid>
-            <pubDate>Fri, 18 Aug 2023 03:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[에어반스(AIRVANS)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%90%EC%96%B4%EB%B0%98%EC%8A%A4-AIRVANS_BROONGBROONG-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Somewhere You Can See Me]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/somewhere-you-can-see-me/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/somewhere-you-can-see-me/</guid>
-            <pubDate>Fri, 18 Aug 2023 03:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[오드리노 (Audrey No)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EB%93%9C%EB%A6%AC%EB%85%B8-Audrey-No_Somewhere-You-Can-See-Me-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
