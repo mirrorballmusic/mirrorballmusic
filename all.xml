@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 01:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 03:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Without Missing A Beat (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/without-missing-a-beat/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/without-missing-a-beat/</guid>
+            <pubDate>Thu, 31 Aug 2023 03:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑이 뭔지 잘 모르겠어 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%ad%94%ec%a7%80-%ec%9e%98-%eb%aa%a8%eb%a5%b4%ea%b2%a0%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%ad%94%ec%a7%80-%ec%9e%98-%eb%aa%a8%eb%a5%b4%ea%b2%a0%ec%96%b4/</guid>
+            <pubDate>Thu, 31 Aug 2023 03:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[공류영]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%B5%EB%A5%98%EC%98%81_%EC%82%AC%EB%9E%91%EC%9D%B4-%EB%AD%94%EC%A7%80-%EC%9E%98-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Closer (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/closer-2/</link>
@@ -232,20 +248,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SOYOUNG_SWIMMING-POOL-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그 날의 우린 어디쯤 있을까 (feat. 김결) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%eb%82%a0%ec%9d%98-%ec%9a%b0%eb%a6%b0-%ec%96%b4%eb%94%94%ec%af%a4-%ec%9e%88%ec%9d%84%ea%b9%8c-feat-%ea%b9%80%ea%b2%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%eb%82%a0%ec%9d%98-%ec%9a%b0%eb%a6%b0-%ec%96%b4%eb%94%94%ec%af%a4-%ec%9e%88%ec%9d%84%ea%b9%8c-feat-%ea%b9%80%ea%b2%b0/</guid>
-            <pubDate>Mon, 21 Aug 2023 09:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[여로]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%AC%EB%A1%9C_%EA%B7%B8-%EB%82%A0%EC%9D%98-%EC%9A%B0%EB%A6%B0-%EC%96%B4%EB%94%94%EC%AF%A4-%EC%9E%88%EC%9D%84%EA%B9%8C-feat.-%EA%B9%80%EA%B2%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 밤이 지나기 전에 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4-%eb%b0%a4%ec%9d%b4-%ec%a7%80%eb%82%98%ea%b8%b0-%ec%a0%84%ec%97%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4-%eb%b0%a4%ec%9d%b4-%ec%a7%80%eb%82%98%ea%b8%b0-%ec%a0%84%ec%97%90/</guid>
-            <pubDate>Mon, 21 Aug 2023 03:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[정주형]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EC%A3%BC%ED%98%95_%EC%9D%B4-%EB%B0%A4%EC%9D%B4-%EC%A7%80%EB%82%98%EA%B8%B0-%EC%A0%84%EC%97%90-2-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.251 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-251/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-251/</guid>
+            <pubDate>Thu, 31 Aug 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.26 ~ 2023.08.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EB%82%98%EC%83%81%ED%98%84%EC%94%A8%EB%B0%B4%EB%93%9C-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.250 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -334,14 +342,6 @@
             <pubDate>Wed, 15 Mar 2023 05:15:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.11 ~ 2023.02.25]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%ED%9A%A8%EB%8F%84%EC%95%A4%EB%B2%A0%EC%9D%B4%EC%8A%A4-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.239 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-239/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-239/</guid>
-            <pubDate>Tue, 28 Feb 2023 05:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.26 ~ 2023.02.10]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/02/%EB%82%98%EC%83%81%ED%98%84%EC%94%A8%EB%B0%B4%EB%93%9C-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
