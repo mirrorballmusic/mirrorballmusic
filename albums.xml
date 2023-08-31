@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 06:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 07:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Cosmic-Comics_Contradiction-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[No Band Vol.5 첫사랑]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/no-band-vol-5-%ec%b2%ab%ec%82%ac%eb%9e%91/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/no-band-vol-5-%ec%b2%ab%ec%82%ac%eb%9e%91/</guid>
-            <pubDate>Tue, 29 Aug 2023 03:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[No Band, 김바다]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_No-Band-%EA%B9%80%EB%B0%94%EB%8B%A4_No-Band-Vol.5-%EC%B2%AB%EC%82%AC%EB%9E%91-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[정규 1집 “Frame”]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%a0%95%ea%b7%9c-1%ec%a7%91-frame/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%95%ea%b7%9c-1%ec%a7%91-frame/</guid>
             <pubDate>Tue, 29 Aug 2023 03:15:15 GMT</pubDate>
             <content:encoded><![CDATA[일렉트리]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A6%AC_%EC%A0%95%EA%B7%9C-1%EC%A7%91-Frame-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Band Vol.5 첫사랑]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/no-band-vol-5-%ec%b2%ab%ec%82%ac%eb%9e%91/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/no-band-vol-5-%ec%b2%ab%ec%82%ac%eb%9e%91/</guid>
+            <pubDate>Tue, 29 Aug 2023 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[No Band, 김바다]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_No-Band-%EA%B9%80%EB%B0%94%EB%8B%A4_No-Band-Vol.5-%EC%B2%AB%EC%82%AC%EB%9E%91-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[늦여름]]></title>
