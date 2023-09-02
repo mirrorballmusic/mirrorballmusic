@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 08:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 09:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lovestruck (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/lovestruck/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/lovestruck/</guid>
+            <pubDate>Sat, 02 Sep 2023 09:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[유하정]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%ED%95%98%EC%A0%95_Lovestruck-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Dumb Swing (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/new-dumb-swing/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Aug 2023 03:14:29 GMT</pubDate>
             <content:encoded><![CDATA[백광흠]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EA%B4%91%ED%9D%A0_%EC%8B%9C%EA%B0%84%EC%95%84-%EC%A1%B0%EA%B8%88%EB%A7%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAPPYMETAL (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/happymetal/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/happymetal/</guid>
-            <pubDate>Tue, 22 Aug 2023 03:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[MADDYXP (매디엑스피)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_MADDYXP-%EB%A7%A4%EB%94%94%EC%97%91%EC%8A%A4%ED%94%BC_HAPPYMETAL-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.251 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
