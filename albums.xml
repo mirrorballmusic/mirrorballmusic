@@ -4,17 +4,9 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 05:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 06:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[수많은 고요를 흘려보냈던거야]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%88%98%eb%a7%8e%ec%9d%80-%ea%b3%a0%ec%9a%94%eb%a5%bc-%ed%9d%98%eb%a0%a4%eb%b3%b4%eb%83%88%eb%8d%98%ea%b1%b0%ec%95%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%88%98%eb%a7%8e%ec%9d%80-%ea%b3%a0%ec%9a%94%eb%a5%bc-%ed%9d%98%eb%a0%a4%eb%b3%b4%eb%83%88%eb%8d%98%ea%b1%b0%ec%95%bc/</guid>
-            <pubDate>Tue, 12 Sep 2023 03:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[서주연밴드]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%A3%BC%EC%97%B0%EB%B0%B4%EB%93%9C_%EC%88%98%EB%A7%8E%EC%9D%80-%EA%B3%A0%EC%9A%94%EB%A5%BC-%ED%9D%98%EB%A0%A4%EB%B3%B4%EB%83%88%EB%8D%98%EA%B1%B0%EC%95%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[다면]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%eb%a9%b4/</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 12 Sep 2023 03:14:46 GMT</pubDate>
             <content:encoded><![CDATA[TK]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_TK_%EB%8B%A4%EB%A9%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수많은 고요를 흘려보냈던거야]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%88%98%eb%a7%8e%ec%9d%80-%ea%b3%a0%ec%9a%94%eb%a5%bc-%ed%9d%98%eb%a0%a4%eb%b3%b4%eb%83%88%eb%8d%98%ea%b1%b0%ec%95%bc/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%88%98%eb%a7%8e%ec%9d%80-%ea%b3%a0%ec%9a%94%eb%a5%bc-%ed%9d%98%eb%a0%a4%eb%b3%b4%eb%83%88%eb%8d%98%ea%b1%b0%ec%95%bc/</guid>
+            <pubDate>Tue, 12 Sep 2023 03:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[서주연밴드]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%A3%BC%EC%97%B0%EB%B0%B4%EB%93%9C_%EC%88%98%EB%A7%8E%EC%9D%80-%EA%B3%A0%EC%9A%94%EB%A5%BC-%ED%9D%98%EB%A0%A4%EB%B3%B4%EB%83%88%EB%8D%98%EA%B1%B0%EC%95%BC-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[No Band Vol.7]]></title>
