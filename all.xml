@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 02:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 03:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/how/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/how/</guid>
+            <pubDate>Wed, 13 Sep 2023 03:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[Oong]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Oong_How-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도시의 춤 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%84%ec%8b%9c%ec%9d%98-%ec%b6%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%84%ec%8b%9c%ec%9d%98-%ec%b6%a4/</guid>
+            <pubDate>Wed, 13 Sep 2023 03:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[폴린딜드 (Fallin' Dild)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8F%B4%EB%A6%B0%EB%94%9C%EB%93%9C-Fallin-Dild_%EB%8F%84%EC%8B%9C%EC%9D%98-%EC%B6%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임진옥 대금 여민락 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%84%ec%a7%84%ec%98%a5-%eb%8c%80%ea%b8%88-%ec%97%ac%eb%af%bc%eb%9d%bd/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%84%ec%a7%84%ec%98%a5-%eb%8c%80%ea%b8%88-%ec%97%ac%eb%af%bc%eb%9d%bd/</guid>
+            <pubDate>Wed, 13 Sep 2023 03:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[임진옥]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%84%EC%A7%84%EC%98%A5_%EC%9E%84%EC%A7%84%EC%98%A5-%EB%8C%80%EA%B8%88-%EC%97%AC%EB%AF%BC%EB%9D%BD-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다면 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%eb%a9%b4/</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 04 Sep 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[꼬리물기]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%BC%AC%EB%A6%AC%EB%AC%BC%EA%B8%B0_Flat-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHO AND Y (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/who-and-y/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/who-and-y/</guid>
-            <pubDate>Sun, 03 Sep 2023 04:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[ECHOINSIDE (에코인사이드)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ECHOINSIDE-%EC%97%90%EC%BD%94%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C_WHO-AND-Y-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lovestruck (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/lovestruck/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/lovestruck/</guid>
-            <pubDate>Sat, 02 Sep 2023 09:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[유하정]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%ED%95%98%EC%A0%95_Lovestruck-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Dumb Swing (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/new-dumb-swing/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/new-dumb-swing/</guid>
-            <pubDate>Sat, 02 Sep 2023 03:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[IZON]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_IZON_New-Dumb-Swing-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.251 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
