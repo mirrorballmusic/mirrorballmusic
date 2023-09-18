@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 02:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 03:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Riff Part.1 (Live Clip)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/the-riff-part-1-live-clip/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/the-riff-part-1-live-clip/</guid>
+            <pubDate>Mon, 18 Sep 2023 03:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[허클베리핀 (Huckleberryfinn)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%ED%81%B4%EB%B2%A0%EB%A6%AC%ED%95%80-Huckleberryfinn_The-Riff-Part.1-Live-Clip-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[There is no right answer in the world]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/there-is-no-right-answer-in-the-world/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/there-is-no-right-answer-in-the-world/</guid>
+            <pubDate>Mon, 18 Sep 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[JSB]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_JSB_There-is-no-right-answer-in-the-world-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[bittersweet]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/bittersweet-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/bittersweet-2/</guid>
+            <pubDate>Mon, 18 Sep 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[$up! (수피)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_up-%EC%88%98%ED%94%BC_bittersweet-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혼잣말]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%98%bc%ec%9e%a3%eb%a7%90/</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 06 Sep 2023 03:15:11 GMT</pubDate>
             <content:encoded><![CDATA[이섭]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%84%AD_%EC%83%88%EB%B9%9B-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Moon]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/the-moon/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/the-moon/</guid>
-            <pubDate>Wed, 06 Sep 2023 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[피아노 제제]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%BC%EC%95%84%EB%85%B8-%EC%A0%9C%EC%A0%9C_The-Moon-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임진옥 대금 정악독주곡]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%84%ec%a7%84%ec%98%a5-%eb%8c%80%ea%b8%88-%ec%a0%95%ec%95%85%eb%8f%85%ec%a3%bc%ea%b3%a1/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%84%ec%a7%84%ec%98%a5-%eb%8c%80%ea%b8%88-%ec%a0%95%ec%95%85%eb%8f%85%ec%a3%bc%ea%b3%a1/</guid>
-            <pubDate>Wed, 06 Sep 2023 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[임진옥]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%84%EC%A7%84%EC%98%A5_%EC%9E%84%EC%A7%84%EC%98%A5-%EB%8C%80%EA%B8%88-%EC%A0%95%EC%95%85%EB%8F%85%EC%A3%BC%EA%B3%A1-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Much better]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/much-better/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/much-better/</guid>
-            <pubDate>Wed, 06 Sep 2023 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[경우현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B2%BD%EC%9A%B0%ED%98%84_Much-better-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
