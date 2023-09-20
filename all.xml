@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 02:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 03:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fearless (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/fearless/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/fearless/</guid>
+            <pubDate>Wed, 20 Sep 2023 03:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[롤링쿼츠 (Rolling Quartz)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A1%A4%EB%A7%81%EC%BF%BC%EC%B8%A0-Rolling-Quartz_Fearless-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAKE ME HOME (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/take-me-home/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/take-me-home/</guid>
+            <pubDate>Wed, 20 Sep 2023 03:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[COTTON STICK (코튼스틱)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_COTTON-STICK-%EC%BD%94%ED%8A%BC%EC%8A%A4%ED%8B%B1_TAKE-ME-HOME-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임진옥 대금 계면남창가곡 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%84%ec%a7%84%ec%98%a5-%eb%8c%80%ea%b8%88-%ea%b3%84%eb%a9%b4%eb%82%a8%ec%b0%bd%ea%b0%80%ea%b3%a1/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%84%ec%a7%84%ec%98%a5-%eb%8c%80%ea%b8%88-%ea%b3%84%eb%a9%b4%eb%82%a8%ec%b0%bd%ea%b0%80%ea%b3%a1/</guid>
+            <pubDate>Wed, 20 Sep 2023 03:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[임진옥]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%84%EC%A7%84%EC%98%A5_%EC%9E%84%EC%A7%84%EC%98%A5-%EB%8C%80%EA%B8%88-%EA%B3%84%EB%A9%B4%EB%82%A8%EC%B0%BD%EA%B0%80%EA%B3%A1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[살아야겠다 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%82%b4%ec%95%84%ec%95%bc%ea%b2%a0%eb%8b%a4/</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 08 Sep 2023 03:14:29 GMT</pubDate>
             <content:encoded><![CDATA[Fm drone service]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fm-drone-service_Do-re-mi-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beautiful Criminal (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/beautiful-criminal/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/beautiful-criminal/</guid>
-            <pubDate>Fri, 08 Sep 2023 03:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[5TARBOY, RNRN]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_5TARBOY-RNRN_Beautiful-Criminal-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초록 주의보 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b4%88%eb%a1%9d-%ec%a3%bc%ec%9d%98%eb%b3%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b4%88%eb%a1%9d-%ec%a3%bc%ec%9d%98%eb%b3%b4/</guid>
-            <pubDate>Thu, 07 Sep 2023 03:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[벤치위레오 (BenchWeLeo)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B2%A4%EC%B9%98%EC%9C%84%EB%A0%88%EC%98%A4-BenchWeLeo_%EC%B4%88%EB%A1%9D-%EC%A3%BC%EC%9D%98%EB%B3%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[One Summer’s Day (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/one-summers-day/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/one-summers-day/</guid>
-            <pubDate>Thu, 07 Sep 2023 03:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[Saturday7PMClub]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Saturday7PMClub_One-Summers-Day-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.252 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
