@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 02:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 03:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보통 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b3%b4%ed%86%b5/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b3%b4%ed%86%b5/</guid>
+            <pubDate>Fri, 22 Sep 2023 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[Bas Bao (바스바오), That]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Bas-Bao-%EB%B0%94%EC%8A%A4%EB%B0%94%EC%98%A4-That_%EB%B3%B4%ED%86%B5-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파도가 그린 바다 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%eb%8f%84%ea%b0%80-%ea%b7%b8%eb%a6%b0-%eb%b0%94%eb%8b%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%eb%8f%84%ea%b0%80-%ea%b7%b8%eb%a6%b0-%eb%b0%94%eb%8b%a4/</guid>
+            <pubDate>Fri, 22 Sep 2023 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[김현우]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%ED%8C%8C%EB%8F%84%EA%B0%80%EA%B7%B8%EB%A6%B0%EB%B0%94%EB%8B%A4_%EC%BB%A4%EB%B2%84_01-1-1-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scenario (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/scenario/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/scenario/</guid>
+            <pubDate>Fri, 22 Sep 2023 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[MO$T (모스트)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_MOT-%EB%AA%A8%EC%8A%A4%ED%8A%B8_Scenario-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Be yourself (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/be-yourself/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/be-yourself/</guid>
+            <pubDate>Fri, 22 Sep 2023 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[wtfpiano]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-be-yourself-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Free (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/free/</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 12 Sep 2023 03:14:46 GMT</pubDate>
             <content:encoded><![CDATA[김연수]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%97%B0%EC%88%98_%ED%91%B8%EB%A5%B4%EB%A5%B8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초록들 (The Green) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b4%88%eb%a1%9d%eb%93%a4-the-green/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b4%88%eb%a1%9d%eb%93%a4-the-green/</guid>
-            <pubDate>Mon, 11 Sep 2023 03:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[온도 (OWNDO)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A8%EB%8F%84-OWNDO_%EC%B4%88%EB%A1%9D%EB%93%A4-The-Green-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I wanna be yours (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-wanna-be-yours/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-wanna-be-yours/</guid>
-            <pubDate>Mon, 11 Sep 2023 03:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[seeun]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_seeun_I-wanna-be-yours-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연결 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%97%b0%ea%b2%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%b0%ea%b2%b0/</guid>
-            <pubDate>Sun, 10 Sep 2023 03:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[신직선]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EC%A7%81%EC%84%A0_%EC%97%B0%EA%B2%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[& (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/83496/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/83496/</guid>
-            <pubDate>Sat, 09 Sep 2023 03:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[RI9SE]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_RI9SE_-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.252 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
