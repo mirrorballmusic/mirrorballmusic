@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 02:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 03:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑을 잃었네 (with 김수인) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%84-%ec%9e%83%ec%97%88%eb%84%a4-with-%ea%b9%80%ec%88%98%ec%9d%b8/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%84-%ec%9e%83%ec%97%88%eb%84%a4-with-%ea%b9%80%ec%88%98%ec%9d%b8/</guid>
+            <pubDate>Tue, 26 Sep 2023 03:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[조선블루스]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%84%A0%EB%B8%94%EB%A3%A8%EC%8A%A4_%EC%82%AC%EB%9E%91%EC%9D%84-%EC%9E%83%EC%97%88%EB%84%A4-with-%EA%B9%80%EC%88%98%EC%9D%B8-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잔혹 동화 (Dark Fairy Tale) Everything is Nothing Nothing is Everything (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%94%ed%98%b9-%eb%8f%99%ed%99%94-dark-fairy-tale-everything-is-nothing-nothing-is-everything/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%94%ed%98%b9-%eb%8f%99%ed%99%94-dark-fairy-tale-everything-is-nothing-nothing-is-everything/</guid>
+            <pubDate>Tue, 26 Sep 2023 03:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[강해진]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/digital_album_cover-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[액맥이타령 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%a1%eb%a7%a5%ec%9d%b4%ed%83%80%eb%a0%b9/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%a1%eb%a7%a5%ec%9d%b4%ed%83%80%eb%a0%b9/</guid>
+            <pubDate>Tue, 26 Sep 2023 03:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[경기남부재즈 (Southern Gyeonggi Jazz)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B2%BD%EA%B8%B0%EB%82%A8%EB%B6%80%EC%9E%AC%EC%A6%88-Southern-Gyeonggi-Jazz_%EC%95%A1%EB%A7%A5%EC%9D%B4%ED%83%80%EB%A0%B9-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흥 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%9d%a5/</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 15 Sep 2023 03:14:29 GMT</pubDate>
             <content:encoded><![CDATA[De'beus (디비어스)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Debeus-%EB%94%94%EB%B9%84%EC%96%B4%EC%8A%A4_Cobalt-Blue-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Runaways (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/runaways/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/runaways/</guid>
-            <pubDate>Thu, 14 Sep 2023 03:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[Devyn L]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Devyn-L_Runaways-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Orange Savage (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/orange-savage/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/orange-savage/</guid>
-            <pubDate>Thu, 14 Sep 2023 03:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[감귤서리단]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%90%EA%B7%A4%EC%84%9C%EB%A6%AC%EB%8B%A8_Orange-Savage-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시의 춤 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%84%ec%8b%9c%ec%9d%98-%ec%b6%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%84%ec%8b%9c%ec%9d%98-%ec%b6%a4/</guid>
-            <pubDate>Mon, 25 Sep 2023 05:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[폴린딜드 (Fallin' Dild)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8F%B4%EB%A6%B0%EB%94%9C%EB%93%9C-Fallin-Dild_%EB%8F%84%EC%8B%9C%EC%9D%98-%EC%B6%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.252 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
