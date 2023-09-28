@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 02:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 03:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Seoha pt.2 Black Room]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/seoha-pt-2-black-room/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/seoha-pt-2-black-room/</guid>
+            <pubDate>Thu, 28 Sep 2023 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[WnB, 청춘낭만사 (GSR)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WnB-%EC%B2%AD%EC%B6%98%EB%82%AD%EB%A7%8C%EC%82%AC-GSR_Black_Room-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어쩌면 좋을까요]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%96%b4%ec%a9%8c%eb%a9%b4-%ec%a2%8b%ec%9d%84%ea%b9%8c%ec%9a%94/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Sep 2023 15:15:28 GMT</pubDate>
             <content:encoded><![CDATA[$up! (수피)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_up-%EC%88%98%ED%94%BC_bittersweet-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼잣말]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%98%bc%ec%9e%a3%eb%a7%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%98%bc%ec%9e%a3%eb%a7%90/</guid>
-            <pubDate>Wed, 27 Sep 2023 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[형제공업사]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%98%95%EC%A0%9C%EA%B3%B5%EC%97%85%EC%82%AC_%ED%98%BC%EC%9E%A3%EB%A7%90-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
