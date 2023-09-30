@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 02:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 03:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Slow Things (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/slow-things/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/slow-things/</guid>
+            <pubDate>Sat, 30 Sep 2023 03:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Slow-Things-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시들었던 나의 밤들은 또다시 피어나고 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%8b%9c%eb%93%a4%ec%97%88%eb%8d%98-%eb%82%98%ec%9d%98-%eb%b0%a4%eb%93%a4%ec%9d%80-%eb%98%90%eb%8b%a4%ec%8b%9c-%ed%94%bc%ec%96%b4%eb%82%98%ea%b3%a0/</link>
@@ -240,12 +248,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%ED%81%B4%EB%B2%A0%EB%A6%AC%ED%95%80-Huckleberryfinn_The-Riff-Part.1-Live-Clip-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[There is no right answer in the world (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/there-is-no-right-answer-in-the-world/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/there-is-no-right-answer-in-the-world/</guid>
-            <pubDate>Mon, 18 Sep 2023 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[JSB]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_JSB_There-is-no-right-answer-in-the-world-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.253 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-253/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-253/</guid>
+            <pubDate>Sat, 30 Sep 2023 03:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.26 ~ 2023.09.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%ED%95%9C%EB%A1%9C%EB%A1%9C-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.252 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -334,14 +342,6 @@
             <pubDate>Sat, 15 Apr 2023 03:15:44 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.11 ~ 2023.03.25]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/eldon-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.241 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-241/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-241/</guid>
-            <pubDate>Fri, 31 Mar 2023 05:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.26 ~ 2023.03.10]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/03/%EC%9D%B4%EC%8A%B9%EC%9C%A4-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
