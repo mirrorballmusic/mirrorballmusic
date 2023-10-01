@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 02:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 03:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[참 많이 변했더라 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b0%b8-%eb%a7%8e%ec%9d%b4-%eb%b3%80%ed%96%88%eb%8d%94%eb%9d%bc/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b0%b8-%eb%a7%8e%ec%9d%b4-%eb%b3%80%ed%96%88%eb%8d%94%eb%9d%bc/</guid>
+            <pubDate>Sun, 01 Oct 2023 03:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[양자인 (Yang Jain)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%91%EC%9E%90%EC%9D%B8-Yang-Jain_%EC%B0%B8-%EB%A7%8E%EC%9D%B4-%EB%B3%80%ED%96%88%EB%8D%94%EB%9D%BC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Slow Things (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/slow-things/</link>
@@ -104,20 +112,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EB%82%B4%EA%B0%80-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%A7%90%ED%95%A0-%EB%95%90-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사라진 것들 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9d%bc%ec%a7%84-%ea%b2%83%eb%93%a4-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9d%bc%ec%a7%84-%ea%b2%83%eb%93%a4-2/</guid>
-            <pubDate>Mon, 25 Sep 2023 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[SOFI]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SOFI_%EC%82%AC%EB%9D%BC%EC%A7%84-%EA%B2%83%EB%93%A4-2-1-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[일탈 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ed%83%88/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ed%83%88/</guid>
             <pubDate>Mon, 25 Sep 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[The Goose!]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Goose_%EC%9D%BC%ED%83%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사라진 것들 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9d%bc%ec%a7%84-%ea%b2%83%eb%93%a4-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9d%bc%ec%a7%84-%ea%b2%83%eb%93%a4-2/</guid>
+            <pubDate>Mon, 25 Sep 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[SOFI]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SOFI_%EC%82%AC%EB%9D%BC%EC%A7%84-%EA%B2%83%EB%93%A4-2-1-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[침묵 (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Sep 2023 03:15:00 GMT</pubDate>
             <content:encoded><![CDATA[Soffee]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Soffee_a-messy-heart-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Riff Part.1 (Live Clip) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/the-riff-part-1-live-clip/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/the-riff-part-1-live-clip/</guid>
-            <pubDate>Mon, 18 Sep 2023 03:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[허클베리핀 (Huckleberryfinn)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%ED%81%B4%EB%B2%A0%EB%A6%AC%ED%95%80-Huckleberryfinn_The-Riff-Part.1-Live-Clip-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.253 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
