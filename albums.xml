@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 02:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 03:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ready2die]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/ready2die/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/ready2die/</guid>
+            <pubDate>Thu, 05 Oct 2023 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[사막꽃 (Desert Flower)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/ready2die3000-%C3%97-3000px-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[울지마 (Guitar ver.)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b8%ec%a7%80%eb%a7%88-guitar-ver/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b8%ec%a7%80%eb%a7%88-guitar-ver/</guid>
+            <pubDate>Thu, 05 Oct 2023 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[HOZIHO]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_HOZIHO_%EC%9A%B8%EC%A7%80%EB%A7%88-Guitar-ver.-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설탕]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%84%a4%ed%83%95/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%a4%ed%83%95/</guid>
+            <pubDate>Thu, 05 Oct 2023 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[등아]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94-%EC%9E%90%EC%BC%93-%EC%9D%B4%EB%AF%B8%EC%A7%80_-%EB%93%B1%EC%95%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[everything]]></title>
             <link>http://mirrorballmusic.co.kr/albums/everything-3/</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 27 Sep 2023 15:15:28 GMT</pubDate>
             <content:encoded><![CDATA[wtfpiano]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-be-yourself-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Free]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/free/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/free/</guid>
-            <pubDate>Wed, 27 Sep 2023 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[페리블루 (Ferry Blue)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8E%98%EB%A6%AC%EB%B8%94%EB%A3%A8-Ferry-Blue_Free-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OBEY]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/obey/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/obey/</guid>
-            <pubDate>Wed, 27 Sep 2023 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[1104]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_1104_OBEY-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복은 가까이에]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%96%89%eb%b3%b5%ec%9d%80-%ea%b0%80%ea%b9%8c%ec%9d%b4%ec%97%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%96%89%eb%b3%b5%ec%9d%80-%ea%b0%80%ea%b9%8c%ec%9d%b4%ec%97%90/</guid>
-            <pubDate>Wed, 27 Sep 2023 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[올립]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%ED%96%89%EB%B3%B5%EC%9D%80%EA%B0%80%EA%B9%8C%EC%9D%B4%EC%97%90_%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
