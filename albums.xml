@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 02:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 03:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Meaning]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/meaning/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/meaning/</guid>
+            <pubDate>Wed, 11 Oct 2023 03:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[TK]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_TK_Meaning-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starry Night]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/starry-night-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/starry-night-2/</guid>
+            <pubDate>Wed, 11 Oct 2023 03:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[피아노 제제]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/Starry-Night-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑에 대하여 1]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%97%90-%eb%8c%80%ed%95%98%ec%97%ac-1/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%97%90-%eb%8c%80%ed%95%98%ec%97%ac-1/</guid>
+            <pubDate>Wed, 11 Oct 2023 03:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[김지우]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EA%B9%80%EC%A7%80%EC%9A%B0-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[chill chilli new world]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/chill-chilli-new-world/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/chill-chilli-new-world/</guid>
+            <pubDate>Wed, 11 Oct 2023 03:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[Cosmic Comics]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Cosmic-Comics_chill-chilli-new-world-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <link>http://mirrorballmusic.co.kr/albums/83884/</link>
             <guid>http://mirrorballmusic.co.kr/albums/83884/</guid>
@@ -213,38 +245,6 @@
             <pubDate>Wed, 27 Sep 2023 15:15:28 GMT</pubDate>
             <content:encoded><![CDATA[조선블루스]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%84%A0%EB%B8%94%EB%A3%A8%EC%8A%A4_%EC%82%AC%EB%9E%91%EC%9D%84-%EC%9E%83%EC%97%88%EB%84%A4-with-%EA%B9%80%EC%88%98%EC%9D%B8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잔혹 동화 (Dark Fairy Tale) Everything is Nothing Nothing is Everything]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%94%ed%98%b9-%eb%8f%99%ed%99%94-dark-fairy-tale-everything-is-nothing-nothing-is-everything/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%94%ed%98%b9-%eb%8f%99%ed%99%94-dark-fairy-tale-everything-is-nothing-nothing-is-everything/</guid>
-            <pubDate>Wed, 27 Sep 2023 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[강해진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/digital_album_cover-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[액맥이타령]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%a1%eb%a7%a5%ec%9d%b4%ed%83%80%eb%a0%b9/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%a1%eb%a7%a5%ec%9d%b4%ed%83%80%eb%a0%b9/</guid>
-            <pubDate>Wed, 27 Sep 2023 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[경기남부재즈 (Southern Gyeonggi Jazz)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B2%BD%EA%B8%B0%EB%82%A8%EB%B6%80%EC%9E%AC%EC%A6%88-Southern-Gyeonggi-Jazz_%EC%95%A1%EB%A7%A5%EC%9D%B4%ED%83%80%EB%A0%B9-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흥]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%9d%a5/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%9d%a5/</guid>
-            <pubDate>Wed, 27 Sep 2023 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[신유진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EC%9C%A0%EC%A7%84_%ED%9D%A5-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 사랑을 말할 땐]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80-%ec%82%ac%eb%9e%91%ec%9d%84-%eb%a7%90%ed%95%a0-%eb%95%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80-%ec%82%ac%eb%9e%91%ec%9d%84-%eb%a7%90%ed%95%a0-%eb%95%90/</guid>
-            <pubDate>Wed, 27 Sep 2023 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[일리 (illi)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EB%82%B4%EA%B0%80-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%A7%90%ED%95%A0-%EB%95%90-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
