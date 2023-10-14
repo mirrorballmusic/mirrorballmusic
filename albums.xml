@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 02:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 03:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Don’t Look Back! But..]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/dont-look-back-but/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/dont-look-back-but/</guid>
+            <pubDate>Sat, 14 Oct 2023 03:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[sucozy]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_sucozy_Dont-Look-Back-But-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그것도 아니더라고]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%ea%b2%83%eb%8f%84-%ec%95%84%eb%8b%88%eb%8d%94%eb%9d%bc%ea%b3%a0/</link>
@@ -237,14 +245,6 @@
             <pubDate>Thu, 28 Sep 2023 03:14:48 GMT</pubDate>
             <content:encoded><![CDATA[WnB, 청춘낭만사 (GSR)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WnB-%EC%B2%AD%EC%B6%98%EB%82%AD%EB%A7%8C%EC%82%AC-GSR_Black_Room-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩌면 좋을까요]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%96%b4%ec%a9%8c%eb%a9%b4-%ec%a2%8b%ec%9d%84%ea%b9%8c%ec%9a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%96%b4%ec%a9%8c%eb%a9%b4-%ec%a2%8b%ec%9d%84%ea%b9%8c%ec%9a%94/</guid>
-            <pubDate>Wed, 27 Sep 2023 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[영롱]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%81%EB%A1%B1_%EC%96%B4%EC%A9%8C%EB%A9%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
