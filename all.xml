@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 02:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 03:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[First Love (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/first-love/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/first-love/</guid>
+            <pubDate>Sun, 15 Oct 2023 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[OmO (오모)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_OmO-%EC%98%A4%EB%AA%A8_First-Love-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Don’t Look Back! But.. (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/dont-look-back-but/</link>
@@ -240,12 +248,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%ED%9D%AC%EC%88%98_%EC%8B%9C%EB%93%A4%EC%97%88%EB%8D%98-%EB%82%98%EC%9D%98-%EB%B0%A4%EB%93%A4%EC%9D%80-%EB%98%90%EB%8B%A4%EC%8B%9C-%ED%94%BC%EC%96%B4%EB%82%98%EA%B3%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Seoha pt.2 Black Room (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/seoha-pt-2-black-room/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/seoha-pt-2-black-room/</guid>
-            <pubDate>Thu, 28 Sep 2023 03:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[WnB, 청춘낭만사 (GSR)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WnB-%EC%B2%AD%EC%B6%98%EB%82%AD%EB%A7%8C%EC%82%AC-GSR_Black_Room-2-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.254 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-254/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-254/</guid>
+            <pubDate>Sun, 15 Oct 2023 03:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.11 ~ 2023.09.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/XL-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.253 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -334,14 +342,6 @@
             <pubDate>Sun, 30 Apr 2023 05:14:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.26 ~ 2023.04.10]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/01.-%EC%9D%B4%EC%A7%80%EC%B9%B4%EC%9D%B4%ED%8A%B8-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.242 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-242/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-242/</guid>
-            <pubDate>Sat, 15 Apr 2023 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.11 ~ 2023.03.25]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/eldon-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
