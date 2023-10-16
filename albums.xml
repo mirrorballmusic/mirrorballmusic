@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 02:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 03:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제아]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%9c%ec%95%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%9c%ec%95%84/</guid>
+            <pubDate>Mon, 16 Oct 2023 03:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[n@di(나디)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_n@di-%EB%82%98%EB%94%94_%EC%A0%9C%EC%95%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알고있지만]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%8c%ea%b3%a0%ec%9e%88%ec%a7%80%eb%a7%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%8c%ea%b3%a0%ec%9e%88%ec%a7%80%eb%a7%8c/</guid>
+            <pubDate>Mon, 16 Oct 2023 03:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[이인규]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%9D%B8%EA%B7%9C_%EC%95%8C%EA%B3%A0%EC%9E%88%EC%A7%80%EB%A7%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Circle]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/circle-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/circle-2/</guid>
+            <pubDate>Mon, 16 Oct 2023 03:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[Gitden]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Gitden_Circle-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외로움에 눈을 감을 때]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%99%b8%eb%a1%9c%ec%9b%80%ec%97%90-%eb%88%88%ec%9d%84-%ea%b0%90%ec%9d%84-%eb%95%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%99%b8%eb%a1%9c%ec%9b%80%ec%97%90-%eb%88%88%ec%9d%84-%ea%b0%90%ec%9d%84-%eb%95%8c/</guid>
+            <pubDate>Mon, 16 Oct 2023 03:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[서주연밴드]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%A3%BC%EC%97%B0%EB%B0%B4%EB%93%9C_%EC%99%B8%EB%A1%9C%EC%9B%80%EC%97%90-%EB%88%88%EC%9D%84-%EA%B0%90%EC%9D%84-%EB%95%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[First Love]]></title>
             <link>http://mirrorballmusic.co.kr/albums/first-love/</link>
@@ -213,38 +245,6 @@
             <pubDate>Mon, 02 Oct 2023 03:15:33 GMT</pubDate>
             <content:encoded><![CDATA[0do]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93_0do_%EC%95%84%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그늘]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8a%98-3/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8a%98-3/</guid>
-            <pubDate>Mon, 02 Oct 2023 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[홈메이드레코딩]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%88%EB%A9%94%EC%9D%B4%EB%93%9C%EB%A0%88%EC%BD%94%EB%94%A9_%EA%B7%B8%EB%8A%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참 많이 변했더라]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b0%b8-%eb%a7%8e%ec%9d%b4-%eb%b3%80%ed%96%88%eb%8d%94%eb%9d%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b0%b8-%eb%a7%8e%ec%9d%b4-%eb%b3%80%ed%96%88%eb%8d%94%eb%9d%bc/</guid>
-            <pubDate>Sun, 01 Oct 2023 03:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[양자인 (Yang Jain)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%91%EC%9E%90%EC%9D%B8-Yang-Jain_%EC%B0%B8-%EB%A7%8E%EC%9D%B4-%EB%B3%80%ED%96%88%EB%8D%94%EB%9D%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slow Things]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/slow-things/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/slow-things/</guid>
-            <pubDate>Sat, 30 Sep 2023 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Slow-Things-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시들었던 나의 밤들은 또다시 피어나고]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%8b%9c%eb%93%a4%ec%97%88%eb%8d%98-%eb%82%98%ec%9d%98-%eb%b0%a4%eb%93%a4%ec%9d%80-%eb%98%90%eb%8b%a4%ec%8b%9c-%ed%94%bc%ec%96%b4%eb%82%98%ea%b3%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%8b%9c%eb%93%a4%ec%97%88%eb%8d%98-%eb%82%98%ec%9d%98-%eb%b0%a4%eb%93%a4%ec%9d%80-%eb%98%90%eb%8b%a4%ec%8b%9c-%ed%94%bc%ec%96%b4%eb%82%98%ea%b3%a0/</guid>
-            <pubDate>Fri, 29 Sep 2023 03:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[안희수]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%ED%9D%AC%EC%88%98_%EC%8B%9C%EB%93%A4%EC%97%88%EB%8D%98-%EB%82%98%EC%9D%98-%EB%B0%A4%EB%93%A4%EC%9D%80-%EB%98%90%EB%8B%A4%EC%8B%9C-%ED%94%BC%EC%96%B4%EB%82%98%EA%B3%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
