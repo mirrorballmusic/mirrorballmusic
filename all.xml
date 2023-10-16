@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 07:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 08:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/01.-Part-Time-Dealer-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[STORY#29 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/story29/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/story29/</guid>
+            <pubDate>Mon, 16 Oct 2023 08:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[Collective Arts (콜렉티브아츠), 소병준]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Collective-Arts-%EC%BD%9C%EB%A0%89%ED%8B%B0%EB%B8%8C%EC%95%84%EC%B8%A0-%EC%86%8C%EB%B3%91%EC%A4%80_STORY_29-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[핑 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%95%91/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%ed%95%91/</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 Oct 2023 05:13:24 GMT</pubDate>
             <content:encoded><![CDATA[강예섬]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%86%8C%EA%B0%9C_%EA%B0%95%EC%98%88%EC%84%AC_%EA%B7%B8%EB%9F%AC%EB%8B%A4-%EB%A7%90%EC%95%98%EC%A7%80%EB%A7%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%9d%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%9d%b4/</guid>
-            <pubDate>Mon, 02 Oct 2023 03:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[0do]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/09/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93_0do_%EC%95%84%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.254 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
