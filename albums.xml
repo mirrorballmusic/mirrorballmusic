@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 08:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 09:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Laceration]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/laceration/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/laceration/</guid>
+            <pubDate>Thu, 19 Oct 2023 09:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_Laceration-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[각자의 꽃]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b0%81%ec%9e%90%ec%9d%98-%ea%bd%83/</link>
@@ -237,14 +245,6 @@
             <pubDate>Tue, 10 Oct 2023 03:15:09 GMT</pubDate>
             <content:encoded><![CDATA[김톡허 (ToKer)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%82%AC%EB%9E%91-%EC%82%AC%EB%9E%91-%EC%82%AC%EB%9E%91-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part Time Dealer]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/part-time-dealer/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/part-time-dealer/</guid>
-            <pubDate>Tue, 10 Oct 2023 03:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[꼬리물기]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/01.-Part-Time-Dealer-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
