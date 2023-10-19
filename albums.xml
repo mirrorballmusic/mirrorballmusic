@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 02:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 03:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[각자의 꽃]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b0%81%ec%9e%90%ec%9d%98-%ea%bd%83/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b0%81%ec%9e%90%ec%9d%98-%ea%bd%83/</guid>
+            <pubDate>Thu, 19 Oct 2023 03:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[조정희 (Jung-hee Cho)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%A0%95%ED%9D%AC-Jung-hee-Cho_%EA%B0%81%EC%9E%90%EC%9D%98-%EA%BD%83-2-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그렇더라도]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a0%87%eb%8d%94%eb%9d%bc%eb%8f%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a0%87%eb%8d%94%eb%9d%bc%eb%8f%84/</guid>
+            <pubDate>Thu, 19 Oct 2023 03:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[수윤]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%88%98%EC%9C%A4_%EA%B7%B8%EB%A0%87%EB%8D%94%EB%9D%BC%EB%8F%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[REASON FOR SILENCE]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/reason-for-silence/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/reason-for-silence/</guid>
+            <pubDate>Thu, 19 Oct 2023 03:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[마하트마]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%ED%95%98%ED%8A%B8%EB%A7%88_REASON-FOR-SILENCE-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Diving]]></title>
             <link>http://mirrorballmusic.co.kr/albums/diving/</link>
@@ -221,30 +245,6 @@
             <pubDate>Tue, 10 Oct 2023 03:15:09 GMT</pubDate>
             <content:encoded><![CDATA[꼬리물기]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/01.-Part-Time-Dealer-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진심 Reboot 2023]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%84%ec%8b%ac-reboot-2023/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%84%ec%8b%ac-reboot-2023/</guid>
-            <pubDate>Mon, 16 Oct 2023 09:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[강백수]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EB%B0%B1%EC%88%98_%EC%A7%84%EC%8B%AC-Reboot-2023-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Time !]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/golden-time/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/golden-time/</guid>
-            <pubDate>Mon, 16 Oct 2023 09:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[아름]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EB%A6%84_Golden-Time-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STORY#29]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/story29/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/story29/</guid>
-            <pubDate>Mon, 16 Oct 2023 08:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[Collective Arts (콜렉티브아츠), 소병준]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Collective-Arts-%EC%BD%9C%EB%A0%89%ED%8B%B0%EB%B8%8C%EC%95%84%EC%B8%A0-%EC%86%8C%EB%B3%91%EC%A4%80_STORY_29-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
