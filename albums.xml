@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 02:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 03:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b2%ad/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b2%ad/</guid>
+            <pubDate>Sun, 22 Oct 2023 03:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[신유진]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_-%EC%8B%A0%EC%9C%A0%EC%A7%84_%EC%B2%AD-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Surfer]]></title>
             <link>http://mirrorballmusic.co.kr/albums/surfer/</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 16 Oct 2023 09:15:57 GMT</pubDate>
             <content:encoded><![CDATA[ANTHONY]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ANTHONY_Bar-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meaning]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/meaning/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/meaning/</guid>
-            <pubDate>Wed, 11 Oct 2023 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[TK]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_TK_Meaning-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
