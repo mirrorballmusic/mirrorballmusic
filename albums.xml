@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 02:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 03:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[co-isolation]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/co-isolation/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/co-isolation/</guid>
+            <pubDate>Thu, 26 Oct 2023 03:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[cotoba (코토바)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_cotoba-%EC%BD%94%ED%86%A0%EB%B0%94_co-isolation-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Automatic Love]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/automatic-love/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/automatic-love/</guid>
+            <pubDate>Thu, 26 Oct 2023 03:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[GBSO]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_GBSO_Automatic-Love-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상상]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%83%81%ec%83%81/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%83%81%ec%83%81/</guid>
+            <pubDate>Thu, 26 Oct 2023 03:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[오백준]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EB%B0%B1%EC%A4%80_%EC%83%81%EC%83%81-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시월청춘]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%8b%9c%ec%9b%94%ec%b2%ad%ec%b6%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%8b%9c%ec%9b%94%ec%b2%ad%ec%b6%98/</guid>
+            <pubDate>Thu, 26 Oct 2023 03:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[푸른선]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%91%B8%EB%A5%B8%EC%84%A0_%EC%8B%9C%EC%9B%94%EC%B2%AD%EC%B6%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미지의 세계]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%a7%80%ec%9d%98-%ec%84%b8%ea%b3%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%a7%80%ec%9d%98-%ec%84%b8%ea%b3%84/</guid>
+            <pubDate>Thu, 26 Oct 2023 03:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[욘]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%98_%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%84%B8%EA%B3%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로버]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%81%b4%eb%a1%9c%eb%b2%84/</link>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 19 Oct 2023 03:14:49 GMT</pubDate>
             <content:encoded><![CDATA[마하트마]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%ED%95%98%ED%8A%B8%EB%A7%88_REASON-FOR-SILENCE-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Diving]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/diving/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/diving/</guid>
-            <pubDate>Wed, 18 Oct 2023 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[we hate jh]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_we-hate-jh_Diving-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[So happy, So good!]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/so-happy-so-good/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/so-happy-so-good/</guid>
-            <pubDate>Wed, 18 Oct 2023 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[타린]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%A6%B0_So-happy-So-good-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tulipa]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/tulipa/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/tulipa/</guid>
-            <pubDate>Wed, 18 Oct 2023 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[닮은 (dalm_eun)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%AE%EC%9D%80-dalm_eun_Tulipa-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[People said i’m a ghost!]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/people-said-im-a-ghost/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/people-said-im-a-ghost/</guid>
-            <pubDate>Tue, 17 Oct 2023 03:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[notusthough, Monokim]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_notusthough-Monokim_People-said-im-a-ghost-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 불연소의 여름에 갇힌 채 밤을 맞고]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8a%94-%eb%b6%88%ec%97%b0%ec%86%8c%ec%9d%98-%ec%97%ac%eb%a6%84%ec%97%90-%ea%b0%87%ed%9e%8c-%ec%b1%84-%eb%b0%a4%ec%9d%84-%eb%a7%9e%ea%b3%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8a%94-%eb%b6%88%ec%97%b0%ec%86%8c%ec%9d%98-%ec%97%ac%eb%a6%84%ec%97%90-%ea%b0%87%ed%9e%8c-%ec%b1%84-%eb%b0%a4%ec%9d%84-%eb%a7%9e%ea%b3%a0/</guid>
-            <pubDate>Tue, 17 Oct 2023 03:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[릴리 잇 머신 (Lilly Eat Machine)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/LEMJacketOfficial-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
