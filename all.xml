@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 02:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 03:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Napping (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/napping/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/napping/</guid>
+            <pubDate>Sun, 29 Oct 2023 03:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Napping-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나빌레라 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%b9%8c%eb%a0%88%eb%9d%bc/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 20 Oct 2023 05:13:49 GMT</pubDate>
             <content:encoded><![CDATA[최혜빈]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%ED%98%9C%EB%B9%88_%EA%B7%B8%EB%9E%98%EB%8F%84-%EC%82%AC%EB%9E%91%ED%95%98%EC%9E%90-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE (tears) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/love-tears/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/love-tears/</guid>
-            <pubDate>Fri, 20 Oct 2023 05:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[최영길]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%98%81%EA%B8%B8_LOVE-tears-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.254 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
