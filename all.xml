@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 02:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 03:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파고 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%ea%b3%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%ea%b3%a0/</guid>
+            <pubDate>Tue, 31 Oct 2023 03:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[이호석]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%ED%98%B8%EC%84%9D_%ED%8C%8C%EA%B3%A0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[희노애락 (feat. 림헤엄) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/84318/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/84318/</guid>
+            <pubDate>Tue, 31 Oct 2023 03:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[그냥준수 (of 미국거지)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B7%B8%EB%83%A5%EC%A4%80%EC%88%98-of-%EB%AF%B8%EA%B5%AD%EA%B1%B0%EC%A7%80-_%ED%9D%AC%EB%85%B8%EC%95%A0%EB%9D%BD-feat.-%EB%A6%BC%ED%97%A4%EC%97%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SINKHOLE CITY (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sinkhole-city/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sinkhole-city/</guid>
+            <pubDate>Tue, 31 Oct 2023 03:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[물결]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AC%BC%EA%B2%B0_SINKHOLE-CITY-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우울은 수영장 같고 난 머리까지 담그지 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%ec%9a%b8%ec%9d%80-%ec%88%98%ec%98%81%ec%9e%a5-%ea%b0%99%ea%b3%a0-%eb%82%9c-%eb%a8%b8%eb%a6%ac%ea%b9%8c%ec%a7%80-%eb%8b%b4%ea%b7%b8%ec%a7%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%ec%9a%b8%ec%9d%80-%ec%88%98%ec%98%81%ec%9e%a5-%ea%b0%99%ea%b3%a0-%eb%82%9c-%eb%a8%b8%eb%a6%ac%ea%b9%8c%ec%a7%80-%eb%8b%b4%ea%b7%b8%ec%a7%80/</guid>
+            <pubDate>Tue, 31 Oct 2023 03:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[이승현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%8A%B9%ED%98%84_%EC%9A%B0%EC%9A%B8%EC%9D%80-%EC%88%98%EC%98%81%EC%9E%A5-%EA%B0%99%EA%B3%A0-%EB%82%9C-%EB%A8%B8%EB%A6%AC%EA%B9%8C%EC%A7%80-%EB%8B%B4%EA%B7%B8%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miserable Of Happiness (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/miserable-of-happiness/</link>
@@ -216,36 +248,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Holocity-%ED%99%80%EB%A1%9C%EC%8B%9C%ED%8B%B0_%EA%BF%88%EC%9D%98-%EA%B8%B0%EC%96%B5-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[궤도 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b6%a4%eb%8f%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b6%a4%eb%8f%84/</guid>
-            <pubDate>Mon, 23 Oct 2023 09:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[하다 (HADA)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%98%EB%8B%A4-HADA_%EA%B6%A4%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Purple Rain (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/purple-rain-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/purple-rain-2/</guid>
-            <pubDate>Mon, 23 Oct 2023 03:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[퍼플오션]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8D%BC%ED%94%8C%EC%98%A4%EC%85%98-Purple-Ocean_Purple-Rain-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 여름 (Original Motion Picture Soundtrack) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%97%ac%eb%a6%84-original-motion-picture-soundtrack/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%97%ac%eb%a6%84-original-motion-picture-soundtrack/</guid>
-            <pubDate>Mon, 23 Oct 2023 03:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[이수빈]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%88%98%EB%B9%88_%EA%B7%B8-%EC%97%AC%EB%A6%84-OST-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blossom (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/blossom/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/blossom/</guid>
-            <pubDate>Mon, 23 Oct 2023 03:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[Barshy (바쉬)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Barshy-%EB%B0%94%EC%89%AC_Blossom-2-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.255 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-255/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-255/</guid>
+            <pubDate>Tue, 31 Oct 2023 03:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.26 ~ 2023.10.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%ED%84%B0%EC%B9%98%EB%93%9C-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.254 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -334,14 +342,6 @@
             <pubDate>Mon, 15 May 2023 05:14:07 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.11 ~ 2023.04.25]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/05/%EB%B3%BC%EB%B9%A8%EC%82%AC-300x300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.243 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-243/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-243/</guid>
-            <pubDate>Sun, 30 Apr 2023 05:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.26 ~ 2023.04.10]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/04/01.-%EC%9D%B4%EC%A7%80%EC%B9%B4%EC%9D%B4%ED%8A%B8-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
