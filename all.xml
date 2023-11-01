@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 02:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 03:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Memories on you (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/memories-on-you/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/memories-on-you/</guid>
+            <pubDate>Wed, 01 Nov 2023 03:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[폴린딜드 (Fallin' Dild)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8F%B4%EB%A6%B0%EB%94%9C%EB%93%9C-Fallin_-Dild_Memories-on-you-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곰팡이 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%b0%ed%8c%a1%ec%9d%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%b0%ed%8c%a1%ec%9d%b4/</guid>
+            <pubDate>Wed, 01 Nov 2023 03:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[The Tunas (더 튜나스)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Tunas-%EB%8D%94-%ED%8A%9C%EB%82%98%EC%8A%A4_%EA%B3%B0%ED%8C%A1%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사람으로부터 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%8c%ec%9c%bc%eb%a1%9c%eb%b6%80%ed%84%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%8c%ec%9c%bc%eb%a1%9c%eb%b6%80%ed%84%b0/</guid>
+            <pubDate>Wed, 01 Nov 2023 03:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[다시 한번 말하자면 (HAINA MAIKA PUANA)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%A4%EC%8B%9C-%ED%95%9C%EB%B2%88-%EB%A7%90%ED%95%98%EC%9E%90%EB%A9%B4_%EC%82%AC%EB%9E%8C%EC%9C%BC%EB%A1%9C%EB%B6%80%ED%84%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파고 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%ea%b3%a0/</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 24 Oct 2023 03:16:25 GMT</pubDate>
             <content:encoded><![CDATA[Monos]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Monos_%EC%95%84%EB%AC%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거짓말 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b1%b0%ec%a7%93%eb%a7%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b1%b0%ec%a7%93%eb%a7%90/</guid>
-            <pubDate>Tue, 24 Oct 2023 03:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[두솜 (dusom)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%91%90%EC%86%9C-dusom_%EA%B1%B0%EC%A7%93%EB%A7%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 우효 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ec%98%a8-%ec%9a%b0%ed%9a%a8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ec%98%a8-%ec%9a%b0%ed%9a%a8/</guid>
-            <pubDate>Mon, 23 Oct 2023 09:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[우효]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%B0%ED%9A%A8_%EB%8F%8C%EC%95%84%EC%98%A8-%EC%9A%B0%ED%9A%A8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈의 기억 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ec%9d%98-%ea%b8%b0%ec%96%b5/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ec%9d%98-%ea%b8%b0%ec%96%b5/</guid>
-            <pubDate>Mon, 23 Oct 2023 09:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[Holocity (홀로시티)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Holocity-%ED%99%80%EB%A1%9C%EC%8B%9C%ED%8B%B0_%EA%BF%88%EC%9D%98-%EA%B8%B0%EC%96%B5-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.255 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
