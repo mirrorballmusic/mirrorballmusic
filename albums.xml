@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 02:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 03:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키치죠지의 검은 고양이]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%82%a4%ec%b9%98%ec%a3%a0%ec%a7%80%ec%9d%98-%ea%b2%80%ec%9d%80-%ea%b3%a0%ec%96%91%ec%9d%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%82%a4%ec%b9%98%ec%a3%a0%ec%a7%80%ec%9d%98-%ea%b2%80%ec%9d%80-%ea%b3%a0%ec%96%91%ec%9d%b4/</guid>
+            <pubDate>Mon, 06 Nov 2023 03:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[박근홍]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EA%B7%BC%ED%99%8D_%ED%82%A4%EC%B9%98%EC%A3%A0%EC%A7%80%EC%9D%98-%EA%B2%80%EC%9D%80-%EA%B3%A0%EC%96%91%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빙(聘)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%99%e8%81%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%99%e8%81%98/</guid>
+            <pubDate>Mon, 06 Nov 2023 03:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[박은솔]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%9D%80%EC%86%94_%EB%B9%99%E8%81%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[날아가]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%a0%ec%95%84%ea%b0%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%a0%ec%95%84%ea%b0%80/</guid>
+            <pubDate>Mon, 06 Nov 2023 03:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[민주희]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AF%BC%EC%A3%BC%ED%9D%AC_%EB%82%A0%EC%95%84%EA%B0%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투명하게]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%88%ac%eb%aa%85%ed%95%98%ea%b2%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%88%ac%eb%aa%85%ed%95%98%ea%b2%8c/</guid>
+            <pubDate>Mon, 06 Nov 2023 03:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[NIBUY]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_NIBUY_%ED%88%AC%EB%AA%85%ED%95%98%EA%B2%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만 안되는 연애 OST]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%a7%8c-%ec%95%88%eb%90%98%eb%8a%94-%ec%97%b0%ec%95%a0-ost/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%a7%8c-%ec%95%88%eb%90%98%eb%8a%94-%ec%97%b0%ec%95%a0-ost/</guid>
+            <pubDate>Mon, 06 Nov 2023 03:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[클래디 (ClaD)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%81%B4%EB%9E%98%EB%94%94-ClaD_%EB%82%98%EB%A7%8C-%EC%95%88%EB%90%98%EB%8A%94-%EC%97%B0%EC%95%A0-OST-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휘청이는 마음으로]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%9c%98%ec%b2%ad%ec%9d%b4%eb%8a%94-%eb%a7%88%ec%9d%8c%ec%9c%bc%eb%a1%9c/</link>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 27 Oct 2023 03:14:40 GMT</pubDate>
             <content:encoded><![CDATA[뷰렛]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B7%B0%EB%A0%9B_%EB%82%98%EB%B9%8C%EB%A0%88%EB%9D%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화음무시]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%99%94%ec%9d%8c%eb%ac%b4%ec%8b%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%99%94%ec%9d%8c%eb%ac%b4%ec%8b%9c/</guid>
-            <pubDate>Fri, 27 Oct 2023 03:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[신지영]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EC%A7%80%EC%98%81_%ED%99%94%EC%9D%8C%EB%AC%B4%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hope (feat. KWAII)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/hope-feat-kwaii/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/hope-feat-kwaii/</guid>
-            <pubDate>Fri, 27 Oct 2023 03:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[Oong]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Oong_Hope-feat.-KWAII-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 영혼이 따뜻했던 날들]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4-%ec%98%81%ed%98%bc%ec%9d%b4-%eb%94%b0%eb%9c%bb%ed%96%88%eb%8d%98-%eb%82%a0%eb%93%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%b4-%ec%98%81%ed%98%bc%ec%9d%b4-%eb%94%b0%eb%9c%bb%ed%96%88%eb%8d%98-%eb%82%a0%eb%93%a4/</guid>
-            <pubDate>Fri, 27 Oct 2023 03:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[The Dailee (더 데일리)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Dailee-%EB%8D%94-%EB%8D%B0%EC%9D%BC%EB%A6%AC_%EB%82%B4-%EC%98%81%ED%98%BC%EC%9D%B4-%EB%94%B0%EB%9C%BB%ED%96%88%EB%8D%98-%EB%82%A0%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Travel]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/travel/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/travel/</guid>
-            <pubDate>Fri, 27 Oct 2023 03:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[이설]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%84%A4_Travel-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[co-isolation]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/co-isolation/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/co-isolation/</guid>
-            <pubDate>Thu, 26 Oct 2023 03:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[cotoba (코토바)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_cotoba-%EC%BD%94%ED%86%A0%EB%B0%94_co-isolation-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
