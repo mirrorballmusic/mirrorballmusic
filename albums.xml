@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 02:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 03:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[omoide]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/omoide/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/omoide/</guid>
+            <pubDate>Sun, 12 Nov 2023 03:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[eunoo]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_eunoo_omoide-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TOXICLUB VOL.1]]></title>
             <link>http://mirrorballmusic.co.kr/albums/toxiclub-vol-1/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Nov 2023 03:14:53 GMT</pubDate>
             <content:encoded><![CDATA[조선블루스]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%84%A0%EB%B8%94%EB%A3%A8%EC%8A%A4_%EC%96%B4%EB%A5%B8%EC%95%84%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cocktail Of The Day]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/cocktail-of-the-day/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/cocktail-of-the-day/</guid>
-            <pubDate>Fri, 03 Nov 2023 03:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[REST]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_REST_Cocktail-Of-The-Day-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
