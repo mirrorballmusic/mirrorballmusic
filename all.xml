@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 06:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 07:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-_%EC%9D%B4%ED%9A%A8%EC%9A%B4_%EB%AC%B4%EC%8A%A8-%EB%A7%90%EC%9D%B4%EB%9D%BC%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Time Capsule (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/time-capsule/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/time-capsule/</guid>
-            <pubDate>Wed, 15 Nov 2023 03:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[김준형]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%A4%80%ED%98%95_Time-Capsule-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Same Old (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/same-old/</link>
             <guid>http://mirrorballmusic.co.kr/albums/same-old/</guid>
             <pubDate>Wed, 15 Nov 2023 03:16:00 GMT</pubDate>
             <content:encoded><![CDATA[Gwac]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Gwac_Same-Old-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Time Capsule (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/time-capsule/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/time-capsule/</guid>
+            <pubDate>Wed, 15 Nov 2023 03:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[김준형]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%A4%80%ED%98%95_Time-Capsule-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Talking to you (미러볼뮤직 ─ ALBUMS)]]></title>
