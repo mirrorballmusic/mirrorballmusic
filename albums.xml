@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 02:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 04:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울어도 괜찮아요]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b8%ec%96%b4%eb%8f%84-%ea%b4%9c%ec%b0%ae%ec%95%84%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b8%ec%96%b4%eb%8f%84-%ea%b4%9c%ec%b0%ae%ec%95%84%ec%9a%94/</guid>
+            <pubDate>Sun, 19 Nov 2023 04:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[홈메이드레코딩]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%88%EB%A9%94%EC%9D%B4%EB%93%9C%EB%A0%88%EC%BD%94%EB%94%A9_%EC%9A%B8%EC%96%B4%EB%8F%84-%EA%B4%9C%EC%B0%AE%EC%95%84%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Flash]]></title>
             <link>http://mirrorballmusic.co.kr/albums/flash/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Nov 2023 03:15:21 GMT</pubDate>
             <content:encoded><![CDATA[Eisen (아이젠), Cos Aim]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Eisen-%EC%95%84%EC%9D%B4%EC%A0%A0-Cos-Aim_Like-it-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[City Driver]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/city-driver/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/city-driver/</guid>
-            <pubDate>Fri, 10 Nov 2023 03:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[강헌구]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%ED%97%8C%EA%B5%AC_City-Driver-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
