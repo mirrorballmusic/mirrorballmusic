@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 02:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 03:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Burning City]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/the-burning-city/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/the-burning-city/</guid>
+            <pubDate>Mon, 20 Nov 2023 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[오칠 (OHCHILL)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%B9%A0-OHCHILL_The-Burning-City-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제라도 돌아보려 합니다]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%9c%eb%9d%bc%eb%8f%84-%eb%8f%8c%ec%95%84%eb%b3%b4%eb%a0%a4-%ed%95%a9%eb%8b%88%eb%8b%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%9c%eb%9d%bc%eb%8f%84-%eb%8f%8c%ec%95%84%eb%b3%b4%eb%a0%a4-%ed%95%a9%eb%8b%88%eb%8b%a4/</guid>
+            <pubDate>Mon, 20 Nov 2023 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[조니영]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EB%8B%88%EC%98%81_%EC%9D%B4%EC%A0%9C%EB%9D%BC%EB%8F%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A0%A4-%ED%95%A9%EB%8B%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Not Much Left]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/not-much-left/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/not-much-left/</guid>
+            <pubDate>Mon, 20 Nov 2023 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[Narotic]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Narotic_Not-Much-Left-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 여름이 식어버린 꿈이었대도]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ec%97%ac%eb%a6%84%ec%9d%b4-%ec%8b%9d%ec%96%b4%eb%b2%84%eb%a6%b0-%ea%bf%88%ec%9d%b4%ec%97%88%eb%8c%80%eb%8f%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ec%97%ac%eb%a6%84%ec%9d%b4-%ec%8b%9d%ec%96%b4%eb%b2%84%eb%a6%b0-%ea%bf%88%ec%9d%b4%ec%97%88%eb%8c%80%eb%8f%84/</guid>
+            <pubDate>Mon, 20 Nov 2023 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[Papa The Cop (파파더캅)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Papa-The-Cop-%ED%8C%8C%ED%8C%8C%EB%8D%94%EC%BA%85_%EC%9A%B0%EB%A6%AC-%EC%97%AC%EB%A6%84%EC%9D%B4-%EC%8B%9D%EC%96%B4%EB%B2%84%EB%A6%B0-%EA%BF%88%EC%9D%B4%EC%97%88%EB%8C%80%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파고]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%ea%b3%a0-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%ea%b3%a0-2/</guid>
+            <pubDate>Mon, 20 Nov 2023 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[호와호]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%98%B8%EC%99%80%ED%98%B8_%ED%8C%8C%EA%B3%A0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[울어도 괜찮아요]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b8%ec%96%b4%eb%8f%84-%ea%b4%9c%ec%b0%ae%ec%95%84%ec%9a%94/</link>
@@ -206,46 +246,6 @@
             <pubDate>Sun, 12 Nov 2023 03:14:44 GMT</pubDate>
             <content:encoded><![CDATA[eunoo]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_eunoo_omoide-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TOXICLUB VOL.1]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/toxiclub-vol-1/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/toxiclub-vol-1/</guid>
-            <pubDate>Sat, 11 Nov 2023 03:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[톡식, 하진 (HAJIN)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%86%A1%EC%8B%9D-%ED%95%98%EC%A7%84HAJIN_%EB%A7%9D%EA%B0%81%EC%9D%98-%EC%88%B2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소현의 계절 : 가을]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%86%8c%ed%98%84%ec%9d%98-%ea%b3%84%ec%a0%88-%ea%b0%80%ec%9d%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%86%8c%ed%98%84%ec%9d%98-%ea%b3%84%ec%a0%88-%ea%b0%80%ec%9d%84/</guid>
-            <pubDate>Fri, 10 Nov 2023 03:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[조소현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%86%8C%ED%98%84_%EC%86%8C%ED%98%84%EC%9D%98-%EA%B3%84%EC%A0%88-%EA%B0%80%EC%9D%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mercury]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/merqury/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/merqury/</guid>
-            <pubDate>Fri, 10 Nov 2023 03:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[Scotch (스카치)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Scotch-%EC%8A%A4%EC%B9%B4%EC%B9%98_Merqury-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[find]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/find/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/find/</guid>
-            <pubDate>Fri, 10 Nov 2023 03:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[묘진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AC%98%EC%A7%84_find-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Like it!]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/like-it-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/like-it-2/</guid>
-            <pubDate>Fri, 10 Nov 2023 03:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[Eisen (아이젠), Cos Aim]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Eisen-%EC%95%84%EC%9D%B4%EC%A0%A0-Cos-Aim_Like-it-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
