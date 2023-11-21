@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 02:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 03:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Because of U]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/because-of-u/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/because-of-u/</guid>
+            <pubDate>Tue, 21 Nov 2023 03:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[잭더라즈 (Jack the lads)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%AD%EB%8D%94%EB%9D%BC%EC%A6%88-Jack-the-lads_Because-of-U-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TIGER CYPHER (feat. Max Kim, 키츠요지 (kitsyojii), PILLOW, 구현하다, 식보이 (Sikboy))]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/tiger-cypher-feat-max-kim-%ed%82%a4%ec%b8%a0%ec%9a%94%ec%a7%80-kitsyojii-pillow-%ea%b5%ac%ed%98%84%ed%95%98%eb%8b%a4-%ec%8b%9d%eb%b3%b4%ec%9d%b4-sikboy/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/tiger-cypher-feat-max-kim-%ed%82%a4%ec%b8%a0%ec%9a%94%ec%a7%80-kitsyojii-pillow-%ea%b5%ac%ed%98%84%ed%95%98%eb%8b%a4-%ec%8b%9d%eb%b3%b4%ec%9d%b4-sikboy/</guid>
+            <pubDate>Tue, 21 Nov 2023 03:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[박창민]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B0%BD%EB%AF%BC_TIGER-CYPHER-feat.-Max-Kim-%ED%82%A4%EC%B8%A0%EC%9A%94%EC%A7%80-kitsyojii-PILLOW-%EA%B5%AC%ED%98%84%ED%95%98%EB%8B%A4-%EC%8B%9D%EB%B3%B4%EC%9D%B4-Sikboy-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[君しかない (Only You)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%e5%90%9b%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84-only-you/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%e5%90%9b%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84-only-you/</guid>
+            <pubDate>Tue, 21 Nov 2023 03:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[헤이븐 (Heiven)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%A4%EC%9D%B4%EB%B8%90-Heiven_%E5%90%9B%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84-Only-You-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맨 처음만 남겨놓고]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%a8-%ec%b2%98%ec%9d%8c%eb%a7%8c-%eb%82%a8%ea%b2%a8%eb%86%93%ea%b3%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%a8-%ec%b2%98%ec%9d%8c%eb%a7%8c-%eb%82%a8%ea%b2%a8%eb%86%93%ea%b3%a0/</guid>
+            <pubDate>Tue, 21 Nov 2023 03:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[은아]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%80%EC%95%84_%EB%A7%A8-%EC%B2%98%EC%9D%8C%EB%A7%8C-%EB%82%A8%EA%B2%A8%EB%86%93%EA%B3%A0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[욕심]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%95%ec%8b%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%95%ec%8b%ac/</guid>
+            <pubDate>Tue, 21 Nov 2023 03:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[이롬]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%A1%AC_%EC%9A%95%EC%8B%AC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Burning City]]></title>
             <link>http://mirrorballmusic.co.kr/albums/the-burning-city/</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 14 Nov 2023 03:15:08 GMT</pubDate>
             <content:encoded><![CDATA[서주연밴드]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%A3%BC%EC%97%B0%EB%B0%B4%EB%93%9C_%EA%B7%B8%EB%9E%98%EC%84%9C-%EB%84%90-%EB%B6%80%EB%A5%B4%EB%84%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 안되는 연애 OST]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%a7%8c-%ec%95%88%eb%90%98%eb%8a%94-%ec%97%b0%ec%95%a0-ost-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%a7%8c-%ec%95%88%eb%90%98%eb%8a%94-%ec%97%b0%ec%95%a0-ost-2/</guid>
-            <pubDate>Mon, 13 Nov 2023 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[클래디 (ClaD)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%81%B4%EB%9E%98%EB%94%94-ClaD_%EB%82%98%EB%A7%8C-%EC%95%88%EB%90%98%EB%8A%94-%EC%97%B0%EC%95%A0-OST-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원할 것 같아]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%98%81%ec%9b%90%ed%95%a0-%ea%b2%83-%ea%b0%99%ec%95%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%81%ec%9b%90%ed%95%a0-%ea%b2%83-%ea%b0%99%ec%95%84/</guid>
-            <pubDate>Mon, 13 Nov 2023 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[백광흠]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EA%B4%91%ED%9D%A0_%EC%98%81%EC%9B%90%ED%95%A0-%EA%B2%83-%EA%B0%99%EC%95%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cliche (feat. Oong, Dodoong)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/cliche-feat-oong-dodoong/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/cliche-feat-oong-dodoong/</guid>
-            <pubDate>Mon, 13 Nov 2023 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[Luen]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B5%AD%EB%82%B4_Luen_Cliche-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난 이런 사람이 아니에요]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%9c-%ec%9d%b4%eb%9f%b0-%ec%82%ac%eb%9e%8c%ec%9d%b4-%ec%95%84%eb%8b%88%ec%97%90%ec%9a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%9c-%ec%9d%b4%eb%9f%b0-%ec%82%ac%eb%9e%8c%ec%9d%b4-%ec%95%84%eb%8b%88%ec%97%90%ec%9a%94/</guid>
-            <pubDate>Mon, 13 Nov 2023 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[서안 (SEOAN)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%95%88-SEOAN_%EB%82%9C-%EC%9D%B4%EB%9F%B0-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EC%97%90%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[omoide]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/omoide/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/omoide/</guid>
-            <pubDate>Sun, 12 Nov 2023 03:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[eunoo]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_eunoo_omoide-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
