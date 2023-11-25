@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 02:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 03:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9 COLOR SOUNDS (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/9-color-sounds/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/9-color-sounds/</guid>
+            <pubDate>Sat, 25 Nov 2023 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Various-Artists_9-COLOR-SOUNDS-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alive (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/alive/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Nov 2023 03:15:06 GMT</pubDate>
             <content:encoded><![CDATA[이지구]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A7%80%EA%B5%AC_%EC%A3%BD%EC%9D%8C%EC%9D%98-%EC%BC%80%EC%9D%B4%ED%81%AC-%ED%8C%8C%ED%8B%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Born (feat. 유오림) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/born-feat-%ec%9c%a0%ec%98%a4%eb%a6%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/born-feat-%ec%9c%a0%ec%98%a4%eb%a6%bc/</guid>
-            <pubDate>Fri, 17 Nov 2023 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[하승진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%98%EC%8A%B9%EC%A7%84_Born-feat.-%EC%9C%A0%EC%98%A4%EB%A6%BC-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.256 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
