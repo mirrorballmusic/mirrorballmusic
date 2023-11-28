@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 02:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 03:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[망가진 나침반을 들고 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%9d%ea%b0%80%ec%a7%84-%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%84-%eb%93%a4%ea%b3%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%9d%ea%b0%80%ec%a7%84-%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%84-%eb%93%a4%ea%b3%a0/</guid>
+            <pubDate>Tue, 28 Nov 2023 03:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[안희수]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%ED%9D%AC%EC%88%98_%EB%A7%9D%EA%B0%80%EC%A7%84-%EB%82%98%EC%B9%A8%EB%B0%98%EC%9D%84-%EB%93%A4%EA%B3%A0-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Obsession (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/obsession-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/obsession-2/</guid>
+            <pubDate>Tue, 28 Nov 2023 03:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[시우]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%9C%EC%9A%B0_Obsession-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Somewhere I Belong 安身 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/somewhere-i-belong-%e5%ae%89%e8%ba%ab/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/somewhere-i-belong-%e5%ae%89%e8%ba%ab/</guid>
+            <pubDate>Tue, 28 Nov 2023 03:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[Anson (洪浩竣, 홍호준)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Anson-%E6%B4%AA%E6%B5%A9%E7%AB%A3-%ED%99%8D%ED%98%B8%EC%A4%80_Somewhere-I-Belong-%E5%AE%89%E8%BA%AB-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내게로 와 (master ver.) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b2%8c%eb%a1%9c-%ec%99%80-master-ver/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b2%8c%eb%a1%9c-%ec%99%80-master-ver/</guid>
+            <pubDate>Tue, 28 Nov 2023 03:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[이진호]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A7%84%ED%98%B8_%EB%82%B4%EA%B2%8C%EB%A1%9C-%EC%99%80-master-ver.-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밤소풍 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ec%86%8c%ed%92%8d/</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 21 Nov 2023 03:15:41 GMT</pubDate>
             <content:encoded><![CDATA[은아]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%80%EC%95%84_%EB%A7%A8-%EC%B2%98%EC%9D%8C%EB%A7%8C-%EB%82%A8%EA%B2%A8%EB%86%93%EA%B3%A0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[욕심 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%95%ec%8b%ac/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%95%ec%8b%ac/</guid>
-            <pubDate>Tue, 21 Nov 2023 03:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[이롬]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%A1%AC_%EC%9A%95%EC%8B%AC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Burning City (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/the-burning-city/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/the-burning-city/</guid>
-            <pubDate>Mon, 20 Nov 2023 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[오칠 (OHCHILL)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%B9%A0-OHCHILL_The-Burning-City-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제라도 돌아보려 합니다 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%9c%eb%9d%bc%eb%8f%84-%eb%8f%8c%ec%95%84%eb%b3%b4%eb%a0%a4-%ed%95%a9%eb%8b%88%eb%8b%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%9c%eb%9d%bc%eb%8f%84-%eb%8f%8c%ec%95%84%eb%b3%b4%eb%a0%a4-%ed%95%a9%eb%8b%88%eb%8b%a4/</guid>
-            <pubDate>Mon, 20 Nov 2023 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[조니영]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EB%8B%88%EC%98%81_%EC%9D%B4%EC%A0%9C%EB%9D%BC%EB%8F%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A0%A4-%ED%95%A9%EB%8B%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Not Much Left (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/not-much-left/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/not-much-left/</guid>
-            <pubDate>Mon, 20 Nov 2023 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[Narotic]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Narotic_Not-Much-Left-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.256 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
