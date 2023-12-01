@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 08:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 09:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이젠 안녕]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%a0-%ec%95%88%eb%85%95/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%a0-%ec%95%88%eb%85%95/</guid>
+            <pubDate>Fri, 01 Dec 2023 09:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[감스트, 탱구]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%90%EC%8A%A4%ED%8A%B8-%ED%83%B1%EA%B5%AC_%EC%9D%B4%EC%A0%A0-%EC%95%88%EB%85%95-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kiss Touch Me]]></title>
             <link>http://mirrorballmusic.co.kr/albums/kiss-touch-me/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Nov 2023 03:15:08 GMT</pubDate>
             <content:encoded><![CDATA[RmStar]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_RmStar_New-day-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Humanoid operational]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/humanoid-operational/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/humanoid-operational/</guid>
-            <pubDate>Thu, 23 Nov 2023 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[cotoba (코토바)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_cotoba-%EC%BD%94%ED%86%A0%EB%B0%94_Humanoid-operational-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
