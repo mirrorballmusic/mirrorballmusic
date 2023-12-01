@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 04:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 05:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,7 +28,7 @@
             <link>http://mirrorballmusic.co.kr/albums/age-tape-23/</link>
             <guid>http://mirrorballmusic.co.kr/albums/age-tape-23/</guid>
             <pubDate>Fri, 01 Dec 2023 03:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <content:encoded><![CDATA[가현, 박서하, 콕씨, SOL2]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%80%ED%98%84-%EB%B0%95%EC%84%9C%ED%95%98-%EC%BD%95%EC%94%A8-Sol2_-Age-tape-23-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
