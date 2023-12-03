@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 02:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 03:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[적당하게]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%81%eb%8b%b9%ed%95%98%ea%b2%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%81%eb%8b%b9%ed%95%98%ea%b2%8c/</guid>
+            <pubDate>Sun, 03 Dec 2023 03:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[한림(Hanlim)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EB%A6%BC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Winter]]></title>
             <link>http://mirrorballmusic.co.kr/albums/winter-4/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Nov 2023 03:15:08 GMT</pubDate>
             <content:encoded><![CDATA[나지현]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%98%EC%A7%80%ED%98%84_%EB%8B%A4-%EC%83%81%EA%B4%80%EC%97%86%EC%96%B4%EC%A1%8C%EB%84%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STORYTELLER]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/storyteller-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/storyteller-2/</guid>
-            <pubDate>Fri, 24 Nov 2023 03:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[송시은]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%A1%EC%8B%9C%EC%9D%80_STORYTELLER-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
