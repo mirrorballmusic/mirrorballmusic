@@ -4,9 +4,57 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 02:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 03:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Moonflower (feat. HYO RAM)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/moonflower-feat-hyo-ram/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/moonflower-feat-hyo-ram/</guid>
+            <pubDate>Mon, 04 Dec 2023 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[신지민]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EC%A7%80%EB%AF%BC_Moonflower-feat.-HYO-RAM-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시간의 몫]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%8b%9c%ea%b0%84%ec%9d%98-%eb%aa%ab/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%8b%9c%ea%b0%84%ec%9d%98-%eb%aa%ab/</guid>
+            <pubDate>Mon, 04 Dec 2023 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[다지]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%A4%EC%A7%80_%EC%8B%9C%EA%B0%84%EC%9D%98-%EB%AA%AB-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[속삭임]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%86%8d%ec%82%ad%ec%9e%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%86%8d%ec%82%ad%ec%9e%84/</guid>
+            <pubDate>Mon, 04 Dec 2023 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[시선 (seasun)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%9C%EC%84%A0_%EC%86%8D%EC%82%AD%EC%9E%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNOWTAPE]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/snowtape/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/snowtape/</guid>
+            <pubDate>Mon, 04 Dec 2023 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[SNOWTAPE]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SNOWTAPE_SNOWTAPE-231201-ver.-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MY HERO]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/my-hero/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/my-hero/</guid>
+            <pubDate>Mon, 04 Dec 2023 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[브라이톤 (BRIGHTONE)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B8%8C%EB%9D%BC%EC%9D%B4%ED%86%A4-BRIGHTONE_MY-HERO-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돈]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%88/</guid>
+            <pubDate>Mon, 04 Dec 2023 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[삼산]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%BC%EC%82%B0_%EB%8F%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[적당하게]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%a0%81%eb%8b%b9%ed%95%98%ea%b2%8c/</link>
@@ -198,54 +246,6 @@
             <pubDate>Mon, 27 Nov 2023 03:15:32 GMT</pubDate>
             <content:encoded><![CDATA[김시현트리오]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%8B%9C%ED%98%84%ED%8A%B8%EB%A6%AC%EC%98%A4_warming-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이별, 꿈]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%b3%84-%ea%bf%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%b3%84-%ea%bf%88/</guid>
-            <pubDate>Mon, 27 Nov 2023 03:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[미서니]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AF%B8%EC%84%9C%EB%8B%88_%EC%9D%B4%EB%B3%84-%EA%BF%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그런 거였더라고]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9f%b0-%ea%b1%b0%ec%98%80%eb%8d%94%eb%9d%bc%ea%b3%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9f%b0-%ea%b1%b0%ec%98%80%eb%8d%94%eb%9d%bc%ea%b3%a0/</guid>
-            <pubDate>Sun, 26 Nov 2023 03:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[권한경]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B6%8C%ED%95%9C%EA%B2%BD_%EA%B7%B8%EB%9F%B0-%EA%B1%B0%EC%98%80%EB%8D%94%EB%9D%BC%EA%B3%A0-300x300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[9 COLOR SOUNDS]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/9-color-sounds/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/9-color-sounds/</guid>
-            <pubDate>Sat, 25 Nov 2023 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Various-Artists_9-COLOR-SOUNDS-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alive]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/alive/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/alive/</guid>
-            <pubDate>Fri, 24 Nov 2023 03:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[윤성기]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A4%EC%84%B1%EA%B8%B0_Alive-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[134340]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/134340/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/134340/</guid>
-            <pubDate>Fri, 24 Nov 2023 03:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[Elliot (엘리엇), oddbob (오드밥)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Elliot-%EC%97%98%EB%A6%AC%EC%97%87-oddbob-%EC%98%A4%EB%93%9C%EB%B0%A5_134340-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다 상관없어졌네]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4-%ec%83%81%ea%b4%80%ec%97%86%ec%96%b4%ec%a1%8c%eb%84%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%a4-%ec%83%81%ea%b4%80%ec%97%86%ec%96%b4%ec%a1%8c%eb%84%a4/</guid>
-            <pubDate>Fri, 24 Nov 2023 03:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[나지현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%98%EC%A7%80%ED%98%84_%EB%8B%A4-%EC%83%81%EA%B4%80%EC%97%86%EC%96%B4%EC%A1%8C%EB%84%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
