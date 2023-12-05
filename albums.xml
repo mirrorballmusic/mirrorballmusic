@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 08:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 09:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[J RABBIT CHRISTMAS ALBUM]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/j-rabbit-christmas-album/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/j-rabbit-christmas-album/</guid>
+            <pubDate>Tue, 05 Dec 2023 09:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[제이레빗 (J RABBIT)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/J_Rabbit_Christmas_Album-COVER-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새벽이 멈춘 곳]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%83%88%eb%b2%bd%ec%9d%b4-%eb%a9%88%ec%b6%98-%ea%b3%b3/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Nov 2023 03:15:44 GMT</pubDate>
             <content:encoded><![CDATA[이진호]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A7%84%ED%98%B8_%EB%82%B4%EA%B2%8C%EB%A1%9C-%EC%99%80-master-ver.-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤소풍]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ec%86%8c%ed%92%8d/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ec%86%8c%ed%92%8d/</guid>
-            <pubDate>Mon, 27 Nov 2023 03:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[재주소년]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%AC%EC%A3%BC%EC%86%8C%EB%85%84_%EB%B0%A4%EC%86%8C%ED%92%8D-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
