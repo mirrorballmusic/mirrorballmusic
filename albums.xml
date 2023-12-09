@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 02:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 03:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낭만사치 (浪漫奢侈)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%ad%eb%a7%8c%ec%82%ac%ec%b9%98-%e6%b5%aa%e6%bc%ab%e5%a5%a2%e4%be%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%ad%eb%a7%8c%ec%82%ac%ec%b9%98-%e6%b5%aa%e6%bc%ab%e5%a5%a2%e4%be%88/</guid>
+            <pubDate>Sat, 09 Dec 2023 03:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[Ezzle(이즐)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/01.-Ezzle_%EB%82%AD%EB%A7%8C%EC%82%AC%EC%B9%98_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%9E%90%EC%BC%93-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12월의 어느 날]]></title>
             <link>http://mirrorballmusic.co.kr/albums/12%ec%9b%94%ec%9d%98-%ec%96%b4%eb%8a%90-%eb%82%a0/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Dec 2023 09:15:03 GMT</pubDate>
             <content:encoded><![CDATA[감스트, 탱구]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%90%EC%8A%A4%ED%8A%B8-%ED%83%B1%EA%B5%AC_%EC%9D%B4%EC%A0%A0-%EC%95%88%EB%85%95-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kiss Touch Me]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/kiss-touch-me/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/kiss-touch-me/</guid>
-            <pubDate>Fri, 01 Dec 2023 03:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[사막꽃 (Desert Flower), 우지원]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%AC%EB%A7%89%EA%BD%83-Desert-Flower_Kiss-Touch-Me-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
