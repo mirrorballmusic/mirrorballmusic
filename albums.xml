@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 02:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 03:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿈결]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ea%b2%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ea%b2%b0/</guid>
+            <pubDate>Sun, 10 Dec 2023 03:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[옛그리움 (Old Yearning)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%9B%EA%B7%B8%EB%A6%AC%EC%9B%80-Old-Yearning_%EA%BF%88%EA%B2%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낭만사치 (浪漫奢侈)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%82%ad%eb%a7%8c%ec%82%ac%ec%b9%98-%e6%b5%aa%e6%bc%ab%e5%a5%a2%e4%be%88/</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Dec 2023 03:14:59 GMT</pubDate>
             <content:encoded><![CDATA[두솜 (dusom)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%91%90%EC%86%9C-dusom_Winter-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이젠 안녕]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%a0-%ec%95%88%eb%85%95/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%a0-%ec%95%88%eb%85%95/</guid>
-            <pubDate>Fri, 01 Dec 2023 09:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[감스트, 탱구]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%90%EC%8A%A4%ED%8A%B8-%ED%83%B1%EA%B5%AC_%EC%9D%B4%EC%A0%A0-%EC%95%88%EB%85%95-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
