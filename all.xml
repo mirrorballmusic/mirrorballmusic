@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 08:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 09:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 11 Dec 2023 03:16:07 GMT</pubDate>
             <content:encoded><![CDATA[Modernage (모던에이지)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Modernage-%EB%AA%A8%EB%8D%98%EC%97%90%EC%9D%B4%EC%A7%80_Heavenward-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Winter Comes Again (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/winter-comes-again/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/winter-comes-again/</guid>
-            <pubDate>Mon, 11 Dec 2023 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[김선욱]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%84%A0%EC%9A%B1_Winter-Comes-Again-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Little Forest (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 04 Dec 2023 03:15:36 GMT</pubDate>
             <content:encoded><![CDATA[시선 (seasun)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%9C%EC%84%A0_%EC%86%8D%EC%82%AD%EC%9E%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNOWTAPE (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/snowtape/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/snowtape/</guid>
+            <pubDate>Mon, 11 Dec 2023 09:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[SNOWTAPE]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SNOWTAPE_SNOWTAPE-231201-ver.-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.257 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
