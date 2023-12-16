@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 02:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 03:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초원 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b4%88%ec%9b%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b4%88%ec%9b%90/</guid>
+            <pubDate>Sat, 16 Dec 2023 03:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[권재학 (JFLAMINGO)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EA%B6%8C%EC%9E%AC%ED%95%99_01.-JFlamingo_%EC%B4%88%EC%9B%90_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%9E%90%EC%BC%93-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wonderful Time (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/wonderful-time/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Dec 2023 03:15:46 GMT</pubDate>
             <content:encoded><![CDATA[10 to 4]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_10-to-4_%EB%85%B9%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%88%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bloom Romance (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/bloom-romance/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/bloom-romance/</guid>
-            <pubDate>Fri, 08 Dec 2023 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[Orange Fang Fang Boys (오렌지 팡팡 보이즈)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Orange-Fang-Fang-Boys-%EC%98%A4%EB%A0%8C%EC%A7%80-%ED%8C%A1%ED%8C%A1-%EB%B3%B4%EC%9D%B4%EC%A6%88_Bloom-Romance-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.258 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
