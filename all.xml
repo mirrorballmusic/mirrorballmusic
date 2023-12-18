@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 02:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 03:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b4%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b4%88/</guid>
+            <pubDate>Mon, 18 Dec 2023 03:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[Bas Bao (바스바오)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Bas-Bao-%EB%B0%94%EC%8A%A4%EB%B0%94%EC%98%A4_%EC%B4%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[better with you (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/better-with-you/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/better-with-you/</guid>
+            <pubDate>Mon, 18 Dec 2023 03:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[지슈]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A7%80%EC%8A%88_better-with-you-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[REAL (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/real/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/real/</guid>
+            <pubDate>Mon, 18 Dec 2023 03:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[라원밴드 (RAWON BAND)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9D%BC%EC%9B%90%EB%B0%B4%EB%93%9C-RAWON-BAND_REAL-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤은 내게 너무 해로워 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ec%9d%80-%eb%82%b4%ea%b2%8c-%eb%84%88%eb%ac%b4-%ed%95%b4%eb%a1%9c%ec%9b%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ec%9d%80-%eb%82%b4%ea%b2%8c-%eb%84%88%eb%ac%b4-%ed%95%b4%eb%a1%9c%ec%9b%8c/</guid>
+            <pubDate>Mon, 18 Dec 2023 03:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[백혜정]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%ED%98%9C%EC%A0%95_%EB%B0%A4%EC%9D%80-%EB%82%B4%EA%B2%8C-%EB%84%88%EB%AC%B4-%ED%95%B4%EB%A1%9C%EC%9B%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bonfire (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/bonfire/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/bonfire/</guid>
+            <pubDate>Mon, 18 Dec 2023 03:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[FIC (픽)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_FIC-%ED%94%BD_Bonfire-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 볼륨업 OST (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%ae%a4%ec%a7%80%ec%bb%ac-%eb%b3%bc%eb%a5%a8%ec%97%85-ost/</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 11 Dec 2023 03:16:07 GMT</pubDate>
             <content:encoded><![CDATA[Modernage (모던에이지)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Modernage-%EB%AA%A8%EB%8D%98%EC%97%90%EC%9D%B4%EC%A7%80_Heavenward-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Little Forest (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/little-forest/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/little-forest/</guid>
-            <pubDate>Mon, 11 Dec 2023 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[위드리커 (With Liquor)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%84%EB%93%9C%EB%A6%AC%EC%BB%A4-With-Liquor_Little-Forest-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈결 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ea%b2%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ea%b2%b0/</guid>
-            <pubDate>Sun, 10 Dec 2023 03:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[옛그리움 (Old Yearning)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%9B%EA%B7%B8%EB%A6%AC%EC%9B%80-Old-Yearning_%EA%BF%88%EA%B2%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낭만사치 (浪漫奢侈) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%ad%eb%a7%8c%ec%82%ac%ec%b9%98-%e6%b5%aa%e6%bc%ab%e5%a5%a2%e4%be%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%ad%eb%a7%8c%ec%82%ac%ec%b9%98-%e6%b5%aa%e6%bc%ab%e5%a5%a2%e4%be%88/</guid>
-            <pubDate>Sat, 09 Dec 2023 03:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[Ezzle(이즐)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/01.-Ezzle_%EB%82%AD%EB%A7%8C%EC%82%AC%EC%B9%98_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%9E%90%EC%BC%93-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12월의 어느 날 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/12%ec%9b%94%ec%9d%98-%ec%96%b4%eb%8a%90-%eb%82%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/12%ec%9b%94%ec%9d%98-%ec%96%b4%eb%8a%90-%eb%82%a0/</guid>
-            <pubDate>Fri, 08 Dec 2023 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[이인세 (INSE)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%9D%B8%EC%84%B8-INSE_12%EC%9B%94%EC%9D%98-%EC%96%B4%EB%8A%90-%EB%82%A0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breathing (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/breathing/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/breathing/</guid>
-            <pubDate>Fri, 08 Dec 2023 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[marine (마린)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_marine-%EB%A7%88%EB%A6%B0_Breathing-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.258 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
