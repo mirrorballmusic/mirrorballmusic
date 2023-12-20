@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 02:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 03:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Winter Comes Again (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/winter-comes-again/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/winter-comes-again/</guid>
+            <pubDate>Wed, 20 Dec 2023 03:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[김선욱]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%84%A0%EC%9A%B1_Winter-Comes-Again-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Don’t be afraid (Prod. CLOD) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/dont-be-afraid-prod-clod/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/dont-be-afraid-prod-clod/</guid>
+            <pubDate>Wed, 20 Dec 2023 03:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[Subok]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Subok_Dont-be-afraid-Prod.-CLOD-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신의 정원 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%8b%a0%ec%9d%98-%ec%a0%95%ec%9b%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%8b%a0%ec%9d%98-%ec%a0%95%ec%9b%90/</guid>
+            <pubDate>Wed, 20 Dec 2023 03:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[노올량]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%98%AC%EB%9F%89_%EC%8B%A0%EC%9D%98-%EC%A0%95%EC%9B%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젬베의 시대 (2023) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%ac%eb%b2%a0%ec%9d%98-%ec%8b%9c%eb%8c%80-2023/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%ac%eb%b2%a0%ec%9d%98-%ec%8b%9c%eb%8c%80-2023/</guid>
+            <pubDate>Wed, 20 Dec 2023 03:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[젬베의 시대]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%AC%EB%B2%A0%EC%9D%98-%EC%8B%9C%EB%8C%80_%EC%A0%AC%EB%B2%A0%EC%9D%98-%EC%8B%9C%EB%8C%802023-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아로새긴 겨울 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%eb%a1%9c%ec%83%88%ea%b8%b4-%ea%b2%a8%ec%9a%b8/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 13 Dec 2023 03:16:20 GMT</pubDate>
             <content:encoded><![CDATA[GBSO]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_GBSO_%EC%A3%BC%EB%A8%B8%EB%8B%88%EC%97%90-%EB%84%A3%EC%9D%80-%EC%86%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간은 느리게 흘렀죠 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%8b%9c%ea%b0%84%ec%9d%80-%eb%8a%90%eb%a6%ac%ea%b2%8c-%ed%9d%98%eb%a0%80%ec%a3%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%8b%9c%ea%b0%84%ec%9d%80-%eb%8a%90%eb%a6%ac%ea%b2%8c-%ed%9d%98%eb%a0%80%ec%a3%a0/</guid>
-            <pubDate>Tue, 12 Dec 2023 03:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[윤병주와 지인들]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%9C%A4%EB%B3%91%EC%A3%BC%EC%A7%80%EC%9D%B8%EB%93%A4_%EC%8B%9C%EA%B0%84%EC%9D%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MOMOIRONO (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/momoirono/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/momoirono/</guid>
-            <pubDate>Tue, 12 Dec 2023 03:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[꼬리물기]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%BC%AC%EB%A6%AC%EB%AC%BC%EA%B8%B0_MOMOIRONO-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wavy (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/wavy/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/wavy/</guid>
-            <pubDate>Tue, 12 Dec 2023 03:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[서덕]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EB%8D%95_Wavy-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Block (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/block/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/block/</guid>
-            <pubDate>Tue, 12 Dec 2023 03:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[KIMI]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_KIMI_Block-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.258 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
