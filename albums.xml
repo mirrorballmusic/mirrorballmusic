@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 02:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 03:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kiss The Holiday]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/kiss-the-holiday/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/kiss-the-holiday/</guid>
+            <pubDate>Thu, 21 Dec 2023 03:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[이영선]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%98%81%EC%84%A0_Kiss-The-Holiday-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pinetree]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/pinetree/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/pinetree/</guid>
+            <pubDate>Thu, 21 Dec 2023 03:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[서진주]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%A7%84%EC%A3%BC_Pinetree-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소무 (昭武)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%86%8c%eb%ac%b4-%e6%98%ad%e6%ad%a6/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%86%8c%eb%ac%b4-%e6%98%ad%e6%ad%a6/</guid>
+            <pubDate>Thu, 21 Dec 2023 03:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[상자루]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%83%81%EC%9E%90%EB%A3%A8_%EC%86%8C%EB%AC%B4-%E6%98%AD%E6%AD%A6-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Winter Comes Again]]></title>
             <link>http://mirrorballmusic.co.kr/albums/winter-comes-again/</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 13 Dec 2023 03:16:20 GMT</pubDate>
             <content:encoded><![CDATA[조태준]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%ED%83%9C%EC%A4%80_%EB%B0%94%EB%9D%BC%EB%8B%A4-%EB%B3%B8%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[without you]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/without-you-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/without-you-2/</guid>
-            <pubDate>Wed, 13 Dec 2023 03:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[삼월생]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%BC%EC%9B%94%EC%83%9D_without-you-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Bottle In My Heart]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/a-bottle-in-my-heart/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/a-bottle-in-my-heart/</guid>
-            <pubDate>Wed, 13 Dec 2023 03:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[Monday Feeling]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Monday-Feeling_A-Bottle-In-My-Heart-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주머니에 넣은 손]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a3%bc%eb%a8%b8%eb%8b%88%ec%97%90-%eb%84%a3%ec%9d%80-%ec%86%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a3%bc%eb%a8%b8%eb%8b%88%ec%97%90-%eb%84%a3%ec%9d%80-%ec%86%90/</guid>
-            <pubDate>Wed, 13 Dec 2023 03:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[GBSO]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_GBSO_%EC%A3%BC%EB%A8%B8%EB%8B%88%EC%97%90-%EB%84%A3%EC%9D%80-%EC%86%90-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
