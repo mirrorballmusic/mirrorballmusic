@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 02:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 04:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dear. (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/dear/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/dear/</guid>
+            <pubDate>Sat, 23 Dec 2023 04:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[혜원]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%98%9C%EC%9B%90_Dear.-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무채색 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ec%b1%84%ec%83%89/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Dec 2023 03:16:00 GMT</pubDate>
             <content:encoded><![CDATA[손은호 멀티커넥트]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%90%EC%9D%80%ED%98%B8-%EB%A9%80%ED%8B%B0%EC%BB%A4%EB%84%A5%ED%8A%B8_KIDULT-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해피새드 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%95%b4%ed%94%bc%ec%83%88%eb%93%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%95%b4%ed%94%bc%ec%83%88%eb%93%9c/</guid>
-            <pubDate>Thu, 14 Dec 2023 04:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[음성녹음 (音聲錄音)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%8C%EC%84%B1%EB%85%B9%EC%9D%8C-%E9%9F%B3%E8%81%B2%EF%A4%BF%E9%9F%B3_%ED%95%B4%ED%94%BC%EC%83%88%EB%93%9C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.258 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
