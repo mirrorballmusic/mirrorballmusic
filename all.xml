@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Dec 2023 02:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 03:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밤기차 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ea%b8%b0%ec%b0%a8/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ea%b8%b0%ec%b0%a8/</guid>
+            <pubDate>Sun, 24 Dec 2023 03:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[성해빈]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%B1%ED%95%B4%EB%B9%88_%EB%B0%A4%EA%B8%B0%EC%B0%A8-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dear. (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/dear/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Dec 2023 03:16:00 GMT</pubDate>
             <content:encoded><![CDATA[Crossia]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Crossia_ZOZE-2023-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KIDULT (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/kidult/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/kidult/</guid>
-            <pubDate>Fri, 15 Dec 2023 03:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[손은호 멀티커넥트]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%90%EC%9D%80%ED%98%B8-%EB%A9%80%ED%8B%B0%EC%BB%A4%EB%84%A5%ED%8A%B8_KIDULT-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.258 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
