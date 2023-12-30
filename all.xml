@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 02:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 03:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sunshine Me (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sunshine-me/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sunshine-me/</guid>
+            <pubDate>Sat, 30 Dec 2023 03:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Sunshine-Me-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑은 하지 않기로 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%80-%ed%95%98%ec%a7%80-%ec%95%8a%ea%b8%b0%eb%a1%9c/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Dec 2023 03:12:58 GMT</pubDate>
             <content:encoded><![CDATA[Subok]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Subok_Dont-be-afraid-Prod.-CLOD-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신의 정원 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%8b%a0%ec%9d%98-%ec%a0%95%ec%9b%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%8b%a0%ec%9d%98-%ec%a0%95%ec%9b%90/</guid>
-            <pubDate>Wed, 20 Dec 2023 03:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[노올량]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%98%AC%EB%9F%89_%EC%8B%A0%EC%9D%98-%EC%A0%95%EC%9B%90-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.258 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
