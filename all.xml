@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Dec 2023 02:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 03:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다정한 구원 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%ec%a0%95%ed%95%9c-%ea%b5%ac%ec%9b%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%ec%a0%95%ed%95%9c-%ea%b5%ac%ec%9b%90/</guid>
+            <pubDate>Sun, 31 Dec 2023 03:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[김 봄]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80-%EB%B4%84_%EB%8B%A4%EC%A0%95%ED%95%9C-%EA%B5%AC%EC%9B%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunshine Me (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/sunshine-me/</link>
@@ -240,12 +248,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%84%A0%EC%9A%B1_Winter-Comes-Again-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Don’t be afraid (Prod. CLOD) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/dont-be-afraid-prod-clod/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/dont-be-afraid-prod-clod/</guid>
-            <pubDate>Wed, 20 Dec 2023 03:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[Subok]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Subok_Dont-be-afraid-Prod.-CLOD-2-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.259 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-259/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-259/</guid>
+            <pubDate>Sun, 31 Dec 2023 03:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.26 ~ 2023.12.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.258 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -334,14 +342,6 @@
             <pubDate>Sat, 15 Jul 2023 03:01:55 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.11 ~ 2023.06.25]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EA%B0%95%EC%95%84%EC%86%94-300x300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.247 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-247/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-247/</guid>
-            <pubDate>Fri, 30 Jun 2023 06:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.26 ~ 2023.06.10]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/06/%EC%98%88%EB%B9%9B-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
