@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 02:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 03:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[illusion fantasy]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/illusion-fantasy/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/illusion-fantasy/</guid>
+            <pubDate>Tue, 02 Jan 2024 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[JA!L]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%86%8C%EA%B0%9C_JAL_illusion-fantasy-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hold My Hand (feat. Pappie Khaye)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/hold-my-hand-feat-pappie-khaye/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/hold-my-hand-feat-pappie-khaye/</guid>
+            <pubDate>Tue, 02 Jan 2024 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[William Son (윌리엄 손)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_William-Son-%EC%9C%8C%EB%A6%AC%EC%97%84-%EC%86%90_Hold-My-Hand-feat.-Pappie-Khaye-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Can Show You The World (feat. Nahn)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/i-can-show-you-the-world-feat-nahn/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/i-can-show-you-the-world-feat-nahn/</guid>
+            <pubDate>Tue, 02 Jan 2024 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[석나영]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9D%EB%82%98%EC%98%81_I-Can-Show-You-The-World-feat.-Nahn-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하프마라톤]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%95%98%ed%94%84%eb%a7%88%eb%9d%bc%ed%86%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%95%98%ed%94%84%eb%a7%88%eb%9d%bc%ed%86%a4/</guid>
+            <pubDate>Tue, 02 Jan 2024 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[Like June]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Like-June_%ED%95%98%ED%94%84%EB%A7%88%EB%9D%BC%ED%86%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fall]]></title>
             <link>http://mirrorballmusic.co.kr/albums/fall-2/</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 22 Dec 2023 03:15:27 GMT</pubDate>
             <content:encoded><![CDATA[오름 (Ormm)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EB%A6%84-Ormm_%EB%82%9C-%EC%96%B4%EC%A0%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그래 우린 다시]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9e%98-%ec%9a%b0%eb%a6%b0-%eb%8b%a4%ec%8b%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9e%98-%ec%9a%b0%eb%a6%b0-%eb%8b%a4%ec%8b%9c/</guid>
-            <pubDate>Thu, 21 Dec 2023 09:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[박창근]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B0%BD%EA%B7%BC_%EA%B7%B8%EB%9E%98-%EC%9A%B0%EB%A6%AC-%EB%8B%A4%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kiss The Holiday]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/kiss-the-holiday/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/kiss-the-holiday/</guid>
-            <pubDate>Thu, 21 Dec 2023 03:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[이영선]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%98%81%EC%84%A0_Kiss-The-Holiday-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pinetree]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/pinetree/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/pinetree/</guid>
-            <pubDate>Thu, 21 Dec 2023 03:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[서진주]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%A7%84%EC%A3%BC_Pinetree-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소무 (昭武)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%86%8c%eb%ac%b4-%e6%98%ad%e6%ad%a6/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%86%8c%eb%ac%b4-%e6%98%ad%e6%ad%a6/</guid>
-            <pubDate>Thu, 21 Dec 2023 03:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[상자루]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%83%81%EC%9E%90%EB%A3%A8_%EC%86%8C%EB%AC%B4-%E6%98%AD%E6%AD%A6-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
