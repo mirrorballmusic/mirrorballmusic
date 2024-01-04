@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 08:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 09:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[With You (feat. 김민규)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/with-you-feat-%ea%b9%80%eb%af%bc%ea%b7%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/with-you-feat-%ea%b9%80%eb%af%bc%ea%b7%9c/</guid>
+            <pubDate>Thu, 04 Jan 2024 09:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[비안 (Vian)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B9%84%EC%95%88_With-You-feat.-%EA%B9%80%EB%AF%BC%EA%B7%9C-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[길생가]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b8%ec%83%9d%ea%b0%80/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Dec 2023 03:15:09 GMT</pubDate>
             <content:encoded><![CDATA[연리목]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%B0%EB%A6%AC%EB%AA%A9_%EC%97%B0%EB%A6%AC%EB%AA%A9-%EC%86%8C%EA%B3%A1%EC%A7%91-20-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소현의 계절 : 겨울]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%86%8c%ed%98%84%ec%9d%98-%ea%b3%84%ec%a0%88-%ea%b2%a8%ec%9a%b8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%86%8c%ed%98%84%ec%9d%98-%ea%b3%84%ec%a0%88-%ea%b2%a8%ec%9a%b8/</guid>
-            <pubDate>Mon, 25 Dec 2023 09:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[조소현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%86%8C%ED%98%84_%EC%86%8C%ED%98%84%EC%9D%98-%EA%B3%84%EC%A0%88-%EA%B2%A8%EC%9A%B8-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
