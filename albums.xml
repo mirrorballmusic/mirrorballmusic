@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 02:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 04:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그대의 차가운 손]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8c%80%ec%9d%98-%ec%b0%a8%ea%b0%80%ec%9a%b4-%ec%86%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8c%80%ec%9d%98-%ec%b0%a8%ea%b0%80%ec%9a%b4-%ec%86%90/</guid>
+            <pubDate>Mon, 08 Jan 2024 04:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Mingginyu-%EB%B0%8D%EA%B8%B0%EB%89%B4-%EA%B7%B8%EB%8C%80%EC%9D%98-%EC%B0%A8%EA%B0%80%EC%9A%B4-%EC%86%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해적]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%95%b4%ec%a0%81/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%95%b4%ec%a0%81/</guid>
+            <pubDate>Mon, 08 Jan 2024 04:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[일렉펀트]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%BC%EB%A0%89%ED%8E%80%ED%8A%B8_%ED%95%B4%EC%A0%81-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상상소년]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%83%81%ec%83%81%ec%86%8c%eb%85%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%83%81%ec%83%81%ec%86%8c%eb%85%84/</guid>
+            <pubDate>Mon, 08 Jan 2024 04:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[kidohu]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kidohu_%EC%83%81%EC%83%81%EC%86%8C%EB%85%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HAEIL (海溢)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/haeil-%e6%b5%b7%e6%ba%a2/</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 28 Dec 2023 03:15:31 GMT</pubDate>
             <content:encoded><![CDATA[자꾸다이빙]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%90%EA%BE%B8%EB%8B%A4%EC%9D%B4%EB%B9%99_%EC%95%84%EC%A3%BC-%EC%9E%91%EC%9D%80-%EC%9A%B0%EB%A6%AC%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 찾아줘]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%a5%bc-%ec%b0%be%ec%95%84%ec%a4%98/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%a5%bc-%ec%b0%be%ec%95%84%ec%a4%98/</guid>
-            <pubDate>Thu, 28 Dec 2023 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[다시 한번 말하자면 (HAINA MAIKA PUANA)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%A4%EC%8B%9C-%ED%95%9C%EB%B2%88-%EB%A7%90%ED%95%98%EC%9E%90%EB%A9%B4-HAINA-MAIKA-PUANA_%EB%82%98%EB%A5%BC-%EC%B0%BE%EC%95%84%EC%A4%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dreams & Liquor]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/dreams-liquor/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/dreams-liquor/</guid>
-            <pubDate>Wed, 27 Dec 2023 03:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[허지]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%EC%A7%80_Dreams-Liquor-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HIGH]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/high-3/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/high-3/</guid>
-            <pubDate>Wed, 27 Dec 2023 03:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[Rati]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Rati_HIGH-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
