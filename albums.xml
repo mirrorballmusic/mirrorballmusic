@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 02:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 03:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈이와]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%88%88%ec%9d%b4%ec%99%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%88%88%ec%9d%b4%ec%99%80/</guid>
+            <pubDate>Tue, 09 Jan 2024 03:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[송원섭]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%A1%EC%9B%90%EC%84%AD_%EB%88%88%EC%9D%B4%EC%99%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그는 사랑의 주님]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8a%94-%ec%82%ac%eb%9e%91%ec%9d%98-%ec%a3%bc%eb%8b%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8a%94-%ec%82%ac%eb%9e%91%ec%9d%98-%ec%a3%bc%eb%8b%98/</guid>
+            <pubDate>Tue, 09 Jan 2024 03:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[강다연]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EB%8B%A4%EC%97%B0_%EA%B7%B8%EB%8A%94-%EC%82%AC%EB%9E%91%EC%9D%98-%EC%A3%BC%EB%8B%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[떠나자]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%96%a0%eb%82%98%ec%9e%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%96%a0%eb%82%98%ec%9e%90/</guid>
+            <pubDate>Tue, 09 Jan 2024 03:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[Jiyoon Heo]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jiyoon-Heo_%EB%96%A0%EB%82%98%EC%9E%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I love you still]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/i-love-you-still/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/i-love-you-still/</guid>
+            <pubDate>Tue, 09 Jan 2024 03:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[Wessy]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Wessy_I-love-you-still-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그대의 차가운 손]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8c%80%ec%9d%98-%ec%b0%a8%ea%b0%80%ec%9a%b4-%ec%86%90/</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 29 Dec 2023 04:17:32 GMT</pubDate>
             <content:encoded><![CDATA[The Dailee (더 데일리)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Dailee-%EB%8D%94-%EB%8D%B0%EC%9D%BC%EB%A6%AC_%EC%82%AC%EB%9E%91%EC%9D%80-%ED%95%98%EC%A7%80-%EC%95%8A%EA%B8%B0%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 행복할 때까지]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ea%b0%80-%ed%96%89%eb%b3%b5%ed%95%a0-%eb%95%8c%ea%b9%8c%ec%a7%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ea%b0%80-%ed%96%89%eb%b3%b5%ed%95%a0-%eb%95%8c%ea%b9%8c%ec%a7%80/</guid>
-            <pubDate>Fri, 29 Dec 2023 04:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[유시은]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%EC%8B%9C%EC%9D%80_%EC%9A%B0%EB%A6%AC%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%A0-%EB%95%8C%EA%B9%8C%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마지막이 될 이야기]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%a7%80%eb%a7%89%ec%9d%b4-%eb%90%a0-%ec%9d%b4%ec%95%bc%ea%b8%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%a7%80%eb%a7%89%ec%9d%b4-%eb%90%a0-%ec%9d%b4%ec%95%bc%ea%b8%b0/</guid>
-            <pubDate>Thu, 28 Dec 2023 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[조프 (JOPH)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%ED%94%84-JOPH_%EB%A7%88%EC%A7%80%EB%A7%89%EC%9D%B4-%EB%90%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[how are you]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/how-are-you-3/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/how-are-you-3/</guid>
-            <pubDate>Thu, 28 Dec 2023 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[That]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_That_how-are-you-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아주 작은 우리들]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%a3%bc-%ec%9e%91%ec%9d%80-%ec%9a%b0%eb%a6%ac%eb%93%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%a3%bc-%ec%9e%91%ec%9d%80-%ec%9a%b0%eb%a6%ac%eb%93%a4/</guid>
-            <pubDate>Thu, 28 Dec 2023 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[자꾸다이빙]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%90%EA%BE%B8%EB%8B%A4%EC%9D%B4%EB%B9%99_%EC%95%84%EC%A3%BC-%EC%9E%91%EC%9D%80-%EC%9A%B0%EB%A6%AC%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
