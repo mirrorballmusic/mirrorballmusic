@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 02:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 03:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[We ain’t going nowhere]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/we-aint-going-nowhere/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/we-aint-going-nowhere/</guid>
+            <pubDate>Sun, 14 Jan 2024 03:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[Mermin, 백서현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Mermin-%EB%B0%B1%EC%84%9C%ED%98%84_We-ain%E2%80%99t-going-nowhere-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Unconditional Love]]></title>
             <link>http://mirrorballmusic.co.kr/albums/unconditional-love/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 Jan 2024 03:15:46 GMT</pubDate>
             <content:encoded><![CDATA[Omak (오막)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Omak_%EA%B2%A8%EC%9A%B8%EC%B6%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Walk into your dark]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/walk-into-your-dark/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/walk-into-your-dark/</guid>
-            <pubDate>Wed, 03 Jan 2024 03:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[사거리 그오빠]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%AC%EA%B1%B0%EB%A6%AC-%EA%B7%B8%EC%98%A4%EB%B9%A0_Walk-into-your-dark-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
