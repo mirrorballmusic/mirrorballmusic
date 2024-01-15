@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 02:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 03:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[긴밤 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b4%eb%b0%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b4%eb%b0%a4/</guid>
+            <pubDate>Mon, 15 Jan 2024 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[오시안]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%8B%9C%EC%95%88_%EA%B8%B4%EB%B0%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mmxx (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/mmxx/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/mmxx/</guid>
+            <pubDate>Mon, 15 Jan 2024 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[Melted Plastics]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Melted-Plastics_mmxx-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작은행복에기뻐하는 나 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%91%ec%9d%80%ed%96%89%eb%b3%b5%ec%97%90%ea%b8%b0%eb%bb%90%ed%95%98%eb%8a%94-%eb%82%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%91%ec%9d%80%ed%96%89%eb%b3%b5%ec%97%90%ea%b8%b0%eb%bb%90%ed%95%98%eb%8a%94-%eb%82%98/</guid>
+            <pubDate>Mon, 15 Jan 2024 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[찌니 (ZZINI)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B0%8C%EB%8B%88-ZZINI_%EC%9E%91%EC%9D%80%ED%96%89%EB%B3%B5%EC%97%90%EA%B8%B0%EB%BB%90%ED%95%98%EB%8A%94-%EB%82%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마지막 안부 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%a7%80%eb%a7%89-%ec%95%88%eb%b6%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%a7%80%eb%a7%89-%ec%95%88%eb%b6%80/</guid>
+            <pubDate>Mon, 15 Jan 2024 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[음성사서함]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%8C%EC%84%B1%EC%82%AC%EC%84%9C%ED%95%A8_%EB%A7%88%EC%A7%80%EB%A7%89-%EC%95%88%EB%B6%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[We ain’t going nowhere (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/we-aint-going-nowhere/</link>
@@ -216,36 +248,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Various-Artists_%EB%8C%80%EA%B5%AC%EC%9D%B8%EB%94%94%EC%9D%8C%EC%95%85%EC%97%B0%EB%8C%80%EA%B8%B0-2023-Lights-on-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[With You (feat. 김민규) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/with-you-feat-%ea%b9%80%eb%af%bc%ea%b7%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/with-you-feat-%ea%b9%80%eb%af%bc%ea%b7%9c/</guid>
-            <pubDate>Thu, 04 Jan 2024 09:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[비안 (Vian)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B9%84%EC%95%88_With-You-feat.-%EA%B9%80%EB%AF%BC%EA%B7%9C-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[길생가 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b8%ec%83%9d%ea%b0%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b8%ec%83%9d%ea%b0%80/</guid>
-            <pubDate>Thu, 04 Jan 2024 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[랑잇 (Langit)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9E%91%EC%9E%87-Langit_%EA%B8%B8%EC%83%9D%EA%B0%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구피 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b5%ac%ed%94%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b5%ac%ed%94%bc/</guid>
-            <pubDate>Thu, 04 Jan 2024 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[뛰놀며]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9B%B0%EB%86%80%EB%A9%B0_%EA%B5%AC%ED%94%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울춤 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b2%a8%ec%9a%b8%ec%b6%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b2%a8%ec%9a%b8%ec%b6%a4/</guid>
-            <pubDate>Thu, 04 Jan 2024 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[Omak (오막)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Omak_%EA%B2%A8%EC%9A%B8%EC%B6%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.260 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/85819/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/85819/</guid>
+            <pubDate>Mon, 15 Jan 2024 03:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.11 ~ 2023.12.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%9D%B4%EC%8A%B9%EC%9C%A4-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.259 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -334,14 +342,6 @@
             <pubDate>Mon, 31 Jul 2023 05:14:08 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.26 ~ 2023.07.10]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EB%B0%95%EC%86%8C%EC%9D%80-1-300x300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.248 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-248/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-248/</guid>
-            <pubDate>Sat, 15 Jul 2023 03:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.11 ~ 2023.06.25]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/07/%EA%B0%95%EC%95%84%EC%86%94-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
