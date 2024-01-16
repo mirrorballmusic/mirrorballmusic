@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 02:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 03:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Promise (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/promise/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/promise/</guid>
+            <pubDate>Tue, 16 Jan 2024 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[유노이아]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%EB%85%B8%EC%9D%B4%EC%95%84_Promise-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LABO (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/labo/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/labo/</guid>
+            <pubDate>Tue, 16 Jan 2024 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[BILLER]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BILLER_LABO-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당장은 죽고 싶지만 영원히 살고 싶어 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%b9%ec%9e%a5%ec%9d%80-%ec%a3%bd%ea%b3%a0-%ec%8b%b6%ec%a7%80%eb%a7%8c-%ec%98%81%ec%9b%90%ed%9e%88-%ec%82%b4%ea%b3%a0-%ec%8b%b6%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%b9%ec%9e%a5%ec%9d%80-%ec%a3%bd%ea%b3%a0-%ec%8b%b6%ec%a7%80%eb%a7%8c-%ec%98%81%ec%9b%90%ed%9e%88-%ec%82%b4%ea%b3%a0-%ec%8b%b6%ec%96%b4/</guid>
+            <pubDate>Tue, 16 Jan 2024 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[요정]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%EB%8B%B9%EC%9E%A5%EC%9D%80-%EC%A3%BD%EA%B3%A0-%EC%8B%B6%EC%A7%80%EB%A7%8C-%EC%98%81%EC%9B%90%ED%9E%88-%EC%82%B4%EA%B3%A0-%EC%8B%B6%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drive (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/drive-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/drive-2/</guid>
+            <pubDate>Tue, 16 Jan 2024 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[Fm drone service]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fm-drone-service_Drive-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[긴밤 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b4%eb%b0%a4/</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 06 Jan 2024 03:15:24 GMT</pubDate>
             <content:encoded><![CDATA[러브송 (LoveSong), 吴晓天Erin]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9F%AC%EB%B8%8C%EC%86%A1-LoveSong-Erin_Fat-and-Sad-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Dear (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/my-dear/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/my-dear/</guid>
-            <pubDate>Fri, 05 Jan 2024 03:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[온도 (OWNDO)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A8%EB%8F%84-OWNDO_My-Dear-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Last Night On Earth (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/last-night-on-earth/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/last-night-on-earth/</guid>
-            <pubDate>Fri, 05 Jan 2024 03:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[0 Social Campus]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_0-Social-Campus_Last-Night-On-Earth-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스턴트 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b8%ec%8a%a4%ed%84%b4%ed%8a%b8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b8%ec%8a%a4%ed%84%b4%ed%8a%b8/</guid>
-            <pubDate>Fri, 05 Jan 2024 03:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[은결]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%80%EA%B2%B0_%EC%9D%B8%EC%8A%A4%ED%84%B4%ED%8A%B8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대구인디음악연대기 2023 Light’s on (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8c%80%ea%b5%ac%ec%9d%b8%eb%94%94%ec%9d%8c%ec%95%85%ec%97%b0%eb%8c%80%ea%b8%b0-2023-lights-on/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8c%80%ea%b5%ac%ec%9d%b8%eb%94%94%ec%9d%8c%ec%95%85%ec%97%b0%eb%8c%80%ea%b8%b0-2023-lights-on/</guid>
-            <pubDate>Fri, 05 Jan 2024 03:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Various-Artists_%EB%8C%80%EA%B5%AC%EC%9D%B8%EB%94%94%EC%9D%8C%EC%95%85%EC%97%B0%EB%8C%80%EA%B8%B0-2023-Lights-on-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.260 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
