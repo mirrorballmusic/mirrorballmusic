@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 02:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 03:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SAISONS]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/saisons/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/saisons/</guid>
+            <pubDate>Wed, 17 Jan 2024 03:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[담언 (DAMON), Caidy]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%B4%EC%96%B8-DAMON-Caidy_SAISONS-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북극구조]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%81%ea%b7%b9%ea%b5%ac%ec%a1%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%81%ea%b7%b9%ea%b5%ac%ec%a1%b0/</guid>
+            <pubDate>Wed, 17 Jan 2024 03:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[tonyryu(토니류)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_tonyryu-%ED%86%A0%EB%8B%88%EB%A5%98_%EB%B6%81%EA%B7%B9%EA%B5%AC%EC%A1%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고요, 악몽, 지저귐.]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%ec%9a%94-%ec%95%85%eb%aa%bd-%ec%a7%80%ec%a0%80%ea%b7%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%ec%9a%94-%ec%95%85%eb%aa%bd-%ec%a7%80%ec%a0%80%ea%b7%90/</guid>
+            <pubDate>Wed, 17 Jan 2024 03:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[선경]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%A0%EA%B2%BD_%EA%B3%A0%EC%9A%94-%EC%95%85%EB%AA%BD-%EC%A7%80%EC%A0%80%EA%B7%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Promise]]></title>
             <link>http://mirrorballmusic.co.kr/albums/promise/</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 08 Jan 2024 04:18:36 GMT</pubDate>
             <content:encoded><![CDATA[일렉펀트]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%BC%EB%A0%89%ED%8E%80%ED%8A%B8_%ED%95%B4%EC%A0%81-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상상소년]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%83%81%ec%83%81%ec%86%8c%eb%85%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%83%81%ec%83%81%ec%86%8c%eb%85%84/</guid>
-            <pubDate>Mon, 08 Jan 2024 04:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[kidohu]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kidohu_%EC%83%81%EC%83%81%EC%86%8C%EB%85%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAEIL (海溢)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/haeil-%e6%b5%b7%e6%ba%a2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/haeil-%e6%b5%b7%e6%ba%a2/</guid>
-            <pubDate>Sun, 07 Jan 2024 03:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[전찬빈]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%84%EC%B0%AC%EB%B9%88_HAEIL-%E6%B5%B7%E6%BA%A2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fat and Sad]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/fat-and-sad/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/fat-and-sad/</guid>
-            <pubDate>Sat, 06 Jan 2024 03:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[러브송 (LoveSong), 吴晓天Erin]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9F%AC%EB%B8%8C%EC%86%A1-LoveSong-Erin_Fat-and-Sad-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
