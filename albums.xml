@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 08:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 09:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다 무거따 MEGA MIX]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4-%eb%ac%b4%ea%b1%b0%eb%94%b0-mega-mix/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%a4-%eb%ac%b4%ea%b1%b0%eb%94%b0-mega-mix/</guid>
+            <pubDate>Wed, 17 Jan 2024 09:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[뉴챔프, Deah3art]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%89%B4%EC%B1%94%ED%94%84-Deah3art_%EB%8B%A4-%EB%AC%B4%EA%B1%B0%EB%94%B0-MEGA-MIX-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SAISONS]]></title>
             <link>http://mirrorballmusic.co.kr/albums/saisons/</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Jan 2024 04:18:36 GMT</pubDate>
             <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Mingginyu-%EB%B0%8D%EA%B8%B0%EB%89%B4-%EA%B7%B8%EB%8C%80%EC%9D%98-%EC%B0%A8%EA%B0%80%EC%9A%B4-%EC%86%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해적]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%95%b4%ec%a0%81/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%95%b4%ec%a0%81/</guid>
-            <pubDate>Mon, 08 Jan 2024 04:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[일렉펀트]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%BC%EB%A0%89%ED%8E%80%ED%8A%B8_%ED%95%B4%EC%A0%81-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
