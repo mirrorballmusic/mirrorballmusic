@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 02:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 03:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1월의 시 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/1%ec%9b%94%ec%9d%98-%ec%8b%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/1%ec%9b%94%ec%9d%98-%ec%8b%9c/</guid>
+            <pubDate>Thu, 25 Jan 2024 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[박창근]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B0%BD%EA%B7%BC_1%EC%9B%94%EC%9D%98-%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baila Conmigo (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/baila-conmigo/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/baila-conmigo/</guid>
+            <pubDate>Thu, 25 Jan 2024 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[Leji]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Leji_Baila-Conmigo-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉선화 속 흉터 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%89%ec%84%a0%ed%99%94-%ec%86%8d-%ed%9d%89%ed%84%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%89%ec%84%a0%ed%99%94-%ec%86%8d-%ed%9d%89%ed%84%b0/</guid>
+            <pubDate>Thu, 25 Jan 2024 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[투파이브 (TWOFIVE)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%88%AC%ED%8C%8C%EC%9D%B4%EB%B8%8C-TWOFIVE_%EB%B4%89%EC%84%A0%ED%99%94-%EC%86%8D-%ED%9D%89%ED%84%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[속 마음과는 다르게 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%86%8d-%eb%a7%88%ec%9d%8c%ea%b3%bc%eb%8a%94-%eb%8b%a4%eb%a5%b4%ea%b2%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%86%8d-%eb%a7%88%ec%9d%8c%ea%b3%bc%eb%8a%94-%eb%8b%a4%eb%a5%b4%ea%b2%8c/</guid>
+            <pubDate>Thu, 25 Jan 2024 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[백주]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EC%A3%BC_%EC%86%8D-%EB%A7%88%EC%9D%8C%EA%B3%BC%EB%8A%94-%EB%8B%A4%EB%A5%B4%EA%B2%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미워 죽겠어 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%9b%8c-%ec%a3%bd%ea%b2%a0%ec%96%b4/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 17 Jan 2024 03:16:48 GMT</pubDate>
             <content:encoded><![CDATA[선경]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%A0%EA%B2%BD_%EA%B3%A0%EC%9A%94-%EC%95%85%EB%AA%BD-%EC%A7%80%EC%A0%80%EA%B7%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Promise (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/promise/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/promise/</guid>
-            <pubDate>Tue, 16 Jan 2024 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[유노이아]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%EB%85%B8%EC%9D%B4%EC%95%84_Promise-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LABO (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/labo/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/labo/</guid>
-            <pubDate>Tue, 16 Jan 2024 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[BILLER]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BILLER_LABO-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당장은 죽고 싶지만 영원히 살고 싶어 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%b9%ec%9e%a5%ec%9d%80-%ec%a3%bd%ea%b3%a0-%ec%8b%b6%ec%a7%80%eb%a7%8c-%ec%98%81%ec%9b%90%ed%9e%88-%ec%82%b4%ea%b3%a0-%ec%8b%b6%ec%96%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%b9%ec%9e%a5%ec%9d%80-%ec%a3%bd%ea%b3%a0-%ec%8b%b6%ec%a7%80%eb%a7%8c-%ec%98%81%ec%9b%90%ed%9e%88-%ec%82%b4%ea%b3%a0-%ec%8b%b6%ec%96%b4/</guid>
-            <pubDate>Tue, 16 Jan 2024 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[요정]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%EB%8B%B9%EC%9E%A5%EC%9D%80-%EC%A3%BD%EA%B3%A0-%EC%8B%B6%EC%A7%80%EB%A7%8C-%EC%98%81%EC%9B%90%ED%9E%88-%EC%82%B4%EA%B3%A0-%EC%8B%B6%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drive (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/drive-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/drive-2/</guid>
-            <pubDate>Tue, 16 Jan 2024 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[Fm drone service]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fm-drone-service_Drive-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.260 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
