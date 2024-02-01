@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 08:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 09:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Last Train]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/last-train/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/last-train/</guid>
+            <pubDate>Thu, 01 Feb 2024 09:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_Last-Train-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찰스밴드 첫 싱글]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%b0%b0%ec%8a%a4%eb%b0%b4%eb%93%9c-%ec%b2%ab-%ec%8b%b1%ea%b8%80/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Jan 2024 03:16:28 GMT</pubDate>
             <content:encoded><![CDATA[최진솔]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%A7%84%EC%86%94_%EC%84%B8%EA%B8%B0%EB%A7%90%EC%9D%98-%EC%82%AC%EB%9E%91-OST-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜로 일어날지도 몰라 기적]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%84%ec%a7%9c%eb%a1%9c-%ec%9d%bc%ec%96%b4%eb%82%a0%ec%a7%80%eb%8f%84-%eb%aa%b0%eb%9d%bc-%ea%b8%b0%ec%a0%81/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%84%ec%a7%9c%eb%a1%9c-%ec%9d%bc%ec%96%b4%eb%82%a0%ec%a7%80%eb%8f%84-%eb%aa%b0%eb%9d%bc-%ea%b8%b0%ec%a0%81/</guid>
-            <pubDate>Tue, 23 Jan 2024 03:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[이정권]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A0%95%EA%B6%8C_%EC%A7%84%EC%A7%9C%EB%A1%9C-%EC%9D%BC%EC%96%B4%EB%82%A0%EC%A7%80%EB%8F%84-%EB%AA%B0%EB%9D%BC-%EA%B8%B0%EC%A0%81-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
