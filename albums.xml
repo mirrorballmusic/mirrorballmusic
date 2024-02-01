@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 05:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 06:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찰스밴드 첫 싱글]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b0%b0%ec%8a%a4%eb%b0%b4%eb%93%9c-%ec%b2%ab-%ec%8b%b1%ea%b8%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b0%b0%ec%8a%a4%eb%b0%b4%eb%93%9c-%ec%b2%ab-%ec%8b%b1%ea%b8%80/</guid>
+            <pubDate>Thu, 01 Feb 2024 06:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[찰스밴드]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B0%B0%EC%8A%A4%EB%B0%B4%EB%93%9C_%EC%B0%B0%EC%8A%A4%EB%B0%B4%EB%93%9C-%EC%B2%AB-%EC%8B%B1%EA%B8%80-2-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-Town in New York]]></title>
             <link>http://mirrorballmusic.co.kr/albums/k-town-in-new-york/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 Jan 2024 03:16:11 GMT</pubDate>
             <content:encoded><![CDATA[이정권]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A0%95%EA%B6%8C_%EC%A7%84%EC%A7%9C%EB%A1%9C-%EC%9D%BC%EC%96%B4%EB%82%A0%EC%A7%80%EB%8F%84-%EB%AA%B0%EB%9D%BC-%EA%B8%B0%EC%A0%81-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No one there]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/no-one-there/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/no-one-there/</guid>
-            <pubDate>Thu, 01 Feb 2024 05:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[Orange Fang Fang Boys (오렌지 팡팡 보이즈)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Orange-Fang-Fang-Boys-%EC%98%A4%EB%A0%8C%EC%A7%80-%ED%8C%A1%ED%8C%A1-%EB%B3%B4%EC%9D%B4%EC%A6%88_No-one-there-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
