@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 04:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 05:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B0%EC%9C%A0%EB%82%98_%EC%95%84%EC%A3%BC-%EB%82%AF%EC%84%A0-%EC%82%B0%EC%B1%85-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[숲]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%88%b2-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%88%b2-2/</guid>
-            <pubDate>Fri, 02 Feb 2024 03:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[Like June]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Like-June_%EC%88%B2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[RIDE]]></title>
             <link>http://mirrorballmusic.co.kr/albums/ride-4/</link>
             <guid>http://mirrorballmusic.co.kr/albums/ride-4/</guid>
             <pubDate>Fri, 02 Feb 2024 03:15:47 GMT</pubDate>
             <content:encoded><![CDATA[YFY]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_YFY_RIDE-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숲]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%88%b2-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%88%b2-2/</guid>
+            <pubDate>Fri, 02 Feb 2024 03:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[Like June]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Like-June_%EC%88%B2-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Last Train]]></title>
