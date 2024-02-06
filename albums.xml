@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 02:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 03:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Fool]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/the-fool/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/the-fool/</guid>
+            <pubDate>Tue, 06 Feb 2024 03:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[변하은]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B3%80%ED%95%98%EC%9D%80_The-Fool-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리의 관계]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ea%b4%80%ea%b3%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ea%b4%80%ea%b3%84/</guid>
+            <pubDate>Tue, 06 Feb 2024 03:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[양하진]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%91%ED%95%98%EC%A7%84_%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B4%80%EA%B3%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이지 않는 손]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b3%b4%ec%9d%b4%ec%a7%80-%ec%95%8a%eb%8a%94-%ec%86%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b3%b4%ec%9d%b4%ec%a7%80-%ec%95%8a%eb%8a%94-%ec%86%90/</guid>
+            <pubDate>Tue, 06 Feb 2024 03:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[스킵잭 (SKIPJACK)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8A%A4%ED%82%B5%EC%9E%AD-SKIPJACK-_%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%86%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요정과 춤을]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9a%94%ec%a0%95%ea%b3%bc-%ec%b6%a4%ec%9d%84/</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 26 Jan 2024 03:15:54 GMT</pubDate>
             <content:encoded><![CDATA[노올량]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%98%AC%EB%9F%89_%EB%82%98%EB%A5%BC-%EB%B3%B4%EB%9F%AC-%EC%98%A4%EC%8B%9C%EB%82%98%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sheer Bliss]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/sheer-bliss/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/sheer-bliss/</guid>
-            <pubDate>Fri, 26 Jan 2024 03:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[ocsoosu]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ocsoosu_Sheer-Bliss-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Midnight Waltz]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/midnight-waltz/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/midnight-waltz/</guid>
-            <pubDate>Fri, 26 Jan 2024 03:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[백하나]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%ED%95%98%EB%82%98_Midnight-Waltz-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1월의 시]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/1%ec%9b%94%ec%9d%98-%ec%8b%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/1%ec%9b%94%ec%9d%98-%ec%8b%9c/</guid>
-            <pubDate>Thu, 25 Jan 2024 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[박창근]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B0%BD%EA%B7%BC_1%EC%9B%94%EC%9D%98-%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
