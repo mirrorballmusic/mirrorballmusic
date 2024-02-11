@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 02:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 03:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[igloo]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/igloo/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/igloo/</guid>
+            <pubDate>Sun, 11 Feb 2024 03:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[마가]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%EA%B0%80_igloo-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[액다지歌]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%95%a1%eb%8b%a4%ec%a7%80%e6%ad%8c/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 30 Jan 2024 03:14:36 GMT</pubDate>
             <content:encoded><![CDATA[시니재]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%9C%EB%8B%88%EC%9E%AC_%EB%B0%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편지]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%8e%b8%ec%a7%80-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%8e%b8%ec%a7%80-2/</guid>
-            <pubDate>Mon, 29 Jan 2024 03:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[성해빈]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%B1%ED%95%B4%EB%B9%88_%ED%8E%B8%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
