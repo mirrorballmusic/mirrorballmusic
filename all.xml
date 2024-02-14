@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 03:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 05:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[다리 없는 새 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%eb%a6%ac-%ec%97%86%eb%8a%94-%ec%83%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%eb%a6%ac-%ec%97%86%eb%8a%94-%ec%83%88/</guid>
-            <pubDate>Wed, 14 Feb 2024 03:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[서필나무]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%ED%95%84%EB%82%98%EB%AC%B4_%EB%8B%A4%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%83%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[굳은 믿음 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b5%b3%ec%9d%80-%eb%af%bf%ec%9d%8c/</link>
@@ -22,6 +14,14 @@
             <pubDate>Wed, 14 Feb 2024 03:16:28 GMT</pubDate>
             <content:encoded><![CDATA[민주희]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AF%BC%EC%A3%BC%ED%9D%AC_%EA%B5%B3%EC%9D%80-%EB%AF%BF%EC%9D%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다리 없는 새 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%eb%a6%ac-%ec%97%86%eb%8a%94-%ec%83%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%eb%a6%ac-%ec%97%86%eb%8a%94-%ec%83%88/</guid>
+            <pubDate>Wed, 14 Feb 2024 03:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[서필나무]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%ED%95%84%EB%82%98%EB%AC%B4_%EB%8B%A4%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%83%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cohen (미러볼뮤직 ─ ALBUMS)]]></title>
