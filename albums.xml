@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 02:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 03:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다리 없는 새]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%eb%a6%ac-%ec%97%86%eb%8a%94-%ec%83%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%eb%a6%ac-%ec%97%86%eb%8a%94-%ec%83%88/</guid>
+            <pubDate>Wed, 14 Feb 2024 03:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[서필나무]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%ED%95%84%EB%82%98%EB%AC%B4_%EB%8B%A4%EB%A6%AC-%EC%97%86%EB%8A%94-%EC%83%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[굳은 믿음]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b5%b3%ec%9d%80-%eb%af%bf%ec%9d%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b5%b3%ec%9d%80-%eb%af%bf%ec%9d%8c/</guid>
+            <pubDate>Wed, 14 Feb 2024 03:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[민주희]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AF%BC%EC%A3%BC%ED%9D%AC_%EA%B5%B3%EC%9D%80-%EB%AF%BF%EC%9D%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cohen]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/cohen/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/cohen/</guid>
+            <pubDate>Wed, 14 Feb 2024 03:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[박휘노]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%ED%9C%98%EB%85%B8_Cohen-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타오르는 모든 것들을 위해]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%83%80%ec%98%a4%eb%a5%b4%eb%8a%94-%eb%aa%a8%eb%93%a0-%ea%b2%83%eb%93%a4%ec%9d%84-%ec%9c%84%ed%95%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%83%80%ec%98%a4%eb%a5%b4%eb%8a%94-%eb%aa%a8%eb%93%a0-%ea%b2%83%eb%93%a4%ec%9d%84-%ec%9c%84%ed%95%b4/</guid>
+            <pubDate>Wed, 14 Feb 2024 03:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[향우회]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%96%A5%EC%9A%B0%ED%9A%8C_%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94-%EB%AA%A8%EB%93%A0-%EA%B2%83%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미완성 II]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%99%84%ec%84%b1-ii/</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 01 Feb 2024 03:15:38 GMT</pubDate>
             <content:encoded><![CDATA[MOST (모스트)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_MOST-%EB%AA%A8%EC%8A%A4%ED%8A%B8_K-Town-in-New-York-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sincerely,]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/sincerely-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/sincerely-2/</guid>
-            <pubDate>Thu, 01 Feb 2024 03:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[동은]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8F%99%EC%9D%80_Sincerely-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cowboy & Hippies]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/cowboy-hippies/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/cowboy-hippies/</guid>
-            <pubDate>Wed, 31 Jan 2024 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[HYUNIRANG (현이랑)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_HYUNIRANG-%ED%98%84%EC%9D%B4%EB%9E%91_Cowboy-Hippies-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기대할 수 있어]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%eb%8c%80%ed%95%a0-%ec%88%98-%ec%9e%88%ec%96%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%eb%8c%80%ed%95%a0-%ec%88%98-%ec%9e%88%ec%96%b4/</guid>
-            <pubDate>Wed, 31 Jan 2024 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[연음 (連陰)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%B0%EC%9D%8C-%E9%80%A3%E9%99%B0_%EA%B8%B0%EB%8C%80%ED%95%A0-%EC%88%98-%EC%9E%88%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불꽃놀이]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%88%ea%bd%83%eb%86%80%ec%9d%b4/</guid>
-            <pubDate>Wed, 31 Jan 2024 03:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[Jury]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jury_%EB%B6%88%EA%BD%83%EB%86%80%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
