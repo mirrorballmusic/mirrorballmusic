@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 04:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 05:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Like-June_%EC%88%B2-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[K-INDIE CHART VOL.262 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-262/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-262/</guid>
+            <pubDate>Thu, 15 Feb 2024 05:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.11 ~ 2024.01.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%ED%84%B0%EC%B9%98%EB%93%9C-300x300.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[K-INDIE CHART VOL.261 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
             <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-261/</link>
             <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-261/</guid>
@@ -334,14 +342,6 @@
             <pubDate>Thu, 31 Aug 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.26 ~ 2023.08.10]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EB%82%98%EC%83%81%ED%98%84%EC%94%A8%EB%B0%B4%EB%93%9C-300x300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.250 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-250/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-250/</guid>
-            <pubDate>Tue, 15 Aug 2023 03:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.11 ~ 2023.07.25]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2023/08/%EB%8E%81%ED%8A%B8-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
