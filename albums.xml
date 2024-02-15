@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 02:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 03:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[February (feat. heeju)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/february-feat-heeju/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/february-feat-heeju/</guid>
+            <pubDate>Thu, 15 Feb 2024 03:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[정다운]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EB%8B%A4%EC%9A%B4_February-feat.-heeju-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maxx ride (feat. groove Lee)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/maxx-ride-feat-groove-lee/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/maxx-ride-feat-groove-lee/</guid>
+            <pubDate>Thu, 15 Feb 2024 03:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[학현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%99%ED%98%84_Maxx-ride-feat.-groove-Lee-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌아갈 수 있을까]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ea%b0%88-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ea%b0%88-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c/</guid>
+            <pubDate>Thu, 15 Feb 2024 03:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[kumira]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kumira_%EB%8F%8C%EC%95%84%EA%B0%88-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[굳은 믿음]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b5%b3%ec%9d%80-%eb%af%bf%ec%9d%8c/</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 02 Feb 2024 03:15:47 GMT</pubDate>
             <content:encoded><![CDATA[Like June]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Like-June_%EC%88%B2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Last Train]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/last-train/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/last-train/</guid>
-            <pubDate>Thu, 01 Feb 2024 09:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_Last-Train-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰스밴드 첫 싱글]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b0%b0%ec%8a%a4%eb%b0%b4%eb%93%9c-%ec%b2%ab-%ec%8b%b1%ea%b8%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b0%b0%ec%8a%a4%eb%b0%b4%eb%93%9c-%ec%b2%ab-%ec%8b%b1%ea%b8%80/</guid>
-            <pubDate>Thu, 01 Feb 2024 06:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[찰스밴드]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B0%B0%EC%8A%A4%EB%B0%B4%EB%93%9C_%EC%B0%B0%EC%8A%A4%EB%B0%B4%EB%93%9C-%EC%B2%AB-%EC%8B%B1%EA%B8%80-2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-Town in New York]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/k-town-in-new-york/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/k-town-in-new-york/</guid>
-            <pubDate>Thu, 01 Feb 2024 03:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[MOST (모스트)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_MOST-%EB%AA%A8%EC%8A%A4%ED%8A%B8_K-Town-in-New-York-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
