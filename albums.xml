@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 04:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 05:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%84%B1%ED%98%B8_Driver-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[돌아갈 수 있을까]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ea%b0%88-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ea%b0%88-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c/</guid>
+            <pubDate>Thu, 15 Feb 2024 03:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[kumira]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kumira_%EB%8F%8C%EC%95%84%EA%B0%88-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[February (feat. heeju)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/february-feat-heeju/</link>
             <guid>http://mirrorballmusic.co.kr/albums/february-feat-heeju/</guid>
@@ -54,14 +62,6 @@
             <pubDate>Thu, 15 Feb 2024 03:17:12 GMT</pubDate>
             <content:encoded><![CDATA[학현]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%99%ED%98%84_Maxx-ride-feat.-groove-Lee-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아갈 수 있을까]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ea%b0%88-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ea%b0%88-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c/</guid>
-            <pubDate>Thu, 15 Feb 2024 03:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[kumira]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kumira_%EB%8F%8C%EC%95%84%EA%B0%88-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[굳은 믿음]]></title>
