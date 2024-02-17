@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 02:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 03:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ARCHITECT]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/architect/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/architect/</guid>
+            <pubDate>Sat, 17 Feb 2024 03:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[YURYEONG (유령)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_YURYEONG-%EC%9C%A0%EB%A0%B9_ARCHITECT-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘따라 짙어진 슬픔과 사랑해요]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%eb%94%b0%eb%9d%bc-%ec%a7%99%ec%96%b4%ec%a7%84-%ec%8a%ac%ed%94%94%ea%b3%bc-%ec%82%ac%eb%9e%91%ed%95%b4%ec%9a%94/</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 04 Feb 2024 03:15:39 GMT</pubDate>
             <content:encoded><![CDATA[김현주]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%ED%98%84%EC%A3%BC_%EB%8B%A4%EC%A7%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온통 너였다]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a8%ed%86%b5-%eb%84%88%ec%98%80%eb%8b%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a8%ed%86%b5-%eb%84%88%ec%98%80%eb%8b%a4/</guid>
-            <pubDate>Sat, 03 Feb 2024 03:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[이민석]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/01.-%EC%9D%B4%EB%AF%BC%EC%84%9D_%EC%98%A8%ED%86%B5-%EB%84%88%EC%98%80%EB%8B%A4_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%9E%90%EC%BC%93-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
