@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 02:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 03:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kick Front]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/kick-front/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/kick-front/</guid>
+            <pubDate>Thu, 22 Feb 2024 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[ASPD]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EC%8A%A4%ED%94%84%EB%93%9C-ASPD_Kick-Front-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈꾸던 카니발]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ea%be%b8%eb%8d%98-%ec%b9%b4%eb%8b%88%eb%b0%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ea%be%b8%eb%8d%98-%ec%b9%b4%eb%8b%88%eb%b0%9c/</guid>
+            <pubDate>Thu, 22 Feb 2024 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[라퍼커션]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9D%BC%ED%8D%BC%EC%BB%A4%EC%85%98_%EA%BF%88%EA%BE%B8%EB%8D%98-%EC%B9%B4%EB%8B%88%EB%B0%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 곳에 서 있다]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ea%b3%b3%ec%97%90-%ec%84%9c-%ec%9e%88%eb%8b%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ea%b3%b3%ec%97%90-%ec%84%9c-%ec%9e%88%eb%8b%a4/</guid>
+            <pubDate>Thu, 22 Feb 2024 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[형제공업사]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%98%95%EC%A0%9C%EA%B3%B5%EC%97%85%EC%82%AC_%EA%B7%B8-%EA%B3%B3%EC%97%90-%EC%84%9C-%EC%9E%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SISOMO]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sisomo/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sisomo/</guid>
+            <pubDate>Thu, 22 Feb 2024 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[경우현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B2%BD%EC%9A%B0%ED%98%84_SISOMO-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그대의 차가운 손]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8c%80%ec%9d%98-%ec%b0%a8%ea%b0%80%ec%9a%b4-%ec%86%90-2/</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 13 Feb 2024 03:16:12 GMT</pubDate>
             <content:encoded><![CDATA[옛그리움 (Old Yearning)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%9B%EA%B7%B8%EB%A6%AC%EC%9B%80-Old-Yearning_%EB%AF%B8%EC%99%84%EC%84%B1-II-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하얀 새벽]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%95%98%ec%96%80-%ec%83%88%eb%b2%bd/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%95%98%ec%96%80-%ec%83%88%eb%b2%bd/</guid>
-            <pubDate>Tue, 13 Feb 2024 03:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[큐리아 (Q.ria)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%81%90%EB%A6%AC%EC%95%84-Q.ria_%ED%95%98%EC%96%80-%EC%83%88%EB%B2%BD-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알고 있니?]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%8c%ea%b3%a0-%ec%9e%88%eb%8b%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%8c%ea%b3%a0-%ec%9e%88%eb%8b%88/</guid>
-            <pubDate>Tue, 13 Feb 2024 03:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[요정]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%8B%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 우리의 사랑]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%82%ac%eb%9e%91/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%82%ac%eb%9e%91/</guid>
-            <pubDate>Mon, 12 Feb 2024 03:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[양주은]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%91%EC%A3%BC%EC%9D%80_%EC%9A%B0%EB%A6%AC-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%82%AC%EB%9E%91-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[igloo]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/igloo/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/igloo/</guid>
-            <pubDate>Sun, 11 Feb 2024 03:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[마가]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%EA%B0%80_igloo-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
