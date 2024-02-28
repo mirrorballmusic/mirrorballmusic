@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 04:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 05:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[away home]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/away-home/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/away-home/</guid>
+            <pubDate>Wed, 28 Feb 2024 05:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[cotoba (코토바)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_cotoba-%EC%BD%94%ED%86%A0%EB%B0%94_away-home-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blue Hour]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/blue-hour-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/blue-hour-3/</guid>
+            <pubDate>Wed, 28 Feb 2024 05:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[bOOdy]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_bOOdy_Blue-Hour-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DELAYS]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/delays/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/delays/</guid>
+            <pubDate>Wed, 28 Feb 2024 05:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[Orange Fang Fang Boys (오렌지 팡팡 보이즈)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Orange-Fang-Fang-Boys-%EC%98%A4%EB%A0%8C%EC%A7%80-%ED%8C%A1%ED%8C%A1-%EB%B3%B4%EC%9D%B4%EC%A6%88_DELAYS-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOU ON MY MIND]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/you-on-my-mind/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/you-on-my-mind/</guid>
+            <pubDate>Wed, 28 Feb 2024 05:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[seeun]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_seeun_YOU-ON-MY-MIND-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어쩌면]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%96%b4%ec%a9%8c%eb%a9%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%96%b4%ec%a9%8c%eb%a9%b4/</guid>
+            <pubDate>Wed, 28 Feb 2024 05:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[최유찬]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%9C%A0%EC%B0%AC_%EC%96%B4%EC%A9%8C%EB%A9%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WIPPY+동물원]]></title>
             <link>http://mirrorballmusic.co.kr/albums/wippy%eb%8f%99%eb%ac%bc%ec%9b%90/</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 21 Feb 2024 03:15:10 GMT</pubDate>
             <content:encoded><![CDATA[시선]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%9C%EC%84%A0_%EA%BF%88%EC%86%8D%EC%97%90%EC%84%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SEE]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/see-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/see-2/</guid>
-            <pubDate>Tue, 20 Feb 2024 03:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[이더 (E the)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%8D%94-E-the_SEE-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게스트하우스]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b2%8c%ec%8a%a4%ed%8a%b8%ed%95%98%ec%9a%b0%ec%8a%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b2%8c%ec%8a%a4%ed%8a%b8%ed%95%98%ec%9a%b0%ec%8a%a4/</guid>
-            <pubDate>Tue, 20 Feb 2024 03:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[빈이]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B9%88%EC%9D%B4_%EA%B2%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EC%9A%B0%EC%8A%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내려놓자]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4%eb%a0%a4%eb%86%93%ec%9e%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%b4%eb%a0%a4%eb%86%93%ec%9e%90/</guid>
-            <pubDate>Tue, 20 Feb 2024 03:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[가은 (GAEUN)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%80%EC%9D%80-GAEUN_%EB%82%B4%EB%A0%A4%EB%86%93%EC%9E%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Follow The Stars]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/follow-the-stars/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/follow-the-stars/</guid>
-            <pubDate>Tue, 20 Feb 2024 03:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[사운드웨이브(SOUNDWAVE)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%AC%EC%9A%B4%EB%93%9C%EC%9B%A8%EC%9D%B4%EB%B8%8C-SOUNDWAVE_Follow-The-Stars-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LAST PARADE]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/last-parade/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/last-parade/</guid>
-            <pubDate>Mon, 19 Feb 2024 03:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[찬민 (CHANMIN)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B0%AC%EB%AF%BC-CHANMIN_LAST-PARADE-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
