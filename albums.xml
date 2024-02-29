@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 05:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 06:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Green]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/green-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/green-2/</guid>
+            <pubDate>Thu, 29 Feb 2024 06:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[미오씨 (Mio Si)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AF%B8%EC%98%A4%EC%94%A8-Mio-Si_Green-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여명]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%aa%85-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%aa%85-2/</guid>
+            <pubDate>Thu, 29 Feb 2024 06:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[청 (Chung)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B2%AD-Chung_%EC%97%AC%EB%AA%85-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두 눈을 감았지]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%91%90-%eb%88%88%ec%9d%84-%ea%b0%90%ec%95%98%ec%a7%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%91%90-%eb%88%88%ec%9d%84-%ea%b0%90%ec%95%98%ec%a7%80/</guid>
+            <pubDate>Thu, 29 Feb 2024 06:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[히제]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9E%88%EC%A0%9C_%EB%91%90-%EB%88%88%EC%9D%84-%EA%B0%90%EC%95%98%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[별빛주행]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b3%84%eb%b9%9b%ec%a3%bc%ed%96%89/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b3%84%eb%b9%9b%ec%a3%bc%ed%96%89/</guid>
+            <pubDate>Thu, 29 Feb 2024 06:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[쥬드]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A5%AC%EB%93%9C_%EB%B3%84%EB%B9%9B%EC%A3%BC%ED%96%89-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[away home]]></title>
             <link>http://mirrorballmusic.co.kr/albums/away-home/</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 22 Feb 2024 03:15:19 GMT</pubDate>
             <content:encoded><![CDATA[경우현]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B2%BD%EC%9A%B0%ED%98%84_SISOMO-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그대의 차가운 손]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8c%80%ec%9d%98-%ec%b0%a8%ea%b0%80%ec%9a%b4-%ec%86%90-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8c%80%ec%9d%98-%ec%b0%a8%ea%b0%80%ec%9a%b4-%ec%86%90-2/</guid>
-            <pubDate>Wed, 21 Feb 2024 03:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Mingginyu-%EB%B0%8D%EA%B8%B0%EB%89%B4_%EA%B7%B8%EB%8C%80%EC%9D%98-%EC%B0%A8%EA%B0%80%EC%9A%B4-%EC%86%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fat Free Mayo]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/fat-free-mayo/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/fat-free-mayo/</guid>
-            <pubDate>Wed, 21 Feb 2024 03:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[정현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%ED%98%84_Fat-Free-Mayo-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스물여섯]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af/</guid>
-            <pubDate>Wed, 21 Feb 2024 03:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[이정윤]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A0%95%EC%9C%A4_%EC%8A%A4%EB%AC%BC%EC%97%AC%EC%84%AF-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈속에서]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ec%86%8d%ec%97%90%ec%84%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ec%86%8d%ec%97%90%ec%84%9c/</guid>
-            <pubDate>Wed, 21 Feb 2024 03:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[시선]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%9C%EC%84%A0_%EA%BF%88%EC%86%8D%EC%97%90%EC%84%9C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
