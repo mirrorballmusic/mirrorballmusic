@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 03:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 04:45:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 우울의 근원인 그대여 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4-%ec%9a%b0%ec%9a%b8%ec%9d%98-%ea%b7%bc%ec%9b%90%ec%9d%b8-%ea%b7%b8%eb%8c%80%ec%97%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%b4-%ec%9a%b0%ec%9a%b8%ec%9d%98-%ea%b7%bc%ec%9b%90%ec%9d%b8-%ea%b7%b8%eb%8c%80%ec%97%ac/</guid>
+            <pubDate>Mon, 04 Mar 2024 04:44:57 GMT</pubDate>
+            <content:encoded><![CDATA[다원]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%A4%EC%9B%90_%EB%82%B4-%EC%9A%B0%EC%9A%B8%EC%9D%98-%EA%B7%BC%EC%9B%90%EC%9D%B8-%EA%B7%B8%EB%8C%80%EC%97%AC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Green (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/green-2/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 22 Feb 2024 03:15:19 GMT</pubDate>
             <content:encoded><![CDATA[라퍼커션]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9D%BC%ED%8D%BC%EC%BB%A4%EC%85%98_%EA%BF%88%EA%BE%B8%EB%8D%98-%EC%B9%B4%EB%8B%88%EB%B0%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SISOMO (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/sisomo/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/sisomo/</guid>
-            <pubDate>Thu, 22 Feb 2024 03:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[경우현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B2%BD%EC%9A%B0%ED%98%84_SISOMO-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.263 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
