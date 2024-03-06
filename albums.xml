@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 02:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 03:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네가 외출한 사이]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%84%a4%ea%b0%80-%ec%99%b8%ec%b6%9c%ed%95%9c-%ec%82%ac%ec%9d%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%a4%ea%b0%80-%ec%99%b8%ec%b6%9c%ed%95%9c-%ec%82%ac%ec%9d%b4/</guid>
+            <pubDate>Wed, 06 Mar 2024 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[조형우]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%ED%98%95%EC%9A%B0_%EB%84%A4%EA%B0%80-%EC%99%B8%EC%B6%9C%ED%95%9C-%EC%82%AC%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazz Got You]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/jazz-got-you/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/jazz-got-you/</guid>
+            <pubDate>Wed, 06 Mar 2024 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[JINRI]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_JINRI_Jazz-Got-You-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IAY]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/iay/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/iay/</guid>
+            <pubDate>Wed, 06 Mar 2024 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[Grabber]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Grabber_IAY-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[皮 (피부)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%e7%9a%ae-%ed%94%bc%eb%b6%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%e7%9a%ae-%ed%94%bc%eb%b6%80/</guid>
+            <pubDate>Wed, 06 Mar 2024 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[Scon]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Scon_%E7%9A%AE-%ED%94%BC%EB%B6%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽롱]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%aa%bd%eb%a1%b1/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%aa%bd%eb%a1%b1/</guid>
+            <pubDate>Wed, 06 Mar 2024 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[요정]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%EB%AA%BD%EB%A1%B1-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rewind Repeat]]></title>
             <link>http://mirrorballmusic.co.kr/albums/rewind-repeat/</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 27 Feb 2024 10:16:09 GMT</pubDate>
             <content:encoded><![CDATA[전영세 트리오]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%84%EC%98%81%EC%84%B8-%ED%8A%B8%EB%A6%AC%EC%98%A4_Like-a-Fantasy-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yeah !]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/yeah/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/yeah/</guid>
-            <pubDate>Tue, 27 Feb 2024 10:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[Surferboy]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Surferboy_Yeah-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2월의 시]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/2%ec%9b%94%ec%9d%98-%ec%8b%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/2%ec%9b%94%ec%9d%98-%ec%8b%9c/</guid>
-            <pubDate>Mon, 26 Feb 2024 03:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[박창근]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B0%BD%EA%B7%BC_2%EC%9B%94%EC%9D%98-%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MUSIC WITHOUT BORDER]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/music-without-border/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/music-without-border/</guid>
-            <pubDate>Mon, 26 Feb 2024 03:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Various-Artists_MUSIC-WITHOUT-BORDER-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노란 고양이]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%9e%80-%ea%b3%a0%ec%96%91%ec%9d%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%9e%80-%ea%b3%a0%ec%96%91%ec%9d%b4/</guid>
-            <pubDate>Mon, 26 Feb 2024 03:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[노올량]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%98%AC%EB%9F%89_%EB%85%B8%EB%9E%80-%EA%B3%A0%EC%96%91%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남숙에게]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%a8%ec%88%99%ec%97%90%ea%b2%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%a8%ec%88%99%ec%97%90%ea%b2%8c/</guid>
-            <pubDate>Mon, 26 Feb 2024 03:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[강헌구 (Kang Heon Goo)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%ED%97%8C%EA%B5%AC_%EB%82%A8%EC%88%99%EC%97%90%EA%B2%8C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
