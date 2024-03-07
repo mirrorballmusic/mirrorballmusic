@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 06:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 07:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메두사 (feat. 타미즈 (Tamiz)) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a9%94%eb%91%90%ec%82%ac-feat-%ed%83%80%eb%af%b8%ec%a6%88-tamiz/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a9%94%eb%91%90%ec%82%ac-feat-%ed%83%80%eb%af%b8%ec%a6%88-tamiz/</guid>
+            <pubDate>Thu, 07 Mar 2024 07:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[WEN]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WEN_%EB%A9%94%EB%91%90%EC%82%AC-feat.-%ED%83%80%EB%AF%B8%EC%A6%88-Tamiz-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쉬는 날 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%89%ac%eb%8a%94-%eb%82%a0/</link>
@@ -22,6 +30,14 @@
             <pubDate>Thu, 07 Mar 2024 06:19:48 GMT</pubDate>
             <content:encoded><![CDATA[김동인 (Kim dong in)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EB%8F%99%EC%9D%B8-Kim-Dong-In_%EA%B7%B8%EB%9F%BC%EC%97%90%EB%8F%84-%ED%94%BC%EC%96%B4%EB%82%98%EB%8B%A4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Whisky (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/whisky/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/whisky/</guid>
+            <pubDate>Thu, 07 Mar 2024 07:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[손을모아]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%90%EC%9D%84%EB%AA%A8%EC%95%84_Whisky-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bad Ending (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 28 Feb 2024 05:14:56 GMT</pubDate>
             <content:encoded><![CDATA[Orange Fang Fang Boys (오렌지 팡팡 보이즈)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Orange-Fang-Fang-Boys-%EC%98%A4%EB%A0%8C%EC%A7%80-%ED%8C%A1%ED%8C%A1-%EB%B3%B4%EC%9D%B4%EC%A6%88_DELAYS-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOU ON MY MIND (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/you-on-my-mind/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/you-on-my-mind/</guid>
-            <pubDate>Wed, 28 Feb 2024 05:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[seeun]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_seeun_YOU-ON-MY-MIND-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩌면 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%96%b4%ec%a9%8c%eb%a9%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%96%b4%ec%a9%8c%eb%a9%b4/</guid>
-            <pubDate>Wed, 28 Feb 2024 05:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[최유찬]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%9C%A0%EC%B0%AC_%EC%96%B4%EC%A9%8C%EB%A9%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.263 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
