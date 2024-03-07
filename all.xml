@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 22:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 23:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,20 +144,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Replica-Dream_Vandalism-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[igloo Instrumental (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/igloo-instrumental/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/igloo-instrumental/</guid>
-            <pubDate>Mon, 04 Mar 2024 05:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[마가]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%EA%B0%80_igloo-Instrumental-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[곁 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b3%81-3/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%81-3/</guid>
             <pubDate>Mon, 04 Mar 2024 05:51:11 GMT</pubDate>
             <content:encoded><![CDATA[YFY]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_YFY_%EA%B3%81-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[igloo Instrumental (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/igloo-instrumental/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/igloo-instrumental/</guid>
+            <pubDate>Mon, 04 Mar 2024 05:51:11 GMT</pubDate>
+            <content:encoded><![CDATA[마가]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%EA%B0%80_igloo-Instrumental-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금을 (미러볼뮤직 ─ ALBUMS)]]></title>
