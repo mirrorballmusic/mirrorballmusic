@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 05:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 06:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쉬는 날]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%89%ac%eb%8a%94-%eb%82%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%89%ac%eb%8a%94-%eb%82%a0/</guid>
+            <pubDate>Thu, 07 Mar 2024 06:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[Like June]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Like-June_%EC%89%AC%EB%8A%94-%EB%82%A0-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그럼에도, 피어나다]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9f%bc%ec%97%90%eb%8f%84-%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9f%bc%ec%97%90%eb%8f%84-%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4/</guid>
+            <pubDate>Thu, 07 Mar 2024 06:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[김동인 (Kim dong in)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EB%8F%99%EC%9D%B8-Kim-Dong-In_%EA%B7%B8%EB%9F%BC%EC%97%90%EB%8F%84-%ED%94%BC%EC%96%B4%EB%82%98%EB%8B%A4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bad Ending]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/bad-ending/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/bad-ending/</guid>
+            <pubDate>Thu, 07 Mar 2024 06:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[Minsung (민성)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Minsung-%EB%AF%BC%EC%84%B1_Bad-Ending-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네가 외출한 사이]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%84%a4%ea%b0%80-%ec%99%b8%ec%b6%9c%ed%95%9c-%ec%82%ac%ec%9d%b4/</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 28 Feb 2024 05:14:56 GMT</pubDate>
             <content:encoded><![CDATA[최유찬]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%9C%A0%EC%B0%AC_%EC%96%B4%EC%A9%8C%EB%A9%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WIPPY+동물원]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/wippy%eb%8f%99%eb%ac%bc%ec%9b%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/wippy%eb%8f%99%eb%ac%bc%ec%9b%90/</guid>
-            <pubDate>Tue, 27 Feb 2024 10:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[타미즈 (Tamiz)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%AF%B8%EC%A6%88-Tamiz_WIPPY%EB%8F%99%EB%AC%BC%EC%9B%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TML]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/tml/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/tml/</guid>
-            <pubDate>Tue, 27 Feb 2024 10:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[Zinpokito]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Zinpokito_TML-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Like a Fantasy]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/like-a-fantasy/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/like-a-fantasy/</guid>
-            <pubDate>Tue, 27 Feb 2024 10:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[전영세 트리오]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%84%EC%98%81%EC%84%B8-%ED%8A%B8%EB%A6%AC%EC%98%A4_Like-a-Fantasy-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
