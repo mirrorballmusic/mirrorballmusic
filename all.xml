@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 05:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 06:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹툰 <불건전한 연애> OST Part.1 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9b%b9%ed%88%b0-ost-part-1/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9b%b9%ed%88%b0-ost-part-1/</guid>
+            <pubDate>Thu, 14 Mar 2024 06:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[사트니 (Satiny)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%AC%ED%8A%B8%EB%8B%88-Satiny_%EC%9B%B9%ED%88%B0-%EB%B6%88%EA%B1%B4%EC%A0%84%ED%95%9C-%EC%97%B0%EC%95%A0-OST-Part.1-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Is All For ME (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/love-is-all-for-me/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/love-is-all-for-me/</guid>
+            <pubDate>Thu, 14 Mar 2024 06:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[OYU (오유)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_OYU-%EC%98%A4%EC%9C%A0_Love-Is-All-For-Me-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일광욕 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ea%b4%91%ec%9a%95/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ea%b4%91%ec%9a%95/</guid>
+            <pubDate>Thu, 14 Mar 2024 06:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[청요일]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B2%AD%EC%9A%94%EC%9D%BC_%EC%9D%BC%EA%B4%91%EC%9A%95-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열한 번째 다투던 날 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%97%b4%ed%95%9c-%eb%b2%88%ec%a7%b8-%eb%8b%a4%ed%88%ac%eb%8d%98-%eb%82%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%b4%ed%95%9c-%eb%b2%88%ec%a7%b8-%eb%8b%a4%ed%88%ac%eb%8d%98-%eb%82%a0/</guid>
+            <pubDate>Thu, 14 Mar 2024 06:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[최형일]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%ED%98%95%EC%9D%BC_%EC%97%B4%ED%95%9C-%EB%B2%88%EC%A7%B8-%EB%8B%A4%ED%88%AC%EB%8D%98-%EB%82%A0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알려줘요 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%95%8c%eb%a0%a4%ec%a4%98%ec%9a%94/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 06 Mar 2024 03:15:02 GMT</pubDate>
             <content:encoded><![CDATA[Scon]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Scon_%E7%9A%AE-%ED%94%BC%EB%B6%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽롱 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%aa%bd%eb%a1%b1/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%aa%bd%eb%a1%b1/</guid>
-            <pubDate>Wed, 06 Mar 2024 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[요정]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%EB%AA%BD%EB%A1%B1-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rewind Repeat (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/rewind-repeat/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/rewind-repeat/</guid>
-            <pubDate>Tue, 05 Mar 2024 05:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[오드리노 (Audrey No)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EB%93%9C%EB%A6%AC%EB%85%B8-Audrey-No_Rewind-Repeat-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Little i (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/my-little-i/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/my-little-i/</guid>
-            <pubDate>Tue, 05 Mar 2024 05:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[률희]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A5%A0%ED%9D%AC_My-Little-i-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[sunshine (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/sunshine/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/sunshine/</guid>
-            <pubDate>Tue, 05 Mar 2024 05:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[조윤 (Joyoon)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%9C%A4-Joyoon_sunshine-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.263 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
