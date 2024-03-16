@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 02:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 04:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너의 입은 사과를 말하고 있지만]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%9d%98-%ec%9e%85%ec%9d%80-%ec%82%ac%ea%b3%bc%eb%a5%bc-%eb%a7%90%ed%95%98%ea%b3%a0-%ec%9e%88%ec%a7%80%eb%a7%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%9d%98-%ec%9e%85%ec%9d%80-%ec%82%ac%ea%b3%bc%eb%a5%bc-%eb%a7%90%ed%95%98%ea%b3%a0-%ec%9e%88%ec%a7%80%eb%a7%8c/</guid>
+            <pubDate>Sat, 16 Mar 2024 04:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[삼점오]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%BC%EC%A0%90%EC%98%A4_%EB%84%88%EC%9D%98-%EC%9E%85%EC%9D%80-%EC%82%AC%EA%B3%BC%EB%A5%BC-%EB%A7%90%ED%95%98%EA%B3%A0-%EC%9E%88%EC%A7%80%EB%A7%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Visible World]]></title>
             <link>http://mirrorballmusic.co.kr/albums/visible-world/</link>
@@ -64,20 +72,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_OYU-%EC%98%A4%EC%9C%A0_Love-Is-All-For-Me-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일광욕]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ea%b4%91%ec%9a%95/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ea%b4%91%ec%9a%95/</guid>
-            <pubDate>Thu, 14 Mar 2024 06:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[청요일]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B2%AD%EC%9A%94%EC%9D%BC_%EC%9D%BC%EA%B4%91%EC%9A%95-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[열한 번째 다투던 날]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%97%b4%ed%95%9c-%eb%b2%88%ec%a7%b8-%eb%8b%a4%ed%88%ac%eb%8d%98-%eb%82%a0/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%ec%97%b4%ed%95%9c-%eb%b2%88%ec%a7%b8-%eb%8b%a4%ed%88%ac%eb%8d%98-%eb%82%a0/</guid>
             <pubDate>Thu, 14 Mar 2024 06:18:07 GMT</pubDate>
             <content:encoded><![CDATA[최형일]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%ED%98%95%EC%9D%BC_%EC%97%B4%ED%95%9C-%EB%B2%88%EC%A7%B8-%EB%8B%A4%ED%88%AC%EB%8D%98-%EB%82%A0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일광욕]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ea%b4%91%ec%9a%95/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ea%b4%91%ec%9a%95/</guid>
+            <pubDate>Thu, 14 Mar 2024 06:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[청요일]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B2%AD%EC%9A%94%EC%9D%BC_%EC%9D%BC%EA%B4%91%EC%9A%95-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알려줘요]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Mar 2024 06:19:48 GMT</pubDate>
             <content:encoded><![CDATA[김동인 (Kim dong in)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EB%8F%99%EC%9D%B8-Kim-Dong-In_%EA%B7%B8%EB%9F%BC%EC%97%90%EB%8F%84-%ED%94%BC%EC%96%B4%EB%82%98%EB%8B%A4-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whisky]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/whisky/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/whisky/</guid>
-            <pubDate>Thu, 07 Mar 2024 07:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[손을모아]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%90%EC%9D%84%EB%AA%A8%EC%95%84_Whisky-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
