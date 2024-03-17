@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 02:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 03:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사철가]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%ec%b2%a0%ea%b0%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%ec%b2%a0%ea%b0%80/</guid>
+            <pubDate>Sun, 17 Mar 2024 03:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[김주리]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%A3%BC%EB%A6%AC_%EC%82%AC%EC%B2%A0%EA%B0%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너의 입은 사과를 말하고 있지만]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%9d%98-%ec%9e%85%ec%9d%80-%ec%82%ac%ea%b3%bc%eb%a5%bc-%eb%a7%90%ed%95%98%ea%b3%a0-%ec%9e%88%ec%a7%80%eb%a7%8c/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Mar 2024 06:19:48 GMT</pubDate>
             <content:encoded><![CDATA[Like June]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Like-June_%EC%89%AC%EB%8A%94-%EB%82%A0-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그럼에도, 피어나다]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9f%bc%ec%97%90%eb%8f%84-%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9f%bc%ec%97%90%eb%8f%84-%ed%94%bc%ec%96%b4%eb%82%98%eb%8b%a4/</guid>
-            <pubDate>Thu, 07 Mar 2024 06:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[김동인 (Kim dong in)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EB%8F%99%EC%9D%B8-Kim-Dong-In_%EA%B7%B8%EB%9F%BC%EC%97%90%EB%8F%84-%ED%94%BC%EC%96%B4%EB%82%98%EB%8B%A4-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
