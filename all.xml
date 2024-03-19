@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 02:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 03:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월의 시 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/3%ec%9b%94%ec%9d%98-%ec%8b%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/3%ec%9b%94%ec%9d%98-%ec%8b%9c/</guid>
+            <pubDate>Tue, 19 Mar 2024 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[박창근]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B0%BD%EA%B7%BC_3%EC%9B%94%EC%9D%98-%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JOYRIDE (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/joyride/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Mar 2024 05:14:38 GMT</pubDate>
             <content:encoded><![CDATA[지음 (JIEUM)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A7%80%EC%9D%8C-JIEUM_Butterfly-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이야 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%9d%b4%ec%95%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%9d%b4%ec%95%bc/</guid>
-            <pubDate>Fri, 08 Mar 2024 05:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[Bebelune]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Bebelune_%EC%95%84%EC%9D%B4%EC%95%BC-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.264 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
