@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 23:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 01:00:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,20 +224,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_OYU-%EC%98%A4%EC%9C%A0_Love-Is-All-For-Me-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[열한 번째 다투던 날]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%97%b4%ed%95%9c-%eb%b2%88%ec%a7%b8-%eb%8b%a4%ed%88%ac%eb%8d%98-%eb%82%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%b4%ed%95%9c-%eb%b2%88%ec%a7%b8-%eb%8b%a4%ed%88%ac%eb%8d%98-%eb%82%a0/</guid>
-            <pubDate>Thu, 14 Mar 2024 06:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[최형일]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%ED%98%95%EC%9D%BC_%EC%97%B4%ED%95%9C-%EB%B2%88%EC%A7%B8-%EB%8B%A4%ED%88%AC%EB%8D%98-%EB%82%A0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[일광욕]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ea%b4%91%ec%9a%95/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ea%b4%91%ec%9a%95/</guid>
             <pubDate>Thu, 14 Mar 2024 06:18:07 GMT</pubDate>
             <content:encoded><![CDATA[청요일]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B2%AD%EC%9A%94%EC%9D%BC_%EC%9D%BC%EA%B4%91%EC%9A%95-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열한 번째 다투던 날]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%97%b4%ed%95%9c-%eb%b2%88%ec%a7%b8-%eb%8b%a4%ed%88%ac%eb%8d%98-%eb%82%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%b4%ed%95%9c-%eb%b2%88%ec%a7%b8-%eb%8b%a4%ed%88%ac%eb%8d%98-%eb%82%a0/</guid>
+            <pubDate>Thu, 14 Mar 2024 06:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[최형일]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%ED%98%95%EC%9D%BC_%EC%97%B4%ED%95%9C-%EB%B2%88%EC%A7%B8-%EB%8B%A4%ED%88%AC%EB%8D%98-%EB%82%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알려줘요]]></title>
