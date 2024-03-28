@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 04:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 05:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Complicated you]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/complicated-you/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/complicated-you/</guid>
+            <pubDate>Thu, 28 Mar 2024 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[kenessi]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kenessi_Complicated-you-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곱게 핀 꽃]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%b1%ea%b2%8c-%ed%95%80-%ea%bd%83/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%b1%ea%b2%8c-%ed%95%80-%ea%bd%83/</guid>
+            <pubDate>Thu, 28 Mar 2024 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[신승헌]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EC%8A%B9%ED%97%8C_%EA%B3%B1%EA%B2%8C-%ED%95%80-%EA%BD%83-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dejavu]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/dejavu/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/dejavu/</guid>
+            <pubDate>Thu, 28 Mar 2024 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[yemin]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_yemin_Dejavu-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미사여구뿐]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%82%ac%ec%97%ac%ea%b5%ac%eb%bf%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ec%82%ac%ec%97%ac%ea%b5%ac%eb%bf%90/</guid>
+            <pubDate>Thu, 28 Mar 2024 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[KONTRAJELLY (콘트라젤리)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_KONTRAJELLY-%EC%BD%98%ED%8A%B8%EB%9D%BC%EC%A0%A4%EB%A6%AC_%EB%AF%B8%EC%82%AC%EC%97%AC%EA%B5%AC%EB%BF%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밝은미래]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b0%9d%ec%9d%80%eb%af%b8%eb%9e%98/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 20 Mar 2024 05:15:40 GMT</pubDate>
             <content:encoded><![CDATA[ALBAS]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ALBAS_BB-Lonely-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월의 시]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/3%ec%9b%94%ec%9d%98-%ec%8b%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/3%ec%9b%94%ec%9d%98-%ec%8b%9c/</guid>
-            <pubDate>Tue, 19 Mar 2024 03:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[박창근]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B0%BD%EA%B7%BC_3%EC%9B%94%EC%9D%98-%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코발트블루]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%bd%94%eb%b0%9c%ed%8a%b8%eb%b8%94%eb%a3%a8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%bd%94%eb%b0%9c%ed%8a%b8%eb%b8%94%eb%a3%a8/</guid>
-            <pubDate>Tue, 19 Mar 2024 06:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[Moody]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Moody_%EC%BD%94%EB%B0%9C%ED%8A%B8%EB%B8%94%EB%A3%A8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Converter]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/converter/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/converter/</guid>
-            <pubDate>Tue, 19 Mar 2024 06:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[먼지잼]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A8%BC%EC%A7%80%EC%9E%BC_Converter-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JOYRIDE]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/joyride/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/joyride/</guid>
-            <pubDate>Mon, 18 Mar 2024 03:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[we hate jh]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_we-hate-jh_JOYRIDE-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
