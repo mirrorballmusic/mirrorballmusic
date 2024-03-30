@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 02:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 03:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[In The Heart of Seoul (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/in-the-heart-of-seoul/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/in-the-heart-of-seoul/</guid>
+            <pubDate>Sat, 30 Mar 2024 03:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_In-The-Heart-of-Seoul-2-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흐르는 대로 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%9d%90%eb%a5%b4%eb%8a%94-%eb%8c%80%eb%a1%9c/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Mar 2024 06:18:40 GMT</pubDate>
             <content:encoded><![CDATA[yeni]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_yeni_WIYL-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blood and skin (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/blood-and-skin/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/blood-and-skin/</guid>
-            <pubDate>Wed, 20 Mar 2024 03:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[찬민 (CHANMIN)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B0%AC%EB%AF%BC-CHANMIN_Blood-and-skin-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.264 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
