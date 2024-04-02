@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 05:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 06:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아프로디테 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ed%94%84%eb%a1%9c%eb%94%94%ed%85%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ed%94%84%eb%a1%9c%eb%94%94%ed%85%8c/</guid>
+            <pubDate>Tue, 02 Apr 2024 06:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[손진욱]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%90%EC%A7%84%EC%9A%B1_%EC%95%84%ED%94%84%EB%A1%9C%EB%94%94%ED%85%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손끝에서 부서진 자그마한 민들레는 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%86%90%eb%81%9d%ec%97%90%ec%84%9c-%eb%b6%80%ec%84%9c%ec%a7%84-%ec%9e%90%ea%b7%b8%eb%a7%88%ed%95%9c-%eb%af%bc%eb%93%a4%eb%a0%88%eb%8a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%86%90%eb%81%9d%ec%97%90%ec%84%9c-%eb%b6%80%ec%84%9c%ec%a7%84-%ec%9e%90%ea%b7%b8%eb%a7%88%ed%95%9c-%eb%af%bc%eb%93%a4%eb%a0%88%eb%8a%94/</guid>
+            <pubDate>Tue, 02 Apr 2024 06:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[전다인밴드]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%84%EB%8B%A4%EC%9D%B8%EB%B0%B4%EB%93%9C_%EC%86%90%EB%81%9D%EC%97%90%EC%84%9C-%EB%B6%80%EC%84%9C%EC%A7%84-%EC%9E%90%EA%B7%B8%EB%A7%88%ED%95%9C-%EB%AF%BC%EB%93%A4%EB%A0%88%EB%8A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아침부터 밤까지 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%b9%a8%eb%b6%80%ed%84%b0-%eb%b0%a4%ea%b9%8c%ec%a7%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%b9%a8%eb%b6%80%ed%84%b0-%eb%b0%a4%ea%b9%8c%ec%a7%80/</guid>
+            <pubDate>Tue, 02 Apr 2024 06:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[클로젯 (CLOSET)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%81%B4%EB%A1%9C%EC%A0%AF-CLOSET_%EC%95%84%EC%B9%A8%EB%B6%80%ED%84%B0-%EB%B0%A4%EA%B9%8C%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Enchanted PULSE (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/enchanted-pulse/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/enchanted-pulse/</guid>
+            <pubDate>Tue, 02 Apr 2024 06:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[WIREPULLER]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WIREPULLER_Enchanted-PULSE-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sway (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sway/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sway/</guid>
+            <pubDate>Tue, 02 Apr 2024 06:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[전두희 (Jun Doohee)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%84%EB%91%90%ED%9D%AC-Jun-Doohee_Sway-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고시엔 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%ec%8b%9c%ec%97%94/</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 25 Mar 2024 06:19:54 GMT</pubDate>
             <content:encoded><![CDATA[love is cycle]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_love-is-cycle_love-is-natural-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[From Dawn to Dusk (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/from-dawn-to-dusk/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/from-dawn-to-dusk/</guid>
-            <pubDate>Mon, 25 Mar 2024 06:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[양재혁]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%91%EC%9E%AC%ED%98%81_From-Dawn-to-Dusk-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 다시 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%eb%8b%a4%ec%8b%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%eb%8b%a4%ec%8b%9c/</guid>
-            <pubDate>Mon, 25 Mar 2024 06:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[눈뜨면 오후]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%88%88%EB%9C%A8%EB%A9%B4-%EC%98%A4%ED%9B%84_%EC%9A%B0%EB%A6%AC-%EB%8B%A4%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계절이 바뀌어 사라지는 것들 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%84%ec%a0%88%ec%9d%b4-%eb%b0%94%eb%80%8c%ec%96%b4-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ea%b2%83%eb%93%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%84%ec%a0%88%ec%9d%b4-%eb%b0%94%eb%80%8c%ec%96%b4-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ea%b2%83%eb%93%a4/</guid>
-            <pubDate>Mon, 25 Mar 2024 06:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[FROMDEAR(프롬디어)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_FROMDEAR-%ED%94%84%EB%A1%AC%EB%94%94%EC%96%B4_%EA%B3%84%EC%A0%88%EC%9D%B4-%EB%B0%94%EB%80%8C%EC%96%B4-%EC%82%AC%EB%9D%BC%EC%A7%80%EB%8A%94-%EA%B2%83%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ghost in my graveyard (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/ghost-in-my-graveyard/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/ghost-in-my-graveyard/</guid>
-            <pubDate>Mon, 25 Mar 2024 06:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[초영]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B4%88%EC%98%81_Ghost-in-my-graveyard-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너무행! (feat. WEN) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%ac%b4%ed%96%89-feat-wen/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%ac%b4%ed%96%89-feat-wen/</guid>
-            <pubDate>Fri, 22 Mar 2024 05:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[타미즈 (Tamiz)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%AF%B8%EC%A6%88-Tamiz_%EB%84%88%EB%AC%B4%ED%96%89-feat.-WEN-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.265 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
