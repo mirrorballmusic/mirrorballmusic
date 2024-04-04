@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 06:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 07:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나도]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8f%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8f%84/</guid>
+            <pubDate>Thu, 04 Apr 2024 07:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Mingginyu-%EB%B0%8D%EA%B8%B0%EB%89%B4_%EB%82%98%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자유로워]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%90%ec%9c%a0%eb%a1%9c%ec%9b%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%90%ec%9c%a0%eb%a1%9c%ec%9b%8c/</guid>
+            <pubDate>Thu, 04 Apr 2024 07:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[YFY]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_YFY_%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9B%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Give and Take]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/give-and-take/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/give-and-take/</guid>
+            <pubDate>Thu, 04 Apr 2024 07:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[Fuzzy Pug (퍼지퍼그)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fuzzy-Pug-%ED%8D%BC%EC%A7%80%ED%8D%BC%EA%B7%B8_Give-and-Take-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자오선 (Meridian)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%90%ec%98%a4%ec%84%a0-meridian/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%90%ec%98%a4%ec%84%a0-meridian/</guid>
+            <pubDate>Thu, 04 Apr 2024 07:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[모서리]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AA%A8%EC%84%9C%EB%A6%AC_%EC%9E%90%EC%98%A4%EC%84%A0-Meridian-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rocket boy]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/rocket-boy/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/rocket-boy/</guid>
+            <pubDate>Thu, 04 Apr 2024 07:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[Holocity (홀로시티)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Holocity-%ED%99%80%EB%A1%9C%EC%8B%9C%ED%8B%B0_Rocket-boy-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소나기 (feat. 예빛)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%86%8c%eb%82%98%ea%b8%b0-feat-%ec%98%88%eb%b9%9b/</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 27 Mar 2024 08:19:43 GMT</pubDate>
             <content:encoded><![CDATA[이아트]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%95%84%ED%8A%B8_%EA%B0%95-Lethe-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HRSM]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/hrsm/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/hrsm/</guid>
-            <pubDate>Wed, 27 Mar 2024 08:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[Orange Fang Fang Boys (오렌지 팡팡 보이즈)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Orange-Fang-Fang-Boys-%EC%98%A4%EB%A0%8C%EC%A7%80-%ED%8C%A1%ED%8C%A1-%EB%B3%B4%EC%9D%B4%EC%A6%88_HRSM-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLUEBLACK]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/blueblack/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/blueblack/</guid>
-            <pubDate>Tue, 26 Mar 2024 05:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[맥거핀 (MGFF)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%A5%EA%B1%B0%ED%95%80-MGFF_BLUEBLACK-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shower]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/shower/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/shower/</guid>
-            <pubDate>Tue, 26 Mar 2024 05:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[강민]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EB%AF%BC_Shower-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애일기]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%97%b0%ec%95%a0%ec%9d%bc%ea%b8%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%b0%ec%95%a0%ec%9d%bc%ea%b8%b0/</guid>
-            <pubDate>Tue, 26 Mar 2024 05:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[노올량]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%98%AC%EB%9F%89_%EC%97%B0%EC%95%A0%EC%9D%BC%EA%B8%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왔다갔다]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%99%94%eb%8b%a4%ea%b0%94%eb%8b%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%99%94%eb%8b%a4%ea%b0%94%eb%8b%a4/</guid>
-            <pubDate>Tue, 26 Mar 2024 05:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[별다방]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B3%84%EB%8B%A4%EB%B0%A9_%EC%99%94%EB%8B%A4%EA%B0%94%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
