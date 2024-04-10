@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 01:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 02:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A1%A4%EB%A7%81%EC%BF%BC%EC%B8%A0-Rolling-Quartz_Stand-Up-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빛혈구 (LUMINECYTE)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%9b%ed%98%88%ea%b5%ac-luminecyte/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%9b%ed%98%88%ea%b5%ac-luminecyte/</guid>
-            <pubDate>Tue, 09 Apr 2024 03:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[YURYEONG (유령)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_YURYEONG-%EC%9C%A0%EB%A0%B9_%EB%B9%9B%ED%98%88%EA%B5%AC-LUMINECYTE-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[서로여야만 해요]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%84%9c%eb%a1%9c%ec%97%ac%ec%95%bc%eb%a7%8c-%ed%95%b4%ec%9a%94/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%ec%84%9c%eb%a1%9c%ec%97%ac%ec%95%bc%eb%a7%8c-%ed%95%b4%ec%9a%94/</guid>
             <pubDate>Tue, 09 Apr 2024 03:18:17 GMT</pubDate>
             <content:encoded><![CDATA[음성사서함]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%8C%EC%84%B1%EC%82%AC%EC%84%9C%ED%95%A8_%EC%84%9C%EB%A1%9C%EC%97%AC%EC%95%BC%EB%A7%8C-%ED%95%B4%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛혈구 (LUMINECYTE)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%9b%ed%98%88%ea%b5%ac-luminecyte/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%9b%ed%98%88%ea%b5%ac-luminecyte/</guid>
+            <pubDate>Tue, 09 Apr 2024 03:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[YURYEONG (유령)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_YURYEONG-%EC%9C%A0%EB%A0%B9_%EB%B9%9B%ED%98%88%EA%B5%AC-LUMINECYTE-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꽃놀이]]></title>
@@ -216,20 +216,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%84%EB%8B%A4%EC%9D%B8%EB%B0%B4%EB%93%9C_%EC%86%90%EB%81%9D%EC%97%90%EC%84%9C-%EB%B6%80%EC%84%9C%EC%A7%84-%EC%9E%90%EA%B7%B8%EB%A7%88%ED%95%9C-%EB%AF%BC%EB%93%A4%EB%A0%88%EB%8A%94-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아침부터 밤까지]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%b9%a8%eb%b6%80%ed%84%b0-%eb%b0%a4%ea%b9%8c%ec%a7%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%b9%a8%eb%b6%80%ed%84%b0-%eb%b0%a4%ea%b9%8c%ec%a7%80/</guid>
-            <pubDate>Tue, 02 Apr 2024 06:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[클로젯 (CLOSET)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%81%B4%EB%A1%9C%EC%A0%AF-CLOSET_%EC%95%84%EC%B9%A8%EB%B6%80%ED%84%B0-%EB%B0%A4%EA%B9%8C%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Enchanted PULSE]]></title>
             <link>http://mirrorballmusic.co.kr/albums/enchanted-pulse/</link>
             <guid>http://mirrorballmusic.co.kr/albums/enchanted-pulse/</guid>
             <pubDate>Tue, 02 Apr 2024 06:19:07 GMT</pubDate>
             <content:encoded><![CDATA[WIREPULLER]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WIREPULLER_Enchanted-PULSE-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아침부터 밤까지]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%b9%a8%eb%b6%80%ed%84%b0-%eb%b0%a4%ea%b9%8c%ec%a7%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%b9%a8%eb%b6%80%ed%84%b0-%eb%b0%a4%ea%b9%8c%ec%a7%80/</guid>
+            <pubDate>Tue, 02 Apr 2024 06:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[클로젯 (CLOSET)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%81%B4%EB%A1%9C%EC%A0%AF-CLOSET_%EC%95%84%EC%B9%A8%EB%B6%80%ED%84%B0-%EB%B0%A4%EA%B9%8C%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sway]]></title>
