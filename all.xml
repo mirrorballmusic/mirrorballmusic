@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 02:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 03:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1/4 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/1-4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/1-4/</guid>
+            <pubDate>Sat, 13 Apr 2024 03:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[이지희]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A7%80%ED%9D%AC_1-4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비명 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b9%84%eb%aa%85/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 Apr 2024 07:14:05 GMT</pubDate>
             <content:encoded><![CDATA[Fuzzy Pug (퍼지퍼그)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fuzzy-Pug-%ED%8D%BC%EC%A7%80%ED%8D%BC%EA%B7%B8_Give-and-Take-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자오선 (Meridian) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%90%ec%98%a4%ec%84%a0-meridian/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%90%ec%98%a4%ec%84%a0-meridian/</guid>
-            <pubDate>Thu, 04 Apr 2024 07:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[모서리]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AA%A8%EC%84%9C%EB%A6%AC_%EC%9E%90%EC%98%A4%EC%84%A0-Meridian-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.265 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
