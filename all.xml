@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 01:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 03:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kiss & Hug (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/kiss-hug/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/kiss-hug/</guid>
+            <pubDate>Sun, 14 Apr 2024 03:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[고니밴드 (GonyBand)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/GonyBand_kisshug_Albumcover-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1/4 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/1-4/</link>
@@ -200,20 +208,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B7%B0%EB%A0%9B_Wild-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이상애정변론 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%83%81%ec%95%a0%ec%a0%95%eb%b3%80%eb%a1%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%83%81%ec%95%a0%ec%a0%95%eb%b3%80%eb%a1%a0/</guid>
-            <pubDate>Fri, 05 Apr 2024 05:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[양쿠 (YANGKU)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%91%EC%BF%A0-YANGKU_%EC%9D%B4%EC%83%81%EC%95%A0%EC%A0%95%EB%B3%80%EB%A1%A0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Goodnight (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/goodnight/</link>
             <guid>http://mirrorballmusic.co.kr/albums/goodnight/</guid>
             <pubDate>Fri, 05 Apr 2024 05:13:48 GMT</pubDate>
             <content:encoded><![CDATA[쥬스러버 (Juicelover)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A5%AC%EC%8A%A4%EB%9F%AC%EB%B2%84-Juicelover_Goodnight-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상애정변론 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%83%81%ec%95%a0%ec%a0%95%eb%b3%80%eb%a1%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%83%81%ec%95%a0%ec%a0%95%eb%b3%80%eb%a1%a0/</guid>
+            <pubDate>Fri, 05 Apr 2024 05:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[양쿠 (YANGKU)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%91%EC%BF%A0-YANGKU_%EC%9D%B4%EC%83%81%EC%95%A0%EC%A0%95%EB%B3%80%EB%A1%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부암동 (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 Apr 2024 07:14:05 GMT</pubDate>
             <content:encoded><![CDATA[YFY]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_YFY_%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9B%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Give and Take (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/give-and-take/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/give-and-take/</guid>
-            <pubDate>Thu, 04 Apr 2024 07:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[Fuzzy Pug (퍼지퍼그)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fuzzy-Pug-%ED%8D%BC%EC%A7%80%ED%8D%BC%EA%B7%B8_Give-and-Take-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.265 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
