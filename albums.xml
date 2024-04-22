@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 02:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 03:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Burnout]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/burnout/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/burnout/</guid>
+            <pubDate>Mon, 22 Apr 2024 03:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[니들스 (The Needles)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%88%EB%93%A4%EC%8A%A4-The-Needles_Burnout-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[étoile]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/etoile/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/etoile/</guid>
+            <pubDate>Mon, 22 Apr 2024 03:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[ADYNE]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ADYNE_etoile-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정 때문에 (feat. 안재우)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%95-%eb%95%8c%eb%ac%b8%ec%97%90-feat-%ec%95%88%ec%9e%ac%ec%9a%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%95-%eb%95%8c%eb%ac%b8%ec%97%90-feat-%ec%95%88%ec%9e%ac%ec%9a%b0/</guid>
+            <pubDate>Mon, 22 Apr 2024 03:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[Bas Bao (바스바오)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EB%B0%94%EC%8A%A4%EB%B0%94%EC%98%A4_%EC%A0%95-%EB%95%8C%EB%AC%B8%EC%97%90-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이유 없음도 이유가 될까요]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%9c%a0-%ec%97%86%ec%9d%8c%eb%8f%84-%ec%9d%b4%ec%9c%a0%ea%b0%80-%eb%90%a0%ea%b9%8c%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%9c%a0-%ec%97%86%ec%9d%8c%eb%8f%84-%ec%9d%b4%ec%9c%a0%ea%b0%80-%eb%90%a0%ea%b9%8c%ec%9a%94/</guid>
+            <pubDate>Mon, 22 Apr 2024 03:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[그린던 (Green Dawn)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B7%B8%EB%A6%B0%EB%8D%98-Green-Dawn_%EC%9D%B4%EC%9C%A0-%EC%97%86%EC%9D%8C%EB%8F%84-%EC%9D%B4%EC%9C%A0%EA%B0%80-%EB%90%A0%EA%B9%8C%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nobody]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/nobody/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/nobody/</guid>
+            <pubDate>Mon, 22 Apr 2024 03:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[Alter]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Alter_Nobody-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Usually]]></title>
             <link>http://mirrorballmusic.co.kr/albums/usually/</link>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 12 Apr 2024 03:16:23 GMT</pubDate>
             <content:encoded><![CDATA[타루]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%A3%A8_%EB%B9%84%EB%AA%85-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Four Seasons Vol. 1]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/four-seasons-vol-1/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/four-seasons-vol-1/</guid>
-            <pubDate>Fri, 12 Apr 2024 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[김지훈재즈밴드]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%A7%80%ED%9B%88%EC%9E%AC%EC%A6%88%EB%B0%B4%EB%93%9C_Four-Seasons-Vol.-1-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Own Home]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/my-own-home/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/my-own-home/</guid>
-            <pubDate>Fri, 12 Apr 2024 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[이란]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%9E%80_My-Own-Home-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 밤]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b0%a4-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b0%a4-2/</guid>
-            <pubDate>Fri, 12 Apr 2024 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[Bebelune]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Bebelune_%EC%9A%B0%EB%A6%AC%EC%9D%98-%EB%B0%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 그리고 나]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%82%98/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%82%98/</guid>
-            <pubDate>Thu, 11 Apr 2024 09:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[오세웅 (OH SHE WOONG)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2017/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%84%B8%EC%9B%85-OH-SHE-WOONG_%EB%82%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%82%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Night Cry]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/night-cry/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/night-cry/</guid>
-            <pubDate>Thu, 11 Apr 2024 03:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[minko]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_minko_Night-Cry-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
