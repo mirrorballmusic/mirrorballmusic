@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 08:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 09:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gloomy melody]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/gloomy-melody/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/gloomy-melody/</guid>
+            <pubDate>Tue, 23 Apr 2024 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[와인루프 (Wine Loop)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%99%80%EC%9D%B8%EB%A3%A8%ED%94%84-Wine-Loop_Gloomy-melody-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rockabilly Time]]></title>
             <link>http://mirrorballmusic.co.kr/albums/rockabilly-time/</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 15 Apr 2024 03:49:31 GMT</pubDate>
             <content:encoded><![CDATA[Jury]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jury_%EB%82%A8%EC%95%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Circle]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/love-circle/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/love-circle/</guid>
-            <pubDate>Mon, 15 Apr 2024 03:49:31 GMT</pubDate>
-            <content:encoded><![CDATA[Scon]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Scon_Love-Circle-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
