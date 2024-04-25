@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 02:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 03:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버르장머리 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b2%84%eb%a5%b4%ec%9e%a5%eb%a8%b8%eb%a6%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b2%84%eb%a5%b4%ec%9e%a5%eb%a8%b8%eb%a6%ac/</guid>
+            <pubDate>Thu, 25 Apr 2024 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[타미즈 (Tamiz)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%AF%B8%EC%A6%88-Tamiz_%EB%B2%84%EB%A5%B4%EC%9E%A5%EB%A8%B8%EB%A6%AC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is This Love? (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/is-this-love/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/is-this-love/</guid>
+            <pubDate>Thu, 25 Apr 2024 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[에설 (ESIR)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%90%EC%84%A4-ESIR_Is-This-Love-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아빠 뭐해요 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%eb%b9%a0-%eb%ad%90%ed%95%b4%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%eb%b9%a0-%eb%ad%90%ed%95%b4%ec%9a%94/</guid>
+            <pubDate>Thu, 25 Apr 2024 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[박재용]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%9E%AC%EC%9A%A9_%EC%95%84%EB%B9%A0-%EB%AD%90%ED%95%B4%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어스름 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%96%b4%ec%8a%a4%eb%a6%84-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%96%b4%ec%8a%a4%eb%a6%84-2/</guid>
+            <pubDate>Thu, 25 Apr 2024 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[Elliot (엘리엇)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Elliot-%EC%97%98%EB%A6%AC%EC%97%87_%EC%96%B4%EC%8A%A4%EB%A6%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자기야 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9e%90%ea%b8%b0%ec%95%bc/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 17 Apr 2024 03:15:10 GMT</pubDate>
             <content:encoded><![CDATA[RockGyo]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/HERE_%EC%99%84_%EC%8A%A4%EB%AA%A8%EA%B7%B8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자화상 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%90%ed%99%94%ec%83%81/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%90%ed%99%94%ec%83%81/</guid>
-            <pubDate>Wed, 17 Apr 2024 03:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[이성지]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%84%B1%EC%A7%80_%EC%9E%90%ED%99%94%EC%83%81-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lost (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/lost-5/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/lost-5/</guid>
-            <pubDate>Wed, 17 Apr 2024 03:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[0 Social Campus]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_0-Social-Campus_Lost-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작은 숲, 나의 정원 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%91%ec%9d%80-%ec%88%b2-%eb%82%98%ec%9d%98-%ec%a0%95%ec%9b%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%91%ec%9d%80-%ec%88%b2-%eb%82%98%ec%9d%98-%ec%a0%95%ec%9b%90/</guid>
-            <pubDate>Tue, 16 Apr 2024 03:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[김꽃]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EA%BD%83_%EC%9E%91%EC%9D%80-%EC%88%B2-%EB%82%98%EC%9D%98-%EC%A0%95%EC%9B%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 머무른 곳 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%a8%b8%eb%ac%b4%eb%a5%b8-%ea%b3%b3/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%a8%b8%eb%ac%b4%eb%a5%b8-%ea%b3%b3/</guid>
-            <pubDate>Tue, 16 Apr 2024 03:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[녹]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B9_%EC%9A%B0%EB%A6%AC%EA%B0%80-%EB%A8%B8%EB%AC%B4%EB%A5%B8-%EA%B3%B3-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.266 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
