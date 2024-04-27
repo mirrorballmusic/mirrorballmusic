@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Apr 2024 08:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 09:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남겨진 사람들이 겪을 고통 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%a8%ea%b2%a8%ec%a7%84-%ec%82%ac%eb%9e%8c%eb%93%a4%ec%9d%b4-%ea%b2%aa%ec%9d%84-%ea%b3%a0%ed%86%b5/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%a8%ea%b2%a8%ec%a7%84-%ec%82%ac%eb%9e%8c%eb%93%a4%ec%9d%b4-%ea%b2%aa%ec%9d%84-%ea%b3%a0%ed%86%b5/</guid>
+            <pubDate>Sat, 27 Apr 2024 09:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[강민수 (AQUINAS)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EB%AF%BC%EC%88%98-AQUINAS_%EB%82%A8%EA%B2%A8%EC%A7%84-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EA%B2%AA%EC%9D%84-%EA%B3%A0%ED%86%B5-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보통의 용기 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b3%b4%ed%86%b5%ec%9d%98-%ec%9a%a9%ea%b8%b0/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Apr 2024 09:15:26 GMT</pubDate>
             <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_WYD-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dear Mozart (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/dear-mozart/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/dear-mozart/</guid>
-            <pubDate>Thu, 18 Apr 2024 03:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[신현필 &amp; 고희안]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%ED%98%84%ED%95%84-%EA%B3%A0%ED%9D%AC%EC%95%88_Dear-Mozart-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.266 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
