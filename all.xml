@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 02:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 03:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[wave (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/wave-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/wave-3/</guid>
+            <pubDate>Mon, 29 Apr 2024 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[KIMI]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_KIMI_wave-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[INFINITE (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/infinite/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/infinite/</guid>
+            <pubDate>Mon, 29 Apr 2024 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[Orange Fang Fang Boys (오렌지 팡팡 보이즈)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Orange-Fang-Fang-Boys-%EC%98%A4%EB%A0%8C%EC%A7%80-%ED%8C%A1%ED%8C%A1-%EB%B3%B4%EC%9D%B4%EC%A6%88_INFINITE-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[평안 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%8f%89%ec%95%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%8f%89%ec%95%88/</guid>
+            <pubDate>Mon, 29 Apr 2024 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[mermerme (멀멀미)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_mermerme-%EB%A9%80%EB%A9%80%EB%AF%B8_%ED%8F%89%EC%95%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파도 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%eb%8f%84-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%eb%8f%84-2/</guid>
+            <pubDate>Mon, 29 Apr 2024 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[10분전X이형진]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_10%EB%B6%84%EC%A0%84X%EC%9D%B4%ED%98%95%EC%A7%84_%ED%8C%8C%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mint Green (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/mint-green/</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 20 Apr 2024 03:16:50 GMT</pubDate>
             <content:encoded><![CDATA[sucozy]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_sucozy_I-Didnt-Like-The-Way-I-Do-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Knock (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/knock/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/knock/</guid>
-            <pubDate>Fri, 19 Apr 2024 03:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[더 보울스 (The Bowls)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8D%94-%EB%B3%B4%EC%9A%B8%EC%8A%A4-The-Bowls_Knock-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Just Do It (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/just-do-it/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/just-do-it/</guid>
-            <pubDate>Fri, 19 Apr 2024 03:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[Red C]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Red-C_Just-Do-It-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[River City (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/river-city/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/river-city/</guid>
-            <pubDate>Fri, 19 Apr 2024 03:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[River City]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_River-City_River-City-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위로 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9c%84%eb%a1%9c-3/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9c%84%eb%a1%9c-3/</guid>
-            <pubDate>Fri, 19 Apr 2024 03:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[요정]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%EC%9C%84%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.266 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
