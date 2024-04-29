@@ -4,17 +4,9 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 04:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 05:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[wave]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/wave-3/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/wave-3/</guid>
-            <pubDate>Mon, 29 Apr 2024 04:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[KIMI]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_KIMI_wave-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[INFINITE]]></title>
             <link>http://mirrorballmusic.co.kr/albums/infinite/</link>
@@ -22,6 +14,14 @@
             <pubDate>Mon, 29 Apr 2024 04:17:55 GMT</pubDate>
             <content:encoded><![CDATA[Orange Fang Fang Boys (오렌지 팡팡 보이즈)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Orange-Fang-Fang-Boys-%EC%98%A4%EB%A0%8C%EC%A7%80-%ED%8C%A1%ED%8C%A1-%EB%B3%B4%EC%9D%B4%EC%A6%88_INFINITE-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[wave]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/wave-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/wave-3/</guid>
+            <pubDate>Mon, 29 Apr 2024 04:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[KIMI]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_KIMI_wave-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[평안]]></title>
@@ -70,6 +70,14 @@
             <pubDate>Fri, 26 Apr 2024 03:17:01 GMT</pubDate>
             <content:encoded><![CDATA[0do]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_0do_welcome-to-my-house-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그대 힘든가요]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8c%80-%ed%9e%98%eb%93%a0%ea%b0%80%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8c%80-%ed%9e%98%eb%93%a0%ea%b0%80%ec%9a%94/</guid>
+            <pubDate>Mon, 29 Apr 2024 05:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[백광흠]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EA%B4%91%ED%9D%A0_%EA%B7%B8%EB%8C%80-%ED%9E%98%EB%93%A0%EA%B0%80%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ONCE MORE]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 21 Apr 2024 03:15:06 GMT</pubDate>
             <content:encoded><![CDATA[I-Rohm (아이롬)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_I-Rohm-%EC%95%84%EC%9D%B4%EB%A1%AC_Usually-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Didn’t Like The Way I Do]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-didnt-like-the-way-i-do/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-didnt-like-the-way-i-do/</guid>
-            <pubDate>Sat, 20 Apr 2024 03:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[sucozy]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_sucozy_I-Didnt-Like-The-Way-I-Do-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
