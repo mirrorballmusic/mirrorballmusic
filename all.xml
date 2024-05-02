@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 02:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 03:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살아서 슬퍼야지, 그렇게 선명히 너를 사랑해야지 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%b4%ec%95%84%ec%84%9c-%ec%8a%ac%ed%8d%bc%ec%95%bc%ec%a7%80-%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%84%a0%eb%aa%85%ed%9e%88-%eb%84%88%eb%a5%bc-%ec%82%ac%eb%9e%91%ed%95%b4%ec%95%bc%ec%a7%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%b4%ec%95%84%ec%84%9c-%ec%8a%ac%ed%8d%bc%ec%95%bc%ec%a7%80-%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%84%a0%eb%aa%85%ed%9e%88-%eb%84%88%eb%a5%bc-%ec%82%ac%eb%9e%91%ed%95%b4%ec%95%bc%ec%a7%80/</guid>
+            <pubDate>Thu, 02 May 2024 03:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[김현창]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%ED%98%84%EC%B0%BD_%EC%82%B4%EC%95%84%EC%84%9C-%EC%8A%AC%ED%8D%BC%EC%95%BC%EC%A7%80-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%84%A0%EB%AA%85%ED%9E%88-%EB%84%88%EB%A5%BC-%EC%82%AC%EB%9E%91%ED%95%B4%EC%95%BC%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rocket (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/rocket/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/rocket/</guid>
+            <pubDate>Thu, 02 May 2024 03:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[머빈]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A8%B8%EB%B9%88_Rocket-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dry Flower (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/dry-flower-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/dry-flower-2/</guid>
+            <pubDate>Thu, 02 May 2024 03:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[희주]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9D%AC%EC%A3%BC_Dry-Flower-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지은 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%80%ec%9d%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%80%ec%9d%80/</guid>
+            <pubDate>Thu, 02 May 2024 03:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[조현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%ED%98%84_%EC%A7%80%EC%9D%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호텔 미카사 (feat. 일리온) (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%98%b8%ed%85%94-%eb%af%b8%ec%b9%b4%ec%82%ac-feat-%ec%9d%bc%eb%a6%ac%ec%98%a8/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 24 Apr 2024 03:17:11 GMT</pubDate>
             <content:encoded><![CDATA[가끔 프로젝트]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%80%EB%81%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_dont-disturb-the-clouds-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그래도 우리는 사랑을 하자 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9e%98%eb%8f%84-%ec%9a%b0%eb%a6%ac%eb%8a%94-%ec%82%ac%eb%9e%91%ec%9d%84-%ed%95%98%ec%9e%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9e%98%eb%8f%84-%ec%9a%b0%eb%a6%ac%eb%8a%94-%ec%82%ac%eb%9e%91%ec%9d%84-%ed%95%98%ec%9e%90/</guid>
-            <pubDate>Wed, 24 Apr 2024 03:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[찌니 (ZZINI)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B0%8C%EB%8B%88-ZZINI_%EA%B7%B8%EB%9E%98%EB%8F%84-%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%82%AC%EB%9E%91%EC%9D%84-%ED%95%98%EC%9E%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gloomy melody (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/gloomy-melody/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/gloomy-melody/</guid>
-            <pubDate>Tue, 23 Apr 2024 09:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[와인루프 (Wine Loop)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%99%80%EC%9D%B8%EB%A3%A8%ED%94%84-Wine-Loop_Gloomy-melody-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rockabilly Time (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/rockabilly-time/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/rockabilly-time/</guid>
-            <pubDate>Tue, 23 Apr 2024 03:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[스트릿건즈]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/COVER-Streetguns_RockabillyTime-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부릉부릉 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%80%eb%a6%89%eb%b6%80%eb%a6%89/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%80%eb%a6%89%eb%b6%80%eb%a6%89/</guid>
-            <pubDate>Tue, 23 Apr 2024 03:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[다시한번말하자면 (HAINA MAIKA PUANA)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%A4%EC%8B%9C%ED%95%9C%EB%B2%88%EB%A7%90%ED%95%98%EC%9E%90%EB%A9%B4_%EB%B6%80%EB%A6%89%EB%B6%80%EB%A6%89-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.267 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
