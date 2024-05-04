@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 02:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 03:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그게 이상한가요?]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%ea%b2%8c-%ec%9d%b4%ec%83%81%ed%95%9c%ea%b0%80%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%ea%b2%8c-%ec%9d%b4%ec%83%81%ed%95%9c%ea%b0%80%ec%9a%94/</guid>
+            <pubDate>Sat, 04 May 2024 03:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[안희수]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%ED%9D%AC%EC%88%98_%EA%B7%B8%EA%B2%8C-%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[널 좋아하나 봄]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%84%90-%ec%a2%8b%ec%95%84%ed%95%98%eb%82%98-%eb%b4%84/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Apr 2024 03:15:55 GMT</pubDate>
             <content:encoded><![CDATA[타미즈 (Tamiz)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%AF%B8%EC%A6%88-Tamiz_%EB%B2%84%EB%A5%B4%EC%9E%A5%EB%A8%B8%EB%A6%AC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is This Love?]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/is-this-love/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/is-this-love/</guid>
-            <pubDate>Thu, 25 Apr 2024 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[에설 (ESIR)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%90%EC%84%A4-ESIR_Is-This-Love-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
