@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 02:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 03:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[들어볼래 (My Wish) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%93%a4%ec%96%b4%eb%b3%bc%eb%9e%98-my-wish/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%93%a4%ec%96%b4%eb%b3%bc%eb%9e%98-my-wish/</guid>
+            <pubDate>Sun, 05 May 2024 03:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[허니애플]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%EB%8B%88%EC%95%A0%ED%94%8C_%EB%93%A4%EC%96%B4%EB%B3%BC%EB%9E%98-My-Wish-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그게 이상한가요? (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%ea%b2%8c-%ec%9d%b4%ec%83%81%ed%95%9c%ea%b0%80%ec%9a%94/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 Apr 2024 03:17:01 GMT</pubDate>
             <content:encoded><![CDATA[민주희]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AF%BC%EC%A3%BC%ED%9D%AC_%EB%B6%80%EC%84%9C%EC%A0%B8%EB%9D%BC-%EC%82%AC%EB%9E%91%ED%96%88%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버르장머리 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b2%84%eb%a5%b4%ec%9e%a5%eb%a8%b8%eb%a6%ac/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b2%84%eb%a5%b4%ec%9e%a5%eb%a8%b8%eb%a6%ac/</guid>
-            <pubDate>Thu, 25 Apr 2024 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[타미즈 (Tamiz)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%AF%B8%EC%A6%88-Tamiz_%EB%B2%84%EB%A5%B4%EC%9E%A5%EB%A8%B8%EB%A6%AC-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.267 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
