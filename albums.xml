@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 02:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 03:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좋아해 (I like you) (feat. kenessi)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%95%84%ed%95%b4-i-like-you-feat-kenessi/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%95%84%ed%95%b4-i-like-you-feat-kenessi/</guid>
+            <pubDate>Mon, 06 May 2024 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[Dizzy Blue]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Dizzy-Blue_%EC%A2%8B%EC%95%84%ED%95%B4-I-like-you-feat.-kenessi-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[들어볼래 (My Wish)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%93%a4%ec%96%b4%eb%b3%bc%eb%9e%98-my-wish/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 Apr 2024 03:17:01 GMT</pubDate>
             <content:encoded><![CDATA[WE:IN]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WEIN_Two-Money-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부서져라 사랑했지]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%80%ec%84%9c%ec%a0%b8%eb%9d%bc-%ec%82%ac%eb%9e%91%ed%96%88%ec%a7%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%80%ec%84%9c%ec%a0%b8%eb%9d%bc-%ec%82%ac%eb%9e%91%ed%96%88%ec%a7%80/</guid>
-            <pubDate>Fri, 26 Apr 2024 03:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[민주희]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AF%BC%EC%A3%BC%ED%9D%AC_%EB%B6%80%EC%84%9C%EC%A0%B8%EB%9D%BC-%EC%82%AC%EB%9E%91%ED%96%88%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
