@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 06:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 07:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_YFY_422-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리 사랑하자]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ec%82%ac%eb%9e%91%ed%95%98%ec%9e%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ec%82%ac%eb%9e%91%ed%95%98%ec%9e%90/</guid>
-            <pubDate>Fri, 03 May 2024 03:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[온도]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A8%EB%8F%84_%EC%9A%B0%EB%A6%AC-%EC%82%AC%EB%9E%91%ED%95%98%EC%9E%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하루 이틀도 아닌데 뭐]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%95%98%eb%a3%a8-%ec%9d%b4%ed%8b%80%eb%8f%84-%ec%95%84%eb%8b%8c%eb%8d%b0-%eb%ad%90/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%ed%95%98%eb%a3%a8-%ec%9d%b4%ed%8b%80%eb%8f%84-%ec%95%84%eb%8b%8c%eb%8d%b0-%eb%ad%90/</guid>
             <pubDate>Fri, 03 May 2024 03:18:07 GMT</pubDate>
             <content:encoded><![CDATA[랑잇 (Langit)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9E%91%EC%9E%87-Langit_%ED%95%98%EB%A3%A8-%EC%9D%B4%ED%8B%80%EB%8F%84-%EC%95%84%EB%8B%8C%EB%8D%B0-%EB%AD%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 사랑하자]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ec%82%ac%eb%9e%91%ed%95%98%ec%9e%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ec%82%ac%eb%9e%91%ed%95%98%ec%9e%90/</guid>
+            <pubDate>Fri, 03 May 2024 03:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[온도]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A8%EB%8F%84_%EC%9A%B0%EB%A6%AC-%EC%82%AC%EB%9E%91%ED%95%98%EC%9E%90-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[살아서 슬퍼야지, 그렇게 선명히 너를 사랑해야지]]></title>
