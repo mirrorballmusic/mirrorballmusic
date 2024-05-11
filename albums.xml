@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 May 2024 02:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 03:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sweet dream]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sweet-dream-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sweet-dream-2/</guid>
+            <pubDate>Sat, 11 May 2024 03:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[Muhwa (무화)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Muhwa-%EB%AC%B4%ED%99%94_Sweet-dream-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[괜찮아질 거예요]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b4%9c%ec%b0%ae%ec%95%84%ec%a7%88-%ea%b1%b0%ec%98%88%ec%9a%94/</link>
@@ -144,20 +152,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%84%B0%EC%8A%A4_I-Wanna-Dance-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Falling In Love]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/falling-in-love/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/falling-in-love/</guid>
-            <pubDate>Tue, 07 May 2024 03:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[Jury]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jury_Falling-In-Love-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Reason]]></title>
             <link>http://mirrorballmusic.co.kr/albums/reason/</link>
             <guid>http://mirrorballmusic.co.kr/albums/reason/</guid>
             <pubDate>Tue, 07 May 2024 03:17:48 GMT</pubDate>
             <content:encoded><![CDATA[동건]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8F%99%EA%B1%B4_Reason-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Falling In Love]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/falling-in-love/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/falling-in-love/</guid>
+            <pubDate>Tue, 07 May 2024 03:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[Jury]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jury_Falling-In-Love-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[좋아해 (I like you) (feat. kenessi)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 May 2024 03:16:23 GMT</pubDate>
             <content:encoded><![CDATA[머빈]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A8%B8%EB%B9%88_Rocket-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dry Flower]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/dry-flower-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/dry-flower-2/</guid>
-            <pubDate>Thu, 02 May 2024 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[희주]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9D%AC%EC%A3%BC_Dry-Flower-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
