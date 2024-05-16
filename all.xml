@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 04:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 05:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Thu, 16 May 2024 03:18:46 GMT</pubDate>
             <content:encoded><![CDATA[손진욱]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%90%EC%A7%84%EC%9A%B1_%EC%83%81%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[我不是猫 (I’m Not A Cat) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%e6%88%91%e4%b8%8d%e6%98%af%e7%8c%ab-im-not-a-cat/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%e6%88%91%e4%b8%8d%e6%98%af%e7%8c%ab-im-not-a-cat/</guid>
+            <pubDate>Thu, 16 May 2024 05:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[Kawasxmi]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kawasxmi_%E6%88%91%E4%B8%8D%E6%98%AF%E7%8C%AB-Im-Not-A-Cat-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창문 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b0%bd%eb%ac%b8/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b0%bd%eb%ac%b8/</guid>
+            <pubDate>Thu, 16 May 2024 05:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[강산]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EC%82%B0_%EC%B0%BD%EB%AC%B8-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[책 (Book) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b1%85-book/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b1%85-book/</guid>
+            <pubDate>Thu, 16 May 2024 05:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[포에타 (Poeta)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8F%AC%EC%97%90%ED%83%80-Poeta_%EC%B1%85-Book-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ONE SHOT (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/one-shot/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/one-shot/</guid>
+            <pubDate>Thu, 16 May 2024 05:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[세이트(CEIGHT)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%B8%EC%9D%B4%ED%8A%B8CEIGHT_ONE-SHOT-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Matrix (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 08 May 2024 05:14:36 GMT</pubDate>
             <content:encoded><![CDATA[Gu is 9, Skinny Chase, 제임스 키스 (James Keys)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Gu-is-9-Skinny-Chase-James-Keys_Keep-It-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이었나 물으시면 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%b4%ec%97%88%eb%82%98-%eb%ac%bc%ec%9c%bc%ec%8b%9c%eb%a9%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%b4%ec%97%88%eb%82%98-%eb%ac%bc%ec%9c%bc%ec%8b%9c%eb%a9%b4/</guid>
-            <pubDate>Wed, 08 May 2024 05:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[서화]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%ED%99%94_%EC%82%AC%EB%9E%91%EC%9D%B4%EC%97%88%EB%82%98-%EB%AC%BC%EC%9C%BC%EC%8B%9C%EB%A9%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CINEMA (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/cinema/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/cinema/</guid>
-            <pubDate>Tue, 07 May 2024 03:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[찬민 (CHANMIN)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B0%AC%EB%AF%BC-CHANMIN_CINEMA-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Relay Stroy #1 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/relay-stroy-1/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/relay-stroy-1/</guid>
-            <pubDate>Tue, 07 May 2024 03:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[류준영(Zun)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A5%98%EC%A4%80%EC%98%81-Zun_Relay-Stroy-1-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Wanna Dance (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-wanna-dance/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-wanna-dance/</guid>
-            <pubDate>Tue, 07 May 2024 03:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[스트레이터스]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%84%B0%EC%8A%A4_I-Wanna-Dance-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.268 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
