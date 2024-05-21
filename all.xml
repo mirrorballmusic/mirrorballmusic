@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 02:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 03:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑의 형태 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%98-%ed%98%95%ed%83%9c-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%98-%ed%98%95%ed%83%9c-2/</guid>
+            <pubDate>Tue, 21 May 2024 03:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[n@di (나디)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_n@di-%EB%82%98%EB%94%94_%EC%82%AC%EB%9E%91%EC%9D%98-%ED%98%95%ED%83%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[THE ROCKER (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/the-rocker/</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 May 2024 03:17:02 GMT</pubDate>
             <content:encoded><![CDATA[Muhwa (무화)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Muhwa-%EB%AC%B4%ED%99%94_Sweet-dream-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괜찮아질 거예요 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b4%9c%ec%b0%ae%ec%95%84%ec%a7%88-%ea%b1%b0%ec%98%88%ec%9a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b4%9c%ec%b0%ae%ec%95%84%ec%a7%88-%ea%b1%b0%ec%98%88%ec%9a%94/</guid>
-            <pubDate>Fri, 10 May 2024 03:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[정가이 (와인루프)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EA%B0%80%EC%9D%B4-%EC%99%80%EC%9D%B8%EB%A3%A8%ED%94%84_%EA%B4%9C%EC%B0%AE%EC%95%84%EC%A7%88-%EA%B1%B0%EC%98%88%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.268 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
