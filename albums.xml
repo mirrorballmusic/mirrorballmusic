@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 08:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 09:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[None]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/none/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/none/</guid>
+            <pubDate>Wed, 22 May 2024 09:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[허회경]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/themes/mirrorballmusic/img/image-not-found.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[매미 불꽃 얼음 사이렌 탄산 지저귐 천둥]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%a7%a4%eb%af%b8-%eb%b6%88%ea%bd%83-%ec%96%bc%ec%9d%8c-%ec%82%ac%ec%9d%b4%eb%a0%8c-%ed%83%84%ec%82%b0-%ec%a7%80%ec%a0%80%ea%b7%90-%ec%b2%9c%eb%91%a5/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 May 2024 04:17:57 GMT</pubDate>
             <content:encoded><![CDATA[김유난]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%9C%A0%EB%82%9C_%EA%B9%8A%EC%9D%80-%EC%9E%A0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐이라도 반짝이는 걸 봤어]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%a0%ea%b9%90%ec%9d%b4%eb%9d%bc%eb%8f%84-%eb%b0%98%ec%a7%9d%ec%9d%b4%eb%8a%94-%ea%b1%b8-%eb%b4%a4%ec%96%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%a0%ea%b9%90%ec%9d%b4%eb%9d%bc%eb%8f%84-%eb%b0%98%ec%a7%9d%ec%9d%b4%eb%8a%94-%ea%b1%b8-%eb%b4%a4%ec%96%b4/</guid>
-            <pubDate>Tue, 14 May 2024 04:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[코히 (Cohie)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%BD%94%ED%9E%88-Cohie_%EC%9E%A0%EA%B9%90%EC%9D%B4%EB%9D%BC%EB%8F%84-%EB%B0%98%EC%A7%9D%EC%9D%B4%EB%8A%94-%EA%B1%B8-%EB%B4%A4%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
