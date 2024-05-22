@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 04:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 05:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매미 불꽃 얼음 사이렌 탄산 지저귐 천둥]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%a4%eb%af%b8-%eb%b6%88%ea%bd%83-%ec%96%bc%ec%9d%8c-%ec%82%ac%ec%9d%b4%eb%a0%8c-%ed%83%84%ec%82%b0-%ec%a7%80%ec%a0%80%ea%b7%90-%ec%b2%9c%eb%91%a5/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%a4%eb%af%b8-%eb%b6%88%ea%bd%83-%ec%96%bc%ec%9d%8c-%ec%82%ac%ec%9d%b4%eb%a0%8c-%ed%83%84%ec%82%b0-%ec%a7%80%ec%a0%80%ea%b7%90-%ec%b2%9c%eb%91%a5/</guid>
+            <pubDate>Wed, 22 May 2024 05:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[전자합성공단]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%84%EC%9E%90%ED%95%A9%EC%84%B1%EA%B3%B5%EB%8B%A8_%EB%A7%A4%EB%AF%B8-%EB%B6%88%EA%BD%83-%EC%96%BC%EC%9D%8C-%EC%82%AC%EC%9D%B4%EB%A0%8C-%ED%83%84%EC%82%B0-%EC%A7%80%EC%A0%80%EA%B7%90-%EC%B2%9C%EB%91%A5-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gravity]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/gravity-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/gravity-2/</guid>
+            <pubDate>Wed, 22 May 2024 05:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[쥬드]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A5%AC%EB%93%9C_Gravity-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[번역기 (PAPAGO)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b2%88%ec%97%ad%ea%b8%b0-papago/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b2%88%ec%97%ad%ea%b8%b0-papago/</guid>
+            <pubDate>Wed, 22 May 2024 05:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[한상우]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EC%83%81%EC%9A%B0_%EB%B2%88%EC%97%AD%EA%B8%B0-PAPAGO-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉별기]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%89%eb%b3%84%ea%b8%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%89%eb%b3%84%ea%b8%b0/</guid>
+            <pubDate>Wed, 22 May 2024 05:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[영록]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%81%EB%A1%9D_%EB%B4%89%EB%B3%84%EA%B8%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑의 형태]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%98-%ed%98%95%ed%83%9c-2/</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 14 May 2024 04:17:57 GMT</pubDate>
             <content:encoded><![CDATA[코히 (Cohie)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%BD%94%ED%9E%88-Cohie_%EC%9E%A0%EA%B9%90%EC%9D%B4%EB%9D%BC%EB%8F%84-%EB%B0%98%EC%A7%9D%EC%9D%B4%EB%8A%94-%EA%B1%B8-%EB%B4%A4%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[For 2000 Ad (ver. 2024)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/for-2000-ad-ver-2024/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/for-2000-ad-ver-2024/</guid>
-            <pubDate>Mon, 13 May 2024 03:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[김경호]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EA%B2%BD%ED%98%B8_For-2000-Ad-ver.-2024-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oriental haze]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/oriental-haze/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/oriental-haze/</guid>
-            <pubDate>Mon, 13 May 2024 03:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[Animal Divers]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Animal-Divers_Oriental-haze-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mmlang]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/mmlang/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/mmlang/</guid>
-            <pubDate>Mon, 13 May 2024 03:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[Eumfy]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Eumfy_Mmlang-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Orbit]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/orbit/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/orbit/</guid>
-            <pubDate>Mon, 13 May 2024 03:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[와우신호]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%99%80%EC%9A%B0%EC%8B%A0%ED%98%B8_Orbit-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
