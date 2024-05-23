@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 02:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 03:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오월의 시 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%ec%9b%94%ec%9d%98-%ec%8b%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%ec%9b%94%ec%9d%98-%ec%8b%9c/</guid>
+            <pubDate>Thu, 23 May 2024 03:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[박창근]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B0%BD%EA%B7%BC_%EC%98%A4%EC%9B%94%EC%9D%98-%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[None (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/none/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 May 2024 04:17:57 GMT</pubDate>
             <content:encoded><![CDATA[Phantom Lunatics (팬텀 루나틱스)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Phantom-Lunatics-%ED%8C%AC%ED%85%80-%EB%A3%A8%EB%82%98%ED%8B%B1%EC%8A%A4_Downfall-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깊은 잠 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b9%8a%ec%9d%80-%ec%9e%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b9%8a%ec%9d%80-%ec%9e%a0/</guid>
-            <pubDate>Tue, 14 May 2024 04:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[김유난]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%9C%A0%EB%82%9C_%EA%B9%8A%EC%9D%80-%EC%9E%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.268 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
