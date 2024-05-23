@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 04:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 05:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Thu, 23 May 2024 03:16:59 GMT</pubDate>
             <content:encoded><![CDATA[박창근]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B0%BD%EA%B7%BC_%EC%98%A4%EC%9B%94%EC%9D%98-%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elephant in a fridge]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/elephant-in-a-fridge/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/elephant-in-a-fridge/</guid>
+            <pubDate>Thu, 23 May 2024 05:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[Elephant in a fridge]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Elephant-in-a-fridge_Elephant-in-a-fridge-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[REPLICA]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/replica/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/replica/</guid>
+            <pubDate>Thu, 23 May 2024 05:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[NEW SILHOUETTE]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_NEW-SILHOUETTE_REPLICA-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄이 오려나]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%b4-%ec%98%a4%eb%a0%a4%eb%82%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%b4-%ec%98%a4%eb%a0%a4%eb%82%98/</guid>
+            <pubDate>Thu, 23 May 2024 05:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[노아윤]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%95%84%EC%9C%A4_%EB%B4%84%EC%9D%B4-%EC%98%A4%EB%A0%A4%EB%82%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추방]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b6%94%eb%b0%a9/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b6%94%eb%b0%a9/</guid>
+            <pubDate>Thu, 23 May 2024 05:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[Sean Yoo]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Sean-Yoo_%EC%B6%94%EB%B0%A9-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[None]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 16 May 2024 05:15:26 GMT</pubDate>
             <content:encoded><![CDATA[포에타 (Poeta)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8F%AC%EC%97%90%ED%83%80-Poeta_%EC%B1%85-Book-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONE SHOT]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/one-shot/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/one-shot/</guid>
-            <pubDate>Thu, 16 May 2024 05:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[세이트(CEIGHT)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%B8%EC%9D%B4%ED%8A%B8CEIGHT_ONE-SHOT-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Matrix]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/matrix/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/matrix/</guid>
-            <pubDate>Wed, 15 May 2024 03:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[HYUNIRANG (현이랑)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_HYUNIRANG-%ED%98%84%EC%9D%B4%EB%9E%91_Matrix-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흡연구역]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%9d%a1%ec%97%b0%ea%b5%ac%ec%97%ad/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%9d%a1%ec%97%b0%ea%b5%ac%ec%97%ad/</guid>
-            <pubDate>Tue, 14 May 2024 04:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[kumira]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kumira_%ED%9D%A1%EC%97%B0%EA%B5%AC%EC%97%AD-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Downfall]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/downfall/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/downfall/</guid>
-            <pubDate>Tue, 14 May 2024 04:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[Phantom Lunatics (팬텀 루나틱스)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Phantom-Lunatics-%ED%8C%AC%ED%85%80-%EB%A3%A8%EB%82%98%ED%8B%B1%EC%8A%A4_Downfall-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
