@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 23:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 01:06:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://mirrorballmusic.co.kr/albums/none/</guid>
             <pubDate>Wed, 22 May 2024 09:18:04 GMT</pubDate>
             <content:encoded><![CDATA[허회경]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/themes/mirrorballmusic/img/image-not-found.png" length="0" type="image/png"/>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%ED%9A%8C%EA%B2%BD_None-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매미 불꽃 얼음 사이렌 탄산 지저귐 천둥]]></title>
