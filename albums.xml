@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 04:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 05:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CYBERPUNK 1999]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/cyberpunk-1999/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/cyberpunk-1999/</guid>
+            <pubDate>Fri, 24 May 2024 05:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[뉴클리어 이디엇츠 (Nuclear Idiots)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%89%B4%ED%81%B4%EB%A6%AC%EC%96%B4-%EC%9D%B4%EB%94%94%EC%97%87%EC%B8%A0-Nuclear-Idiots_CYBERPUNK-1999-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너네 동네]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%84%a4-%eb%8f%99%eb%84%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%84%a4-%eb%8f%99%eb%84%a4/</guid>
+            <pubDate>Fri, 24 May 2024 05:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[나지현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%98%EC%A7%80%ED%98%84_%EB%84%88%EB%84%A4-%EB%8F%99%EB%84%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Make a wish]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/make-a-wish/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/make-a-wish/</guid>
+            <pubDate>Fri, 24 May 2024 05:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[섬머]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%AC%EB%A8%B8_Make-a-wish-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Like Salad]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/like-salad/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/like-salad/</guid>
+            <pubDate>Fri, 24 May 2024 05:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[MUa (무아)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_MUa-%EB%AC%B4%EC%95%84_Like-Salad-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seoul]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/seoul-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/seoul-2/</guid>
+            <pubDate>Fri, 24 May 2024 05:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[율리 (yoollee)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A8%EB%A6%AC-yoollee_Seoul-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오월의 시]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%ec%9b%94%ec%9d%98-%ec%8b%9c/</link>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 17 May 2024 03:19:08 GMT</pubDate>
             <content:encoded><![CDATA[윤여진]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A4%EC%97%AC%EC%A7%84_%EC%9D%B4-%EB%B0%A4%EC%9D%B4-%EA%B8%B8%EC%97%88%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inscrutable Sap]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/inscrutable-sap/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/inscrutable-sap/</guid>
-            <pubDate>Fri, 17 May 2024 03:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[Vegetable Wife]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Vegetable-Wife_Inscrutable-Sap-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상어 (傷鋙)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%83%81%ec%96%b4-%e5%82%b7%e9%8b%99/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%83%81%ec%96%b4-%e5%82%b7%e9%8b%99/</guid>
-            <pubDate>Thu, 16 May 2024 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[손진욱]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%90%EC%A7%84%EC%9A%B1_%EC%83%81%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[我不是猫 (I’m Not A Cat)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%e6%88%91%e4%b8%8d%e6%98%af%e7%8c%ab-im-not-a-cat/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%e6%88%91%e4%b8%8d%e6%98%af%e7%8c%ab-im-not-a-cat/</guid>
-            <pubDate>Thu, 16 May 2024 05:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[Kawasxmi]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kawasxmi_%E6%88%91%E4%B8%8D%E6%98%AF%E7%8C%AB-Im-Not-A-Cat-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창문]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b0%bd%eb%ac%b8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b0%bd%eb%ac%b8/</guid>
-            <pubDate>Thu, 16 May 2024 05:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[강산]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EC%82%B0_%EC%B0%BD%EB%AC%B8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책 (Book)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b1%85-book/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b1%85-book/</guid>
-            <pubDate>Thu, 16 May 2024 05:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[포에타 (Poeta)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8F%AC%EC%97%90%ED%83%80-Poeta_%EC%B1%85-Book-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
