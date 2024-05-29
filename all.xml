@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 02:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 03:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서투른 바람에 흩어진 채로 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%84%9c%ed%88%ac%eb%a5%b8-%eb%b0%94%eb%9e%8c%ec%97%90-%ed%9d%a9%ec%96%b4%ec%a7%84-%ec%b1%84%eb%a1%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%9c%ed%88%ac%eb%a5%b8-%eb%b0%94%eb%9e%8c%ec%97%90-%ed%9d%a9%ec%96%b4%ec%a7%84-%ec%b1%84%eb%a1%9c/</guid>
+            <pubDate>Wed, 29 May 2024 03:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[강이음]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EC%9D%B4%EC%9D%8C_%EC%84%9C%ED%88%AC%EB%A5%B8-%EB%B0%94%EB%9E%8C%EC%97%90-%ED%9D%A9%EC%96%B4%EC%A7%84-%EC%B1%84%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 개 (Me & My Dog) (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ea%b0%9c-me-my-dog/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 May 2024 05:15:34 GMT</pubDate>
             <content:encoded><![CDATA[닮은 (dalm_eun)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%AE%EC%9D%80-dalm_eun_%EC%9C%A0%EC%82%AC%EC%97%B0%EC%95%A0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙오 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%99%ec%98%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%99%ec%98%a4/</guid>
-            <pubDate>Tue, 21 May 2024 05:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[Like June]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Like-June_%EB%82%99%EC%98%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.268 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
