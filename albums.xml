@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 03:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 04:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이기적 유전자]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ea%b8%b0%ec%a0%81-%ec%9c%a0%ec%a0%84%ec%9e%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ea%b8%b0%ec%a0%81-%ec%9c%a0%ec%a0%84%ec%9e%90/</guid>
+            <pubDate>Wed, 29 May 2024 04:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[푸른선]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%91%B8%EB%A5%B8%EC%84%A0_%EC%9D%B4%EA%B8%B0%EC%A0%81-%EC%9C%A0%EC%A0%84%EC%9E%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서투른 바람에 흩어진 채로]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%84%9c%ed%88%ac%eb%a5%b8-%eb%b0%94%eb%9e%8c%ec%97%90-%ed%9d%a9%ec%96%b4%ec%a7%84-%ec%b1%84%eb%a1%9c/</link>
@@ -14,6 +22,30 @@
             <pubDate>Wed, 29 May 2024 03:17:46 GMT</pubDate>
             <content:encoded><![CDATA[강이음]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EC%9D%B4%EC%9D%8C_%EC%84%9C%ED%88%AC%EB%A5%B8-%EB%B0%94%EB%9E%8C%EC%97%90-%ED%9D%A9%EC%96%B4%EC%A7%84-%EC%B1%84%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 여기에 있어]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ec%97%ac%ea%b8%b0%ec%97%90-%ec%9e%88%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ec%97%ac%ea%b8%b0%ec%97%90-%ec%9e%88%ec%96%b4/</guid>
+            <pubDate>Wed, 29 May 2024 04:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[성하진]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%B1%ED%95%98%EC%A7%84_%EC%9A%B0%EB%A6%AC-%EC%97%AC%EA%B8%B0%EC%97%90-%EC%9E%88%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PTSD]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/ptsd/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/ptsd/</guid>
+            <pubDate>Wed, 29 May 2024 04:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[팬시 (FANXY)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8C%AC%EC%8B%9C-FANXY_PTSD-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GG]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/gg/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/gg/</guid>
+            <pubDate>Wed, 29 May 2024 04:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[WE:IN]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WEIN_GG-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리 개 (Me & My Dog)]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 22 May 2024 05:16:37 GMT</pubDate>
             <content:encoded><![CDATA[쥬드]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A5%AC%EB%93%9C_Gravity-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[번역기 (PAPAGO)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b2%88%ec%97%ad%ea%b8%b0-papago/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b2%88%ec%97%ad%ea%b8%b0-papago/</guid>
-            <pubDate>Wed, 22 May 2024 05:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[한상우]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EC%83%81%EC%9A%B0_%EB%B2%88%EC%97%AD%EA%B8%B0-PAPAGO-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봉별기]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%89%eb%b3%84%ea%b8%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%89%eb%b3%84%ea%b8%b0/</guid>
-            <pubDate>Wed, 22 May 2024 05:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[영록]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%81%EB%A1%9D_%EB%B4%89%EB%B3%84%EA%B8%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑의 형태]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%98-%ed%98%95%ed%83%9c-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%98-%ed%98%95%ed%83%9c-2/</guid>
-            <pubDate>Tue, 21 May 2024 03:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[n@di (나디)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_n@di-%EB%82%98%EB%94%94_%EC%82%AC%EB%9E%91%EC%9D%98-%ED%98%95%ED%83%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유사연애]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9c%a0%ec%82%ac%ec%97%b0%ec%95%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9c%a0%ec%82%ac%ec%97%b0%ec%95%a0/</guid>
-            <pubDate>Tue, 21 May 2024 05:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[닮은 (dalm_eun)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%AE%EC%9D%80-dalm_eun_%EC%9C%A0%EC%82%AC%EC%97%B0%EC%95%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
