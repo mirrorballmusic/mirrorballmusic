@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 04:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 05:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안단테]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%88%eb%8b%a8%ed%85%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%88%eb%8b%a8%ed%85%8c/</guid>
+            <pubDate>Thu, 30 May 2024 05:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[카디코기 (Kadi Korgi)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B9%B4%EB%94%94%EC%BD%94%EA%B8%B0-Kadi-Korgi_%EC%95%88%EB%8B%A8%ED%85%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%ac/</guid>
+            <pubDate>Thu, 30 May 2024 05:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[신수정]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EC%88%98%EC%A0%95_%EC%9E%AC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인사 개인 사정 개인적 서사]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b0%9c%ec%9d%b8%ec%82%ac-%ea%b0%9c%ec%9d%b8-%ec%82%ac%ec%a0%95-%ea%b0%9c%ec%9d%b8%ec%a0%81-%ec%84%9c%ec%82%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b0%9c%ec%9d%b8%ec%82%ac-%ea%b0%9c%ec%9d%b8-%ec%82%ac%ec%a0%95-%ea%b0%9c%ec%9d%b8%ec%a0%81-%ec%84%9c%ec%82%ac/</guid>
+            <pubDate>Thu, 30 May 2024 05:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[백성준 baek sungjun]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EC%84%B1%EC%A4%80-baek-sungjun_%EA%B0%9C%EC%9D%B8%EC%82%AC-%EA%B0%9C%EC%9D%B8-%EC%82%AC%EC%A0%95-%EA%B0%9C%EC%9D%B8%EC%A0%81-%EC%84%9C%EC%82%AC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이런 새벽 (2024 Ver.)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%9f%b0-%ec%83%88%eb%b2%bd-2024-ver/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%9f%b0-%ec%83%88%eb%b2%bd-2024-ver/</guid>
+            <pubDate>Thu, 30 May 2024 05:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[COVN]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_COVN_%EC%9D%B4%EB%9F%B0-%EC%83%88%EB%B2%BD-2024-Ver.-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ratel Pack]]></title>
             <link>http://mirrorballmusic.co.kr/albums/ratel-pack/</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 23 May 2024 05:17:35 GMT</pubDate>
             <content:encoded><![CDATA[NEW SILHOUETTE]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_NEW-SILHOUETTE_REPLICA-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄이 오려나]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%b4-%ec%98%a4%eb%a0%a4%eb%82%98/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9d%b4-%ec%98%a4%eb%a0%a4%eb%82%98/</guid>
-            <pubDate>Thu, 23 May 2024 05:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[노아윤]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%95%84%EC%9C%A4_%EB%B4%84%EC%9D%B4-%EC%98%A4%EB%A0%A4%EB%82%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추방]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b6%94%eb%b0%a9/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b6%94%eb%b0%a9/</guid>
-            <pubDate>Thu, 23 May 2024 05:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[Sean Yoo]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Sean-Yoo_%EC%B6%94%EB%B0%A9-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[None]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/none/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/none/</guid>
-            <pubDate>Wed, 22 May 2024 09:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[허회경]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%ED%9A%8C%EA%B2%BD_None-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매미 불꽃 얼음 사이렌 탄산 지저귐 천둥]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%a4%eb%af%b8-%eb%b6%88%ea%bd%83-%ec%96%bc%ec%9d%8c-%ec%82%ac%ec%9d%b4%eb%a0%8c-%ed%83%84%ec%82%b0-%ec%a7%80%ec%a0%80%ea%b7%90-%ec%b2%9c%eb%91%a5/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%a4%eb%af%b8-%eb%b6%88%ea%bd%83-%ec%96%bc%ec%9d%8c-%ec%82%ac%ec%9d%b4%eb%a0%8c-%ed%83%84%ec%82%b0-%ec%a7%80%ec%a0%80%ea%b7%90-%ec%b2%9c%eb%91%a5/</guid>
-            <pubDate>Wed, 22 May 2024 05:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[전자합성공단]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%84%EC%9E%90%ED%95%A9%EC%84%B1%EA%B3%B5%EB%8B%A8_%EB%A7%A4%EB%AF%B8-%EB%B6%88%EA%BD%83-%EC%96%BC%EC%9D%8C-%EC%82%AC%EC%9D%B4%EB%A0%8C-%ED%83%84%EC%82%B0-%EC%A7%80%EC%A0%80%EA%B7%90-%EC%B2%9C%EB%91%A5-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
