@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 04:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 05:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://mirrorballmusic.co.kr/albums/truth/</guid>
             <pubDate>Fri, 31 May 2024 04:19:54 GMT</pubDate>
             <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/themes/mirrorballmusic/img/image-not-found.png" length="0" type="image/png"/>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Truth-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마지막 그 순간을 떠올려]]></title>
@@ -22,6 +22,30 @@
             <pubDate>Fri, 31 May 2024 04:19:54 GMT</pubDate>
             <content:encoded><![CDATA[GERONIMO (제로니모)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_GERONIMO-%EC%A0%9C%EB%A1%9C%EB%8B%88%EB%AA%A8_%EB%A7%88%EC%A7%80%EB%A7%89-%EA%B7%B8%EC%88%9C%EA%B0%84%EC%9D%84-%EB%96%A0%EC%98%AC%EB%A0%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUN]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sun/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sun/</guid>
+            <pubDate>Fri, 31 May 2024 05:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[The Riff]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Riff_SUN-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조율]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a1%b0%ec%9c%a8/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a1%b0%ec%9c%a8/</guid>
+            <pubDate>Fri, 31 May 2024 05:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[소란하는 밤]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%8C%EB%9E%80%ED%95%98%EB%8A%94-%EB%B0%A4_%EC%A1%B0%EC%9C%A8-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오지 않는 밤]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%ec%a7%80-%ec%95%8a%eb%8a%94-%eb%b0%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%ec%a7%80-%ec%95%8a%eb%8a%94-%eb%b0%a4/</guid>
+            <pubDate>Fri, 31 May 2024 05:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[이민경]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%AF%BC%EA%B2%BD_%EC%98%A4%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%B0%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안단테]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 24 May 2024 05:15:26 GMT</pubDate>
             <content:encoded><![CDATA[섬머]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%AC%EB%A8%B8_Make-a-wish-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Like Salad]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/like-salad/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/like-salad/</guid>
-            <pubDate>Fri, 24 May 2024 05:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[MUa (무아)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_MUa-%EB%AC%B4%EC%95%84_Like-Salad-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seoul]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/seoul-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/seoul-2/</guid>
-            <pubDate>Fri, 24 May 2024 05:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[율리 (yoollee)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A8%EB%A6%AC-yoollee_Seoul-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오월의 시]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%ec%9b%94%ec%9d%98-%ec%8b%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%ec%9b%94%ec%9d%98-%ec%8b%9c/</guid>
-            <pubDate>Thu, 23 May 2024 03:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[박창근]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B0%BD%EA%B7%BC_%EC%98%A4%EC%9B%94%EC%9D%98-%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
