@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 02:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 03:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날 깨우는 빛]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%a0-%ea%b9%a8%ec%9a%b0%eb%8a%94-%eb%b9%9b/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%a0-%ea%b9%a8%ec%9a%b0%eb%8a%94-%eb%b9%9b/</guid>
+            <pubDate>Sun, 02 Jun 2024 03:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[김지광]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%A7%80%EA%B4%91_%EB%82%A0-%EA%B9%A8%EC%9A%B0%EB%8A%94-%EB%B9%9B-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pink & Green]]></title>
             <link>http://mirrorballmusic.co.kr/albums/pink-green/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 May 2024 05:15:26 GMT</pubDate>
             <content:encoded><![CDATA[뉴클리어 이디엇츠 (Nuclear Idiots)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%89%B4%ED%81%B4%EB%A6%AC%EC%96%B4-%EC%9D%B4%EB%94%94%EC%97%87%EC%B8%A0-Nuclear-Idiots_CYBERPUNK-1999-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너네 동네]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%84%a4-%eb%8f%99%eb%84%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%84%a4-%eb%8f%99%eb%84%a4/</guid>
-            <pubDate>Fri, 24 May 2024 05:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[나지현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%98%EC%A7%80%ED%98%84_%EB%84%88%EB%84%A4-%EB%8F%99%EB%84%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
