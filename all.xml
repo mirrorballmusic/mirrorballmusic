@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 02:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 03:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환생 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%99%98%ec%83%9d/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%99%98%ec%83%9d/</guid>
+            <pubDate>Tue, 04 Jun 2024 03:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[새빛]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%83%88%EB%B9%9B_%ED%99%98%EC%83%9D-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너에게로 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%97%90%ea%b2%8c%eb%a1%9c-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%97%90%ea%b2%8c%eb%a1%9c-2/</guid>
+            <pubDate>Tue, 04 Jun 2024 03:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[Band45]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Band45_%EB%84%88%EC%97%90%EA%B2%8C%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[obsession (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/obsession-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/obsession-3/</guid>
+            <pubDate>Tue, 04 Jun 2024 03:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[xie]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_xie_obsession-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kiwi Shampoo (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/kiwi-shampoo/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/kiwi-shampoo/</guid>
+            <pubDate>Tue, 04 Jun 2024 03:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[나노말]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%98%EB%85%B8%EB%A7%90_Kiwi-Shampoo-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숲을 걸으며 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%88%b2%ec%9d%84-%ea%b1%b8%ec%9c%bc%eb%a9%b0/</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 28 May 2024 03:17:30 GMT</pubDate>
             <content:encoded><![CDATA[백혜정]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%ED%98%9C%EC%A0%95_%EC%9D%B4-%EB%A7%90%EC%9D%84-%ED%96%88%EB%8D%98%EA%B0%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Don’t Act Like This (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/dont-act-like-this/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/dont-act-like-this/</guid>
-            <pubDate>Tue, 28 May 2024 03:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[Liebe]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Liebe-%EB%A6%AC%EB%B2%A0_Dont-Act-Like-This-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 평범해도 좋아했을까 넌.. (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80-%ed%8f%89%eb%b2%94%ed%95%b4%eb%8f%84-%ec%a2%8b%ec%95%84%ed%96%88%ec%9d%84%ea%b9%8c-%eb%84%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80-%ed%8f%89%eb%b2%94%ed%95%b4%eb%8f%84-%ec%a2%8b%ec%95%84%ed%96%88%ec%9d%84%ea%b9%8c-%eb%84%8c/</guid>
-            <pubDate>Tue, 28 May 2024 03:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[타미즈 (Tamiz)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%AF%B8%EC%A6%88-Tamiz_%EB%82%B4%EA%B0%80-%ED%8F%89%EB%B2%94%ED%95%B4%EB%8F%84-%EC%A2%8B%EC%95%84%ED%96%88%EC%9D%84%EA%B9%8C-%EB%84%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼잣말 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%98%bc%ec%9e%a3%eb%a7%90-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%98%bc%ec%9e%a3%eb%a7%90-2/</guid>
-            <pubDate>Tue, 28 May 2024 03:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[하윤]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%98%EC%9C%A4_%ED%98%BC%EC%9E%A3%EB%A7%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 겁이 많아서 사랑을 줄 수 없고 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8a%94-%ea%b2%81%ec%9d%b4-%eb%a7%8e%ec%95%84%ec%84%9c-%ec%82%ac%eb%9e%91%ec%9d%84-%ec%a4%84-%ec%88%98-%ec%97%86%ea%b3%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8a%94-%ea%b2%81%ec%9d%b4-%eb%a7%8e%ec%95%84%ec%84%9c-%ec%82%ac%eb%9e%91%ec%9d%84-%ec%a4%84-%ec%88%98-%ec%97%86%ea%b3%a0/</guid>
-            <pubDate>Tue, 28 May 2024 03:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[아스라이 (asraii)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EC%8A%A4%EB%9D%BC%EC%9D%B4-asraii_%EB%82%98%EB%8A%94-%EA%B2%81%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%84%9C-%EC%82%AC%EB%9E%91%EC%9D%84-%EC%A4%84-%EC%88%98-%EC%97%86%EA%B3%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.269 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
