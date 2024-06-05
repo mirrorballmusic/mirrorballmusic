@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 04:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 05:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 05 Jun 2024 03:19:19 GMT</pubDate>
             <content:encoded><![CDATA[Time Machine Circuit]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Time-Machine-Circuit-%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0%EC%8D%A8%ED%82%B7_%EA%B8%B0%EC%96%B5%EC%9D%84-%EC%A7%80%EC%9B%8C%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunny Day]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sunny-day-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sunny-day-2/</guid>
+            <pubDate>Wed, 05 Jun 2024 05:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[EVER]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_EVER_Sunny-Day-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Audition]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 May 2024 04:20:11 GMT</pubDate>
             <content:encoded><![CDATA[팬시 (FANXY)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8C%AC%EC%8B%9C-FANXY_PTSD-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GG]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/gg/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/gg/</guid>
-            <pubDate>Wed, 29 May 2024 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[WE:IN]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WEIN_GG-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
