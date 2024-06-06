@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 02:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 03:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날 좋아해주지 않아도 돼 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%a0-%ec%a2%8b%ec%95%84%ed%95%b4%ec%a3%bc%ec%a7%80-%ec%95%8a%ec%95%84%eb%8f%84-%eb%8f%bc/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%a0-%ec%a2%8b%ec%95%84%ed%95%b4%ec%a3%bc%ec%a7%80-%ec%95%8a%ec%95%84%eb%8f%84-%eb%8f%bc/</guid>
+            <pubDate>Thu, 06 Jun 2024 03:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[아륜]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EB%A5%9C_%EB%82%A0-%EC%A2%8B%EC%95%84%ED%95%B4%EC%A3%BC%EC%A7%80-%EC%95%8A%EC%95%84%EB%8F%84-%EB%8F%BC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2011 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/2011/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 May 2024 04:20:11 GMT</pubDate>
             <content:encoded><![CDATA[성하진]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%B1%ED%95%98%EC%A7%84_%EC%9A%B0%EB%A6%AC-%EC%97%AC%EA%B8%B0%EC%97%90-%EC%9E%88%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PTSD (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/ptsd/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/ptsd/</guid>
-            <pubDate>Wed, 29 May 2024 04:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[팬시 (FANXY)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8C%AC%EC%8B%9C-FANXY_PTSD-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.269 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
