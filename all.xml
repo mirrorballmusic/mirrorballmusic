@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 02:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 03:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기타와 나 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ed%83%80%ec%99%80-%eb%82%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ed%83%80%ec%99%80-%eb%82%98/</guid>
+            <pubDate>Tue, 11 Jun 2024 03:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[성해빈]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%B1%ED%95%B4%EB%B9%88_%EA%B8%B0%ED%83%80%EC%99%80-%EB%82%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Listen (feat. Shabiya) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/listen-feat-shabiya/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/listen-feat-shabiya/</guid>
+            <pubDate>Tue, 11 Jun 2024 03:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[William Son (윌리엄 손)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_William-Son-%EC%9C%8C%EB%A6%AC%EC%97%84-%EC%86%90_Listen-feat.-Shabiya-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will you love me (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/will-you-love-me/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/will-you-love-me/</guid>
+            <pubDate>Tue, 11 Jun 2024 03:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[순범]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%88%9C%EB%B2%94_Will-you-love-me-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Noya 6th Digital Single [손목] (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/the-noya-6th-digital-single-%ec%86%90%eb%aa%a9/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/the-noya-6th-digital-single-%ec%86%90%eb%aa%a9/</guid>
+            <pubDate>Tue, 11 Jun 2024 03:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[노야 (The NOYA)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%95%BC-The-NOYA_The-Noya-6th-Digital-Single-%EC%86%90%EB%AA%A9-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너머에 닿기를 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a8%b8%ec%97%90-%eb%8b%bf%ea%b8%b0%eb%a5%bc/</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 03 Jun 2024 03:18:07 GMT</pubDate>
             <content:encoded><![CDATA[MODN (모든)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_MODN-%EB%AA%A8%EB%93%A0_%EC%9C%A0%EB%A0%88%EC%B9%B4-Eureka-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다ㄱ (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4%e3%84%b1/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4%e3%84%b1/</guid>
-            <pubDate>Mon, 03 Jun 2024 03:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[형제공업사]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%98%95%EC%A0%9C%EA%B3%B5%EC%97%85%EC%82%AC_%EB%B0%94%EB%8B%A4%E3%84%B1-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[날 깨우는 빛 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%a0-%ea%b9%a8%ec%9a%b0%eb%8a%94-%eb%b9%9b/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%a0-%ea%b9%a8%ec%9a%b0%eb%8a%94-%eb%b9%9b/</guid>
-            <pubDate>Sun, 02 Jun 2024 03:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[김지광]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%A7%80%EA%B4%91_%EB%82%A0-%EA%B9%A8%EC%9A%B0%EB%8A%94-%EB%B9%9B-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink & Green (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/pink-green/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/pink-green/</guid>
-            <pubDate>Sat, 01 Jun 2024 03:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[러브송 (LoveSong)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9F%AC%EB%B8%8C%EC%86%A1-LoveSong_Pink-Green-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Truth (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/truth/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/truth/</guid>
-            <pubDate>Fri, 31 May 2024 04:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Truth-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.269 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
