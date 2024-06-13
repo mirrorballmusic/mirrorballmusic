@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 02:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 03:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Three Nests]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/the-three-nests/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/the-three-nests/</guid>
+            <pubDate>Thu, 13 Jun 2024 03:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[정다운]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EB%8B%A4%EC%9A%B4_The-Three-Nests-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산골소녀]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%b0%ea%b3%a8%ec%86%8c%eb%85%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%b0%ea%b3%a8%ec%86%8c%eb%85%80/</guid>
+            <pubDate>Thu, 13 Jun 2024 03:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[권한경]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B6%8C%ED%95%9C%EA%B2%BD_%EC%82%B0%EA%B3%A8%EC%86%8C%EB%85%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blue & Gray]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/blue-gray/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/blue-gray/</guid>
+            <pubDate>Thu, 13 Jun 2024 03:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[Hayoung]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Hayoung_Blue-Gray-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너를 보면/가지마]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a5%bc-%eb%b3%b4%eb%a9%b4-%ea%b0%80%ec%a7%80%eb%a7%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a5%bc-%eb%b3%b4%eb%a9%b4-%ea%b0%80%ec%a7%80%eb%a7%88/</guid>
+            <pubDate>Thu, 13 Jun 2024 03:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[소울트레인]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%8C%EC%9A%B8%ED%8A%B8%EB%A0%88%EC%9D%B8_%EB%84%88%EB%A5%BC-%EB%B3%B4%EB%A9%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sugardust]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sugardust/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sugardust/</guid>
+            <pubDate>Thu, 13 Jun 2024 03:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[London Fuzz]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_London-Fuzz_Sugardust-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이해할 수 없는 공식]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ed%95%b4%ed%95%a0-%ec%88%98-%ec%97%86%eb%8a%94-%ea%b3%b5%ec%8b%9d/</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 05 Jun 2024 03:19:19 GMT</pubDate>
             <content:encoded><![CDATA[정다운]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EB%8B%A4%EC%9A%B4_Audition-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spring is Coming]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/spring-is-coming/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/spring-is-coming/</guid>
-            <pubDate>Wed, 05 Jun 2024 03:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[스트레이터스]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%84%B0%EC%8A%A4_Spring-is-Coming-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환생]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%99%98%ec%83%9d/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%99%98%ec%83%9d/</guid>
-            <pubDate>Tue, 04 Jun 2024 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[새빛]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%83%88%EB%B9%9B_%ED%99%98%EC%83%9D-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너에게로]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%97%90%ea%b2%8c%eb%a1%9c-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%97%90%ea%b2%8c%eb%a1%9c-2/</guid>
-            <pubDate>Tue, 04 Jun 2024 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[Band45]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Band45_%EB%84%88%EC%97%90%EA%B2%8C%EB%A1%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[obsession]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/obsession-3/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/obsession-3/</guid>
-            <pubDate>Tue, 04 Jun 2024 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[xie]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_xie_obsession-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kiwi Shampoo]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/kiwi-shampoo/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/kiwi-shampoo/</guid>
-            <pubDate>Tue, 04 Jun 2024 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[나노말]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%98%EB%85%B8%EB%A7%90_Kiwi-Shampoo-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
