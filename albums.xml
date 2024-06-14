@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 05:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 06:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Freed Heart]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/freed-heart/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/freed-heart/</guid>
+            <pubDate>Fri, 14 Jun 2024 04:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[sannie (산희)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_sannie-%EC%82%B0%ED%9D%AC_Freed-Heart-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몽상가의 화원]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%aa%bd%ec%83%81%ea%b0%80%ec%9d%98-%ed%99%94%ec%9b%90/</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 14 Jun 2024 04:19:04 GMT</pubDate>
             <content:encoded><![CDATA[SOFI]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SOFI_%EB%AC%B4%EC%B1%84%EC%83%89-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Freed Heart]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/freed-heart/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/freed-heart/</guid>
-            <pubDate>Fri, 14 Jun 2024 04:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[sannie (산희)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_sannie-%EC%82%B0%ED%9D%AC_Freed-Heart-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Good Time]]></title>
