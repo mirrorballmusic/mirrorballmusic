@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 02:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 03:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름숲]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84%ec%88%b2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84%ec%88%b2/</guid>
+            <pubDate>Tue, 18 Jun 2024 03:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[이민석]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%AF%BC%EC%84%9D_%EC%97%AC%EB%A6%84%EC%88%B2-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[침묵시록]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b9%a8%eb%ac%b5%ec%8b%9c%eb%a1%9d/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b9%a8%eb%ac%b5%ec%8b%9c%eb%a1%9d/</guid>
+            <pubDate>Tue, 18 Jun 2024 03:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[새의요람]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%83%88%EC%9D%98%EC%9A%94%EB%9E%8C_%EC%B9%A8%EB%AC%B5%EC%8B%9C%EB%A1%9D-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It happens]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/it-happens/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/it-happens/</guid>
+            <pubDate>Tue, 18 Jun 2024 03:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[ZEROWHO]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ZEROWHO_It-happens-2-1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sorry]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sorry/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sorry/</guid>
+            <pubDate>Tue, 18 Jun 2024 03:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[Grabber]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Grabber_Sorry-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 밤]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98-%eb%b0%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98-%eb%b0%a4/</guid>
+            <pubDate>Tue, 18 Jun 2024 03:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[민]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AF%BC_%EC%98%A4%EB%8A%98-%EB%B0%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외로운 꽃잎들이 만나 나비가 되었네]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%99%b8%eb%a1%9c%ec%9a%b4-%ea%bd%83%ec%9e%8e%eb%93%a4%ec%9d%b4-%eb%a7%8c%eb%82%98-%eb%82%98%eb%b9%84%ea%b0%80-%eb%90%98%ec%97%88%eb%84%a4/</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 10 Jun 2024 03:18:07 GMT</pubDate>
             <content:encoded><![CDATA[이정권]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A0%95%EA%B6%8C_%EB%84%88%EB%A8%B8%EC%97%90-%EB%8B%BF%EA%B8%B0%EB%A5%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dopy]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/dopy/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/dopy/</guid>
-            <pubDate>Mon, 10 Jun 2024 03:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[Replica Dream]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Replica-Dream_Dopy-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How was your day]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/how-was-your-day/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/how-was-your-day/</guid>
-            <pubDate>Mon, 10 Jun 2024 03:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[박현진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%ED%98%84%EC%A7%84_How-was-your-day-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단숨]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a8%ec%88%a8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%a8%ec%88%a8/</guid>
-            <pubDate>Mon, 10 Jun 2024 03:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[배유나]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B0%EC%9C%A0%EB%82%98_%EB%8B%A8%EC%88%A8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/love-4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/love-4/</guid>
-            <pubDate>Mon, 10 Jun 2024 03:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[로웰 (Lowell)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A1%9C%EC%9B%B0-Lowell_Love-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카운트다운!]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b9%b4%ec%9a%b4%ed%8a%b8%eb%8b%a4%ec%9a%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b9%b4%ec%9a%b4%ed%8a%b8%eb%8b%a4%ec%9a%b4/</guid>
-            <pubDate>Sun, 09 Jun 2024 03:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[환상문학청년]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%98%EC%83%81%EB%AC%B8%ED%95%99%EC%B2%AD%EB%85%84_%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
