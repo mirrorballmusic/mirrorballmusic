@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 02:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 03:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Victory]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/victory-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/victory-2/</guid>
+            <pubDate>Wed, 19 Jun 2024 03:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[롤링쿼츠 (Rolling Quartz)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A1%A4%EB%A7%81%EC%BF%BC%EC%B8%A0-Rolling-Quartz_Victory-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Special Love]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/special-love/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/special-love/</guid>
+            <pubDate>Wed, 19 Jun 2024 03:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[임수현 (무드등 어쿠스틱)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%84%EC%88%98%ED%98%84-%EB%AC%B4%EB%93%9C%EB%93%B1-%EC%96%B4%EC%BF%A0%EC%8A%A4%ED%8B%B1_Special-Love-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비밀의 정원 (The Secret Garden)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%84%eb%b0%80%ec%9d%98-%ec%a0%95%ec%9b%90-the-secret-garden/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%84%eb%b0%80%ec%9d%98-%ec%a0%95%ec%9b%90-the-secret-garden/</guid>
+            <pubDate>Wed, 19 Jun 2024 03:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[Se!n]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Sen_%EB%B9%84%EB%B0%80%EC%9D%98-%EC%A0%95%EC%9B%90-The-Secret-Garden-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7AM]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/7am/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/7am/</guid>
+            <pubDate>Wed, 19 Jun 2024 03:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[반유문]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%98%EC%9C%A0%EB%AC%B8-%E6%BD%98%E8%A3%95%E6%96%87-Peter-Pan_7AM-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[dude..]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/dude/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/dude/</guid>
+            <pubDate>Wed, 19 Jun 2024 03:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[올드 잉글리쉬 쉽독]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%AC%EB%93%9C-%EC%9E%89%EA%B8%80%EB%A6%AC%EC%89%AC-%EC%89%BD%EB%8F%85_dude-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름숲]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84%ec%88%b2/</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 12 Jun 2024 03:17:47 GMT</pubDate>
             <content:encoded><![CDATA[PYO]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_PYO_Tears-On-My-Hoodie-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기타와 나]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ed%83%80%ec%99%80-%eb%82%98/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ed%83%80%ec%99%80-%eb%82%98/</guid>
-            <pubDate>Tue, 11 Jun 2024 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[성해빈]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%B1%ED%95%B4%EB%B9%88_%EA%B8%B0%ED%83%80%EC%99%80-%EB%82%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Listen (feat. Shabiya)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/listen-feat-shabiya/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/listen-feat-shabiya/</guid>
-            <pubDate>Tue, 11 Jun 2024 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[William Son (윌리엄 손)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_William-Son-%EC%9C%8C%EB%A6%AC%EC%97%84-%EC%86%90_Listen-feat.-Shabiya-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Will you love me]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/will-you-love-me/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/will-you-love-me/</guid>
-            <pubDate>Tue, 11 Jun 2024 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[순범]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%88%9C%EB%B2%94_Will-you-love-me-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Noya 6th Digital Single [손목]]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/the-noya-6th-digital-single-%ec%86%90%eb%aa%a9/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/the-noya-6th-digital-single-%ec%86%90%eb%aa%a9/</guid>
-            <pubDate>Tue, 11 Jun 2024 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[노야 (The NOYA)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%95%BC-The-NOYA_The-Noya-6th-Digital-Single-%EC%86%90%EB%AA%A9-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너머에 닿기를]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a8%b8%ec%97%90-%eb%8b%bf%ea%b8%b0%eb%a5%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a8%b8%ec%97%90-%eb%8b%bf%ea%b8%b0%eb%a5%bc/</guid>
-            <pubDate>Mon, 10 Jun 2024 03:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[이정권]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A0%95%EA%B6%8C_%EB%84%88%EB%A8%B8%EC%97%90-%EB%8B%BF%EA%B8%B0%EB%A5%BC-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
