@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 02:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 03:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[reserve (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/reserve/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/reserve/</guid>
+            <pubDate>Fri, 21 Jun 2024 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[타카피 (T.A.-COPY)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EC%B9%B4%ED%94%BC-T.A.-COPY_reserve-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lean On You (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/lean-on-you/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/lean-on-you/</guid>
+            <pubDate>Fri, 21 Jun 2024 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[East Club]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_East-Club_Lean-On-You-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sweet ocean (ocean ver.) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sweet-ocean-ocean-ver/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sweet-ocean-ocean-ver/</guid>
+            <pubDate>Fri, 21 Jun 2024 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[ADYNE]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ADYNE_Sweet-ocean-ocean-ver.-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anymore (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/anymore/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/anymore/</guid>
+            <pubDate>Fri, 21 Jun 2024 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[정현진]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%ED%98%84%EC%A7%84_Anymore-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[taken (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/taken/</link>
@@ -24,20 +56,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%B4%EB%94%94_%EB%82%98%EB%B9%A0%EB%82%98%EB%B9%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가야금으로 뜯는 재즈 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b0%80%ec%95%bc%ea%b8%88%ec%9c%bc%eb%a1%9c-%eb%9c%af%eb%8a%94-%ec%9e%ac%ec%a6%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b0%80%ec%95%bc%ea%b8%88%ec%9c%bc%eb%a1%9c-%eb%9c%af%eb%8a%94-%ec%9e%ac%ec%a6%88/</guid>
-            <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[오혜영]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%ED%98%9C%EC%98%81_%EA%B0%80%EC%95%BC%EA%B8%88%EC%9C%BC%EB%A1%9C-%EB%9C%AF%EB%8A%94-%EC%9E%AC%EC%A6%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[민달팽이 (Studio Live) (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%af%bc%eb%8b%ac%ed%8c%bd%ec%9d%b4-studio-live/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%eb%af%bc%eb%8b%ac%ed%8c%bd%ec%9d%b4-studio-live/</guid>
             <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
             <content:encoded><![CDATA[조영남]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%98%81%EB%82%A8_%EB%AF%BC%EB%8B%AC%ED%8C%BD%EC%9D%B4-Studio-Live-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가야금으로 뜯는 재즈 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b0%80%ec%95%bc%ea%b8%88%ec%9c%bc%eb%a1%9c-%eb%9c%af%eb%8a%94-%ec%9e%ac%ec%a6%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b0%80%ec%95%bc%ea%b8%88%ec%9c%bc%eb%a1%9c-%eb%9c%af%eb%8a%94-%ec%9e%ac%ec%a6%88/</guid>
+            <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[오혜영]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%ED%98%9C%EC%98%81_%EA%B0%80%EC%95%BC%EA%B8%88%EC%9C%BC%EB%A1%9C-%EB%9C%AF%EB%8A%94-%EC%9E%AC%EC%A6%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은물결여관 (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 14 Jun 2024 04:19:04 GMT</pubDate>
             <content:encoded><![CDATA[SOFI]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SOFI_%EB%AC%B4%EC%B1%84%EC%83%89-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Good Time (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/good-time/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/good-time/</guid>
-            <pubDate>Fri, 14 Jun 2024 04:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[JoOhA (주하), Still]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_JoOhA-%EC%A3%BC%ED%95%98-Still_Good-Time-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Three Nests (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/the-three-nests/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/the-three-nests/</guid>
-            <pubDate>Thu, 13 Jun 2024 03:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[정다운]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EB%8B%A4%EC%9A%B4_The-Three-Nests-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산골소녀 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%82%b0%ea%b3%a8%ec%86%8c%eb%85%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%b0%ea%b3%a8%ec%86%8c%eb%85%80/</guid>
-            <pubDate>Thu, 13 Jun 2024 03:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[권한경]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B6%8C%ED%95%9C%EA%B2%BD_%EC%82%B0%EA%B3%A8%EC%86%8C%EB%85%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blue & Gray (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/blue-gray/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/blue-gray/</guid>
-            <pubDate>Thu, 13 Jun 2024 03:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[Hayoung]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Hayoung_Blue-Gray-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.270 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
