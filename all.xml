@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 04:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 05:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 21 Jun 2024 03:18:59 GMT</pubDate>
             <content:encoded><![CDATA[East Club]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_East-Club_Lean-On-You-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DOPPERMEN Z (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/doppermen-z-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/doppermen-z-2/</guid>
+            <pubDate>Fri, 21 Jun 2024 05:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[마가, 재림]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%EA%B0%80-%EC%9E%AC%EB%A6%BC_DOPPERMEN-Z-2-1-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sweet ocean (ocean ver.) (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jun 2024 04:19:04 GMT</pubDate>
             <content:encoded><![CDATA[대 동]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8C%80%EB%8F%99_%EB%AA%BD%EC%83%81%EA%B0%80%EC%9D%98-%ED%99%94%EC%9B%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무채색 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ec%b1%84%ec%83%89-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ec%b1%84%ec%83%89-2/</guid>
-            <pubDate>Fri, 14 Jun 2024 04:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[SOFI]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SOFI_%EB%AC%B4%EC%B1%84%EC%83%89-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.270 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
