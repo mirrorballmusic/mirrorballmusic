@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 04:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 05:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[물과 숲 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%ac%bc%ea%b3%bc-%ec%88%b2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%ac%bc%ea%b3%bc-%ec%88%b2/</guid>
-            <pubDate>Mon, 24 Jun 2024 03:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[키키 (Kiki)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%82%A4%ED%82%A4-kiki_%EB%AC%BC%EA%B3%BC-%EC%88%B2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[기만의 통제탑 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%eb%a7%8c%ec%9d%98-%ed%86%b5%ec%a0%9c%ed%83%91/</link>
@@ -38,6 +30,14 @@
             <pubDate>Mon, 24 Jun 2024 03:18:26 GMT</pubDate>
             <content:encoded><![CDATA[규리민]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B7%9C%EB%A6%AC%EB%AF%BC_%EC%98%A8%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물과 숲 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%ac%bc%ea%b3%bc-%ec%88%b2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%ac%bc%ea%b3%bc-%ec%88%b2/</guid>
+            <pubDate>Mon, 24 Jun 2024 03:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[키키 (Kiki)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%82%A4%ED%82%A4-kiki_%EB%AC%BC%EA%B3%BC-%EC%88%B2-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TRANS. (미러볼뮤직 ─ ALBUMS)]]></title>
