@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 08:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 09:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하쿠나girl]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%95%98%ec%bf%a0%eb%82%98girl/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%95%98%ec%bf%a0%eb%82%98girl/</guid>
+            <pubDate>Tue, 25 Jun 2024 09:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[뉴챔프 (New Champ)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%89%B4%EC%B1%94%ED%94%84_%ED%95%98%EC%BF%A0%EB%82%98girl-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시몬]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%8b%9c%eb%aa%ac/</link>
@@ -152,20 +160,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%B4%EB%94%94_%EB%82%98%EB%B9%A0%EB%82%98%EB%B9%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[민달팽이 (Studio Live)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%af%bc%eb%8b%ac%ed%8c%bd%ec%9d%b4-studio-live/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%bc%eb%8b%ac%ed%8c%bd%ec%9d%b4-studio-live/</guid>
-            <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[조영남]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%98%81%EB%82%A8_%EB%AF%BC%EB%8B%AC%ED%8C%BD%EC%9D%B4-Studio-Live-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가야금으로 뜯는 재즈]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b0%80%ec%95%bc%ea%b8%88%ec%9c%bc%eb%a1%9c-%eb%9c%af%eb%8a%94-%ec%9e%ac%ec%a6%88/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%ea%b0%80%ec%95%bc%ea%b8%88%ec%9c%bc%eb%a1%9c-%eb%9c%af%eb%8a%94-%ec%9e%ac%ec%a6%88/</guid>
             <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
             <content:encoded><![CDATA[오혜영]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%ED%98%9C%EC%98%81_%EA%B0%80%EC%95%BC%EA%B8%88%EC%9C%BC%EB%A1%9C-%EB%9C%AF%EB%8A%94-%EC%9E%AC%EC%A6%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민달팽이 (Studio Live)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%af%bc%eb%8b%ac%ed%8c%bd%ec%9d%b4-studio-live/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%bc%eb%8b%ac%ed%8c%bd%ec%9d%b4-studio-live/</guid>
+            <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[조영남]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%98%81%EB%82%A8_%EB%AF%BC%EB%8B%AC%ED%8C%BD%EC%9D%B4-Studio-Live-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은물결여관]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Jun 2024 03:18:31 GMT</pubDate>
             <content:encoded><![CDATA[새의요람]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%83%88%EC%9D%98%EC%9A%94%EB%9E%8C_%EC%B9%A8%EB%AC%B5%EC%8B%9C%EB%A1%9D-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[It happens]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/it-happens/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/it-happens/</guid>
-            <pubDate>Tue, 18 Jun 2024 03:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[ZEROWHO]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ZEROWHO_It-happens-2-1-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
