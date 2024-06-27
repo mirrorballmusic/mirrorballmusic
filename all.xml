@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 08:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 09:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유월의 시 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9c%a0%ec%9b%94%ec%9d%98-%ec%8b%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9c%a0%ec%9b%94%ec%9d%98-%ec%8b%9c/</guid>
+            <pubDate>Thu, 27 Jun 2024 09:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[유월의 시]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B0%BD%EA%B7%BC_%EC%9C%A0%EC%9B%94%EC%9D%98-%EC%8B%9C-2-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인공위성 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b8%ea%b3%b5%ec%9c%84%ec%84%b1/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
             <content:encoded><![CDATA[오혜영]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%ED%98%9C%EC%98%81_%EA%B0%80%EC%95%BC%EA%B8%88%EC%9C%BC%EB%A1%9C-%EB%9C%AF%EB%8A%94-%EC%9E%AC%EC%A6%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민달팽이 (Studio Live) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%af%bc%eb%8b%ac%ed%8c%bd%ec%9d%b4-studio-live/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%bc%eb%8b%ac%ed%8c%bd%ec%9d%b4-studio-live/</guid>
-            <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[조영남]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%98%81%EB%82%A8_%EB%AF%BC%EB%8B%AC%ED%8C%BD%EC%9D%B4-Studio-Live-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.270 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
