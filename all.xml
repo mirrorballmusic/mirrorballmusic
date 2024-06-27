@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 06:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 07:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인공위성 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b8%ea%b3%b5%ec%9c%84%ec%84%b1/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b8%ea%b3%b5%ec%9c%84%ec%84%b1/</guid>
+            <pubDate>Thu, 27 Jun 2024 07:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[타미즈 (Tamiz)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%AF%B8%EC%A6%88-Tamiz_%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1-2-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mapo City Run (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/mapo-city-run/</link>
@@ -224,14 +232,6 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%B4%EB%94%94_%EB%82%98%EB%B9%A0%EB%82%98%EB%B9%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[민달팽이 (Studio Live) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%af%bc%eb%8b%ac%ed%8c%bd%ec%9d%b4-studio-live/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%bc%eb%8b%ac%ed%8c%bd%ec%9d%b4-studio-live/</guid>
-            <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[조영남]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%98%81%EB%82%A8_%EB%AF%BC%EB%8B%AC%ED%8C%BD%EC%9D%B4-Studio-Live-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가야금으로 뜯는 재즈 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b0%80%ec%95%bc%ea%b8%88%ec%9c%bc%eb%a1%9c-%eb%9c%af%eb%8a%94-%ec%9e%ac%ec%a6%88/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%ea%b0%80%ec%95%bc%ea%b8%88%ec%9c%bc%eb%a1%9c-%eb%9c%af%eb%8a%94-%ec%9e%ac%ec%a6%88/</guid>
@@ -240,12 +240,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%ED%98%9C%EC%98%81_%EA%B0%80%EC%95%BC%EA%B8%88%EC%9C%BC%EB%A1%9C-%EB%9C%AF%EB%8A%94-%EC%9E%AC%EC%A6%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검은물결여관 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b2%80%ec%9d%80%eb%ac%bc%ea%b2%b0%ec%97%ac%ea%b4%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b2%80%ec%9d%80%eb%ac%bc%ea%b2%b0%ec%97%ac%ea%b4%80/</guid>
+            <title><![CDATA[민달팽이 (Studio Live) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%af%bc%eb%8b%ac%ed%8c%bd%ec%9d%b4-studio-live/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%bc%eb%8b%ac%ed%8c%bd%ec%9d%b4-studio-live/</guid>
             <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[유령(YOORYEONG)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_YURYEONG-%EC%9C%A0%EB%A0%B9_%EA%B2%80%EC%9D%80%EB%AC%BC%EA%B2%B0%EC%97%AC%EA%B4%80-2-300x300.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[조영남]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%98%81%EB%82%A8_%EB%AF%BC%EB%8B%AC%ED%8C%BD%EC%9D%B4-Studio-Live-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.270 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
