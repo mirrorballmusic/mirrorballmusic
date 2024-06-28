@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 02:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 03:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ground]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/ground/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/ground/</guid>
+            <pubDate>Fri, 28 Jun 2024 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[kenessi]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_-kenessi_Ground-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먹었어]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a8%b9%ec%97%88%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a8%b9%ec%97%88%ec%96%b4/</guid>
+            <pubDate>Fri, 28 Jun 2024 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[HOZIHO]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_HOZIHO_%EB%A8%B9%EC%97%88%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만화경]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%8c%ed%99%94%ea%b2%bd/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%8c%ed%99%94%ea%b2%bd/</guid>
+            <pubDate>Fri, 28 Jun 2024 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[모허]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AA%A8%ED%97%88_%EB%A7%8C%ED%99%94%EA%B2%BD-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wildfire]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/wildfire/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/wildfire/</guid>
+            <pubDate>Fri, 28 Jun 2024 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[Kiwi]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiwi_Wildfire-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[moss and pillow]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/moss-and-pillow/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/moss-and-pillow/</guid>
+            <pubDate>Fri, 28 Jun 2024 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[minjo]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_minjo_Moss-and-Pillow-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유월의 시]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9c%a0%ec%9b%94%ec%9d%98-%ec%8b%9c/</link>
@@ -206,46 +246,6 @@
             <pubDate>Fri, 21 Jun 2024 05:16:39 GMT</pubDate>
             <content:encoded><![CDATA[마가, 재림]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%EA%B0%80-%EC%9E%AC%EB%A6%BC_DOPPERMEN-Z-2-1-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sweet ocean (ocean ver.)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/sweet-ocean-ocean-ver/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/sweet-ocean-ocean-ver/</guid>
-            <pubDate>Fri, 21 Jun 2024 03:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[ADYNE]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ADYNE_Sweet-ocean-ocean-ver.-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anymore]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/anymore/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/anymore/</guid>
-            <pubDate>Fri, 21 Jun 2024 03:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[정현진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%ED%98%84%EC%A7%84_Anymore-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[taken]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/taken/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/taken/</guid>
-            <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[leebaek, 임지우(imzoo)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_leebaek-%EC%9E%84%EC%A7%80%EC%9A%B0imzoo_taken-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나빠나빠]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%b9%a0%eb%82%98%eb%b9%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%b9%a0%eb%82%98%eb%b9%a0/</guid>
-            <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[해디]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%B4%EB%94%94_%EB%82%98%EB%B9%A0%EB%82%98%EB%B9%A0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가야금으로 뜯는 재즈]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b0%80%ec%95%bc%ea%b8%88%ec%9c%bc%eb%a1%9c-%eb%9c%af%eb%8a%94-%ec%9e%ac%ec%a6%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b0%80%ec%95%bc%ea%b8%88%ec%9c%bc%eb%a1%9c-%eb%9c%af%eb%8a%94-%ec%9e%ac%ec%a6%88/</guid>
-            <pubDate>Thu, 20 Jun 2024 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[오혜영]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%ED%98%9C%EC%98%81_%EA%B0%80%EC%95%BC%EA%B8%88%EC%9C%BC%EB%A1%9C-%EB%9C%AF%EB%8A%94-%EC%9E%AC%EC%A6%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
