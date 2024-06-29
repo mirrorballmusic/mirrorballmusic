@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jun 2024 02:31:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jun 2024 03:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lucky For You (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/lucky-for-you/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/lucky-for-you/</guid>
+            <pubDate>Sat, 29 Jun 2024 03:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Lucky-For-You-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ground (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/ground/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Jun 2024 03:18:59 GMT</pubDate>
             <content:encoded><![CDATA[East Club]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_East-Club_Lean-On-You-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DOPPERMEN Z (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/doppermen-z-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/doppermen-z-2/</guid>
-            <pubDate>Fri, 21 Jun 2024 05:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[마가, 재림]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%EA%B0%80-%EC%9E%AC%EB%A6%BC_DOPPERMEN-Z-2-1-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.270 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
