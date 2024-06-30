@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 02:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 03:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이름없는 새]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%a6%84%ec%97%86%eb%8a%94-%ec%83%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%a6%84%ec%97%86%eb%8a%94-%ec%83%88/</guid>
+            <pubDate>Sun, 30 Jun 2024 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[고니밴드 (GonyBand)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%A0%EB%8B%88%EB%B0%B4%EB%93%9C-GonyBand_%EC%9D%B4%EB%A6%84%EC%97%86%EB%8A%94-%EC%83%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lucky For You]]></title>
             <link>http://mirrorballmusic.co.kr/albums/lucky-for-you/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Jun 2024 03:18:59 GMT</pubDate>
             <content:encoded><![CDATA[타카피 (T.A.-COPY)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EC%B9%B4%ED%94%BC-T.A.-COPY_reserve-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lean On You]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/lean-on-you/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/lean-on-you/</guid>
-            <pubDate>Fri, 21 Jun 2024 03:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[East Club]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_East-Club_Lean-On-You-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
