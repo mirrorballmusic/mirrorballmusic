@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 02:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 03:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DOWNFALL (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/downfall-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/downfall-2/</guid>
+            <pubDate>Tue, 02 Jul 2024 03:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[최진솔]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%A7%84%EC%86%94_DOWNFALL-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TEAM ROCKET (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/team-rocket/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/team-rocket/</guid>
+            <pubDate>Tue, 02 Jul 2024 03:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[jaun]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_jaun_TEAM-ROCKET-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 아인 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%95%84%ec%9d%b8/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%95%84%ec%9d%b8/</guid>
+            <pubDate>Tue, 02 Jul 2024 03:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[지천]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A7%80%EC%B2%9C_%EA%B7%B8-%EC%95%84%EC%9D%B8-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고향 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%ed%96%a5/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%a0%ed%96%a5/</guid>
+            <pubDate>Tue, 02 Jul 2024 03:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[지지 (zZ)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A7%80%EC%A7%80-zZ_%EA%B3%A0%ED%96%A5-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DESIRE (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/desire-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/desire-2/</guid>
+            <pubDate>Tue, 02 Jul 2024 03:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[KOU]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_KOU_DESIRE-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Majors of Minors (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/majors-of-minors/</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 25 Jun 2024 03:18:16 GMT</pubDate>
             <content:encoded><![CDATA[8호실 peridot]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_8%ED%98%B8%EC%8B%A4-peridot_%EC%B4%88%EA%B3%BC%EC%9D%B8%EC%83%9D-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TOTAL WAR (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/total-war/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/total-war/</guid>
-            <pubDate>Tue, 25 Jun 2024 05:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[The RenegadE]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-RenegadE_TOTAL-WAR-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AT LAST part 1. (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/at-last-part-1/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/at-last-part-1/</guid>
-            <pubDate>Tue, 25 Jun 2024 05:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[Narotic]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Narotic_AT-LAST-part-1-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기만의 통제탑 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%eb%a7%8c%ec%9d%98-%ed%86%b5%ec%a0%9c%ed%83%91/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%eb%a7%8c%ec%9d%98-%ed%86%b5%ec%a0%9c%ed%83%91/</guid>
-            <pubDate>Mon, 24 Jun 2024 03:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[소히 (Sorri)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%8C%ED%9E%88_%EA%B8%B0%EB%A7%8C%EC%9D%98-%ED%86%B5%EC%A0%9C%ED%83%91-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어둑시니 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%96%b4%eb%91%91%ec%8b%9c%eb%8b%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%96%b4%eb%91%91%ec%8b%9c%eb%8b%88/</guid>
-            <pubDate>Mon, 24 Jun 2024 03:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[마하비라 (MAHAVIRA)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%ED%95%98%EB%B9%84%EB%9D%BC-MAHAVIRA_%EC%96%B4%EB%91%91%EC%8B%9C%EB%8B%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온도 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a8%eb%8f%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a8%eb%8f%84/</guid>
-            <pubDate>Mon, 24 Jun 2024 03:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[규리민]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B7%9C%EB%A6%AC%EB%AF%BC_%EC%98%A8%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.271 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
