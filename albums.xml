@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jul 2024 02:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 03:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pillow Talk]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/pillow-talk/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/pillow-talk/</guid>
+            <pubDate>Sat, 06 Jul 2024 03:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[One Off Them]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_One-Off-Them_Pillow-Talk-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SIMULATION]]></title>
             <link>http://mirrorballmusic.co.kr/albums/simulation/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jun 2024 03:18:42 GMT</pubDate>
             <content:encoded><![CDATA[HOZIHO]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_HOZIHO_%EB%A8%B9%EC%97%88%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만화경]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%8c%ed%99%94%ea%b2%bd/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%8c%ed%99%94%ea%b2%bd/</guid>
-            <pubDate>Fri, 28 Jun 2024 03:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[모허]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AA%A8%ED%97%88_%EB%A7%8C%ED%99%94%EA%B2%BD-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
