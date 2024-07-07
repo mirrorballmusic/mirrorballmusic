@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 01:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 03:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얼룩]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%96%bc%eb%a3%a9/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%96%bc%eb%a3%a9/</guid>
+            <pubDate>Sun, 07 Jul 2024 03:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[양주은]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%91%EC%A3%BC%EC%9D%80_%EC%96%BC%EB%A3%A9-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pillow Talk]]></title>
             <link>http://mirrorballmusic.co.kr/albums/pillow-talk/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jun 2024 03:18:42 GMT</pubDate>
             <content:encoded><![CDATA[kenessi]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_-kenessi_Ground-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹었어]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%a8%b9%ec%97%88%ec%96%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%a8%b9%ec%97%88%ec%96%b4/</guid>
-            <pubDate>Fri, 28 Jun 2024 03:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[HOZIHO]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_HOZIHO_%EB%A8%B9%EC%97%88%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
