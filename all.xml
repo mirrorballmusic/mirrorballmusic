@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 02:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 03:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이지 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8d%b0%ec%9d%b4%ec%a7%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8d%b0%ec%9d%b4%ec%a7%80/</guid>
+            <pubDate>Mon, 08 Jul 2024 03:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[김아현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%95%84%ED%98%84_%EB%8D%B0%EC%9D%B4%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 품고 나는 걷네 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%84-%ed%92%88%ea%b3%a0-%eb%82%98%eb%8a%94-%ea%b1%b7%eb%84%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ec%9d%84-%ed%92%88%ea%b3%a0-%eb%82%98%eb%8a%94-%ea%b1%b7%eb%84%a4/</guid>
+            <pubDate>Mon, 08 Jul 2024 03:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[이수진]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%88%98%EC%A7%84_%EC%82%AC%EB%9E%91%EC%9D%84-%ED%92%88%EA%B3%A0-%EB%82%98%EB%8A%94-%EA%B1%B7%EB%84%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Is Magic (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/love-is-magic/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/love-is-magic/</guid>
+            <pubDate>Mon, 08 Jul 2024 03:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[장후양 (張煦陽, Jz12 Chang)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%A5%ED%9B%84%EC%96%91-%E5%BC%B5%E7%85%A6%E9%99%BD-Jz12-Chang_Love-Is-Magic-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ur Fan (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/ur-fan/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/ur-fan/</guid>
+            <pubDate>Mon, 08 Jul 2024 03:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[모서리]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AA%A8%EC%84%9C%EB%A6%AC_Ur-Fan-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lazy 911 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/lazy-911/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/lazy-911/</guid>
+            <pubDate>Mon, 08 Jul 2024 03:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[LO HAVI]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_LO-HAVI_Lazy-911-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[얼룩 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%96%bc%eb%a3%a9/</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 01 Jul 2024 03:19:28 GMT</pubDate>
             <content:encoded><![CDATA[우연]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%B0%EC%97%B0_%EB%8F%8C%EC%95%84%EA%B0%88%EA%B2%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Your World (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/your-world/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/your-world/</guid>
-            <pubDate>Mon, 01 Jul 2024 03:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[Yeoseossi]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Yeoseossi_Your-World-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너는 나에게 사랑과 이별로 행복과 슬픔을 알려줬어 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%8a%94-%eb%82%98%ec%97%90%ea%b2%8c-%ec%82%ac%eb%9e%91%ea%b3%bc-%ec%9d%b4%eb%b3%84%eb%a1%9c-%ed%96%89%eb%b3%b5%ea%b3%bc-%ec%8a%ac%ed%94%94%ec%9d%84-%ec%95%8c%eb%a0%a4%ec%a4%ac%ec%96%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%8a%94-%eb%82%98%ec%97%90%ea%b2%8c-%ec%82%ac%eb%9e%91%ea%b3%bc-%ec%9d%b4%eb%b3%84%eb%a1%9c-%ed%96%89%eb%b3%b5%ea%b3%bc-%ec%8a%ac%ed%94%94%ec%9d%84-%ec%95%8c%eb%a0%a4%ec%a4%ac%ec%96%b4/</guid>
-            <pubDate>Mon, 01 Jul 2024 03:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[드문]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%93%9C%EB%AC%B8_%EB%84%88%EB%8A%94-%EB%82%98%EC%97%90%EA%B2%8C-%EC%82%AC%EB%9E%91%EA%B3%BC-%EC%9D%B4%EB%B3%84%EB%A1%9C-%ED%96%89%EB%B3%B5%EA%B3%BC-%EC%8A%AC%ED%94%94%EC%9D%84-%EC%95%8C%EB%A0%A4%EC%A4%AC%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이름없는 새 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%a6%84%ec%97%86%eb%8a%94-%ec%83%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%a6%84%ec%97%86%eb%8a%94-%ec%83%88/</guid>
-            <pubDate>Sun, 30 Jun 2024 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[고니밴드 (GonyBand)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%A0%EB%8B%88%EB%B0%B4%EB%93%9C-GonyBand_%EC%9D%B4%EB%A6%84%EC%97%86%EB%8A%94-%EC%83%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lucky For You (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/lucky-for-you/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/lucky-for-you/</guid>
-            <pubDate>Sat, 29 Jun 2024 03:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Lucky-For-You-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ground (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/ground/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/ground/</guid>
-            <pubDate>Fri, 28 Jun 2024 03:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[kenessi]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_-kenessi_Ground-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.271 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
