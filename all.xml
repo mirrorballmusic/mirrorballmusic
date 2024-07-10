@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 07:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 09:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[널 파고든 지금이 영원 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%84%90-%ed%8c%8c%ea%b3%a0%eb%93%a0-%ec%a7%80%ea%b8%88%ec%9d%b4-%ec%98%81%ec%9b%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%90-%ed%8c%8c%ea%b3%a0%eb%93%a0-%ec%a7%80%ea%b8%88%ec%9d%b4-%ec%98%81%ec%9b%90/</guid>
+            <pubDate>Wed, 10 Jul 2024 09:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[프롬 (Fromm)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%84%EB%A1%AC-Fromm_%EB%84%90-%ED%8C%8C%EA%B3%A0%EB%93%A0-%EC%A7%80%EA%B8%88%EC%9D%B4-%EC%98%81%EC%9B%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 밤을 줄게요 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4-%eb%b0%a4%ec%9d%84-%ec%a4%84%ea%b2%8c%ec%9a%94/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 Jul 2024 03:18:19 GMT</pubDate>
             <content:encoded><![CDATA[Boxy Tarantula]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Boxy-Tarantula_Fragile-14th-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[blue (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/blue-5/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/blue-5/</guid>
-            <pubDate>Wed, 10 Jul 2024 05:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[Robbers]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Robbers_blue-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.271 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
