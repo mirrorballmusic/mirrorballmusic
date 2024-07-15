@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 01:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 02:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강남무지개 Part.1 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b0%95%eb%82%a8%eb%ac%b4%ec%a7%80%ea%b0%9c-part-1/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b0%95%eb%82%a8%eb%ac%b4%ec%a7%80%ea%b0%9c-part-1/</guid>
+            <pubDate>Mon, 15 Jul 2024 02:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[이희문]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%ED%9D%AC%EB%AC%B8_%EA%B0%95%EB%82%A8%EB%AC%B4%EC%A7%80%EA%B0%9C-Part.1-2-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[? > ! (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/89083/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 05 Jul 2024 05:15:33 GMT</pubDate>
             <content:encoded><![CDATA[꼬리물기]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%BC%AC%EB%A6%AC%EB%AC%BC%EA%B8%B0_Patterning-Questions-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 지구를 떠나 우주로 갑니다 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8a%94-%ec%a7%80%ea%b5%ac%eb%a5%bc-%eb%96%a0%eb%82%98-%ec%9a%b0%ec%a3%bc%eb%a1%9c-%ea%b0%91%eb%8b%88%eb%8b%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8a%94-%ec%a7%80%ea%b5%ac%eb%a5%bc-%eb%96%a0%eb%82%98-%ec%9a%b0%ec%a3%bc%eb%a1%9c-%ea%b0%91%eb%8b%88%eb%8b%a4/</guid>
-            <pubDate>Fri, 05 Jul 2024 05:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[염이 (Youmiii)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%BC%EC%9D%B4-Youmiii_%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%A7%80%EA%B5%AC%EB%A5%BC-%EB%96%A0%EB%82%98-%EC%9A%B0%EC%A3%BC%EB%A1%9C-%EA%B0%91%EB%8B%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.271 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
