@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 02:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 03:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빙해]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%99%ed%95%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%99%ed%95%b4/</guid>
+            <pubDate>Tue, 23 Jul 2024 03:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[cotoba (코토바)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_cotoba-%EC%BD%94%ED%86%A0%EB%B0%94_%EB%B9%99%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Never Have I Said I’m Sorry]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/never-have-i-said-im-sorry/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/never-have-i-said-im-sorry/</guid>
+            <pubDate>Tue, 23 Jul 2024 03:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[SUHYNN (수흰)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SUHYNN-%EC%88%98%ED%9D%B0_Never-Have-I-Said-Im-Sorry-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deeper Blue]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/deeper-blue/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/deeper-blue/</guid>
+            <pubDate>Tue, 23 Jul 2024 03:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[BinyBin (조성빈)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BinyBin-%EC%A1%B0%EC%84%B1%EB%B9%88_Deeper-Blue-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혼자 남겨 두지마]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%98%bc%ec%9e%90-%eb%82%a8%ea%b2%a8-%eb%91%90%ec%a7%80%eb%a7%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%98%bc%ec%9e%90-%eb%82%a8%ea%b2%a8-%eb%91%90%ec%a7%80%eb%a7%88/</guid>
+            <pubDate>Tue, 23 Jul 2024 03:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[Luen]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Luen_%ED%98%BC%EC%9E%90-%EB%82%A8%EA%B2%A8-%EB%91%90%EC%A7%80%EB%A7%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킹받쥬]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%82%b9%eb%b0%9b%ec%a5%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%82%b9%eb%b0%9b%ec%a5%ac/</guid>
+            <pubDate>Tue, 23 Jul 2024 03:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[비타린]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B9%84%ED%83%80%EB%A6%B0_%ED%82%B9%EB%B0%9B%EC%A5%AC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Little Star]]></title>
             <link>http://mirrorballmusic.co.kr/albums/little-star/</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 16 Jul 2024 05:16:15 GMT</pubDate>
             <content:encoded><![CDATA[윤여진]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A4%EC%97%AC%EC%A7%84_%EC%96%B4%ED%95%AD-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진실의 거짓말]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%84%ec%8b%a4%ec%9d%98-%ea%b1%b0%ec%a7%93%eb%a7%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%84%ec%8b%a4%ec%9d%98-%ea%b1%b0%ec%a7%93%eb%a7%90/</guid>
-            <pubDate>Tue, 16 Jul 2024 05:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[CR태규]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_CR%ED%83%9C%EA%B7%9C_%EC%A7%84%EC%8B%A4%EC%9D%98-%EA%B1%B0%EC%A7%93%EB%A7%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워터에이징]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9b%8c%ed%84%b0%ec%97%90%ec%9d%b4%ec%a7%95/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9b%8c%ed%84%b0%ec%97%90%ec%9d%b4%ec%a7%95/</guid>
-            <pubDate>Mon, 15 Jul 2024 03:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[나린]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%98%EB%A6%B0_%EC%9B%8C%ED%84%B0%EC%97%90%EC%9D%B4%EC%A7%95-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rescue Boy]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/rescue-boy/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/rescue-boy/</guid>
-            <pubDate>Mon, 15 Jul 2024 03:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[purple coin]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_purple-coin_Rescue-Boy-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무제]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ec%a0%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ec%a0%9c/</guid>
-            <pubDate>Mon, 15 Jul 2024 03:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[김차곡]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%B0%A8%EA%B3%A1_%EB%AC%B4%EC%A0%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너에게 가까이]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%97%90%ea%b2%8c-%ea%b0%80%ea%b9%8c%ec%9d%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%97%90%ea%b2%8c-%ea%b0%80%ea%b9%8c%ec%9d%b4/</guid>
-            <pubDate>Mon, 15 Jul 2024 03:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[김석준]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%84%9D%EC%A4%80_%EB%84%88%EC%97%90%EA%B2%8C-%EA%B0%80%EA%B9%8C%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
