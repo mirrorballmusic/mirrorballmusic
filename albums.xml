@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 02:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 03:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I’m Over The Moon]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/im-over-the-moon/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/im-over-the-moon/</guid>
+            <pubDate>Thu, 25 Jul 2024 03:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_I%E2%80%99m-Over-The-Moon-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[분홍색 술과 음식]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%84%ed%99%8d%ec%83%89-%ec%88%a0%ea%b3%bc-%ec%9d%8c%ec%8b%9d/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%84%ed%99%8d%ec%83%89-%ec%88%a0%ea%b3%bc-%ec%9d%8c%ec%8b%9d/</guid>
+            <pubDate>Thu, 25 Jul 2024 03:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[찌니 (ZZINI)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B0%8C%EB%8B%88-ZZINI_%EB%B6%84%ED%99%8D%EC%83%89-%EC%88%A0%EA%B3%BC-%EC%9D%8C%EC%8B%9D-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환상체험]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%99%98%ec%83%81%ec%b2%b4%ed%97%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%99%98%ec%83%81%ec%b2%b4%ed%97%98/</guid>
+            <pubDate>Thu, 25 Jul 2024 03:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[판다는자유]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8C%90%EB%8B%A4%EB%8A%94%EC%9E%90%EC%9C%A0_%ED%99%98%EC%83%81%EC%B2%B4%ED%97%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[旦旦歌]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%e6%97%a6%e6%97%a6%e6%ad%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%e6%97%a6%e6%97%a6%e6%ad%8c/</guid>
+            <pubDate>Thu, 25 Jul 2024 03:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[Kawasxmi]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kawasxmi_%E6%97%A6%E6%97%A6%E6%AD%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Memories Of You]]></title>
             <link>http://mirrorballmusic.co.kr/albums/memories-of-you/</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 18 Jul 2024 03:20:41 GMT</pubDate>
             <content:encoded><![CDATA[연후]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%B0%ED%9B%84_%EB%82%98%EC%95%84%EA%B0%80%EB%8A%94-%EC%97%AC%ED%96%89%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPERGREEN]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/supergreen/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/supergreen/</guid>
-            <pubDate>Wed, 17 Jul 2024 03:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[맥거핀 (MGFF)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%A5%EA%B1%B0%ED%95%80-MGFF_SUPERGREEN-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trial and Error]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/trial-and-error/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/trial-and-error/</guid>
-            <pubDate>Wed, 17 Jul 2024 03:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[Fuzzy Pug (퍼지퍼그)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fuzzy-Pug-%ED%8D%BC%EC%A7%80%ED%8D%BC%EA%B7%B8_Trial-and-Error-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도깨비불이 났다]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%84%ea%b9%a8%eb%b9%84%eb%b6%88%ec%9d%b4-%eb%82%ac%eb%8b%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%84%ea%b9%a8%eb%b9%84%eb%b6%88%ec%9d%b4-%eb%82%ac%eb%8b%a4/</guid>
-            <pubDate>Wed, 17 Jul 2024 03:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[누모리 (nuMori)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%88%84%EB%AA%A8%EB%A6%AC-nuMori_%EB%8F%84%EA%B9%A8%EB%B9%84%EB%B6%88%EC%9D%B4-%EB%82%AC%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Psycho of Universe]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/psycho-of-universe/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/psycho-of-universe/</guid>
-            <pubDate>Wed, 17 Jul 2024 03:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[JUNGL$]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_JUNGL-%EC%A0%95%EA%B8%80%EC%8A%A4_Psycho-of-Universe-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
