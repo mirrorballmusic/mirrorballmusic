@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jul 2024 08:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 09:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Skinny-Chase_%EC%84%A0%EB%A6%AC%EA%B8%B0%EC%97%B0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[PUZZZLE!]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/puzzzle/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/puzzzle/</guid>
-            <pubDate>Fri, 26 Jul 2024 03:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[안온한, Nyork]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%EC%98%A8%ED%95%9C-Nyork_PUZZZLE-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바다로 간 박첨지]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4%eb%a1%9c-%ea%b0%84-%eb%b0%95%ec%b2%a8%ec%a7%80/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4%eb%a1%9c-%ea%b0%84-%eb%b0%95%ec%b2%a8%ec%a7%80/</guid>
             <pubDate>Fri, 26 Jul 2024 03:18:58 GMT</pubDate>
             <content:encoded><![CDATA[박첨지]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B2%A8%EC%A7%80_%EB%B0%94%EB%8B%A4%EB%A1%9C-%EA%B0%84-%EB%B0%95%EC%B2%A8%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PUZZZLE!]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/puzzzle/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/puzzzle/</guid>
+            <pubDate>Fri, 26 Jul 2024 03:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[안온한, Nyork]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%EC%98%A8%ED%95%9C-Nyork_PUZZZLE-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I Just Wanna Dance!]]></title>
