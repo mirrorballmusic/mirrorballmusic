@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jul 2024 08:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 09:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매일 아침 나와 인사해줘요 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%a4%ec%9d%bc-%ec%95%84%ec%b9%a8-%eb%82%98%ec%99%80-%ec%9d%b8%ec%82%ac%ed%95%b4%ec%a4%98%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%a4%ec%9d%bc-%ec%95%84%ec%b9%a8-%eb%82%98%ec%99%80-%ec%9d%b8%ec%82%ac%ed%95%b4%ec%a4%98%ec%9a%94/</guid>
+            <pubDate>Wed, 31 Jul 2024 09:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[새늘]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%83%88%EB%8A%98_%EB%A7%A4%EC%9D%BC-%EC%95%84%EC%B9%A8-%EB%82%98%EC%99%80-%EC%9D%B8%EC%82%AC%ED%95%B4%EC%A4%98%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[23:58 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/2358/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Jul 2024 03:18:35 GMT</pubDate>
             <content:encoded><![CDATA[칠론 (CHILoN)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B9%A0%EB%A1%A0-CHILoN_Oil-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빙해 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%99%ed%95%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%99%ed%95%b4/</guid>
-            <pubDate>Tue, 23 Jul 2024 03:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[cotoba (코토바)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_cotoba-%EC%BD%94%ED%86%A0%EB%B0%94_%EB%B9%99%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.273 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
