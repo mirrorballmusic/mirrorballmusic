@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Aug 2024 02:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2024 03:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽잠 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%83%88%eb%b2%bd%ec%9e%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%83%88%eb%b2%bd%ec%9e%a0/</guid>
+            <pubDate>Sat, 03 Aug 2024 03:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[화려 (Hwaryeo)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%94%EB%A0%A4-Hwaryeo_%EC%83%88%EB%B2%BD%EC%9E%A0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Let’s fall in LOVE (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/lets-fall-in-love/</link>
@@ -224,14 +232,6 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Skinny-Chase_%EC%84%A0%EB%A6%AC%EA%B8%B0%EC%97%B0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[PUZZZLE! (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/puzzzle/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/puzzzle/</guid>
-            <pubDate>Fri, 26 Jul 2024 03:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[안온한, Nyork]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%EC%98%A8%ED%95%9C-Nyork_PUZZZLE-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바다로 간 박첨지 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4%eb%a1%9c-%ea%b0%84-%eb%b0%95%ec%b2%a8%ec%a7%80/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%8b%a4%eb%a1%9c-%ea%b0%84-%eb%b0%95%ec%b2%a8%ec%a7%80/</guid>
@@ -240,12 +240,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B2%A8%EC%A7%80_%EB%B0%94%EB%8B%A4%EB%A1%9C-%EA%B0%84-%EB%B0%95%EC%B2%A8%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[I Just Wanna Dance! (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-just-wanna-dance/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-just-wanna-dance/</guid>
+            <title><![CDATA[PUZZZLE! (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/puzzzle/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/puzzzle/</guid>
             <pubDate>Fri, 26 Jul 2024 03:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[The Joyfools]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Joyfools_I-Just-Wanna-Dance-2-300x300.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[안온한, Nyork]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%EC%98%A8%ED%95%9C-Nyork_PUZZZLE-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.273 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
