@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 01:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 03:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Shard Will Find Me]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/the-shard-will-find-me/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/the-shard-will-find-me/</guid>
+            <pubDate>Mon, 05 Aug 2024 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[트램폴린(Trampauline)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8A%B8%EB%9E%A8%ED%8F%B4%EB%A6%B0-Trampauline_The-Shard-Will-Find-Me-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sing Sing Sing]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sing-sing-sing/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sing-sing-sing/</guid>
+            <pubDate>Mon, 05 Aug 2024 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[Southern terminal(밴드 남부터미널)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Southern-terminal-%EB%B0%B4%EB%93%9C-%EB%82%A8%EB%B6%80%ED%84%B0%EB%AF%B8%EB%84%90_Sing-Sing-Sing-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반만 남은 달]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%98%eb%a7%8c-%eb%82%a8%ec%9d%80-%eb%8b%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%98%eb%a7%8c-%eb%82%a8%ec%9d%80-%eb%8b%ac/</guid>
+            <pubDate>Mon, 05 Aug 2024 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[한지구 X 김문고]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EC%A7%80%EA%B5%AC-X-%EA%B9%80%EB%AC%B8%EA%B3%A0_%EB%B0%98%EB%A7%8C-%EB%82%A8%EC%9D%80-%EB%8B%AC-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Old Me]]></title>
             <link>http://mirrorballmusic.co.kr/albums/old-me/</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 28 Jul 2024 03:18:12 GMT</pubDate>
             <content:encoded><![CDATA[김꽃]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EA%BD%83_Come-To-My-Little-Garden-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친구처럼]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b9%9c%ea%b5%ac%ec%b2%98%eb%9f%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b9%9c%ea%b5%ac%ec%b2%98%eb%9f%bc/</guid>
-            <pubDate>Sat, 27 Jul 2024 04:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[noin]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_noin_%EC%B9%9C%EA%B5%AC%EC%B2%98%EB%9F%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선리기연]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%84%a0%eb%a6%ac%ea%b8%b0%ec%97%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%a0%eb%a6%ac%ea%b8%b0%ec%97%b0/</guid>
-            <pubDate>Fri, 26 Jul 2024 03:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[Skinny Chase]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Skinny-Chase_%EC%84%A0%EB%A6%AC%EA%B8%B0%EC%97%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PUZZZLE!]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/puzzzle/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/puzzzle/</guid>
-            <pubDate>Sun, 04 Aug 2024 12:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[안온한, Nyork]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%EC%98%A8%ED%95%9C-Nyork_PUZZZLE-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
