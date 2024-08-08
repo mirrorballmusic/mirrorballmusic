@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 02:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 03:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발그레]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%9c%ea%b7%b8%eb%a0%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%9c%ea%b7%b8%eb%a0%88/</guid>
+            <pubDate>Thu, 08 Aug 2024 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[정가이 (와인루프)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EA%B0%80%EC%9D%B4-%EC%99%80%EC%9D%B8%EB%A3%A8%ED%94%84_%EB%B0%9C%EA%B7%B8%EB%A0%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 넌]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%80-%eb%84%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%80-%eb%84%8c/</guid>
+            <pubDate>Thu, 08 Aug 2024 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[HOZIHO]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_HOZIHO_%EC%98%A4%EB%8A%98%EC%9D%80-%EB%84%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먹구름]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a8%b9%ea%b5%ac%eb%a6%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a8%b9%ea%b5%ac%eb%a6%84/</guid>
+            <pubDate>Thu, 08 Aug 2024 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[Leaven (레븐)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Leaven-%EB%A0%88%EB%B8%90_%EB%A8%B9%EA%B5%AC%EB%A6%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미러볼]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%af%b8%eb%9f%ac%eb%b3%bc/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%b8%eb%9f%ac%eb%b3%bc/</guid>
+            <pubDate>Thu, 08 Aug 2024 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[김파다]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%ED%8C%8C%EB%8B%A4_%EB%AF%B8%EB%9F%AC%EB%B3%BC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moon]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/moon/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/moon/</guid>
+            <pubDate>Thu, 08 Aug 2024 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[Kawasxmi]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kawasxmi_Moon-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환영해]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%99%98%ec%98%81%ed%95%b4/</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 31 Jul 2024 09:18:32 GMT</pubDate>
             <content:encoded><![CDATA[새늘]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%83%88%EB%8A%98_%EB%A7%A4%EC%9D%BC-%EC%95%84%EC%B9%A8-%EB%82%98%EC%99%80-%EC%9D%B8%EC%82%AC%ED%95%B4%EC%A4%98%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[23:58]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/2358/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/2358/</guid>
-            <pubDate>Wed, 31 Jul 2024 03:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[DETUNE]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_DETUNE_2358-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Clover]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/clover/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/clover/</guid>
-            <pubDate>Wed, 31 Jul 2024 03:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[이은정]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%9D%80%EC%A0%95_Clover-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[nEwCHAt]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/newchat/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/newchat/</guid>
-            <pubDate>Wed, 31 Jul 2024 03:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[최미루]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EB%AF%B8%EB%A3%A8_nEwCHAt-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미광성]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ea%b4%91%ec%84%b1/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%b8%ea%b4%91%ec%84%b1/</guid>
-            <pubDate>Tue, 30 Jul 2024 03:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[옛그리움 (Old Yearning)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%9B%EA%B7%B8%EB%A6%AC%EC%9B%80-Old-Yearning_%EB%AF%B8%EA%B4%91%EC%84%B1-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Where am i right now!]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/where-am-i-right-now/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/where-am-i-right-now/</guid>
-            <pubDate>Tue, 30 Jul 2024 03:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[삼월생]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%BC%EC%9B%94%EC%83%9D_Where-am-i-right-now-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
