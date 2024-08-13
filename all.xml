@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 02:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 03:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카레의 노래 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b9%b4%eb%a0%88%ec%9d%98-%eb%85%b8%eb%9e%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b9%b4%eb%a0%88%ec%9d%98-%eb%85%b8%eb%9e%98/</guid>
+            <pubDate>Tue, 13 Aug 2024 03:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[조형우]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%ED%98%95%EC%9A%B0_%EC%B9%B4%EB%A0%88%EC%9D%98-%EB%85%B8%EB%9E%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy live like this (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/happy-live-like-this/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/happy-live-like-this/</guid>
+            <pubDate>Tue, 13 Aug 2024 03:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[YOKO]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_YOKO_Happy-live-like-this-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STATION Z (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/station-z/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/station-z/</guid>
+            <pubDate>Tue, 13 Aug 2024 03:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[WIREPULLER]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WIREPULLER_STATION-Z-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hourglass (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/hourglass/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/hourglass/</guid>
+            <pubDate>Tue, 13 Aug 2024 03:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[De’beus (디비어스)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_De%E2%80%99beus-%EB%94%94%EB%B9%84%EC%96%B4%EC%8A%A4_Hourglass-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[illusion (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/illusion/</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 05 Aug 2024 03:18:42 GMT</pubDate>
             <content:encoded><![CDATA[트램폴린(Trampauline)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8A%B8%EB%9E%A8%ED%8F%B4%EB%A6%B0-Trampauline_The-Shard-Will-Find-Me-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sing Sing Sing (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/sing-sing-sing/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/sing-sing-sing/</guid>
-            <pubDate>Mon, 05 Aug 2024 03:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[Southern terminal(밴드 남부터미널)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Southern-terminal-%EB%B0%B4%EB%93%9C-%EB%82%A8%EB%B6%80%ED%84%B0%EB%AF%B8%EB%84%90_Sing-Sing-Sing-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반만 남은 달 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%98%eb%a7%8c-%eb%82%a8%ec%9d%80-%eb%8b%ac/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%98%eb%a7%8c-%eb%82%a8%ec%9d%80-%eb%8b%ac/</guid>
-            <pubDate>Mon, 05 Aug 2024 03:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[한지구 X 김문고]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EC%A7%80%EA%B5%AC-X-%EA%B9%80%EB%AC%B8%EA%B3%A0_%EB%B0%98%EB%A7%8C-%EB%82%A8%EC%9D%80-%EB%8B%AC-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Old Me (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/old-me/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/old-me/</guid>
-            <pubDate>Sun, 04 Aug 2024 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[marine (마린)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_marine-%EB%A7%88%EB%A6%B0_Old-Me-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새벽잠 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%83%88%eb%b2%bd%ec%9e%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%83%88%eb%b2%bd%ec%9e%a0/</guid>
-            <pubDate>Sat, 03 Aug 2024 03:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[화려 (Hwaryeo)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%94%EB%A0%A4-Hwaryeo_%EC%83%88%EB%B2%BD%EC%9E%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.273 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
