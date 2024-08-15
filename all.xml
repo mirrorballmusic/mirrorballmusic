@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 02:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 03:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌아와 줘 (feat. 박현서) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ec%99%80-%ec%a4%98-feat-%eb%b0%95%ed%98%84%ec%84%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ec%99%80-%ec%a4%98-feat-%eb%b0%95%ed%98%84%ec%84%9c/</guid>
+            <pubDate>Thu, 15 Aug 2024 03:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[SHUYA]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SHUYA_%EB%8F%8C%EC%95%84%EC%99%80-%EC%A4%98-feat.-%EB%B0%95%ED%98%84%EC%84%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[lofi 01 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/lofi-01/</link>
@@ -240,12 +248,11 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EC%A0%95%EC%9D%B8_%EB%B8%94%EB%9E%99%ED%99%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SWEET DREAM (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/sweet-dream-3/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/sweet-dream-3/</guid>
-            <pubDate>Wed, 07 Aug 2024 03:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[jaun]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_jaun_SWEET-DREAM-2-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.274 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-274/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-274/</guid>
+            <pubDate>Thu, 15 Aug 2024 03:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.11 ~ 2024.07.25]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.273 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -334,14 +341,6 @@
             <pubDate>Thu, 29 Feb 2024 03:16:35 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.26 ~ 2024.02.10]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%83%9D%EA%B0%81%EC%9D%98-%EC%97%AC%EB%A6%84-1-300x300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.262 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-262/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-262/</guid>
-            <pubDate>Thu, 15 Feb 2024 05:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.11 ~ 2024.01.25]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%ED%84%B0%EC%B9%98%EB%93%9C-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
