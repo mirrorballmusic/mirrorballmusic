@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 09:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 10:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -253,6 +253,7 @@
             <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-274/</guid>
             <pubDate>Thu, 15 Aug 2024 03:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.11 ~ 2024.07.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/20240816_182939-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.273 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
