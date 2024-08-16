@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 02:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 03:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[victim (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/victim/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/victim/</guid>
+            <pubDate>Fri, 16 Aug 2024 03:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[타루]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%A3%A8_victim-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DRIVE (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/drive-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/drive-3/</guid>
+            <pubDate>Fri, 16 Aug 2024 03:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[한상우]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EC%83%81%EC%9A%B0_DRIVE-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청을 그리다 (靑描) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b2%ad%ec%9d%84-%ea%b7%b8%eb%a6%ac%eb%8b%a4-%e9%9d%91%e6%8f%8f/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b2%ad%ec%9d%84-%ea%b7%b8%eb%a6%ac%eb%8b%a4-%e9%9d%91%e6%8f%8f/</guid>
+            <pubDate>Fri, 16 Aug 2024 03:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[소란하는 밤]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%8C%EB%9E%80%ED%95%98%EB%8A%94-%EB%B0%A4_%EC%B2%AD%EC%9D%84-%EA%B7%B8%EB%A6%AC%EB%8B%A4-%E9%9D%91%E6%8F%8F-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌아와 줘 (feat. 박현서) (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ec%99%80-%ec%a4%98-feat-%eb%b0%95%ed%98%84%ec%84%9c/</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 07 Aug 2024 03:19:03 GMT</pubDate>
             <content:encoded><![CDATA[강백수]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EB%B0%B1%EC%88%98_%ED%99%98%EC%98%81%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어머니 아버지 전 잘 지내고 있어요 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%96%b4%eb%a8%b8%eb%8b%88-%ec%95%84%eb%b2%84%ec%a7%80-%ec%a0%84-%ec%9e%98-%ec%a7%80%eb%82%b4%ea%b3%a0-%ec%9e%88%ec%96%b4%ec%9a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%96%b4%eb%a8%b8%eb%8b%88-%ec%95%84%eb%b2%84%ec%a7%80-%ec%a0%84-%ec%9e%98-%ec%a7%80%eb%82%b4%ea%b3%a0-%ec%9e%88%ec%96%b4%ec%9a%94/</guid>
-            <pubDate>Wed, 07 Aug 2024 03:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[백광흠]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EA%B4%91%ED%9D%A0_%EC%96%B4%EB%A8%B8%EB%8B%88-%EC%95%84%EB%B2%84%EC%A7%80-%EC%A0%84-%EC%9E%98-%EC%A7%80%EB%82%B4%EA%B3%A0-%EC%9E%88%EC%96%B4%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eye 1/2 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/eye-1-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/eye-1-2/</guid>
-            <pubDate>Wed, 07 Aug 2024 03:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[디어드민]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%94%94%EC%96%B4%EB%93%9C%EB%AF%BC_Eye-1_2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙홀 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b8%94%eb%9e%99%ed%99%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b8%94%eb%9e%99%ed%99%80/</guid>
-            <pubDate>Wed, 07 Aug 2024 03:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[한정인]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EC%A0%95%EC%9D%B8_%EB%B8%94%EB%9E%99%ED%99%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.274 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
