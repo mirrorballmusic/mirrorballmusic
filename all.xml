@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Aug 2024 08:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Aug 2024 10:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pier (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/pier/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/pier/</guid>
+            <pubDate>Sun, 18 Aug 2024 10:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_Pier-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[01 (영원) (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/01-%ec%98%81%ec%9b%90/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Aug 2024 03:18:37 GMT</pubDate>
             <content:encoded><![CDATA[김파다]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%ED%8C%8C%EB%8B%A4_%EB%AF%B8%EB%9F%AC%EB%B3%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moon (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/moon/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/moon/</guid>
-            <pubDate>Thu, 08 Aug 2024 03:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[Kawasxmi]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kawasxmi_Moon-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.274 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
