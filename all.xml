@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 02:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 03:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다 괜찮아질 거래 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4-%ea%b4%9c%ec%b0%ae%ec%95%84%ec%a7%88-%ea%b1%b0%eb%9e%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%a4-%ea%b4%9c%ec%b0%ae%ec%95%84%ec%a7%88-%ea%b1%b0%eb%9e%98/</guid>
+            <pubDate>Fri, 23 Aug 2024 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[김훨]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%ED%9B%A8_%EB%8B%A4-%EA%B4%9C%EC%B0%AE%EC%95%84%EC%A7%88-%EA%B1%B0%EB%9E%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer Complex (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/summer-complex/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/summer-complex/</guid>
+            <pubDate>Fri, 23 Aug 2024 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[Nostalgia Complex]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Nostalgia-Complex_Summer-Complex-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crazy (feat. Josh Paulino) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/crazy-feat-josh-paulino/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/crazy-feat-josh-paulino/</guid>
+            <pubDate>Fri, 23 Aug 2024 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[William Son (윌리엄 손)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_William-Son-%EC%9C%8C%EB%A6%AC%EC%97%84-%EC%86%90_Crazy-feat.-Josh-Paulino-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer Evening (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/summer-evening/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/summer-evening/</guid>
+            <pubDate>Fri, 23 Aug 2024 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[BinyBin (조성빈)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BinyBin-%EC%A1%B0%EC%84%B1%EB%B9%88_Summer-Evening-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ya! (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/ya-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/ya-2/</guid>
+            <pubDate>Fri, 23 Aug 2024 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[캔들즈]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%BA%94%EB%93%A4%EC%A6%88_ya-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Domino (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/domino-2/</link>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 15 Aug 2024 03:28:34 GMT</pubDate>
             <content:encoded><![CDATA[SHUYA]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SHUYA_%EB%8F%8C%EC%95%84%EC%99%80-%EC%A4%98-feat.-%EB%B0%95%ED%98%84%EC%84%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[lofi 01 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/lofi-01/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/lofi-01/</guid>
-            <pubDate>Wed, 14 Aug 2024 03:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[kenessi]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kenessi_lofi-01-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-2/</guid>
-            <pubDate>Wed, 14 Aug 2024 03:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[오프더로드]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%ED%94%84%EB%8D%94%EB%A1%9C%EB%93%9C_I-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Time to surf (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/time-to-surf/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/time-to-surf/</guid>
-            <pubDate>Wed, 14 Aug 2024 03:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[스트레이터스]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%84%B0%EC%8A%A4_Time-to-surf-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[별에서 온 편지_김학순 歌 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b3%84%ec%97%90%ec%84%9c-%ec%98%a8-%ed%8e%b8%ec%a7%80_%ea%b9%80%ed%95%99%ec%88%9c-%e6%ad%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b3%84%ec%97%90%ec%84%9c-%ec%98%a8-%ed%8e%b8%ec%a7%80_%ea%b9%80%ed%95%99%ec%88%9c-%e6%ad%8c/</guid>
-            <pubDate>Wed, 14 Aug 2024 03:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[우리소리 모색 (Woorisori Mosaek)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%B0%EB%A6%AC%EC%86%8C%EB%A6%AC-%EB%AA%A8%EC%83%89_%EB%B3%84%EC%97%90%EC%84%9C-%EC%98%A8-%ED%8E%B8%EC%A7%80_%EA%B9%80%ED%95%99%EC%88%9C-%E6%AD%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kidology (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/kidology/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/kidology/</guid>
-            <pubDate>Wed, 14 Aug 2024 03:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[kidohu]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kidohu_Kidology-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.274 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
