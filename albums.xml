@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Aug 2024 02:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Aug 2024 03:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SDN]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sdn/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sdn/</guid>
+            <pubDate>Sat, 24 Aug 2024 03:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[0do]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_0do_SDN-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다 괜찮아질 거래]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4-%ea%b4%9c%ec%b0%ae%ec%95%84%ec%a7%88-%ea%b1%b0%eb%9e%98/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Aug 2024 03:20:41 GMT</pubDate>
             <content:encoded><![CDATA[소란하는 밤]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%86%8C%EB%9E%80%ED%95%98%EB%8A%94-%EB%B0%A4_%EC%B2%AD%EC%9D%84-%EA%B7%B8%EB%A6%AC%EB%8B%A4-%E9%9D%91%E6%8F%8F-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아와 줘 (feat. 박현서)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ec%99%80-%ec%a4%98-feat-%eb%b0%95%ed%98%84%ec%84%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ec%99%80-%ec%a4%98-feat-%eb%b0%95%ed%98%84%ec%84%9c/</guid>
-            <pubDate>Thu, 15 Aug 2024 03:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[SHUYA]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SHUYA_%EB%8F%8C%EC%95%84%EC%99%80-%EC%A4%98-feat.-%EB%B0%95%ED%98%84%EC%84%9C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
