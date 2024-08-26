@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 03:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 04:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I Want You Back!]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/i-want-you-back/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/i-want-you-back/</guid>
+            <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[hemming]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_hemming_I-Want-You-Back-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화의 시작은 불이 꺼지는 순간]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%81%ed%99%94%ec%9d%98-%ec%8b%9c%ec%9e%91%ec%9d%80-%eb%b6%88%ec%9d%b4-%ea%ba%bc%ec%a7%80%eb%8a%94-%ec%88%9c%ea%b0%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%81%ed%99%94%ec%9d%98-%ec%8b%9c%ec%9e%91%ec%9d%80-%eb%b6%88%ec%9d%b4-%ea%ba%bc%ec%a7%80%eb%8a%94-%ec%88%9c%ea%b0%84/</guid>
+            <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[오아 (OHAH)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%95%84-OHAH_%EC%98%81%ED%99%94%EC%9D%98-%EC%8B%9C%EC%9E%91%EC%9D%80-%EB%B6%88%EC%9D%B4-%EA%BA%BC%EC%A7%80%EB%8A%94-%EC%88%9C%EA%B0%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[III]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/iii-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/iii-3/</guid>
+            <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[LPBX]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_LPBX_III-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wasting Away]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/wasting-away/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/wasting-away/</guid>
+            <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[The Godot (더 고도)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Godot-%EB%8D%94-%EA%B3%A0%EB%8F%84_Wasting-Away-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 아픔도]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%84%ed%94%94%eb%8f%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%84%ed%94%94%eb%8f%84/</guid>
+            <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[백광흠]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EA%B4%91%ED%9D%A0_%EC%98%A4%EB%8A%98%EC%9D%98-%EC%95%84%ED%94%94%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A Lovely, Day]]></title>
             <link>http://mirrorballmusic.co.kr/albums/a-lovely-day/</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 19 Aug 2024 03:18:40 GMT</pubDate>
             <content:encoded><![CDATA[요정]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%EC%99%80%EC%9A%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Doll]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/doll/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/doll/</guid>
-            <pubDate>Mon, 19 Aug 2024 03:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[스키틀즈]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8A%A4%ED%82%A4%ED%8B%80%EC%A6%88_Doll-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pier]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/pier/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/pier/</guid>
-            <pubDate>Sun, 18 Aug 2024 10:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_Pier-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[01 (영원)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/01-%ec%98%81%ec%9b%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/01-%ec%98%81%ec%9b%90/</guid>
-            <pubDate>Sat, 17 Aug 2024 03:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[오윤]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%9C%A4_01-%EC%98%81%EC%9B%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[victim]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/victim/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/victim/</guid>
-            <pubDate>Fri, 16 Aug 2024 03:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[타루]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%A3%A8_victim-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIVE]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/drive-3/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/drive-3/</guid>
-            <pubDate>Fri, 16 Aug 2024 03:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[한상우]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EC%83%81%EC%9A%B0_DRIVE-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
