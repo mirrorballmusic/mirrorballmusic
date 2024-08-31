@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 16:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 17:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,20 +200,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_LPBX_III-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Wasting Away]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/wasting-away/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/wasting-away/</guid>
-            <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[The Godot (더 고도)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Godot-%EB%8D%94-%EA%B3%A0%EB%8F%84_Wasting-Away-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오늘의 아픔도]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%84%ed%94%94%eb%8f%84/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%84%ed%94%94%eb%8f%84/</guid>
             <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
             <content:encoded><![CDATA[백광흠]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EA%B4%91%ED%9D%A0_%EC%98%A4%EB%8A%98%EC%9D%98-%EC%95%84%ED%94%94%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wasting Away]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/wasting-away/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/wasting-away/</guid>
+            <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[The Godot (더 고도)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Godot-%EB%8D%94-%EA%B3%A0%EB%8F%84_Wasting-Away-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[A Lovely, Day]]></title>
