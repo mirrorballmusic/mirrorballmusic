@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 02:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 03:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너울 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%9a%b8/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%9a%b8/</guid>
+            <pubDate>Sat, 31 Aug 2024 03:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[청슬 (ChungSeul)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B2%AD%EC%8A%AC-ChungSeul_%EB%84%88%EC%9A%B8-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BLUE SEA (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/blue-sea/</link>
@@ -192,20 +200,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_LPBX_III-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘의 아픔도 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%84%ed%94%94%eb%8f%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%84%ed%94%94%eb%8f%84/</guid>
-            <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[백광흠]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EA%B4%91%ED%9D%A0_%EC%98%A4%EB%8A%98%EC%9D%98-%EC%95%84%ED%94%94%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Wasting Away (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/wasting-away/</link>
             <guid>http://mirrorballmusic.co.kr/albums/wasting-away/</guid>
             <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
             <content:encoded><![CDATA[The Godot (더 고도)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Godot-%EB%8D%94-%EA%B3%A0%EB%8F%84_Wasting-Away-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 아픔도 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%84%ed%94%94%eb%8f%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%84%ed%94%94%eb%8f%84/</guid>
+            <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[백광흠]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EA%B4%91%ED%9D%A0_%EC%98%A4%EB%8A%98%EC%9D%98-%EC%95%84%ED%94%94%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[A Lovely, Day (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -240,12 +248,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Nostalgia-Complex_Summer-Complex-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Crazy (feat. Josh Paulino) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/crazy-feat-josh-paulino/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/crazy-feat-josh-paulino/</guid>
-            <pubDate>Fri, 23 Aug 2024 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[William Son (윌리엄 손)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_William-Son-%EC%9C%8C%EB%A6%AC%EC%97%84-%EC%86%90_Crazy-feat.-Josh-Paulino-2-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.275 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-275/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-275/</guid>
+            <pubDate>Sat, 31 Aug 2024 03:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.26 ~ 2024.08.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EA%B9%80%EC%82%AC%EC%9B%94-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.274 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -334,14 +342,6 @@
             <pubDate>Fri, 15 Mar 2024 03:17:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.11 ~ 2024.02.25]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94-300x300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.263 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-263/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-263/</guid>
-            <pubDate>Thu, 29 Feb 2024 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.26 ~ 2024.02.10]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/02/%EC%83%9D%EA%B0%81%EC%9D%98-%EC%97%AC%EB%A6%84-1-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
