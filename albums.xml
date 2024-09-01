@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Sep 2024 02:53:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Sep 2024 03:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상은 내가 없어도]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%84%b8%ec%83%81%ec%9d%80-%eb%82%b4%ea%b0%80-%ec%97%86%ec%96%b4%eb%8f%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%b8%ec%83%81%ec%9d%80-%eb%82%b4%ea%b0%80-%ec%97%86%ec%96%b4%eb%8f%84/</guid>
+            <pubDate>Sun, 01 Sep 2024 03:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[이유카]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%9C%A0%EC%B9%B4_%EC%84%B8%EC%83%81%EC%9D%80-%EB%82%B4%EA%B0%80-%EC%97%86%EC%96%B4%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너울]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%9a%b8/</link>
@@ -200,20 +208,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_LPBX_III-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘의 아픔도]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%84%ed%94%94%eb%8f%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%84%ed%94%94%eb%8f%84/</guid>
-            <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[백광흠]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EA%B4%91%ED%9D%A0_%EC%98%A4%EB%8A%98%EC%9D%98-%EC%95%84%ED%94%94%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Wasting Away]]></title>
             <link>http://mirrorballmusic.co.kr/albums/wasting-away/</link>
             <guid>http://mirrorballmusic.co.kr/albums/wasting-away/</guid>
             <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
             <content:encoded><![CDATA[The Godot (더 고도)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Godot-%EB%8D%94-%EA%B3%A0%EB%8F%84_Wasting-Away-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 아픔도]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%84%ed%94%94%eb%8f%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%84%ed%94%94%eb%8f%84/</guid>
+            <pubDate>Mon, 26 Aug 2024 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[백광흠]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EA%B4%91%ED%9D%A0_%EC%98%A4%EB%8A%98%EC%9D%98-%EC%95%84%ED%94%94%EB%8F%84-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[A Lovely, Day]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 23 Aug 2024 03:18:46 GMT</pubDate>
             <content:encoded><![CDATA[김훨]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%ED%9B%A8_%EB%8B%A4-%EA%B4%9C%EC%B0%AE%EC%95%84%EC%A7%88-%EA%B1%B0%EB%9E%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer Complex]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/summer-complex/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/summer-complex/</guid>
-            <pubDate>Fri, 23 Aug 2024 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[Nostalgia Complex]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Nostalgia-Complex_Summer-Complex-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
