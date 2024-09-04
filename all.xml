@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 11:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 12:36:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%AF%BC%EC%84%9D_%EC%B0%B0%EC%B9%B5-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Deep Blue Ocean (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/deep-blue-ocean/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/deep-blue-ocean/</guid>
-            <pubDate>Mon, 02 Sep 2024 05:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[UM KI EUNG TRIAL BAND]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_UM-KI-EUNG-TRIAL-BAND_Deep-Blue-Ocean-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[무화과 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ed%99%94%ea%b3%bc/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ed%99%94%ea%b3%bc/</guid>
             <pubDate>Mon, 02 Sep 2024 05:17:11 GMT</pubDate>
             <content:encoded><![CDATA[웬지]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9B%AC%EC%A7%80_%EB%AC%B4%ED%99%94%EA%B3%BC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deep Blue Ocean (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/deep-blue-ocean/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/deep-blue-ocean/</guid>
+            <pubDate>Mon, 02 Sep 2024 05:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[UM KI EUNG TRIAL BAND]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_UM-KI-EUNG-TRIAL-BAND_Deep-Blue-Ocean-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리에게 (미러볼뮤직 ─ ALBUMS)]]></title>
