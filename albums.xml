@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 02:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 03:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lullabye]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/lullabye/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/lullabye/</guid>
+            <pubDate>Thu, 12 Sep 2024 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[동경]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8F%99%EA%B2%BD_Lullabye-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ringo]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/ringo/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/ringo/</guid>
+            <pubDate>Thu, 12 Sep 2024 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[하수안]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%98%EC%88%98%EC%95%88_Ringo-2%E3%85%87-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[花火 (Hanabi)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%e8%8a%b1%e7%81%ab-hanabi/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%e8%8a%b1%e7%81%ab-hanabi/</guid>
+            <pubDate>Thu, 12 Sep 2024 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[일일]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%BC%EC%9D%BC_%E8%8A%B1%E7%81%AB-Hanabi-2%E3%85%87-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그게 나였고, 모두 너였어 (feat. doyouka)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%ea%b2%8c-%eb%82%98%ec%98%80%ea%b3%a0-%eb%aa%a8%eb%91%90-%eb%84%88%ec%98%80%ec%96%b4-feat-doyouka/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%ea%b2%8c-%eb%82%98%ec%98%80%ea%b3%a0-%eb%aa%a8%eb%91%90-%eb%84%88%ec%98%80%ec%96%b4-feat-doyouka/</guid>
+            <pubDate>Thu, 12 Sep 2024 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[정정민]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EC%A0%95%EB%AF%BC_%EA%B7%B8%EA%B2%8C-%EB%82%98%EC%98%80%EA%B3%A0-%EB%AA%A8%EB%91%90-%EB%84%88%EC%98%80%EC%96%B4-feat.-doyouka-2%E3%85%87-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알려줘]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%95%8c%eb%a0%a4%ec%a4%98/</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 05 Sep 2024 03:18:48 GMT</pubDate>
             <content:encoded><![CDATA[오와지]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Summer-Curtain-Call-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아오는길]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ec%98%a4%eb%8a%94%ea%b8%b8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%8c%ec%95%84%ec%98%a4%eb%8a%94%ea%b8%b8/</guid>
-            <pubDate>Thu, 05 Sep 2024 03:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[신효진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%ED%9A%A8%EC%A7%84_%EB%8F%8C%EC%95%84%EC%98%A4%EB%8A%94%EA%B8%B8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forever we young]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/forever-we-young/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/forever-we-young/</guid>
-            <pubDate>Wed, 04 Sep 2024 03:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[신지민 (zemean)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EC%A7%80%EB%AF%BC-zemean_Forever-we-young-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Start line]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/start-line/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/start-line/</guid>
-            <pubDate>Wed, 04 Sep 2024 03:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[Kim]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kim_Start-line-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우린모두거짓말을해]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%b0%eb%aa%a8%eb%91%90%ea%b1%b0%ec%a7%93%eb%a7%90%ec%9d%84%ed%95%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%b0%eb%aa%a8%eb%91%90%ea%b1%b0%ec%a7%93%eb%a7%90%ec%9d%84%ed%95%b4/</guid>
-            <pubDate>Wed, 04 Sep 2024 03:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[박공원]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EA%B3%B5%EC%9B%90_%EC%9A%B0%EB%A6%B0%EB%AA%A8%EB%91%90%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9D%84%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
