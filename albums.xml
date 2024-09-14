@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Sep 2024 01:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Sep 2024 03:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제자리]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%9c%ec%9e%90%eb%a6%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%9c%ec%9e%90%eb%a6%ac/</guid>
+            <pubDate>Sat, 14 Sep 2024 03:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[아륜]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EB%A5%9C_%EC%A0%9C%EC%9E%90%EB%A6%AC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강남무지개 Part.2]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b0%95%eb%82%a8%eb%ac%b4%ec%a7%80%ea%b0%9c-part-2/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Sep 2024 03:19:11 GMT</pubDate>
             <content:encoded><![CDATA[ky0]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ky0_Star-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그림자]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a6%bc%ec%9e%90-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a6%bc%ec%9e%90-2/</guid>
-            <pubDate>Fri, 06 Sep 2024 03:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[조수현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%88%98%ED%98%84_%EA%B7%B8%EB%A6%BC%EC%9E%90-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
