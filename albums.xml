@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Sep 2024 02:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 03:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공범]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%b5%eb%b2%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%b5%eb%b2%94/</guid>
+            <pubDate>Sun, 15 Sep 2024 03:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[jaun]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_jaun_%EA%B3%B5%EB%B2%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제자리]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%a0%9c%ec%9e%90%eb%a6%ac/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Sep 2024 03:19:11 GMT</pubDate>
             <content:encoded><![CDATA[강아루]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EC%95%84%EB%A3%A8_%EC%9D%B4-%EB%82%98%EC%9D%98-%EC%A7%84%EC%8B%AC%EC%9D%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Star]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/star/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/star/</guid>
-            <pubDate>Fri, 06 Sep 2024 03:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[ky0]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ky0_Star-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

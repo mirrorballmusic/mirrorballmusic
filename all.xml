@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Sep 2024 02:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 03:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공범 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%b5%eb%b2%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%b5%eb%b2%94/</guid>
+            <pubDate>Sun, 15 Sep 2024 03:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[jaun]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_jaun_%EA%B3%B5%EB%B2%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제자리 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%a0%9c%ec%9e%90%eb%a6%ac/</link>
@@ -240,12 +248,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EC%95%84%EB%A3%A8_%EC%9D%B4-%EB%82%98%EC%9D%98-%EC%A7%84%EC%8B%AC%EC%9D%84-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Star (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/star/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/star/</guid>
-            <pubDate>Fri, 06 Sep 2024 03:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[ky0]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ky0_Star-2-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.276 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-276/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-276/</guid>
+            <pubDate>Sun, 15 Sep 2024 03:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.11 ~ 2024.08.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.275 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -334,14 +342,6 @@
             <pubDate>Sun, 31 Mar 2024 03:17:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.16 ~ 2024.03.10]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EB%94%94%EC%97%90%EC%9D%B4%EB%93%9C-300x300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.264 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-263-2/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-263-2/</guid>
-            <pubDate>Fri, 15 Mar 2024 03:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.11 ~ 2024.02.25]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/03/%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
