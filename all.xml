@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 02:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 03:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Entire i (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/entire-i/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/entire-i/</guid>
+            <pubDate>Wed, 18 Sep 2024 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[김각성]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EA%B0%81%EC%84%B1_Entire-i-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[may (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/may/</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 09 Sep 2024 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[SIRO]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SIRO_%EB%82%A0%EC%95%84%EA%B0%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼잣말 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%98%bc%ec%9e%a3%eb%a7%90-3/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%98%bc%ec%9e%a3%eb%a7%90-3/</guid>
-            <pubDate>Sun, 08 Sep 2024 03:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[sucozy]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_sucozy_%ED%98%BC%EC%9E%A3%EB%A7%90-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.276 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
