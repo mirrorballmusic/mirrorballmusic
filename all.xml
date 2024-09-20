@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 02:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 03:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반짝! (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%98%ec%a7%9d/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%98%ec%a7%9d/</guid>
+            <pubDate>Fri, 20 Sep 2024 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[패러렐 (Parallel)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8C%A8%EB%9F%AC%EB%A0%90-Parallel_%EB%B0%98%EC%A7%9D-2%E3%85%87-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mary (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/mary/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/mary/</guid>
+            <pubDate>Fri, 20 Sep 2024 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[이새한]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%83%88%ED%95%9C_Mary-2%E3%85%87-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Euphoria (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/euphoria/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/euphoria/</guid>
+            <pubDate>Fri, 20 Sep 2024 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[PYO]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_PYO_Euphoria-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영원 (Everlasting Love) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%81%ec%9b%90-everlasting-love/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%81%ec%9b%90-everlasting-love/</guid>
+            <pubDate>Fri, 20 Sep 2024 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[윤여진]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A4%EC%97%AC%EC%A7%84_%EC%98%81%EC%9B%90-Everlasting-Love-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아름다운 세상 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%eb%a6%84%eb%8b%a4%ec%9a%b4-%ec%84%b8%ec%83%81/</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 10 Sep 2024 03:19:56 GMT</pubDate>
             <content:encoded><![CDATA[단편선 순간들]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%A8%ED%8E%B8%EC%84%A0-%EC%88%9C%EA%B0%84%EB%93%A4_%EC%9D%8C%EC%95%85%EB%A7%8C%EC%84%B8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TONIGHT (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/tonight-4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/tonight-4/</guid>
-            <pubDate>Tue, 10 Sep 2024 03:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[효자동 그루브]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9A%A8%EC%9E%90%EB%8F%99-%EA%B7%B8%EB%A3%A8%EB%B8%8C_TONIGHT-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸른 바다 안에서 살고 싶어요 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%91%b8%eb%a5%b8-%eb%b0%94%eb%8b%a4-%ec%95%88%ec%97%90%ec%84%9c-%ec%82%b4%ea%b3%a0-%ec%8b%b6%ec%96%b4%ec%9a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%91%b8%eb%a5%b8-%eb%b0%94%eb%8b%a4-%ec%95%88%ec%97%90%ec%84%9c-%ec%82%b4%ea%b3%a0-%ec%8b%b6%ec%96%b4%ec%9a%94/</guid>
-            <pubDate>Tue, 10 Sep 2024 03:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[채세파]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B1%84%EC%84%B8%ED%8C%8C_%ED%91%B8%EB%A5%B8-%EB%B0%94%EB%8B%A4-%EC%95%88%EC%97%90%EC%84%9C-%EC%82%B4%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 날씨 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84-%eb%82%a0%ec%94%a8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84-%eb%82%a0%ec%94%a8/</guid>
-            <pubDate>Tue, 10 Sep 2024 03:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[최언서]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%96%B8%EC%84%9C_%EC%97%AC%EB%A6%84-%EB%82%A0%EC%94%A8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oh Na Na Na (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/oh-na-na-na/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/oh-na-na-na/</guid>
-            <pubDate>Tue, 10 Sep 2024 03:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[Heeppo]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Heeppo_Oh-Na-Na-Na-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.276 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
