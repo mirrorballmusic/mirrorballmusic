@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Sep 2024 02:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 03:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리도 결국에는 안녕을 말하네요 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8f%84-%ea%b2%b0%ea%b5%ad%ec%97%90%eb%8a%94-%ec%95%88%eb%85%95%ec%9d%84-%eb%a7%90%ed%95%98%eb%84%a4%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8f%84-%ea%b2%b0%ea%b5%ad%ec%97%90%eb%8a%94-%ec%95%88%eb%85%95%ec%9d%84-%eb%a7%90%ed%95%98%eb%84%a4%ec%9a%94/</guid>
+            <pubDate>Sun, 22 Sep 2024 03:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[디너코트 (Dinner Coat)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%94%94%EB%84%88%EC%BD%94%ED%8A%B8-Dinner-Coat_%EC%9A%B0%EB%A6%AC%EB%8F%84-%EA%B2%B0%EA%B5%AD%EC%97%90%EB%8A%94-%EC%95%88%EB%85%95%EC%9D%84-%EB%A7%90%ED%95%98%EB%84%A4%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반짝! (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b0%98%ec%a7%9d/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 Sep 2024 03:18:47 GMT</pubDate>
             <content:encoded><![CDATA[남규원]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%A8%EA%B7%9C%EC%9B%90_%EC%9D%BC%EA%B1%B0%EC%88%98%EC%9D%BC%ED%88%AC%EC%A1%B1-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악만세 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%8c%ec%95%85%eb%a7%8c%ec%84%b8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%8c%ec%95%85%eb%a7%8c%ec%84%b8/</guid>
-            <pubDate>Tue, 10 Sep 2024 03:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[단편선 순간들]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%A8%ED%8E%B8%EC%84%A0-%EC%88%9C%EA%B0%84%EB%93%A4_%EC%9D%8C%EC%95%85%EB%A7%8C%EC%84%B8-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.276 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
