@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 01:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 02:50:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 22 Sep 2024 03:24:24 GMT</pubDate>
             <content:encoded><![CDATA[디너코트 (Dinner Coat)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%94%94%EB%84%88%EC%BD%94%ED%8A%B8-Dinner-Coat_%EC%9A%B0%EB%A6%AC%EB%8F%84-%EA%B2%B0%EA%B5%AD%EC%97%90%EB%8A%94-%EC%95%88%EB%85%95%EC%9D%84-%EB%A7%90%ED%95%98%EB%84%A4%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Autumn Breeze (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/autumn-breeze/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/autumn-breeze/</guid>
+            <pubDate>Mon, 23 Sep 2024 02:50:12 GMT</pubDate>
+            <content:encoded><![CDATA[CHOYY]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_CHOYY_Autumn-Breeze-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반짝! (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 Sep 2024 03:18:47 GMT</pubDate>
             <content:encoded><![CDATA[NORA]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_NORA_%EB%B6%88%EC%95%88-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일거수일투족 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ea%b1%b0%ec%88%98%ec%9d%bc%ed%88%ac%ec%a1%b1/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%ea%b1%b0%ec%88%98%ec%9d%bc%ed%88%ac%ec%a1%b1/</guid>
-            <pubDate>Wed, 11 Sep 2024 03:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[남규원]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%A8%EA%B7%9C%EC%9B%90_%EC%9D%BC%EA%B1%B0%EC%88%98%EC%9D%BC%ED%88%AC%EC%A1%B1-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.276 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
