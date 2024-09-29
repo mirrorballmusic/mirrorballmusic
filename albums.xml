@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Sep 2024 02:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 03:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[You’re Doing Great]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/youre-doing-great/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/youre-doing-great/</guid>
+            <pubDate>Sun, 29 Sep 2024 03:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Youre-Doing-Great-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[In The Morning]]></title>
             <link>http://mirrorballmusic.co.kr/albums/in-the-morning/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 20 Sep 2024 03:20:44 GMT</pubDate>
             <content:encoded><![CDATA[이새한]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%83%88%ED%95%9C_Mary-2%E3%85%87-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Euphoria]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/euphoria/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/euphoria/</guid>
-            <pubDate>Fri, 20 Sep 2024 03:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[PYO]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_PYO_Euphoria-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
