@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Oct 2024 02:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 03:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE Film]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/the-film/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/the-film/</guid>
+            <pubDate>Thu, 03 Oct 2024 03:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[음성사서함]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%8C%EC%84%B1%EC%82%AC%EC%84%9C%ED%95%A8_THE-Film-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[떠오른 건]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%96%a0%ec%98%a4%eb%a5%b8-%ea%b1%b4/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Sep 2024 03:25:39 GMT</pubDate>
             <content:encoded><![CDATA[시선(seasun), ido]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%9C%EC%84%A0-seasun-ido_Crush-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I have a cat]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-have-a-cat/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-have-a-cat/</guid>
-            <pubDate>Tue, 24 Sep 2024 03:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[이성수]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%84%B1%EC%88%98_I-have-a-cat-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
