@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 03:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 04:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[조금의 불안은 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a1%b0%ea%b8%88%ec%9d%98-%eb%b6%88%ec%95%88%ec%9d%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a1%b0%ea%b8%88%ec%9d%98-%eb%b6%88%ec%95%88%ec%9d%80/</guid>
-            <pubDate>Tue, 08 Oct 2024 03:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[이유카]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%9C%A0%EC%B9%B4_%EC%A1%B0%EA%B8%88%EC%9D%98-%EB%B6%88%EC%95%88%EC%9D%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[영원 사이 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%98%81%ec%9b%90-%ec%82%ac%ec%9d%b4/</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 08 Oct 2024 03:25:36 GMT</pubDate>
             <content:encoded><![CDATA[태윤 (TAEYOON)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%9C%EC%9C%A4-TAEYOON_%EC%98%81%EC%9B%90-%EC%82%AC%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조금의 불안은 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a1%b0%ea%b8%88%ec%9d%98-%eb%b6%88%ec%95%88%ec%9d%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a1%b0%ea%b8%88%ec%9d%98-%eb%b6%88%ec%95%88%ec%9d%80/</guid>
+            <pubDate>Tue, 08 Oct 2024 03:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[이유카]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%9C%A0%EC%B9%B4_%EC%A1%B0%EA%B8%88%EC%9D%98-%EB%B6%88%EC%95%88%EC%9D%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[들마다 (미러볼뮤직 ─ ALBUMS)]]></title>
