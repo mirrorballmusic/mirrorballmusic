@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Oct 2024 02:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 04:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너의 마음속 책장 안에 (feat. 김필선)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%9d%98-%eb%a7%88%ec%9d%8c%ec%86%8d-%ec%b1%85%ec%9e%a5-%ec%95%88%ec%97%90-feat-%ea%b9%80%ed%95%84%ec%84%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%9d%98-%eb%a7%88%ec%9d%8c%ec%86%8d-%ec%b1%85%ec%9e%a5-%ec%95%88%ec%97%90-feat-%ea%b9%80%ed%95%84%ec%84%a0/</guid>
+            <pubDate>Wed, 09 Oct 2024 04:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[HYUNIRANG (현이랑)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_HYUNIRANG-%ED%98%84%EC%9D%B4%EB%9E%91_%EB%84%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%86%8D-%EC%B1%85%EC%9E%A5-%EC%95%88%EC%97%90-feat.-%EA%B9%80%ED%95%84%EC%84%A0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영원 사이]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%98%81%ec%9b%90-%ec%82%ac%ec%9d%b4/</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 Sep 2024 03:28:06 GMT</pubDate>
             <content:encoded><![CDATA[온새 (Onsae)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A8%EC%83%88-Onsae_%EC%9A%B0%EC%9A%B8%ED%95%9C-%EB%85%B8%EB%9E%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You’re Doing Great]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/youre-doing-great/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/youre-doing-great/</guid>
-            <pubDate>Sun, 29 Sep 2024 03:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Youre-Doing-Great-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
