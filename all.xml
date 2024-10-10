@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 03:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 05:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엉망진창 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%97%89%eb%a7%9d%ec%a7%84%ec%b0%bd/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%89%eb%a7%9d%ec%a7%84%ec%b0%bd/</guid>
+            <pubDate>Thu, 10 Oct 2024 05:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[엉망진창]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B5%AC%EA%B5%AC-GuGu_%EC%97%89%EB%A7%9D%EC%A7%84%EC%B0%BD-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머리 감기 싫어 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%a8%b8%eb%a6%ac-%ea%b0%90%ea%b8%b0-%ec%8b%ab%ec%96%b4/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Oct 2024 03:34:25 GMT</pubDate>
             <content:encoded><![CDATA[오영이 (502)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%98%81%EC%9D%B4-502_%EA%B0%80%EC%9E%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼술 (Feat. 덕투) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%98%bc%ec%88%a0-feat-%eb%8d%95%ed%88%ac/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%98%bc%ec%88%a0-feat-%eb%8d%95%ed%88%ac/</guid>
-            <pubDate>Tue, 01 Oct 2024 03:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[원앙빌라]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9B%90%EC%95%99%EB%B9%8C%EB%9D%BC_%ED%98%BC%EC%88%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.277 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
