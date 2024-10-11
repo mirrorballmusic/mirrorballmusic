@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 02:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 03:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름향]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84%ed%96%a5/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%ac%eb%a6%84%ed%96%a5/</guid>
+            <pubDate>Fri, 11 Oct 2024 03:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[옛그리움 (Old Yearning)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%9B%EA%B7%B8%EB%A6%AC%EC%9B%80-Old-Yearning_%EC%97%AC%EB%A6%84%ED%96%A5-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Utopia]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/utopia-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/utopia-2/</guid>
+            <pubDate>Fri, 11 Oct 2024 03:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[Scon]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Scon_Utopia-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정원영 생일축하]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%95%ec%9b%90%ec%98%81-%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%95%ec%9b%90%ec%98%81-%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98/</guid>
+            <pubDate>Fri, 11 Oct 2024 03:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[YIPPEE]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_YIPPEE_%EC%A0%95%EC%9B%90%EC%98%81-%EC%83%9D%EC%9D%BC%EC%B6%95%ED%95%98-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Orpheus]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/orpheus/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/orpheus/</guid>
+            <pubDate>Fri, 11 Oct 2024 03:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[박휘노]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%ED%9C%98%EB%85%B8_Orpheus-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adieu]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/adieu/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/adieu/</guid>
+            <pubDate>Fri, 11 Oct 2024 03:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[Joo Jihwan]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Joo-Jihwan_Adieu-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엉망진창]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%97%89%eb%a7%9d%ec%a7%84%ec%b0%bd/</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 02 Oct 2024 03:22:56 GMT</pubDate>
             <content:encoded><![CDATA[환원]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%98%EC%9B%90_XXXX.XX_.XX-%EB%82%A0%EC%94%A8-%EB%A7%91%EC%9D%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠실, 석촌호수로 놀러와!♥ (Come to my area)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%a0%ec%8b%a4-%ec%84%9d%ec%b4%8c%ed%98%b8%ec%88%98%eb%a1%9c-%eb%86%80%eb%9f%ac%ec%99%80%e2%99%a5-come-to-my-area/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%a0%ec%8b%a4-%ec%84%9d%ec%b4%8c%ed%98%b8%ec%88%98%eb%a1%9c-%eb%86%80%eb%9f%ac%ec%99%80%e2%99%a5-come-to-my-area/</guid>
-            <pubDate>Wed, 02 Oct 2024 03:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[러브송 (LoveSong)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9F%AC%EB%B8%8C%EC%86%A1-LoveSong_%EC%9E%A0%EC%8B%A4-%EC%84%9D%EC%B4%8C%ED%98%B8%EC%88%98%EB%A1%9C-%EB%86%80%EB%9F%AC%EC%99%80%E2%99%A5-Come-to-my-area-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춘천의 밤]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%b6%98%ec%b2%9c%ec%9d%98-%eb%b0%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%b6%98%ec%b2%9c%ec%9d%98-%eb%b0%a4/</guid>
-            <pubDate>Wed, 02 Oct 2024 03:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[김산돌]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%82%B0%EB%8F%8C_%EC%B6%98%EC%B2%9C%EC%9D%98-%EB%B0%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWENTY THREE]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/twenty-three/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/twenty-three/</guid>
-            <pubDate>Wed, 02 Oct 2024 03:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[SEUngmin]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SEUngmin_TWENTY-THREE-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 닮은 사내 (2024 Re-Recording Version)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%a5%bc-%eb%8b%ae%ec%9d%80-%ec%82%ac%eb%82%b4-2024-re-recording-version/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%a5%bc-%eb%8b%ae%ec%9d%80-%ec%82%ac%eb%82%b4-2024-re-recording-version/</guid>
-            <pubDate>Tue, 01 Oct 2024 03:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[허클베리핀 (Huckleberryfinn)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%ED%81%B4%EB%B2%A0%EB%A6%AC%ED%95%80-Huckleberryfinn_%EB%82%98%EB%A5%BC-%EB%8B%AE%EC%9D%80-%EC%82%AC%EB%82%B4-Re-Recording-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가자!]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b0%80%ec%9e%90-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b0%80%ec%9e%90-2/</guid>
-            <pubDate>Tue, 01 Oct 2024 03:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[오영이 (502)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%98%81%EC%9D%B4-502_%EA%B0%80%EC%9E%90-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
