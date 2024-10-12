@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 08:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 09:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시월의 시]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%8b%9c%ec%9b%94%ec%9d%98-%ec%8b%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%8b%9c%ec%9b%94%ec%9d%98-%ec%8b%9c/</guid>
+            <pubDate>Sat, 12 Oct 2024 09:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[박창근]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%B0%BD%EA%B7%BC_%EC%8B%9C%EC%9B%94%EC%9D%98-%EC%8B%9C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[있잖아 너는 어떻게 그렇게 웃어?]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9e%88%ec%9e%96%ec%95%84-%eb%84%88%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%9b%83%ec%96%b4/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Oct 2024 03:23:34 GMT</pubDate>
             <content:encoded><![CDATA[음성사서함]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%8C%EC%84%B1%EC%82%AC%EC%84%9C%ED%95%A8_THE-Film-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떠오른 건]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%96%a0%ec%98%a4%eb%a5%b8-%ea%b1%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%96%a0%ec%98%a4%eb%a5%b8-%ea%b1%b4/</guid>
-            <pubDate>Wed, 02 Oct 2024 03:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[웜보]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9B%9C%EB%B3%B4_%EB%96%A0%EC%98%A4%EB%A5%B8-%EA%B1%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
