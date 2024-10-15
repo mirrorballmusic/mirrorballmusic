@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 08:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 09:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 깨어있는 밤에는]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80-%ea%b9%a8%ec%96%b4%ec%9e%88%eb%8a%94-%eb%b0%a4%ec%97%90%eb%8a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80-%ea%b9%a8%ec%96%b4%ec%9e%88%eb%8a%94-%eb%b0%a4%ec%97%90%eb%8a%94/</guid>
+            <pubDate>Tue, 15 Oct 2024 09:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[기프트 (GIFT)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B8%B0%ED%94%84%ED%8A%B8-GIFT_%EB%82%B4%EA%B0%80-%EA%B9%A8%EC%96%B4%EC%9E%88%EB%8A%94-%EB%B0%A4%EC%97%90%EB%8A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[암때나]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%95%94%eb%95%8c%eb%82%98/</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Oct 2024 03:27:16 GMT</pubDate>
             <content:encoded><![CDATA[Fre Naz, 디제이티즈 (DJ Tiz)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fre-Naz-%EB%94%94%EC%A0%9C%EC%9D%B4%ED%8B%B0%EC%A6%88-DJ-Tiz_Spain-City-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1st English EP ‘Biuret’]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/1st-english-ep-biuret/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/1st-english-ep-biuret/</guid>
-            <pubDate>Mon, 07 Oct 2024 03:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[뷰렛]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B7%B0%EB%A0%9B_1st-English-EP-Biuret-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
