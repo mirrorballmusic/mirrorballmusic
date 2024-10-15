@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ K-INDIE CHART</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 01:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 03:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.278]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/vol-278/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/vol-278/</guid>
+            <pubDate>Tue, 15 Oct 2024 03:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.11 ~ 2024.09.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%ED%98%81%EC%98%A4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.277]]></title>
             <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-277/</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 30 Apr 2024 03:15:51 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.26 ~ 2024.04.10]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EB%A7%A5%EA%B1%B0%ED%95%80-300x300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.266]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-266/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-266/</guid>
-            <pubDate>Mon, 15 Apr 2024 03:49:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.11 ~ 2024.03.25]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/04/%EA%B9%80%EC%82%AC%EC%9B%94-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
