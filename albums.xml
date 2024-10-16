@@ -4,9 +4,57 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 02:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 03:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RE:D]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/red-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/red-2/</guid>
+            <pubDate>Wed, 16 Oct 2024 03:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[맥거핀 (MGFF)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%A5%EA%B1%B0%ED%95%80-MGFF_RE_D-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠이 오면 좋겠다]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%a0%ec%9d%b4-%ec%98%a4%eb%a9%b4-%ec%a2%8b%ea%b2%a0%eb%8b%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%a0%ec%9d%b4-%ec%98%a4%eb%a9%b4-%ec%a2%8b%ea%b2%a0%eb%8b%a4/</guid>
+            <pubDate>Wed, 16 Oct 2024 03:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[WNIVRS]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_WNIVRS_%EC%9E%A0%EC%9D%B4-%EC%98%A4%EB%A9%B4-%EC%A2%8B%EA%B2%A0%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마음은 또 그렇게]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%9d%8c%ec%9d%80-%eb%98%90-%ea%b7%b8%eb%a0%87%ea%b2%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%9d%8c%ec%9d%80-%eb%98%90-%ea%b7%b8%eb%a0%87%ea%b2%8c/</guid>
+            <pubDate>Wed, 16 Oct 2024 03:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[여태경]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%AC%ED%83%9C%EA%B2%BD_%EB%A7%88%EC%9D%8C%EC%9D%80-%EB%98%90-%EA%B7%B8%EB%A0%87%EA%B2%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피냐타]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%94%bc%eb%83%90%ed%83%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%94%bc%eb%83%90%ed%83%80/</guid>
+            <pubDate>Wed, 16 Oct 2024 03:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[나노말]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%98%EB%85%B8%EB%A7%90_%ED%94%BC%EB%83%90%ED%83%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MIDNIGHT]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/midnight-4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/midnight-4/</guid>
+            <pubDate>Wed, 16 Oct 2024 03:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[2STAY (투스테이)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2STAY-%ED%88%AC%EC%8A%A4%ED%85%8C%EC%9D%B4_MIDNIGHT-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불이 되어]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%88%ec%9d%b4-%eb%90%98%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%88%ec%9d%b4-%eb%90%98%ec%96%b4/</guid>
+            <pubDate>Wed, 16 Oct 2024 03:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[시카드]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%9C%EC%B9%B4%EB%93%9C_%EB%B6%88%EC%9D%B4-%EB%90%98%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 깨어있는 밤에는]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80-%ea%b9%a8%ec%96%b4%ec%9e%88%eb%8a%94-%eb%b0%a4%ec%97%90%eb%8a%94/</link>
@@ -198,54 +246,6 @@
             <pubDate>Tue, 08 Oct 2024 03:25:36 GMT</pubDate>
             <content:encoded><![CDATA[태윤 (TAEYOON)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%9C%EC%9C%A4-TAEYOON_%EC%98%81%EC%9B%90-%EC%82%AC%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조금의 불안은]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a1%b0%ea%b8%88%ec%9d%98-%eb%b6%88%ec%95%88%ec%9d%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a1%b0%ea%b8%88%ec%9d%98-%eb%b6%88%ec%95%88%ec%9d%80/</guid>
-            <pubDate>Tue, 08 Oct 2024 03:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[이유카]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%9C%A0%EC%B9%B4_%EC%A1%B0%EA%B8%88%EC%9D%98-%EB%B6%88%EC%95%88%EC%9D%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들마다]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%93%a4%eb%a7%88%eb%8b%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%93%a4%eb%a7%88%eb%8b%a4/</guid>
-            <pubDate>Tue, 08 Oct 2024 03:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[잠인]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%A0%EC%9D%B8_%EB%93%A4%EB%A7%88%EB%8B%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[And I’ll Be]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/and-ill-be/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/and-ill-be/</guid>
-            <pubDate>Tue, 08 Oct 2024 03:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[DETUNE]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_DETUNE_And-Ill-Be-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Multiple X]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/multiple-x/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/multiple-x/</guid>
-            <pubDate>Mon, 07 Oct 2024 03:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[Multiple X]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Multiple-X_Multiple-X-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My dear]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/my-dear-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/my-dear-2/</guid>
-            <pubDate>Mon, 07 Oct 2024 03:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[이소영]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%86%8C%EC%98%81_My-dear-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spain City]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/spain-city/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/spain-city/</guid>
-            <pubDate>Mon, 07 Oct 2024 03:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[Fre Naz, 디제이티즈 (DJ Tiz)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fre-Naz-%EB%94%94%EC%A0%9C%EC%9D%B4%ED%8B%B0%EC%A6%88-DJ-Tiz_Spain-City-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
