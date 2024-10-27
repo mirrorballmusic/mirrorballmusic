@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Oct 2024 02:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 03:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Light Shower]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/light-shower/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/light-shower/</guid>
+            <pubDate>Sun, 27 Oct 2024 03:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[Muhwa (무화), noin]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Muhwa-%EB%AC%B4%ED%99%94-noin_Light-Shower-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunset In Seoul]]></title>
             <link>http://mirrorballmusic.co.kr/albums/sunset-in-seoul/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Oct 2024 03:26:02 GMT</pubDate>
             <content:encoded><![CDATA[파티스트릿]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8C%8C%ED%8B%B0%EC%8A%A4%ED%8A%B8%EB%A6%BF_%EA%B0%80%EC%9D%84%EC%9D%98-%EA%B8%B0%EC%96%B5-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You are my favorite song]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/you-are-my-favorite-song/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/you-are-my-favorite-song/</guid>
-            <pubDate>Thu, 17 Oct 2024 04:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[뷰렛]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B7%B0%EB%A0%9B_You-are-my-favorite-song-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
