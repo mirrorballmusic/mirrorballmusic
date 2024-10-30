@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 08:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 09:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bmf]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/bmf/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/bmf/</guid>
+            <pubDate>Wed, 30 Oct 2024 09:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[뉴챔프]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%89%B4%EC%B1%94%ED%94%84_Bmf-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인디스땅스2024]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b8%eb%94%94%ec%8a%a4%eb%95%85%ec%8a%a42024/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Oct 2024 03:24:12 GMT</pubDate>
             <content:encoded><![CDATA[ALBAS]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ALBAS_I-Wont-Say-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 또 하루가 지나고]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98-%eb%98%90-%ed%95%98%eb%a3%a8%ea%b0%80-%ec%a7%80%eb%82%98%ea%b3%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%8a%98-%eb%98%90-%ed%95%98%eb%a3%a8%ea%b0%80-%ec%a7%80%eb%82%98%ea%b3%a0/</guid>
-            <pubDate>Tue, 22 Oct 2024 03:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[이민석]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%AF%BC%EC%84%9D_%EC%98%A4%EB%8A%98-%EB%98%90-%ED%95%98%EB%A3%A8%EA%B0%80-%EC%A7%80%EB%82%98%EA%B3%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
