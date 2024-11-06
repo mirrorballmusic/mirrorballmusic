@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 08:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 09:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지나온 기억은 이별이 되어 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%80%eb%82%98%ec%98%a8-%ea%b8%b0%ec%96%b5%ec%9d%80-%ec%9d%b4%eb%b3%84%ec%9d%b4-%eb%90%98%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%80%eb%82%98%ec%98%a8-%ea%b8%b0%ec%96%b5%ec%9d%80-%ec%9d%b4%eb%b3%84%ec%9d%b4-%eb%90%98%ec%96%b4/</guid>
+            <pubDate>Wed, 06 Nov 2024 09:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[슬로디 (Slou.D)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8A%AC%EB%A1%9C%EB%94%94-Slou.D_%EC%A7%80%EB%82%98%EC%98%A8-%EA%B8%B0%EC%96%B5%EC%9D%80-%EC%9D%B4%EB%B3%84%EC%9D%B4-%EB%90%98%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누군가의 기억 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%88%84%ea%b5%b0%ea%b0%80%ec%9d%98-%ea%b8%b0%ec%96%b5/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Oct 2024 03:25:43 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Various-Artists_%EC%9D%B8%EB%94%94%EC%8A%A4%EB%95%85%EC%8A%A4-2024-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아무것도 아닌 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%eb%ac%b4%ea%b2%83%eb%8f%84-%ec%95%84%eb%8b%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%eb%ac%b4%ea%b2%83%eb%8f%84-%ec%95%84%eb%8b%8c/</guid>
-            <pubDate>Wed, 30 Oct 2024 03:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[란준]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9E%80%EC%A4%80_%EC%95%84%EB%AC%B4%EA%B2%83%EB%8F%84-%EC%95%84%EB%8B%8C-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.279 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
