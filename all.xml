@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 02:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 04:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[dirty water (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/dirty-water/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/dirty-water/</guid>
+            <pubDate>Thu, 07 Nov 2024 04:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[타루]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%A3%A8_dirty-water-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섬 아리랑_아홉번째 (상태도, 중태도, 하태도)편 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%84%ac-%ec%95%84%eb%a6%ac%eb%9e%91_%ec%95%84%ed%99%89%eb%b2%88%ec%a7%b8-%ec%83%81%ed%83%9c%eb%8f%84-%ec%a4%91%ed%83%9c%eb%8f%84-%ed%95%98%ed%83%9c%eb%8f%84%ed%8e%b8/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%ac-%ec%95%84%eb%a6%ac%eb%9e%91_%ec%95%84%ed%99%89%eb%b2%88%ec%a7%b8-%ec%83%81%ed%83%9c%eb%8f%84-%ec%a4%91%ed%83%9c%eb%8f%84-%ed%95%98%ed%83%9c%eb%8f%84%ed%8e%b8/</guid>
+            <pubDate>Thu, 07 Nov 2024 04:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[노올량]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%98%AC%EB%9F%89_%EC%84%AC-%EC%95%84%EB%A6%AC%EB%9E%91_%EC%95%84%ED%99%89%EB%B2%88%EC%A7%B8-%EC%83%81%ED%83%9C%EB%8F%84-%EC%A4%91%ED%83%9C%EB%8F%84-%ED%95%98%ED%83%9C%EB%8F%84%ED%8E%B8-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sometimes (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sometimes-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sometimes-2/</guid>
+            <pubDate>Thu, 07 Nov 2024 04:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENHOURS]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SEVENHOURS_Sometimes-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pocket (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/pocket/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/pocket/</guid>
+            <pubDate>Thu, 07 Nov 2024 04:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[ARTI]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ARTI_Pocket-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Want you say (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/want-you-say/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/want-you-say/</guid>
+            <pubDate>Thu, 07 Nov 2024 04:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[onesuk]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_onesuk_Want-you-say-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지나온 기억은 이별이 되어 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%a7%80%eb%82%98%ec%98%a8-%ea%b8%b0%ec%96%b5%ec%9d%80-%ec%9d%b4%eb%b3%84%ec%9d%b4-%eb%90%98%ec%96%b4/</link>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 31 Oct 2024 03:27:01 GMT</pubDate>
             <content:encoded><![CDATA[비조 (VIZO)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B9%84%EC%A1%B0-VIZO_%EB%82%98%EB%B9%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[711 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/711/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/711/</guid>
-            <pubDate>Thu, 31 Oct 2024 03:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[스트레이터스]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%84%B0%EC%8A%A4_711-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wallow Wallow (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/wallow-wallow/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/wallow-wallow/</guid>
-            <pubDate>Thu, 31 Oct 2024 03:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[BiNi (비니)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BiNi-%EB%B9%84%EB%8B%88_Wallow-Wallow-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Time’s up (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/times-up/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/times-up/</guid>
-            <pubDate>Thu, 31 Oct 2024 03:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[강민송]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EB%AF%BC%EC%86%A1_Times-up-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bmf (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/bmf/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/bmf/</guid>
-            <pubDate>Wed, 30 Oct 2024 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[뉴챔프]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%89%B4%EC%B1%94%ED%94%84_Bmf-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인디스땅스2024 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b8%eb%94%94%ec%8a%a4%eb%95%85%ec%8a%a42024/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b8%eb%94%94%ec%8a%a4%eb%95%85%ec%8a%a42024/</guid>
-            <pubDate>Wed, 30 Oct 2024 03:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Various-Artists_%EC%9D%B8%EB%94%94%EC%8A%A4%EB%95%85%EC%8A%A4-2024-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.279 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
