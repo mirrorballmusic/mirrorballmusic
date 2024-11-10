@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Nov 2024 02:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 03:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서른]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%84%9c%eb%a5%b8/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%9c%eb%a5%b8/</guid>
+            <pubDate>Sun, 10 Nov 2024 03:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[정가이 (와인루프)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EA%B0%80%EC%9D%B4-%EC%99%80%EC%9D%B8%EB%A3%A8%ED%94%84_%EC%84%9C%EB%A5%B8%EC%9D%98-%EC%84%B1%EC%9E%A5%ED%86%B5-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용두사미]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9a%a9%eb%91%90%ec%82%ac%eb%af%b8/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Nov 2024 03:35:44 GMT</pubDate>
             <content:encoded><![CDATA[쓰다 (Xeuda)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%93%B0%EB%8B%A4-Xeuda_%EC%82%AC%EB%9E%91%EC%9D%98-%EB%A7%90%EC%9D%84-%EA%B0%80%EB%A5%B4%EC%B3%90%EC%A3%BC%EC%84%B8%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9120번째 밤]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/9120%eb%b2%88%ec%a7%b8-%eb%b0%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/9120%eb%b2%88%ec%a7%b8-%eb%b0%a4/</guid>
-            <pubDate>Fri, 01 Nov 2024 03:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[파울로시티]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8C%8C%EC%9A%B8%EB%A1%9C%EC%8B%9C%ED%8B%B0_9120%EB%B2%88%EC%A7%B8-%EB%B0%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
