@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 02:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 03:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Howliin Wolf: A South Central Tale]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/howliin-wolf-a-south-central-tale/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/howliin-wolf-a-south-central-tale/</guid>
+            <pubDate>Tue, 12 Nov 2024 03:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[Mark Antoniio, Skinny Chase]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Skinny-Chase-Mark-Antoniio_Howliin-Wolf-A-South-Central-Tale-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은하수연가]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%80%ed%95%98%ec%88%98%ec%97%b0%ea%b0%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%80%ed%95%98%ec%88%98%ec%97%b0%ea%b0%80/</guid>
+            <pubDate>Tue, 12 Nov 2024 03:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[10분전X이형진]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_10%EB%B6%84%EC%A0%84X%EC%9D%B4%ED%98%95%EC%A7%84_%EC%9D%80%ED%95%98%EC%88%98%EC%97%B0%EA%B0%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Psychedelic Disco – 흘러가는 삶]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/psychedelic-disco-%ed%9d%98%eb%9f%ac%ea%b0%80%eb%8a%94-%ec%82%b6/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/psychedelic-disco-%ed%9d%98%eb%9f%ac%ea%b0%80%eb%8a%94-%ec%82%b6/</guid>
+            <pubDate>Tue, 12 Nov 2024 03:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[남현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%A8%ED%98%84_Psychedelic-Disco-%ED%9D%98%EB%9F%AC%EA%B0%80%EB%8A%94-%EC%82%B6-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/i-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/i-3/</guid>
+            <pubDate>Tue, 12 Nov 2024 03:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[미미크리엑스]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AF%B8%EB%AF%B8%ED%81%AC%EB%A6%AC%EC%97%91%EC%8A%A4_I-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[128°E, 37°N]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/128e-37n/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/128e-37n/</guid>
+            <pubDate>Tue, 12 Nov 2024 03:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[박현준]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%ED%98%84%EC%A4%80_128%C2%B0E-37%C2%B0N-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Butterscotch Love]]></title>
             <link>http://mirrorballmusic.co.kr/albums/butterscotch-love/</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 05 Nov 2024 03:21:47 GMT</pubDate>
             <content:encoded><![CDATA[ONP]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ONP_STUPID-EARTH-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[믿는 구석]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%af%bf%eb%8a%94-%ea%b5%ac%ec%84%9d/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%af%bf%eb%8a%94-%ea%b5%ac%ec%84%9d/</guid>
-            <pubDate>Mon, 04 Nov 2024 03:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[잔물결]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%94%EB%AC%BC%EA%B2%B0_%EB%AF%BF%EB%8A%94-%EA%B5%AC%EC%84%9D-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일렉펀트]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%eb%a0%89%ed%8e%80%ed%8a%b8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%eb%a0%89%ed%8e%80%ed%8a%b8/</guid>
-            <pubDate>Mon, 04 Nov 2024 03:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[일렉펀트]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%BC%EB%A0%89%ED%8E%80%ED%8A%B8_%EC%9D%BC%EB%A0%89%ED%8E%80%ED%8A%B8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Run]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/run-5/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/run-5/</guid>
-            <pubDate>Mon, 04 Nov 2024 03:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[휘래]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9C%98%EB%9E%98_Run-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Digital 01]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/digital-01/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/digital-01/</guid>
-            <pubDate>Mon, 04 Nov 2024 03:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[노아 (Noah)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%95%84-Noah_Digital-01-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어스름히]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%96%b4%ec%8a%a4%eb%a6%84%ed%9e%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%96%b4%ec%8a%a4%eb%a6%84%ed%9e%88/</guid>
-            <pubDate>Mon, 04 Nov 2024 03:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[강이음]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EC%9D%B4%EC%9D%8C_%EC%96%B4%EC%8A%A4%EB%A6%84%ED%9E%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
