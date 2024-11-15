@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 02:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 03:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠션어학원]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%bf%a0%ec%85%98%ec%96%b4%ed%95%99%ec%9b%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%bf%a0%ec%85%98%ec%96%b4%ed%95%99%ec%9b%90/</guid>
+            <pubDate>Fri, 15 Nov 2024 03:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[이병현]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%B3%91%ED%98%84_%EC%BF%A0%EC%85%98%EC%96%B4%ED%95%99%EC%9B%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sound of Mind]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sound-of-mind/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sound-of-mind/</guid>
+            <pubDate>Fri, 15 Nov 2024 03:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[트리키네코]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8A%B8%EB%A6%AC%ED%82%A4%EB%84%A4%EC%BD%94_Sound-of-Mind-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Immunity]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/love-immunity/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/love-immunity/</guid>
+            <pubDate>Fri, 15 Nov 2024 03:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[Moonlit]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Moonlit_Love-Immunity-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pado]]></title>
             <link>http://mirrorballmusic.co.kr/albums/pado/</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 07 Nov 2024 04:21:22 GMT</pubDate>
             <content:encoded><![CDATA[노올량]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B8%EC%98%AC%EB%9F%89_%EC%84%AC-%EC%95%84%EB%A6%AC%EB%9E%91_%EC%95%84%ED%99%89%EB%B2%88%EC%A7%B8-%EC%83%81%ED%83%9C%EB%8F%84-%EC%A4%91%ED%83%9C%EB%8F%84-%ED%95%98%ED%83%9C%EB%8F%84%ED%8E%B8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sometimes]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/sometimes-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/sometimes-2/</guid>
-            <pubDate>Thu, 07 Nov 2024 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENHOURS]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SEVENHOURS_Sometimes-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pocket]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/pocket/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/pocket/</guid>
-            <pubDate>Thu, 07 Nov 2024 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[ARTI]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ARTI_Pocket-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Want you say]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/want-you-say/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/want-you-say/</guid>
-            <pubDate>Thu, 07 Nov 2024 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[onesuk]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_onesuk_Want-you-say-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
