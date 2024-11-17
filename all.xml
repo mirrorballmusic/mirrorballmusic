@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Nov 2024 01:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Nov 2024 03:02:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파동 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%eb%8f%99/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%eb%8f%99/</guid>
+            <pubDate>Sun, 17 Nov 2024 03:01:51 GMT</pubDate>
+            <content:encoded><![CDATA[윤여진]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A4%EC%97%AC%EC%A7%84_%ED%8C%8C%EB%8F%99-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도시의 밤 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%8f%84%ec%8b%9c%ec%9d%98-%eb%b0%a4/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Nov 2024 05:17:43 GMT</pubDate>
             <content:encoded><![CDATA[Electric Jam Tribe]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Electric-Jam-Tribe_Cross-the-Echoway-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[dirty water (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/dirty-water/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/dirty-water/</guid>
-            <pubDate>Thu, 07 Nov 2024 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[타루]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%A3%A8_dirty-water-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.280 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
