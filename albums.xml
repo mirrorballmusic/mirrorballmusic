@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 02:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 04:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Flower]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/flower-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/flower-3/</guid>
+            <pubDate>Thu, 21 Nov 2024 04:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[고트(Goat)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%A0%ED%8A%B8Goat_Flower-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Many Seconds In Eternity?]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/how-many-seconds-in-eternity/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/how-many-seconds-in-eternity/</guid>
+            <pubDate>Thu, 21 Nov 2024 04:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[녹음]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B9%EC%9D%8C_How-Many-Seconds-In-Eternity-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 너를 사랑해]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8a%94-%eb%84%88%eb%a5%bc-%ec%82%ac%eb%9e%91%ed%95%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8a%94-%eb%84%88%eb%a5%bc-%ec%82%ac%eb%9e%91%ed%95%b4/</guid>
+            <pubDate>Thu, 21 Nov 2024 04:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[kidohu]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kidohu_%EB%82%98%EB%8A%94-%EB%84%88%EB%A5%BC-%EC%82%AC%EB%9E%91%ED%95%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아침바다 갈매기는 OST]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%b9%a8%eb%b0%94%eb%8b%a4-%ea%b0%88%eb%a7%a4%ea%b8%b0%eb%8a%94-ost/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%b9%a8%eb%b0%94%eb%8b%a4-%ea%b0%88%eb%a7%a4%ea%b8%b0%eb%8a%94-ost/</guid>
+            <pubDate>Thu, 21 Nov 2024 04:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[연리목]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%B0%EB%A6%AC%EB%AA%A9_%EC%95%84%EC%B9%A8%EB%B0%94%EB%8B%A4%EA%B0%88%EB%A7%A4%EA%B8%B0%EB%8A%94OST-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애매한 계절]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%a0%eb%a7%a4%ed%95%9c-%ea%b3%84%ec%a0%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%a0%eb%a7%a4%ed%95%9c-%ea%b3%84%ec%a0%88/</guid>
+            <pubDate>Thu, 21 Nov 2024 04:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[서노아]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EB%85%B8%EC%95%84_%EC%95%A0%EB%A7%A4%ED%95%9C-%EA%B3%84%EC%A0%88-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몽유호원]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%aa%bd%ec%9c%a0%ed%98%b8%ec%9b%90/</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 13 Nov 2024 03:23:02 GMT</pubDate>
             <content:encoded><![CDATA[민주희]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AF%BC%EC%A3%BC%ED%9D%AC_%EB%82%99%EC%9B%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긴]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b4/</guid>
-            <pubDate>Wed, 13 Nov 2024 03:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[UUOOAH]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_UUOOAH_%EA%B8%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weakness]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/weakness/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/weakness/</guid>
-            <pubDate>Wed, 13 Nov 2024 03:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[도승은 (SeungEun Do)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8F%84%EC%8A%B9%EC%9D%80-SeungEun-Do_weakness-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안개]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%88%ea%b0%9c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%88%ea%b0%9c/</guid>
-            <pubDate>Wed, 13 Nov 2024 03:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[시선]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%9C%EC%84%A0_%EC%95%88%EA%B0%9C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Howliin Wolf: A South Central Tale]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/howliin-wolf-a-south-central-tale/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/howliin-wolf-a-south-central-tale/</guid>
-            <pubDate>Tue, 12 Nov 2024 03:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[Mark Antoniio, Skinny Chase]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Skinny-Chase-Mark-Antoniio_Howliin-Wolf-A-South-Central-Tale-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은하수연가]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%80%ed%95%98%ec%88%98%ec%97%b0%ea%b0%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%80%ed%95%98%ec%88%98%ec%97%b0%ea%b0%80/</guid>
-            <pubDate>Tue, 12 Nov 2024 03:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[10분전]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_10%EB%B6%84%EC%A0%84X%EC%9D%B4%ED%98%95%EC%A7%84_%EC%9D%80%ED%95%98%EC%88%98%EC%97%B0%EA%B0%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
