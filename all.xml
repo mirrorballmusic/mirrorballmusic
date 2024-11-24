@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Nov 2024 01:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 03:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Birthday (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/birthday/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/birthday/</guid>
+            <pubDate>Sun, 24 Nov 2024 03:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[임인건]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%84%EC%9D%B8%EA%B1%B4_Birthday-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[STORY#31 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/story31/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Nov 2024 17:17:17 GMT</pubDate>
             <content:encoded><![CDATA[트리키네코]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%8A%B8%EB%A6%AC%ED%82%A4%EB%84%A4%EC%BD%94_Sound-of-Mind-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Immunity (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/love-immunity/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/love-immunity/</guid>
-            <pubDate>Thu, 21 Nov 2024 17:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[Moonlit]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Moonlit_Love-Immunity-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.280 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
