@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 03:00:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 03:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Christmas Night]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/christmas-night/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/christmas-night/</guid>
+            <pubDate>Mon, 25 Nov 2024 03:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[예람]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%88%EB%9E%8C_Christmas-Night-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Like a Whiskey]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/like-a-whiskey/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/like-a-whiskey/</guid>
+            <pubDate>Mon, 25 Nov 2024 03:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[HAV (하브)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_HAV%ED%95%98%EB%B8%8C_Like-a-Whiskey-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paris at night]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/paris-at-night/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/paris-at-night/</guid>
+            <pubDate>Mon, 25 Nov 2024 03:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[버틀러]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B2%84%ED%8B%80%EB%9F%AC_Paris-at-night-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Auter]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/auter/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/auter/</guid>
+            <pubDate>Mon, 25 Nov 2024 03:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[김연송]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%97%B0%EC%86%A1_Auter-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Home Alone]]></title>
             <link>http://mirrorballmusic.co.kr/albums/home-alone/</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 18 Nov 2024 03:36:40 GMT</pubDate>
             <content:encoded><![CDATA[랑잇 (Langit)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9E%91%EC%9E%87-Langit_%EA%B7%B8%EB%82%A0%EC%9D%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Promise]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/promise-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/promise-2/</guid>
-            <pubDate>Mon, 18 Nov 2024 03:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[석재준]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9D%EC%9E%AC%EC%A4%80_Promise-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파동]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%eb%8f%99/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%8c%8c%eb%8f%99/</guid>
-            <pubDate>Sun, 17 Nov 2024 03:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[윤여진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A4%EC%97%AC%EC%A7%84_%ED%8C%8C%EB%8F%99-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시의 밤]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%84%ec%8b%9c%ec%9d%98-%eb%b0%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%84%ec%8b%9c%ec%9d%98-%eb%b0%a4/</guid>
-            <pubDate>Sat, 16 Nov 2024 03:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[1DB (원디비)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_1DB-%EC%9B%90%EB%94%94%EB%B9%84_%EB%8F%84%EC%8B%9C%EC%9D%98-%EB%B0%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠션어학원]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%bf%a0%ec%85%98%ec%96%b4%ed%95%99%ec%9b%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%bf%a0%ec%85%98%ec%96%b4%ed%95%99%ec%9b%90/</guid>
-            <pubDate>Fri, 15 Nov 2024 03:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[이병현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%B3%91%ED%98%84_%EC%BF%A0%EC%85%98%EC%96%B4%ED%95%99%EC%9B%90-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
