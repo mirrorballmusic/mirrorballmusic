@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 03:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 04:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 28 Nov 2024 03:37:17 GMT</pubDate>
             <content:encoded><![CDATA[MORAN(민재)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_MORAN-%EB%AF%BC%EC%9E%AC_%EC%A0%90%ED%95%98%EB%82%98_Pulse-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[좋아지려나 (demo)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%95%84%ec%a7%80%eb%a0%a4%eb%82%98-demo/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%95%84%ec%a7%80%eb%a0%a4%eb%82%98-demo/</guid>
+            <pubDate>Thu, 28 Nov 2024 04:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[삼월생]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%BC%EC%9B%94%EC%83%9D_%EC%A2%8B%EC%95%84%EC%A7%80%EB%A0%A4%EB%82%98-demo-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[J RABBIT CHRISTMAS ALBUM (2024 Remaster)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Nov 2024 04:23:53 GMT</pubDate>
             <content:encoded><![CDATA[연리목]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%B0%EB%A6%AC%EB%AA%A9_%EC%95%84%EC%B9%A8%EB%B0%94%EB%8B%A4%EA%B0%88%EB%A7%A4%EA%B8%B0%EB%8A%94OST-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애매한 계절]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%a0%eb%a7%a4%ed%95%9c-%ea%b3%84%ec%a0%88/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%a0%eb%a7%a4%ed%95%9c-%ea%b3%84%ec%a0%88/</guid>
-            <pubDate>Thu, 21 Nov 2024 04:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[서노아]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EB%85%B8%EC%95%84_%EC%95%A0%EB%A7%A4%ED%95%9C-%EA%B3%84%EC%A0%88-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
