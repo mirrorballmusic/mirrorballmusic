@@ -4,9 +4,16 @@
         <title>미러볼뮤직 ─ K-INDIE CHART</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Nov 2024 02:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 03:29:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.281]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-281/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-281/</guid>
+            <pubDate>Sat, 30 Nov 2024 03:29:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.26 ~ 2024.11.10]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.280]]></title>
             <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-280/</link>
@@ -94,14 +101,6 @@
             <pubDate>Sat, 15 Jun 2024 04:20:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.11 ~ 2024.05.25]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%EB%B3%B4%EC%88%98%EB%8F%99%EC%BF%A8%EB%9F%AC-300x300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.269]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-269/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-269/</guid>
-            <pubDate>Fri, 31 May 2024 03:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.26 ~ 2024.05.10]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/05/%EB%B0%B1%EC%95%84-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
