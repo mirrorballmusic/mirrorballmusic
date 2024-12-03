@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 01:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 03:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직은 밤이야 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%a7%81%ec%9d%80-%eb%b0%a4%ec%9d%b4%ec%95%bc/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%ec%a7%81%ec%9d%80-%eb%b0%a4%ec%9d%b4%ec%95%bc/</guid>
+            <pubDate>Tue, 03 Dec 2024 03:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[달에닿아]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8B%AC%EC%97%90%EB%8B%BF%EC%95%84_%EC%95%84%EC%A7%81%EC%9D%80-%EB%B0%A4%EC%9D%B4%EC%95%BC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O Holy Night (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/o-holy-night/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/o-holy-night/</guid>
+            <pubDate>Tue, 03 Dec 2024 03:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[양자인 (Yang Jain)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%91%EC%9E%90%EC%9D%B8_O-Holy-Night-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지나고 나면 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%80%eb%82%98%ea%b3%a0-%eb%82%98%eb%a9%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%80%eb%82%98%ea%b3%a0-%eb%82%98%eb%a9%b4/</guid>
+            <pubDate>Tue, 03 Dec 2024 03:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[예찬]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%88%EC%B0%AC_%EC%A7%80%EB%82%98%EA%B3%A0%EB%82%98%EB%A9%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내가방에두고싶은것들 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80%eb%b0%a9%ec%97%90%eb%91%90%ea%b3%a0%ec%8b%b6%ec%9d%80%ea%b2%83%eb%93%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80%eb%b0%a9%ec%97%90%eb%91%90%ea%b3%a0%ec%8b%b6%ec%9d%80%ea%b2%83%eb%93%a4/</guid>
+            <pubDate>Tue, 03 Dec 2024 03:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[박한영]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%ED%95%9C%EC%98%81_%EB%82%B4%EA%B0%80%EB%B0%A9%EC%97%90%EB%91%90%EA%B3%A0%EC%8B%B6%EC%9D%80%EA%B2%83%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭍 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%ad%8d/</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 25 Nov 2024 03:36:15 GMT</pubDate>
             <content:encoded><![CDATA[예람]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%88%EB%9E%8C_Christmas-Night-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Like a Whiskey (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/like-a-whiskey/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/like-a-whiskey/</guid>
-            <pubDate>Mon, 25 Nov 2024 03:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[HAV (하브)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_HAV%ED%95%98%EB%B8%8C_Like-a-Whiskey-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Paris at night (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/paris-at-night/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/paris-at-night/</guid>
-            <pubDate>Mon, 25 Nov 2024 03:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[버틀러]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B2%84%ED%8B%80%EB%9F%AC_Paris-at-night-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Auter (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/auter/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/auter/</guid>
-            <pubDate>Mon, 25 Nov 2024 03:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[김연송]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%97%B0%EC%86%A1_Auter-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Home Alone (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/home-alone/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/home-alone/</guid>
-            <pubDate>Sun, 24 Nov 2024 09:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_Home-Alone-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.281 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
