@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 08:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 09:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차가워지지 않아]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b0%a8%ea%b0%80%ec%9b%8c%ec%a7%80%ec%a7%80-%ec%95%8a%ec%95%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b0%a8%ea%b0%80%ec%9b%8c%ec%a7%80%ec%a7%80-%ec%95%8a%ec%95%84/</guid>
+            <pubDate>Wed, 04 Dec 2024 09:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[프롬 (Fromm)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%94%84%EB%A1%AC-Fromm_%EC%B0%A8%EA%B0%80%EC%9B%8C%EC%A7%80%EC%A7%80-%EC%95%8A%EC%95%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b0%95/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Nov 2024 03:00:47 GMT</pubDate>
             <content:encoded><![CDATA[재지라이프]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%AC%EC%A7%80%EB%9D%BC%EC%9D%B4%ED%94%84_Life-Is-Balance-pt.2-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계절의 것들]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%84%ec%a0%88%ec%9d%98-%ea%b2%83%eb%93%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%84%ec%a0%88%ec%9d%98-%ea%b2%83%eb%93%a4/</guid>
-            <pubDate>Tue, 26 Nov 2024 03:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[SAGA]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SAGA_%EA%B3%84%EC%A0%88%EC%9D%98-%EA%B2%83%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
