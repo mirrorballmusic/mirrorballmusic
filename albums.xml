@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 03:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 04:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 04 Dec 2024 03:02:37 GMT</pubDate>
             <content:encoded><![CDATA[Like June]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Like-June_%EA%B0%95-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blown Leaves]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/blown-leaves/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/blown-leaves/</guid>
+            <pubDate>Wed, 04 Dec 2024 04:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[박지하 (Park Jiha)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%A7%80%ED%95%98-Park-Jiha_Blown-Leaves-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민트]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Nov 2024 03:35:13 GMT</pubDate>
             <content:encoded><![CDATA[SAGA]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SAGA_%EA%B3%84%EC%A0%88%EC%9D%98-%EA%B2%83%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전의(轉依) Live]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%84%ec%9d%98%e8%bd%89%e4%be%9d-live/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%84%ec%9d%98%e8%bd%89%e4%be%9d-live/</guid>
-            <pubDate>Tue, 26 Nov 2024 03:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[루츠리딤]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%B8%A0%EB%A6%AC%EB%94%A4_%EC%A0%84%EC%9D%98%E8%BD%89%E4%BE%9D-Live-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
