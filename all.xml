@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 01:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 03:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑하던 것들이 악몽이 되어 찾아왔을 때 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ed%95%98%eb%8d%98-%ea%b2%83%eb%93%a4%ec%9d%b4-%ec%95%85%eb%aa%bd%ec%9d%b4-%eb%90%98%ec%96%b4-%ec%b0%be%ec%95%84%ec%99%94%ec%9d%84-%eb%95%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ed%95%98%eb%8d%98-%ea%b2%83%eb%93%a4%ec%9d%b4-%ec%95%85%eb%aa%bd%ec%9d%b4-%eb%90%98%ec%96%b4-%ec%b0%be%ec%95%84%ec%99%94%ec%9d%84-%eb%95%8c/</guid>
+            <pubDate>Thu, 05 Dec 2024 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Mingginyu-%EB%B0%8D%EA%B8%B0%EB%89%B4_%EC%82%AC%EB%9E%91%ED%95%98%EB%8D%98-%EA%B2%83%EB%93%A4%EC%9D%B4-%EC%95%85%EB%AA%BD%EC%9D%B4-%EB%90%98%EC%96%B4-%EC%B0%BE%EC%95%84%EC%99%94%EC%9D%84-%EB%95%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sand Ocean (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sand-ocean/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sand-ocean/</guid>
+            <pubDate>Thu, 05 Dec 2024 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[로코모티브]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A1%9C%EC%BD%94%EB%AA%A8%ED%8B%B0%EB%B8%8C_Sand-Ocean-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Sandy Forever (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/the-sandy-forever/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/the-sandy-forever/</guid>
+            <pubDate>Thu, 05 Dec 2024 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[The Black Underground]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Black-Underground_The-Sandy-Forever-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight of Dreams : A Journey (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/flight-of-dreams-a-journey/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/flight-of-dreams-a-journey/</guid>
+            <pubDate>Thu, 05 Dec 2024 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[BLUEPEPPERONIONTHESTREET]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BLUEPEPPERONIONTHESTREET_Flight-of-Dreams-A-Journey-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바람 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%9e%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%94%eb%9e%8c/</guid>
+            <pubDate>Thu, 05 Dec 2024 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[밴드 나인즈]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B4%EB%93%9C-%EB%82%98%EC%9D%B8%EC%A6%88_%EB%B0%94%EB%9E%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차가워지지 않아 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%b0%a8%ea%b0%80%ec%9b%8c%ec%a7%80%ec%a7%80-%ec%95%8a%ec%95%84/</link>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 28 Nov 2024 04:23:57 GMT</pubDate>
             <content:encoded><![CDATA[삼월생]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%BC%EC%9B%94%EC%83%9D_%EC%A2%8B%EC%95%84%EC%A7%80%EB%A0%A4%EB%82%98-demo-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[J RABBIT CHRISTMAS ALBUM (2024 Remaster) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/j-rabbit-christmas-album-2024-remaster/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/j-rabbit-christmas-album-2024-remaster/</guid>
-            <pubDate>Wed, 27 Nov 2024 09:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[제이레빗]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%9C%EC%9D%B4%EB%A0%88%EB%B9%97_J-RABBIT-CHRISTMAS-ALBUM-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 밤이 지나고 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b0%a4%ec%9d%b4-%ec%a7%80%eb%82%98%ea%b3%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b0%a4%ec%9d%b4-%ec%a7%80%eb%82%98%ea%b3%a0/</guid>
-            <pubDate>Wed, 27 Nov 2024 03:37:50 GMT</pubDate>
-            <content:encoded><![CDATA[이민석]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%AF%BC%EC%84%9D_%EC%9A%B0%EB%A6%AC%EC%9D%98-%EB%B0%A4%EC%9D%B4-%EC%A7%80%EB%82%98%EA%B3%A0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다정하고도 슬픈, 관계. (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%ec%a0%95%ed%95%98%ea%b3%a0%eb%8f%84-%ec%8a%ac%ed%94%88-%ea%b4%80%ea%b3%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%ec%a0%95%ed%95%98%ea%b3%a0%eb%8f%84-%ec%8a%ac%ed%94%88-%ea%b4%80%ea%b3%84/</guid>
-            <pubDate>Wed, 27 Nov 2024 03:37:50 GMT</pubDate>
-            <content:encoded><![CDATA[하이 미스터 메모리]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%98%EC%9D%B4-%EB%AF%B8%EC%8A%A4%ED%84%B0-%EB%A9%94%EB%AA%A8%EB%A6%AC_%EB%8B%A4%EC%A0%95%ED%95%98%EA%B3%A0%EB%8F%84-%EC%8A%AC%ED%94%88-%EA%B4%80%EA%B3%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stay (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/stay-4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/stay-4/</guid>
-            <pubDate>Wed, 27 Nov 2024 03:00:47 GMT</pubDate>
-            <content:encoded><![CDATA[Room In The Elephant]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Room-In-The-Elephant_Stay-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Life Is Balance pt.2 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/life-is-balance-pt-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/life-is-balance-pt-2/</guid>
-            <pubDate>Wed, 27 Nov 2024 03:00:47 GMT</pubDate>
-            <content:encoded><![CDATA[재지라이프]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%AC%EC%A7%80%EB%9D%BC%EC%9D%B4%ED%94%84_Life-Is-Balance-pt.2-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.281 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
