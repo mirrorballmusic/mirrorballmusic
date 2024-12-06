@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 01:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 03:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퇴위 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%87%b4%ec%9c%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%87%b4%ec%9c%84/</guid>
+            <pubDate>Fri, 06 Dec 2024 03:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[강백수]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EB%B0%B1%EC%88%98_%ED%87%B4%EC%9C%84-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠들고 싶어요 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%a0%eb%93%a4%ea%b3%a0-%ec%8b%b6%ec%96%b4%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%a0%eb%93%a4%ea%b3%a0-%ec%8b%b6%ec%96%b4%ec%9a%94/</guid>
+            <pubDate>Fri, 06 Dec 2024 03:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[섬머]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%AC%EB%A8%B8_%EC%9E%A0%EB%93%A4%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연희 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%97%b0%ed%9d%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%b0%ed%9d%ac/</guid>
+            <pubDate>Fri, 06 Dec 2024 03:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[화가]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%99%94%EA%B0%80_%EC%97%B0%ED%9D%AC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fig Wasp (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/fig-wasp/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/fig-wasp/</guid>
+            <pubDate>Fri, 06 Dec 2024 03:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[Odd Factory]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Odd-Factory_Fig-Wasp-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑하던 것들이 악몽이 되어 찾아왔을 때 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%ed%95%98%eb%8d%98-%ea%b2%83%eb%93%a4%ec%9d%b4-%ec%95%85%eb%aa%bd%ec%9d%b4-%eb%90%98%ec%96%b4-%ec%b0%be%ec%95%84%ec%99%94%ec%9d%84-%eb%95%8c/</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 29 Nov 2024 03:01:01 GMT</pubDate>
             <content:encoded><![CDATA[92.Keyz]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_92.Keyz_Love-Of-My-Life-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공주들은 원래 그래 (feat. 공혁준) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%b5%ec%a3%bc%eb%93%a4%ec%9d%80-%ec%9b%90%eb%9e%98-%ea%b7%b8%eb%9e%98-feat-%ea%b3%b5%ed%98%81%ec%a4%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%b5%ec%a3%bc%eb%93%a4%ec%9d%80-%ec%9b%90%eb%9e%98-%ea%b7%b8%eb%9e%98-feat-%ea%b3%b5%ed%98%81%ec%a4%80/</guid>
-            <pubDate>Thu, 28 Nov 2024 03:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[산범]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%B0%EB%B2%94_%EA%B3%B5%EC%A3%BC%EB%93%A4%EC%9D%80-%EC%9B%90%EB%9E%98-%EA%B7%B8%EB%9E%98-feat.-%EA%B3%B5%ED%98%81%EC%A4%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[길 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b8/</guid>
-            <pubDate>Thu, 28 Nov 2024 03:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[규리민]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B7%9C%EB%A6%AC%EB%AF%BC_%EA%B8%B8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[점 하나:Pulse (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%90-%ed%95%98%eb%82%98pulse/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%90-%ed%95%98%eb%82%98pulse/</guid>
-            <pubDate>Thu, 28 Nov 2024 03:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[MORAN(민재)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_MORAN-%EB%AF%BC%EC%9E%AC_%EC%A0%90%ED%95%98%EB%82%98_Pulse-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좋아지려나 (demo) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%95%84%ec%a7%80%eb%a0%a4%eb%82%98-demo/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a2%8b%ec%95%84%ec%a7%80%eb%a0%a4%eb%82%98-demo/</guid>
-            <pubDate>Thu, 28 Nov 2024 04:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[삼월생]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%82%BC%EC%9B%94%EC%83%9D_%EC%A2%8B%EC%95%84%EC%A7%80%EB%A0%A4%EB%82%98-demo-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.281 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
