@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 01:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 03:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[읽었지?]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%bd%ec%97%88%ec%a7%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%bd%ec%97%88%ec%a7%80/</guid>
+            <pubDate>Sun, 08 Dec 2024 03:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[신지민 (zemean)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EC%A7%80%EB%AF%BC-zemean_%EC%9D%BD%EC%97%88%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[more than you]]></title>
             <link>http://mirrorballmusic.co.kr/albums/more-than-you/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Nov 2024 03:01:01 GMT</pubDate>
             <content:encoded><![CDATA[The Strange Lovers]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Strange-Lovers_Cliche-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동경의청춘]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%99%ea%b2%bd%ec%9d%98%ec%b2%ad%ec%b6%98/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%99%ea%b2%bd%ec%9d%98%ec%b2%ad%ec%b6%98/</guid>
-            <pubDate>Fri, 29 Nov 2024 03:01:01 GMT</pubDate>
-            <content:encoded><![CDATA[빈이]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B9%88%EC%9D%B4_%EB%8F%99%EA%B2%BD%EC%9D%98%EC%B2%AD%EC%B6%98-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
