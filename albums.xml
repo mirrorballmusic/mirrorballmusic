@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 01:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 03:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하얗게 하얗게]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%95%98%ec%96%97%ea%b2%8c-%ed%95%98%ec%96%97%ea%b2%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%95%98%ec%96%97%ea%b2%8c-%ed%95%98%ec%96%97%ea%b2%8c/</guid>
+            <pubDate>Tue, 10 Dec 2024 03:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[안희수]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%ED%9D%AC%EC%88%98_%ED%95%98%EC%96%97%EA%B2%8C-%ED%95%98%EC%96%97%EA%B2%8C-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First & Start]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/first-start/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/first-start/</guid>
+            <pubDate>Tue, 10 Dec 2024 03:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[샐리에라]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%83%90%EB%A6%AC%EC%97%90%EB%9D%BC_First-Start-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EXIT]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/exit/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/exit/</guid>
+            <pubDate>Tue, 10 Dec 2024 03:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[최구슬]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EA%B5%AC%EC%8A%AC_EXIT-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너를 보면 내 마음이]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a5%bc-%eb%b3%b4%eb%a9%b4-%eb%82%b4-%eb%a7%88%ec%9d%8c%ec%9d%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%a5%bc-%eb%b3%b4%eb%a9%b4-%eb%82%b4-%eb%a7%88%ec%9d%8c%ec%9d%b4/</guid>
+            <pubDate>Tue, 10 Dec 2024 03:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[정단우 (Danwoo Jung)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EB%8B%A8%EC%9A%B0-Danwoo-Jung_%EB%84%88%EB%A5%BC-%EB%B3%B4%EB%A9%B4-%EB%82%B4-%EB%A7%88%EC%9D%8C%EC%9D%B4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나 홀로 지금]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98-%ed%99%80%eb%a1%9c-%ec%a7%80%ea%b8%88/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98-%ed%99%80%eb%a1%9c-%ec%a7%80%ea%b8%88/</guid>
+            <pubDate>Tue, 10 Dec 2024 03:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[Dally (달리)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Dally-%EB%8B%AC%EB%A6%AC_%EB%82%98-%ED%99%80%EB%A1%9C-%EC%A7%80%EA%B8%88-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리볼드 (RE.BOLD)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%a6%ac%eb%b3%bc%eb%93%9c-re-bold/</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 03 Dec 2024 03:04:36 GMT</pubDate>
             <content:encoded><![CDATA[예찬]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%88%EC%B0%AC_%EC%A7%80%EB%82%98%EA%B3%A0%EB%82%98%EB%A9%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가방에두고싶은것들]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80%eb%b0%a9%ec%97%90%eb%91%90%ea%b3%a0%ec%8b%b6%ec%9d%80%ea%b2%83%eb%93%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80%eb%b0%a9%ec%97%90%eb%91%90%ea%b3%a0%ec%8b%b6%ec%9d%80%ea%b2%83%eb%93%a4/</guid>
-            <pubDate>Tue, 03 Dec 2024 03:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[박한영]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%ED%95%9C%EC%98%81_%EB%82%B4%EA%B0%80%EB%B0%A9%EC%97%90%EB%91%90%EA%B3%A0%EC%8B%B6%EC%9D%80%EA%B2%83%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭍]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%ad%8d/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%ad%8d/</guid>
-            <pubDate>Mon, 02 Dec 2024 03:04:39 GMT</pubDate>
-            <content:encoded><![CDATA[n@di (나디), 장재성]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_n@di-%EB%82%98%EB%94%94-%EC%9E%A5%EC%9E%AC%EC%84%B1_%EB%AD%8D-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Life-Embracement]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/life-embracement/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/life-embracement/</guid>
-            <pubDate>Mon, 02 Dec 2024 03:04:39 GMT</pubDate>
-            <content:encoded><![CDATA[나준호]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%98%EC%A4%80%ED%98%B8_Life-Embracement-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기다려줄래]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%eb%8b%a4%eb%a0%a4%ec%a4%84%eb%9e%98/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%eb%8b%a4%eb%a0%a4%ec%a4%84%eb%9e%98/</guid>
-            <pubDate>Mon, 02 Dec 2024 03:04:39 GMT</pubDate>
-            <content:encoded><![CDATA[칠운몽]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B9%A0%EC%9A%B4%EB%AA%BD_%EA%B8%B0%EB%8B%A4%EB%A0%A4%EC%A4%84%EB%9E%98-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤의 비명에서 빛이 태어나]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ec%9d%98-%eb%b9%84%eb%aa%85%ec%97%90%ec%84%9c-%eb%b9%9b%ec%9d%b4-%ed%83%9c%ec%96%b4%eb%82%98/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ec%9d%98-%eb%b9%84%eb%aa%85%ec%97%90%ec%84%9c-%eb%b9%9b%ec%9d%b4-%ed%83%9c%ec%96%b4%eb%82%98/</guid>
-            <pubDate>Mon, 02 Dec 2024 03:04:39 GMT</pubDate>
-            <content:encoded><![CDATA[Crossia]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Crossia_%EB%B0%A4%EC%9D%98-%EB%B9%84%EB%AA%85%EC%97%90%EC%84%9C-%EB%B9%9B%EC%9D%B4-%ED%83%9C%EC%96%B4%EB%82%98-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
