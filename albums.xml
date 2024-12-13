@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 04:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 05:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불안을 불 안에]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%88%ec%95%88%ec%9d%84-%eb%b6%88-%ec%95%88%ec%97%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%88%ec%95%88%ec%9d%84-%eb%b6%88-%ec%95%88%ec%97%90/</guid>
+            <pubDate>Fri, 13 Dec 2024 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[김자영]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%9E%90%EC%98%81_%EB%B6%88%EC%95%88%EC%9D%84-%EB%B6%88-%EC%95%88%EC%97%90-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In My House]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/in-my-house/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/in-my-house/</guid>
+            <pubDate>Fri, 13 Dec 2024 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[Gwac]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Gwac_In-My-House-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발생학개론]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%9c%ec%83%9d%ed%95%99%ea%b0%9c%eb%a1%a0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%9c%ec%83%9d%ed%95%99%ea%b0%9c%eb%a1%a0/</guid>
+            <pubDate>Fri, 13 Dec 2024 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[일요일은 형용사]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%BC%EC%9A%94%EC%9D%BC%EC%9D%80-%ED%98%95%EC%9A%A9%EC%82%AC_%EB%B0%9C%EC%83%9D%ED%95%99%EA%B0%9C%EB%A1%A0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈 뜨고 코 베이기 게임]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%88%88-%eb%9c%a8%ea%b3%a0-%ec%bd%94-%eb%b2%a0%ec%9d%b4%ea%b8%b0-%ea%b2%8c%ec%9e%84/</link>
@@ -72,20 +96,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EC%A7%81%EC%84%A0_I-Dont-Belong-Here-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Toi et Moi]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/toi-et-moi/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/toi-et-moi/</guid>
-            <pubDate>Wed, 11 Dec 2024 05:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[오수경]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%88%98%EA%B2%BD_Toi-et-Moi-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[궤적]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b6%a4%ec%a0%81/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%ea%b6%a4%ec%a0%81/</guid>
             <pubDate>Wed, 11 Dec 2024 05:19:10 GMT</pubDate>
             <content:encoded><![CDATA[퓨전캔디]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%93%A8%EC%A0%84%EC%BA%94%EB%94%94_%EA%B6%A4%EC%A0%81-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Toi et Moi]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/toi-et-moi/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/toi-et-moi/</guid>
+            <pubDate>Wed, 11 Dec 2024 05:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[오수경]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%88%98%EA%B2%BD_Toi-et-Moi-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하얗게 하얗게]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 05 Dec 2024 03:03:05 GMT</pubDate>
             <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Mingginyu-%EB%B0%8D%EA%B8%B0%EB%89%B4_%EC%82%AC%EB%9E%91%ED%95%98%EB%8D%98-%EA%B2%83%EB%93%A4%EC%9D%B4-%EC%95%85%EB%AA%BD%EC%9D%B4-%EB%90%98%EC%96%B4-%EC%B0%BE%EC%95%84%EC%99%94%EC%9D%84-%EB%95%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sand Ocean]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/sand-ocean/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/sand-ocean/</guid>
-            <pubDate>Thu, 05 Dec 2024 03:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[로코모티브]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A1%9C%EC%BD%94%EB%AA%A8%ED%8B%B0%EB%B8%8C_Sand-Ocean-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Sandy Forever]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/the-sandy-forever/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/the-sandy-forever/</guid>
-            <pubDate>Thu, 05 Dec 2024 03:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[The Black Underground]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Black-Underground_The-Sandy-Forever-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight of Dreams : A Journey]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/flight-of-dreams-a-journey/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/flight-of-dreams-a-journey/</guid>
-            <pubDate>Thu, 05 Dec 2024 03:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[BLUEPEPPERONIONTHESTREET]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BLUEPEPPERONIONTHESTREET_Flight-of-Dreams-A-Journey-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
