@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 03:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 04:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 19 Dec 2024 03:31:32 GMT</pubDate>
             <content:encoded><![CDATA[sodi]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_sodi_TTT-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언제나 불어오는 것들은 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%96%b8%ec%a0%9c%eb%82%98-%eb%b6%88%ec%96%b4%ec%98%a4%eb%8a%94-%ea%b2%83%eb%93%a4%ec%9d%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%96%b8%ec%a0%9c%eb%82%98-%eb%b6%88%ec%96%b4%ec%98%a4%eb%8a%94-%ea%b2%83%eb%93%a4%ec%9d%80/</guid>
+            <pubDate>Thu, 19 Dec 2024 04:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[이피 (eepy)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%ED%94%BC-eepy_%EC%96%B8%EC%A0%9C%EB%82%98-%EB%B6%88%EC%96%B4%EC%98%A4%EB%8A%94-%EA%B2%83%EB%93%A4%EC%9D%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[힘을 낼 시간 OST (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 12 Dec 2024 03:02:45 GMT</pubDate>
             <content:encoded><![CDATA[덕이408]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8D%95%EC%9D%B4408_%ED%9A%8C%ED%95%AD-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필선집 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ed%95%84%ec%84%a0%ec%a7%91/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ed%95%84%ec%84%a0%ec%a7%91/</guid>
-            <pubDate>Wed, 11 Dec 2024 05:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[김필선]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%ED%95%84%EC%84%A0_%ED%95%84%EC%84%A0%EC%A7%91-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.282 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
