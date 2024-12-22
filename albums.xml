@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 02:54:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 03:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메그의 단편들]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a9%94%ea%b7%b8%ec%9d%98-%eb%8b%a8%ed%8e%b8%eb%93%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a9%94%ea%b7%b8%ec%9d%98-%eb%8b%a8%ed%8e%b8%eb%93%a4/</guid>
+            <pubDate>Sun, 22 Dec 2024 03:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[강파소]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%ED%8C%8C%EC%86%8C_%EB%A9%94%EA%B7%B8%EC%9D%98-%EB%8B%A8%ED%8E%B8%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[THE ONE]]></title>
             <link>http://mirrorballmusic.co.kr/albums/the-one/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Dec 2024 05:19:43 GMT</pubDate>
             <content:encoded><![CDATA[Gwac]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Gwac_In-My-House-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발생학개론]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%9c%ec%83%9d%ed%95%99%ea%b0%9c%eb%a1%a0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%9c%ec%83%9d%ed%95%99%ea%b0%9c%eb%a1%a0/</guid>
-            <pubDate>Fri, 13 Dec 2024 05:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[일요일은 형용사]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%BC%EC%9A%94%EC%9D%BC%EC%9D%80-%ED%98%95%EC%9A%A9%EC%82%AC_%EB%B0%9C%EC%83%9D%ED%95%99%EA%B0%9C%EB%A1%A0-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
