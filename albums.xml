@@ -4,9 +4,57 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 02:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 03:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Couch Potato]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/couch-potato-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/couch-potato-2/</guid>
+            <pubDate>Thu, 26 Dec 2024 03:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[맥거핀 (MGFF)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%A5%EA%B1%B0%ED%95%80-MGFF_Couch-Potato-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기억의 향]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ec%96%b5%ec%9d%98-%ed%96%a5/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ec%96%b5%ec%9d%98-%ed%96%a5/</guid>
+            <pubDate>Thu, 26 Dec 2024 03:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[Analog Invasion X BAEK (아날로그 인베이전 X 백경호)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Analog-Invasion-X-BAEK-%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8-%EC%9D%B8%EB%B2%A0%EC%9D%B4%EC%A0%84-X-%EB%B0%B1%EA%B2%BD%ED%98%B8_%EA%B8%B0%EC%96%B5%EC%9D%98-%ED%96%A5-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[난 모질고 어렵지만]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%9c-%eb%aa%a8%ec%a7%88%ea%b3%a0-%ec%96%b4%eb%a0%b5%ec%a7%80%eb%a7%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%9c-%eb%aa%a8%ec%a7%88%ea%b3%a0-%ec%96%b4%eb%a0%b5%ec%a7%80%eb%a7%8c/</guid>
+            <pubDate>Thu, 26 Dec 2024 03:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[주혜주]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A3%BC%ED%98%9C%EC%A3%BC_%EB%82%9C-%EB%AA%A8%EC%A7%88%EA%B3%A0-%EC%96%B4%EB%A0%B5%EC%A7%80%EB%A7%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창밖을 봐 눈이 와]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%b0%bd%eb%b0%96%ec%9d%84-%eb%b4%90-%eb%88%88%ec%9d%b4-%ec%99%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%b0%bd%eb%b0%96%ec%9d%84-%eb%b4%90-%eb%88%88%ec%9d%b4-%ec%99%80/</guid>
+            <pubDate>Thu, 26 Dec 2024 03:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[버틀러]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B2%84%ED%8B%80%EB%9F%AC_%EC%B0%BD%EB%B0%96%EC%9D%84-%EB%B4%90-%EB%88%88%EC%9D%B4-%EC%99%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포근한 환상]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%8f%ac%ea%b7%bc%ed%95%9c-%ed%99%98%ec%83%81/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%8f%ac%ea%b7%bc%ed%95%9c-%ed%99%98%ec%83%81/</guid>
+            <pubDate>Thu, 26 Dec 2024 03:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[윤지상]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A4%EC%A7%80%EC%83%81_%ED%8F%AC%EA%B7%BC%ED%95%9C-%ED%99%98%EC%83%81-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hammock (feat. bee)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/hammock-feat-bee/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/hammock-feat-bee/</guid>
+            <pubDate>Thu, 26 Dec 2024 03:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[타미즈 (Tamiz)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%83%80%EB%AF%B8%EC%A6%88-Tamiz_Hammock-feat.-bee-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈이 내려와]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%88%88%ec%9d%b4-%eb%82%b4%eb%a0%a4%ec%99%80/</link>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 18 Dec 2024 03:30:21 GMT</pubDate>
             <content:encoded><![CDATA[모임 별 (Byul.org)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AA%A8%EC%9E%84-%EB%B3%84-Byul.org_%ED%9E%98%EC%9D%84-%EB%82%BC-%EC%8B%9C%EA%B0%84-OST-2-1-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좀비스]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a2%80%eb%b9%84%ec%8a%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a2%80%eb%b9%84%ec%8a%a4/</guid>
-            <pubDate>Wed, 18 Dec 2024 03:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[유제이]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%EC%A0%9C%EC%9D%B4_%EC%A2%80%EB%B9%84%EC%8A%A4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dance when you feel lonely (寂寞的時候就跳一支舞)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/dance-when-you-feel-lonely-%e5%af%82%e5%af%9e%e7%9a%84%e6%99%82%e5%80%99%e5%b0%b1%e8%b7%b3%e4%b8%80%e6%94%af%e8%88%9e/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/dance-when-you-feel-lonely-%e5%af%82%e5%af%9e%e7%9a%84%e6%99%82%e5%80%99%e5%b0%b1%e8%b7%b3%e4%b8%80%e6%94%af%e8%88%9e/</guid>
-            <pubDate>Wed, 18 Dec 2024 03:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[Cliff (克里夫)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Cliff%E5%85%8B%E9%87%8C%E5%A4%AB_Dance-when-you-feel-lonely-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Circle Line]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/circle-line/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/circle-line/</guid>
-            <pubDate>Wed, 18 Dec 2024 03:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[The Bathroom]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_The-Bathroom_Circle-Line-2-1-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ARECIBO]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/arecibo/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/arecibo/</guid>
-            <pubDate>Wed, 18 Dec 2024 03:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[물결]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%AC%BC%EA%B2%B0_ARECIBO-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[to winter]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/to-winter/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/to-winter/</guid>
-            <pubDate>Tue, 17 Dec 2024 03:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[kenessi]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kenessi_to-winter-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[in my room]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/in-my-room-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/in-my-room-2/</guid>
-            <pubDate>Tue, 17 Dec 2024 03:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[신젬]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EC%A0%AC_in-my-room-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
