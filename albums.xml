@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Dec 2024 02:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Dec 2024 03:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Painful Love’s Serenade]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/painful-loves-serenade/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/painful-loves-serenade/</guid>
+            <pubDate>Sat, 28 Dec 2024 03:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[hanyu, curv moon]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_hanyu-curv-moon_Painful-Loves-Serenade-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Brand New Eyes]]></title>
             <link>http://mirrorballmusic.co.kr/albums/brand-new-eyes/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 19 Dec 2024 03:31:32 GMT</pubDate>
             <content:encoded><![CDATA[마린]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A7%88%EB%A6%B0_%EA%B7%B8%EB%A6%AC%EC%9A%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%82%AC%EB%8A%94-%EB%A7%88%EC%9D%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야생마와 자유부인]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%bc%ec%83%9d%eb%a7%88%ec%99%80-%ec%9e%90%ec%9c%a0%eb%b6%80%ec%9d%b8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%bc%ec%83%9d%eb%a7%88%ec%99%80-%ec%9e%90%ec%9c%a0%eb%b6%80%ec%9d%b8/</guid>
-            <pubDate>Thu, 19 Dec 2024 03:31:32 GMT</pubDate>
-            <content:encoded><![CDATA[야생마와 자유부인]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%BC%EC%83%9D%EB%A7%88%EC%99%80-%EC%9E%90%EC%9C%A0%EB%B6%80%EC%9D%B8_%EC%95%BC%EC%83%9D%EB%A7%88%EC%99%80-%EC%9E%90%EC%9C%A0%EB%B6%80%EC%9D%B8-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
