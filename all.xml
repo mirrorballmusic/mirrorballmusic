@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 02:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 03:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Winter’s Dream (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/winters-dream/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/winters-dream/</guid>
+            <pubDate>Tue, 31 Dec 2024 03:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Winters-Dream-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑 (feat. 몽타주) (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91-feat-%eb%aa%bd%ed%83%80%ec%a3%bc/</link>
@@ -240,12 +248,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A4%EB%8F%84%EB%AA%85_%EC%9D%B4%EC%83%81-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메그의 단편들 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%a9%94%ea%b7%b8%ec%9d%98-%eb%8b%a8%ed%8e%b8%eb%93%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%a9%94%ea%b7%b8%ec%9d%98-%eb%8b%a8%ed%8e%b8%eb%93%a4/</guid>
-            <pubDate>Sun, 22 Dec 2024 03:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[강파소]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%ED%8C%8C%EC%86%8C_%EB%A9%94%EA%B7%B8%EC%9D%98-%EB%8B%A8%ED%8E%B8%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.283 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-283/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-283/</guid>
+            <pubDate>Tue, 31 Dec 2024 03:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.26 ~ 2024.12.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%B5%9C%EC%9C%A0%EB%A6%AC-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.282 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -333,14 +341,6 @@
             <pubDate>Thu, 21 Nov 2024 17:17:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.11 ~ 2024.06.25]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/07/%EB%82%98%EC%83%81%ED%98%84-300x300.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.271 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-271/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-271/</guid>
-            <pubDate>Thu, 21 Nov 2024 17:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.26 ~ 2024.06.10]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/06/%ED%95%9C%EB%A1%9C%EB%A1%9C-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
