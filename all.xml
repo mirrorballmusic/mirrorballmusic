@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 01:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 03:29:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알잖아요 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%8c%ec%9e%96%ec%95%84%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%8c%ec%9e%96%ec%95%84%ec%9a%94/</guid>
+            <pubDate>Wed, 01 Jan 2025 03:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[음성사서함]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%8C%EC%84%B1%EC%82%AC%EC%84%9C%ED%95%A8_%EC%95%8C%EC%9E%96%EC%95%84%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Winter’s Dream (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/winters-dream/</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 23 Dec 2024 03:24:29 GMT</pubDate>
             <content:encoded><![CDATA[나운 (noun)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%98%EC%9A%B4-noun_%EC%9D%8C%EC%98%81-shadow-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%83%81/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%83%81/</guid>
-            <pubDate>Mon, 23 Dec 2024 03:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[윤도명]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A4%EB%8F%84%EB%AA%85_%EC%9D%B4%EC%83%81-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.283 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
