@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 02:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 03:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Shin Nal Groove (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/shin-nal-groove/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/shin-nal-groove/</guid>
+            <pubDate>Thu, 02 Jan 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[신경숙 (Shin Kyungsook)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EA%B2%BD%EC%88%99-Shin-Kyungsook_Shin-Nal-Groove-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈을 꾸는 밤 (feat. 0do) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ec%9d%84-%ea%be%b8%eb%8a%94-%eb%b0%a4-feat-0do/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%bf%88%ec%9d%84-%ea%be%b8%eb%8a%94-%eb%b0%a4-feat-0do/</guid>
+            <pubDate>Thu, 02 Jan 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[눈뜨면 오후]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%88%88%EB%9C%A8%EB%A9%B4-%EC%98%A4%ED%9B%84_%EA%BF%88%EC%9D%84-%EA%BE%B8%EB%8A%94-%EB%B0%A4-feat.-0do-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오렌지 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%a0%8c%ec%a7%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%a0%8c%ec%a7%80/</guid>
+            <pubDate>Thu, 02 Jan 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[리치리치]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A6%AC%EC%B9%98%EB%A6%AC%EC%B9%98_%EC%98%A4%EB%A0%8C%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RNTY (Right Next To You) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/rnty-right-next-to-you/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/rnty-right-next-to-you/</guid>
+            <pubDate>Thu, 02 Jan 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[BLND, Jhunnit]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BLND-Jhunnit_RNTY-Right-Next-To-You-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알잖아요 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%95%8c%ec%9e%96%ec%95%84%ec%9a%94/</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 23 Dec 2024 03:24:29 GMT</pubDate>
             <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Mingginyu-%EB%B0%8D%EA%B8%B0%EB%89%B4_%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%A0%90%EC%A0%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Really Love You (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-really-love-you/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-really-love-you/</guid>
-            <pubDate>Mon, 23 Dec 2024 03:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[Men And Them]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Men-And-Them_I-Really-Love-You-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[blue christmas (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/blue-christmas/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/blue-christmas/</guid>
-            <pubDate>Mon, 23 Dec 2024 03:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[betti blue (베티블루)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_betti-blue-%EB%B2%A0%ED%8B%B0%EB%B8%94%EB%A3%A8_blue-christmas-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Greed (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/greed/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/greed/</guid>
-            <pubDate>Mon, 23 Dec 2024 03:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[아이오웰 (Aiowell)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EC%9D%B4%EC%98%A4%EC%9B%B0-Aiowell_Greed-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음영 (shadow) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%8c%ec%98%81-shadow/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%8c%ec%98%81-shadow/</guid>
-            <pubDate>Mon, 23 Dec 2024 03:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[나운 (noun)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%82%98%EC%9A%B4-noun_%EC%9D%8C%EC%98%81-shadow-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.283 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
