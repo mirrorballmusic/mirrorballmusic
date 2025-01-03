@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jan 2025 01:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 02:50:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 02 Jan 2025 09:18:44 GMT</pubDate>
             <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_New-Year-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Year (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/new-year-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/new-year-2/</guid>
+            <pubDate>Fri, 03 Jan 2025 02:50:02 GMT</pubDate>
+            <content:encoded><![CDATA[루이드 (Llwyd)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EC%9D%B4%EB%93%9C-Llwyd_New-Year-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Shin Nal Groove (미러볼뮤직 ─ ALBUMS)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 Dec 2024 05:17:30 GMT</pubDate>
             <content:encoded><![CDATA[Fuzzy Pug (퍼지퍼그)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fuzzy-Pug-%ED%8D%BC%EC%A7%80%ED%8D%BC%EA%B7%B8_Love-and-Peace-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOUR TURN NOW (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/your-turn-now/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/your-turn-now/</guid>
-            <pubDate>Tue, 24 Dec 2024 05:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[데드챈트]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8D%B0%EB%93%9C%EC%B1%88%ED%8A%B8_YOUR-TURN-NOW-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.283 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
