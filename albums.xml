@@ -4,7 +4,7 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jan 2025 13:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 14:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_weloveproof_I-Can-Look-Really-Fine-Sometimes-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전하고 싶어]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%84%ed%95%98%ea%b3%a0-%ec%8b%b6%ec%96%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%84%ed%95%98%ea%b3%a0-%ec%8b%b6%ec%96%b4/</guid>
-            <pubDate>Fri, 03 Jan 2025 03:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[PYO]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_PYO_%EC%A0%84%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[너의 기타]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%9d%98-%ea%b8%b0%ed%83%80/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%ec%9d%98-%ea%b8%b0%ed%83%80/</guid>
             <pubDate>Fri, 03 Jan 2025 03:22:25 GMT</pubDate>
             <content:encoded><![CDATA[김시온]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%8B%9C%EC%98%A8_%EB%84%88%EC%9D%98-%EA%B8%B0%ED%83%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전하고 싶어]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%84%ed%95%98%ea%b3%a0-%ec%8b%b6%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%84%ed%95%98%ea%b3%a0-%ec%8b%b6%ec%96%b4/</guid>
+            <pubDate>Fri, 03 Jan 2025 03:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[PYO]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_PYO_%EC%A0%84%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Water]]></title>
