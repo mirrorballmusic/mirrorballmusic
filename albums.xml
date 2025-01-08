@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 02:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 03:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벌써 여기]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b2%8c%ec%8d%a8-%ec%97%ac%ea%b8%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b2%8c%ec%8d%a8-%ec%97%ac%ea%b8%b0/</guid>
+            <pubDate>Wed, 08 Jan 2025 03:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[향니]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%96%A5%EB%8B%88_%EB%B2%8C%EC%8D%A8-%EC%97%AC%EA%B8%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARMADILLO]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/armadillo/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/armadillo/</guid>
+            <pubDate>Wed, 08 Jan 2025 03:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[Permanent Red]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_PERMANENTRED_ARMADILLO-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ew]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/ew/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/ew/</guid>
+            <pubDate>Wed, 08 Jan 2025 03:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[DYANI]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_DYANI_ew-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Oh Love]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/love-oh-love/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/love-oh-love/</guid>
+            <pubDate>Wed, 08 Jan 2025 03:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[waii]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_waii_Love-Oh-Love-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 안의 코끼리]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ec%95%88%ec%9d%98-%ec%bd%94%eb%81%bc%eb%a6%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%ec%95%88%ec%9d%98-%ec%bd%94%eb%81%bc%eb%a6%ac/</guid>
+            <pubDate>Wed, 08 Jan 2025 03:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[Elephant Juice]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Elephant-Juice_%EC%9A%B0%EB%A6%AC-%EC%95%88%EC%9D%98-%EC%BD%94%EB%81%BC%EB%A6%AC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔딩샷 (Ending Shot)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%97%94%eb%94%a9%ec%83%b7-ending-shot/</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 30 Dec 2024 03:25:09 GMT</pubDate>
             <content:encoded><![CDATA[콜리 (Collie)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%BD%9C%EB%A6%AC-Collie_Endless-Hug-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moon (feat. 5DNR)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/moon-feat-5dnr/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/moon-feat-5dnr/</guid>
-            <pubDate>Mon, 30 Dec 2024 03:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[Rati]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Rati_Moon-feat.-5DNR-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구우]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b5%ac%ec%9a%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b5%ac%ec%9a%b0/</guid>
-            <pubDate>Mon, 30 Dec 2024 03:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[강연우]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%95%EC%97%B0%EC%9A%B0_%EA%B5%AC%EC%9A%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prism Echo]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/prism-echo/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/prism-echo/</guid>
-            <pubDate>Mon, 30 Dec 2024 03:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[정구선]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%95%EA%B5%AC%EC%84%A0_Prism-Echo-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너무 애쓰지 말자]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%ac%b4-%ec%95%a0%ec%93%b0%ec%a7%80-%eb%a7%90%ec%9e%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%84%88%eb%ac%b4-%ec%95%a0%ec%93%b0%ec%a7%80-%eb%a7%90%ec%9e%90/</guid>
-            <pubDate>Sun, 29 Dec 2024 04:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[이민석]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%AF%BC%EC%84%9D_%EB%84%88%EB%AC%B4-%EC%95%A0%EC%93%B0%EC%A7%80-%EB%A7%90%EC%9E%90-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painful Love’s Serenade]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/painful-loves-serenade/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/painful-loves-serenade/</guid>
-            <pubDate>Sat, 28 Dec 2024 03:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[hanyu, curv moon]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_hanyu-curv-moon_Painful-Loves-Serenade-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
