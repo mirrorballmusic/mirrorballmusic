@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 01:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 03:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상을 살아가는 불완전한 사람들]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%84%b8%ec%83%81%ec%9d%84-%ec%82%b4%ec%95%84%ea%b0%80%eb%8a%94-%eb%b6%88%ec%99%84%ec%a0%84%ed%95%9c-%ec%82%ac%eb%9e%8c%eb%93%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%b8%ec%83%81%ec%9d%84-%ec%82%b4%ec%95%84%ea%b0%80%eb%8a%94-%eb%b6%88%ec%99%84%ec%a0%84%ed%95%9c-%ec%82%ac%eb%9e%8c%eb%93%a4/</guid>
+            <pubDate>Thu, 09 Jan 2025 03:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[이유카]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%9C%A0%EC%B9%B4_%EC%84%B8%EC%83%81%EC%9D%84-%EC%82%B4%EC%95%84%EA%B0%80%EB%8A%94-%EB%B6%88%EC%99%84%EC%A0%84%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Feel So Wonderful]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/feel-so-wonderful/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/feel-so-wonderful/</guid>
+            <pubDate>Thu, 09 Jan 2025 03:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[로지 (Rosie)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A1%9C%EC%A7%80-Rosie_Feel-So-Wonderful-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can I have your color?]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/can-i-have-your-color/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/can-i-have-your-color/</guid>
+            <pubDate>Thu, 09 Jan 2025 03:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[bennysoo]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_bennysoo_Can-I-have-your-color-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자멸위기종]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%90%eb%a9%b8%ec%9c%84%ea%b8%b0%ec%a2%85/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%90%eb%a9%b8%ec%9c%84%ea%b8%b0%ec%a2%85/</guid>
+            <pubDate>Thu, 09 Jan 2025 03:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[회기본능]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9A%8C%EA%B8%B0%EB%B3%B8%EB%8A%A5_%EC%9E%90%EB%A9%B8%EC%9C%84%EA%B8%B0%EC%A2%85-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벌써 여기]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b2%8c%ec%8d%a8-%ec%97%ac%ea%b8%b0/</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 02 Jan 2025 03:21:31 GMT</pubDate>
             <content:encoded><![CDATA[BLND, Jhunnit]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BLND-Jhunnit_RNTY-Right-Next-To-You-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알잖아요]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%8c%ec%9e%96%ec%95%84%ec%9a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%8c%ec%9e%96%ec%95%84%ec%9a%94/</guid>
-            <pubDate>Wed, 01 Jan 2025 03:29:39 GMT</pubDate>
-            <content:encoded><![CDATA[음성사서함]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%8C%EC%84%B1%EC%82%AC%EC%84%9C%ED%95%A8_%EC%95%8C%EC%9E%96%EC%95%84%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Winter’s Dream]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/winters-dream/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/winters-dream/</guid>
-            <pubDate>Tue, 31 Dec 2024 03:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[Kiik, 신기원 (ShinGiWon)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Kiik-%EC%8B%A0%EA%B8%B0%EC%9B%90-ShinGiWon_Winters-Dream-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑 (feat. 몽타주)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91-feat-%eb%aa%bd%ed%83%80%ec%a3%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91-feat-%eb%aa%bd%ed%83%80%ec%a3%bc/</guid>
-            <pubDate>Mon, 30 Dec 2024 03:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[아진 (Azin)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EC%A7%84-Azin_%EC%82%AC%EB%9E%91-feat.-%EB%AA%BD%ED%83%80%EC%A3%BC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Endless Hug]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/endless-hug/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/endless-hug/</guid>
-            <pubDate>Mon, 30 Dec 2024 03:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[콜리 (Collie)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%BD%9C%EB%A6%AC-Collie_Endless-Hug-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
