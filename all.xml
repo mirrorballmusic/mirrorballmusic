@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 08:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 09:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기억해야만 하지 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ec%96%b5%ed%95%b4%ec%95%bc%eb%a7%8c-%ed%95%98%ec%a7%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ec%96%b5%ed%95%b4%ec%95%bc%eb%a7%8c-%ed%95%98%ec%a7%80/</guid>
+            <pubDate>Thu, 09 Jan 2025 09:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[허회경]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%ED%9A%8C%EA%B2%BD_%EA%B8%B0%EC%96%B5%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상을 살아가는 불완전한 사람들 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%84%b8%ec%83%81%ec%9d%84-%ec%82%b4%ec%95%84%ea%b0%80%eb%8a%94-%eb%b6%88%ec%99%84%ec%a0%84%ed%95%9c-%ec%82%ac%eb%9e%8c%eb%93%a4/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Jan 2025 03:21:31 GMT</pubDate>
             <content:encoded><![CDATA[리치리치]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A6%AC%EC%B9%98%EB%A6%AC%EC%B9%98_%EC%98%A4%EB%A0%8C%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RNTY (Right Next To You) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/rnty-right-next-to-you/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/rnty-right-next-to-you/</guid>
-            <pubDate>Thu, 02 Jan 2025 03:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[BLND, Jhunnit]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_BLND-Jhunnit_RNTY-Right-Next-To-You-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.283 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
