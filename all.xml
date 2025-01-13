@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 02:55:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 03:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당연하지 않은 마음 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%b9%ec%97%b0%ed%95%98%ec%a7%80-%ec%95%8a%ec%9d%80-%eb%a7%88%ec%9d%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%b9%ec%97%b0%ed%95%98%ec%a7%80-%ec%95%8a%ec%9d%80-%eb%a7%88%ec%9d%8c/</guid>
+            <pubDate>Mon, 13 Jan 2025 03:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[안희수]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%88%ED%9D%AC%EC%88%98_%EB%8B%B9%EC%97%B0%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EB%A7%88%EC%9D%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Well Well Well (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/well-well-well/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/well-well-well/</guid>
+            <pubDate>Mon, 13 Jan 2025 03:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[ALBAS]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ALBAS_Well-Well-Well-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Light It Up (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/light-it-up/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/light-it-up/</guid>
+            <pubDate>Mon, 13 Jan 2025 03:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[CYC]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_CYC_Light-It-Up-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fractal Waves (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/fractal-waves/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/fractal-waves/</guid>
+            <pubDate>Mon, 13 Jan 2025 03:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[Binary Number]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Binary-Number_Fractal-Waves-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내일의 빛은 내 편이니까 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ec%9d%bc%ec%9d%98-%eb%b9%9b%ec%9d%80-%eb%82%b4-%ed%8e%b8%ec%9d%b4%eb%8b%88%ea%b9%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ec%9d%bc%ec%9d%98-%eb%b9%9b%ec%9d%80-%eb%82%b4-%ed%8e%b8%ec%9d%b4%eb%8b%88%ea%b9%8c/</guid>
+            <pubDate>Mon, 13 Jan 2025 03:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[OFFERCITY (오퍼시티)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_OFFERCITY-%EC%98%A4%ED%8D%BC%EC%8B%9C%ED%8B%B0_%EB%82%B4%EC%9D%BC%EC%9D%98-%EB%B9%9B%EC%9D%80-%EB%82%B4-%ED%8E%B8%EC%9D%B4%EB%8B%88%EA%B9%8C-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외사랑 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%99%b8%ec%82%ac%eb%9e%91/</link>
@@ -206,46 +246,6 @@
             <pubDate>Mon, 06 Jan 2025 03:26:42 GMT</pubDate>
             <content:encoded><![CDATA[huiAe]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_huiAe_KeshiA-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아버지가 되었어요 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%84%eb%b2%84%ec%a7%80%ea%b0%80-%eb%90%98%ec%97%88%ec%96%b4%ec%9a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%84%eb%b2%84%ec%a7%80%ea%b0%80-%eb%90%98%ec%97%88%ec%96%b4%ec%9a%94/</guid>
-            <pubDate>Mon, 06 Jan 2025 03:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[서상욱]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%84%9C%EC%83%81%EC%9A%B1_%EC%95%84%EB%B2%84%EC%A7%80%EA%B0%80-%EB%90%98%EC%97%88%EC%96%B4%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오디세이 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%94%94%ec%84%b8%ec%9d%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%a4%eb%94%94%ec%84%b8%ec%9d%b4/</guid>
-            <pubDate>Sun, 05 Jan 2025 04:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[TNDR]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_TNDR_%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I can be your best friend! (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-can-be-your-best-friend/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-can-be-your-best-friend/</guid>
-            <pubDate>Sat, 04 Jan 2025 03:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[아름]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EB%A6%84_I-can-be-your-best-friend-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비상구 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%84%ec%83%81%ea%b5%ac/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%84%ec%83%81%ea%b5%ac/</guid>
-            <pubDate>Fri, 03 Jan 2025 03:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[고트 (Goat)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%A0%ED%8A%B8-Goat_%EB%B9%84%EC%83%81%EA%B5%AC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Can Look Really Fine Sometimes. (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-can-look-really-fine-sometimes/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-can-look-really-fine-sometimes/</guid>
-            <pubDate>Fri, 03 Jan 2025 03:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[weloveproof]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_weloveproof_I-Can-Look-Really-Fine-Sometimes-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.283 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
