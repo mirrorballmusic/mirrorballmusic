@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 02:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 03:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wish (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/wish/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/wish/</guid>
+            <pubDate>Tue, 14 Jan 2025 03:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[동경]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8F%99%EA%B2%BD_Wish-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그래요 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9e%98%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9e%98%ec%9a%94/</guid>
+            <pubDate>Tue, 14 Jan 2025 03:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[ZOYONA]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ZOYONA_%EA%B7%B8%EB%9E%98%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doublue Days (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/doublue-days/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/doublue-days/</guid>
+            <pubDate>Tue, 14 Jan 2025 03:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[션트]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%85%98%ED%8A%B8_Doublue-Days-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나무의 일기 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%ac%b4%ec%9d%98-%ec%9d%bc%ea%b8%b0/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%ac%b4%ec%9d%98-%ec%9d%bc%ea%b8%b0/</guid>
+            <pubDate>Tue, 14 Jan 2025 03:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[신선혜]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%A0%EC%84%A0%ED%98%9C_%EB%82%98%EB%AC%B4%EC%9D%98-%EC%9D%BC%EA%B8%B0-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당연하지 않은 마음 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%8b%b9%ec%97%b0%ed%95%98%ec%a7%80-%ec%95%8a%ec%9d%80-%eb%a7%88%ec%9d%8c/</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 07 Jan 2025 03:24:35 GMT</pubDate>
             <content:encoded><![CDATA[전기승]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A0%84%EA%B8%B0%EC%8A%B9_%EB%84%88%EC%97%90%EA%B2%8C-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동백 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8f%99%eb%b0%b1-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8f%99%eb%b0%b1-2/</guid>
-            <pubDate>Tue, 07 Jan 2025 03:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[한 가]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C-%EA%B0%80_%EB%8F%99%EB%B0%B1-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Valentine (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/valentine-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/valentine-2/</guid>
-            <pubDate>Mon, 06 Jan 2025 03:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[아이오웰 (Aiowell)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EC%9D%B4%EC%98%A4%EC%9B%B0-Aiowell_Valentine-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제자리 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%9c%ec%9e%90%eb%a6%ac-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%9c%ec%9e%90%eb%a6%ac-2/</guid>
-            <pubDate>Mon, 06 Jan 2025 03:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[여기, 배덕순]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%97%AC%EA%B8%B0-%EB%B0%B0%EB%8D%95%EC%88%9C_%EC%A0%9C%EC%9E%90%EB%A6%AC-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KeshiA (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/keshia/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/keshia/</guid>
-            <pubDate>Mon, 06 Jan 2025 03:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[huiAe]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_huiAe_KeshiA-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.283 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
