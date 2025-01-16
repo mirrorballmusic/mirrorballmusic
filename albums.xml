@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 02:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 03:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Winter Conscience]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/winter-conscience/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/winter-conscience/</guid>
+            <pubDate>Thu, 16 Jan 2025 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[NY물고기]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_NY%EB%AC%BC%EA%B3%A0%EA%B8%B0_Winter-Conscience-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영원한 건 없어!]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%98%81%ec%9b%90%ed%95%9c-%ea%b1%b4-%ec%97%86%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%81%ec%9b%90%ed%95%9c-%ea%b1%b4-%ec%97%86%ec%96%b4/</guid>
+            <pubDate>Thu, 16 Jan 2025 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[love is cycle]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_love-is-cycle_%EC%98%81%EC%9B%90%ED%95%9C-%EA%B1%B4-%EC%97%86%EC%96%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[dot.]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/dot/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/dot/</guid>
+            <pubDate>Thu, 16 Jan 2025 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[theAdmin]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_theAdmin_dot-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fill It Up]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/fill-it-up/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/fill-it-up/</guid>
+            <pubDate>Thu, 16 Jan 2025 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[Jay Marie]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jay-Marie_Fill-It-Up-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일렁일렁]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%eb%a0%81%ec%9d%bc%eb%a0%81/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%bc%eb%a0%81%ec%9d%bc%eb%a0%81/</guid>
+            <pubDate>Thu, 16 Jan 2025 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[함원석]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%A8%EC%9B%90%EC%84%9D_%EC%9D%BC%EB%A0%81%EC%9D%BC%EB%A0%81-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Oops!]]></title>
             <link>http://mirrorballmusic.co.kr/albums/oops/</link>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 09 Jan 2025 03:12:55 GMT</pubDate>
             <content:encoded><![CDATA[로지 (Rosie)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A1%9C%EC%A7%80-Rosie_Feel-So-Wonderful-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can I have your color?]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/can-i-have-your-color/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/can-i-have-your-color/</guid>
-            <pubDate>Thu, 09 Jan 2025 03:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[bennysoo]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_bennysoo_Can-I-have-your-color-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자멸위기종]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9e%90%eb%a9%b8%ec%9c%84%ea%b8%b0%ec%a2%85/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9e%90%eb%a9%b8%ec%9c%84%ea%b8%b0%ec%a2%85/</guid>
-            <pubDate>Thu, 09 Jan 2025 03:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[회기본능]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9A%8C%EA%B8%B0%EB%B3%B8%EB%8A%A5_%EC%9E%90%EB%A9%B8%EC%9C%84%EA%B8%B0%EC%A2%85-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 여기]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b2%8c%ec%8d%a8-%ec%97%ac%ea%b8%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b2%8c%ec%8d%a8-%ec%97%ac%ea%b8%b0/</guid>
-            <pubDate>Wed, 08 Jan 2025 03:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[향니]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%96%A5%EB%8B%88_%EB%B2%8C%EC%8D%A8-%EC%97%AC%EA%B8%B0-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ARMADILLO]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/armadillo/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/armadillo/</guid>
-            <pubDate>Wed, 08 Jan 2025 03:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[Permanent Red]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_PERMANENTRED_ARMADILLO-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ew]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/ew/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/ew/</guid>
-            <pubDate>Wed, 08 Jan 2025 03:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[DYANI]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_DYANI_ew-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
