@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 08:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 09:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달팽이 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%ac%ed%8c%bd%ec%9d%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%ac%ed%8c%bd%ec%9d%b4/</guid>
+            <pubDate>Fri, 17 Jan 2025 09:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[김종서]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%A2%85%EC%84%9C_%EB%8B%AC%ED%8C%BD%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[One Thing (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/one-thing/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Jan 2025 03:25:13 GMT</pubDate>
             <content:encoded><![CDATA[재즈말]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9E%AC%EC%A6%88%EB%A7%90-JAZZMAL_3000DUST-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기억해야만 하지 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ec%96%b5%ed%95%b4%ec%95%bc%eb%a7%8c-%ed%95%98%ec%a7%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ec%96%b5%ed%95%b4%ec%95%bc%eb%a7%8c-%ed%95%98%ec%a7%80/</guid>
-            <pubDate>Thu, 09 Jan 2025 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[허회경]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%ED%9A%8C%EA%B2%BD_%EA%B8%B0%EC%96%B5%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EC%A7%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.284 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
