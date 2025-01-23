@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 02:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 03:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rainy Day Reverie]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/rainy-day-reverie/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/rainy-day-reverie/</guid>
+            <pubDate>Thu, 23 Jan 2025 03:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[시우]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%9C%EC%9A%B0_Rainy-Day-Reverie-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dry Flower]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/dry-flower-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/dry-flower-3/</guid>
+            <pubDate>Thu, 23 Jan 2025 03:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[루리 (RuLee)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%A3%A8%EB%A6%AC-RuLee_Dry-Flower-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈이 오면]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%88%88%ec%9d%b4-%ec%98%a4%eb%a9%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%88%88%ec%9d%b4-%ec%98%a4%eb%a9%b4/</guid>
+            <pubDate>Thu, 23 Jan 2025 03:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[ofrm (오프롬)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ofrm-%EC%98%A4%ED%94%84%EB%A1%AC_%EB%88%88%EC%9D%B4-%EC%98%A4%EB%A9%B4-2-1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마음조각]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%9d%8c%ec%a1%b0%ea%b0%81/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%9d%8c%ec%a1%b0%ea%b0%81/</guid>
+            <pubDate>Thu, 23 Jan 2025 03:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[이마리]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%A7%88%EB%A6%AC_%EB%A7%88%EC%9D%8C%EC%A1%B0%EA%B0%81-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metropolis]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/metropolis/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/metropolis/</guid>
+            <pubDate>Thu, 23 Jan 2025 03:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[To More Raw (투모로우)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_To-More-Raw-%ED%88%AC%EB%AA%A8%EB%A1%9C%EC%9A%B0_Metropolis-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Director’s Cut 2]]></title>
             <link>http://mirrorballmusic.co.kr/albums/directors-cut-2/</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 15 Jan 2025 03:19:20 GMT</pubDate>
             <content:encoded><![CDATA[박지하]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%EC%A7%80%ED%95%98-Park-Jiha_Water-Moon-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위하여! (We are young)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9c%84%ed%95%98%ec%97%ac-we-are-young/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9c%84%ed%95%98%ec%97%ac-we-are-young/</guid>
-            <pubDate>Wed, 15 Jan 2025 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[2o25F (이오이오프)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_2o25F-%EC%9D%B4%EC%98%A4%EC%9D%B4%EC%98%A4%ED%94%84_%EC%9C%84%ED%95%98%EC%97%AC-We-are-young-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Tides World]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/black-tides-world/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/black-tides-world/</guid>
-            <pubDate>Wed, 15 Jan 2025 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[YURYEONG (유령)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_YURYEONG-%EC%9C%A0%EB%A0%B9_Black-Tides-World-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Face ID]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/face-id/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/face-id/</guid>
-            <pubDate>Wed, 15 Jan 2025 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[6Lee]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_6Lee_Face-ID-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wish]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/wish/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/wish/</guid>
-            <pubDate>Tue, 14 Jan 2025 03:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[동경]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%8F%99%EA%B2%BD_Wish-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그래요]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9e%98%ec%9a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%9e%98%ec%9a%94/</guid>
-            <pubDate>Tue, 14 Jan 2025 03:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[ZOYONA]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ZOYONA_%EA%B7%B8%EB%9E%98%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
