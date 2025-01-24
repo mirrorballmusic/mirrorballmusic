@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 04:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 05:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부평사운드 2024 메탈시티부평 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%80%ed%8f%89%ec%82%ac%ec%9a%b4%eb%93%9c-2024-%eb%a9%94%ed%83%88%ec%8b%9c%ed%8b%b0%eb%b6%80%ed%8f%89/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%80%ed%8f%89%ec%82%ac%ec%9a%b4%eb%93%9c-2024-%eb%a9%94%ed%83%88%ec%8b%9c%ed%8b%b0%eb%b6%80%ed%8f%89/</guid>
+            <pubDate>Fri, 24 Jan 2025 03:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Various-Artists_%EB%B6%80%ED%8F%89%EC%82%AC%EC%9A%B4%EB%93%9C-2024-%EB%A9%94%ED%83%88%EC%8B%9C%ED%8B%B0%EB%B6%80%ED%8F%89-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[울적해진 마음 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b8%ec%a0%81%ed%95%b4%ec%a7%84-%eb%a7%88%ec%9d%8c/</link>
@@ -38,14 +46,6 @@
             <pubDate>Fri, 24 Jan 2025 03:23:12 GMT</pubDate>
             <content:encoded><![CDATA[변현지]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B3%80%ED%98%84%EC%A7%80_%EC%95%8C-%EA%B2%83%EB%A7%8C-%EA%B0%99%EC%95%84%EC%9A%94-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부평사운드 2024 메탈시티부평 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%80%ed%8f%89%ec%82%ac%ec%9a%b4%eb%93%9c-2024-%eb%a9%94%ed%83%88%ec%8b%9c%ed%8b%b0%eb%b6%80%ed%8f%89/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%80%ed%8f%89%ec%82%ac%ec%9a%b4%eb%93%9c-2024-%eb%a9%94%ed%83%88%ec%8b%9c%ed%8b%b0%eb%b6%80%ed%8f%89/</guid>
-            <pubDate>Fri, 24 Jan 2025 03:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Various-Artists_%EB%B6%80%ED%8F%89%EC%82%AC%EC%9A%B4%EB%93%9C-2024-%EB%A9%94%ED%83%88%EC%8B%9C%ED%8B%B0%EB%B6%80%ED%8F%89-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rainy Day Reverie (미러볼뮤직 ─ ALBUMS)]]></title>
