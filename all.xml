@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jan 2025 02:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 04:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Daydreamer (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/daydreamer/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/daydreamer/</guid>
+            <pubDate>Mon, 27 Jan 2025 04:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[기프트 (GIFT)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B8%B0%ED%94%84%ED%8A%B8-GIFT_Daydreamer-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다음 생엔 나를 더 사랑하세요 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%8b%a4%ec%9d%8c-%ec%83%9d%ec%97%94-%eb%82%98%eb%a5%bc-%eb%8d%94-%ec%82%ac%eb%9e%91%ed%95%98%ec%84%b8%ec%9a%94/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jan 2025 03:20:00 GMT</pubDate>
             <content:encoded><![CDATA[Jiyoon Heo]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jiyoon-Heo_One-Thing-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I don’t know (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-dont-know-4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-dont-know-4/</guid>
-            <pubDate>Fri, 17 Jan 2025 03:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[시연 (siyeon)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8B%9C%EC%97%B0-siyeon_I-dont-know-2-1-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.284 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
