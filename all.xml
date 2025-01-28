@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jan 2025 01:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 03:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My dad, you’r son (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/my-dad-your-son/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/my-dad-your-son/</guid>
+            <pubDate>Tue, 28 Jan 2025 03:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[오세웅 (OH SHE WOONG)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%EC%84%B8%EC%9B%85-OH-SHE-WOONG_My-dad-your-son-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Daydreamer (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/daydreamer/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jan 2025 09:18:31 GMT</pubDate>
             <content:encoded><![CDATA[김종서]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%A2%85%EC%84%9C_%EB%8B%AC%ED%8C%BD%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[One Thing (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/one-thing/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/one-thing/</guid>
-            <pubDate>Fri, 17 Jan 2025 03:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[Jiyoon Heo]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jiyoon-Heo_One-Thing-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.284 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
