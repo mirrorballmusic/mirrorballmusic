@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jan 2025 02:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 03:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람에게 상처받는 일 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%8c%ec%97%90%ea%b2%8c-%ec%83%81%ec%b2%98%eb%b0%9b%eb%8a%94-%ec%9d%bc/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%8c%ec%97%90%ea%b2%8c-%ec%83%81%ec%b2%98%eb%b0%9b%eb%8a%94-%ec%9d%bc/</guid>
+            <pubDate>Wed, 29 Jan 2025 03:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[옛그리움 (Old Yearning)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%9B%EA%B7%B8%EB%A6%AC%EC%9B%80-Old-Yearning_%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C-%EC%83%81%EC%B2%98%EB%B0%9B%EB%8A%94-%EC%9D%BC-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[My dad, you’r son (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/my-dad-your-son/</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Jan 2025 03:18:24 GMT</pubDate>
             <content:encoded><![CDATA[Skinny Chase]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Skinny-Chase_%EC%B6%9C%EA%B7%BC%EA%B8%B8-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달팽이 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%8b%ac%ed%8c%bd%ec%9d%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%8b%ac%ed%8c%bd%ec%9d%b4/</guid>
-            <pubDate>Fri, 17 Jan 2025 09:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[김종서]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%A2%85%EC%84%9C_%EB%8B%AC%ED%8C%BD%EC%9D%B4-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.284 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
