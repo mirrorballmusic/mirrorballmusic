@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 08:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 09:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[sorry (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sorry-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sorry-3/</guid>
+            <pubDate>Fri, 31 Jan 2025 09:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[뉴챔프]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%89%B4%EC%B1%94%ED%94%84_sorry-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Into Fabletown (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/into-fabletown/</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Jan 2025 03:20:54 GMT</pubDate>
             <content:encoded><![CDATA[양서울]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%96%91%EC%84%9C%EC%9A%B8_Hanging-Garden-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백일몽 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%b1%ec%9d%bc%eb%aa%bd/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%b1%ec%9d%bc%eb%aa%bd/</guid>
-            <pubDate>Mon, 20 Jan 2025 03:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[윤준]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A4%EC%A4%80_%EB%B0%B1%EC%9D%BC%EB%AA%BD-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.285 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
