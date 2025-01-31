@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 02:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 03:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Into Fabletown]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/into-fabletown/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/into-fabletown/</guid>
+            <pubDate>Fri, 31 Jan 2025 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[Fabletown]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Fabletown_Into-Fabletown-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Night In Bangkok]]></title>
             <link>http://mirrorballmusic.co.kr/albums/night-in-bangkok/</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Jan 2025 03:20:54 GMT</pubDate>
             <content:encoded><![CDATA[윤준]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A4%EC%A4%80_%EB%B0%B1%EC%9D%BC%EB%AA%BD-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hika]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/hika/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/hika/</guid>
-            <pubDate>Sun, 19 Jan 2025 03:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[찬민 (CHANMIN)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B0%AC%EB%AF%BC-CHANMIN_Hika-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
