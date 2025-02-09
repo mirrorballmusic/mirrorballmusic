@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 02:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 03:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[말해주세요 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%90%ed%95%b4%ec%a3%bc%ec%84%b8%ec%9a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%90%ed%95%b4%ec%a3%bc%ec%84%b8%ec%9a%94/</guid>
+            <pubDate>Sun, 09 Feb 2025 03:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[성해빈]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EB%A7%90%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94-%EC%BB%A4%EB%B2%84%EC%9D%B4%EB%AF%B8%EC%A7%80-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기억 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%ec%96%b5/</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 01 Feb 2025 09:17:46 GMT</pubDate>
             <content:encoded><![CDATA[kenessi]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kenessi_Archive-Mary-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑만은 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%eb%a7%8c%ec%9d%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%eb%9e%91%eb%a7%8c%ec%9d%80/</guid>
-            <pubDate>Sat, 01 Feb 2025 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[희진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%9D%AC%EC%A7%84_%EC%82%AC%EB%9E%91%EB%A7%8C%EC%9D%80-2-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.285 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
