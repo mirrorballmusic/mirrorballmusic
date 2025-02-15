@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Feb 2025 02:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 03:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SAFE & SOUND (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/safe-sound/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/safe-sound/</guid>
+            <pubDate>Sat, 15 Feb 2025 03:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[mermerme (멀멀미)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_SAFE-SOUND-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[All Living Things (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/all-living-things/</link>
@@ -240,12 +248,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%B0%EC%A0%95_%EC%88%98%EC%84%A0%ED%99%94-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[In Your Eyes (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/in-your-eyes-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/in-your-eyes-2/</guid>
-            <pubDate>Fri, 07 Feb 2025 03:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[Gwac]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/In-Your-Eyes-Cover-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.286 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-286/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-286/</guid>
+            <pubDate>Sat, 15 Feb 2025 03:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.11~2025.01.25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.285 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -334,14 +342,6 @@
             <pubDate>Thu, 21 Nov 2024 17:17:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.26 ~ 2024.08.10]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EA%B9%80%EC%82%AC%EC%9B%94-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.274 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-274/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-274/</guid>
-            <pubDate>Thu, 21 Nov 2024 17:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.11 ~ 2024.07.25]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/20240816_182939-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>
