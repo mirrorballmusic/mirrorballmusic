@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Feb 2025 02:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 03:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이별 길 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%b3%84-%ea%b8%b8/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%eb%b3%84-%ea%b8%b8/</guid>
+            <pubDate>Sun, 16 Feb 2025 03:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[정가이 (와인루프)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%A0%95%EA%B0%80%EC%9D%B4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SAFE & SOUND (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/safe-sound/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Feb 2025 03:22:45 GMT</pubDate>
             <content:encoded><![CDATA[HEDA]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_HEDA_Chair-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수선화 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%88%98%ec%84%a0%ed%99%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%88%98%ec%84%a0%ed%99%94/</guid>
-            <pubDate>Fri, 07 Feb 2025 03:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[우정]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%B0%EC%A0%95_%EC%88%98%EC%84%A0%ED%99%94-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.286 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
