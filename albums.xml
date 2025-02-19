@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 02:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 03:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노래를 합시다]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%9e%98%eb%a5%bc-%ed%95%a9%ec%8b%9c%eb%8b%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%9e%98%eb%a5%bc-%ed%95%a9%ec%8b%9c%eb%8b%a4/</guid>
+            <pubDate>Wed, 19 Feb 2025 03:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[SAZA 최우준]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EB%85%B8%EB%9E%98%EB%A5%BC-%ED%95%A9%EC%8B%9C%EB%8B%A4-%EC%B5%9C%EC%A2%85-%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Came Into My Life]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/came-into-my-life/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/came-into-my-life/</guid>
+            <pubDate>Wed, 19 Feb 2025 03:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[Elevator pitch]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Elevator-pitch_You-Came-Into-My-Life-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중얼대는 말들]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a4%91%ec%96%bc%eb%8c%80%eb%8a%94-%eb%a7%90%eb%93%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a4%91%ec%96%bc%eb%8c%80%eb%8a%94-%eb%a7%90%eb%93%a4/</guid>
+            <pubDate>Wed, 19 Feb 2025 03:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[Chaeryim]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Chaeryim_%EC%A4%91%EC%96%BC%EB%8C%80%EB%8A%94-%EB%A7%90%EB%93%A4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[긴밤의비밀]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b4%eb%b0%a4%ec%9d%98%eb%b9%84%eb%b0%80/</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 11 Feb 2025 03:21:54 GMT</pubDate>
             <content:encoded><![CDATA[최세현]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%84%B8%ED%98%84_I-Dont-Know-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SILLY BOY]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/silly-boy/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/silly-boy/</guid>
-            <pubDate>Tue, 11 Feb 2025 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[구구 (GuGu)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93_SILLY-BOY-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야호]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%bc%ed%98%b8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%bc%ed%98%b8/</guid>
-            <pubDate>Tue, 11 Feb 2025 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[아루단테]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%84%EB%A3%A8%EB%8B%A8%ED%85%8C_%EC%95%BC%ED%98%B8-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[love is beautiful]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/love-is-beautiful/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/love-is-beautiful/</guid>
-            <pubDate>Mon, 10 Feb 2025 03:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[love is cycle]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/love-is-beautiful-%EC%9E%90%EC%BC%93-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
