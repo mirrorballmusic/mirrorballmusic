@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 02:50:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 03:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제비다방 컴필레이션 2024/2025]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%9c%eb%b9%84%eb%8b%a4%eb%b0%a9-%ec%bb%b4%ed%95%84%eb%a0%88%ec%9d%b4%ec%85%98-2024-2025/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%9c%eb%b9%84%eb%8b%a4%eb%b0%a9-%ec%bb%b4%ed%95%84%eb%a0%88%ec%9d%b4%ec%85%98-2024-2025/</guid>
+            <pubDate>Thu, 20 Feb 2025 03:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/main-image-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열 화]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%97%b4-%ed%99%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%b4-%ed%99%94/</guid>
+            <pubDate>Thu, 20 Feb 2025 03:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[운율]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/IMG_9924-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[aisle]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/aisle/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/aisle/</guid>
+            <pubDate>Thu, 20 Feb 2025 03:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[seo]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/aisle-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야생마와 자유부인 (Band Ver.)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%95%bc%ec%83%9d%eb%a7%88%ec%99%80-%ec%9e%90%ec%9c%a0%eb%b6%80%ec%9d%b8-band-ver/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%bc%ec%83%9d%eb%a7%88%ec%99%80-%ec%9e%90%ec%9c%a0%eb%b6%80%ec%9d%b8-band-ver/</guid>
+            <pubDate>Thu, 20 Feb 2025 03:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[야생마와 자유부인]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/2025-%EC%95%BC%EC%83%9D%EB%A7%88%EC%99%80-%EC%9E%90%EC%9C%A0%EB%B6%80%EC%9D%B8-single-cover-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노래를 합시다]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%9e%98%eb%a5%bc-%ed%95%a9%ec%8b%9c%eb%8b%a4/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 12 Feb 2025 03:21:41 GMT</pubDate>
             <content:encoded><![CDATA[김 봄]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nanana Song]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/nanana-song/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/nanana-song/</guid>
-            <pubDate>Wed, 12 Feb 2025 03:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[Naked fish]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Naked-fish_Nanana-song-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Looking (feat. Jadhé)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/looking-feat-jadhe/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/looking-feat-jadhe/</guid>
-            <pubDate>Tue, 11 Feb 2025 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[William Son (윌리엄 손)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_William-Son-%EC%9C%8C%EB%A6%AC%EC%97%84-%EC%86%90_Looking-feat.-Jadhe-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Song of Hope]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/song-of-hope/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/song-of-hope/</guid>
-            <pubDate>Tue, 11 Feb 2025 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[솔가, 모호 프로젝트, 이호(eeeho), Cha Harmo, Thanakon, PeeNetiz]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/SOH_single_cover-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Don’t Know]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-dont-know-5/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-dont-know-5/</guid>
-            <pubDate>Tue, 11 Feb 2025 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[최세현]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%84%B8%ED%98%84_I-Dont-Know-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
