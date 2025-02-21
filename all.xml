@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 02:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 03:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구온난화 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%80%ea%b5%ac%ec%98%a8%eb%82%9c%ed%99%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%80%ea%b5%ac%ec%98%a8%eb%82%9c%ed%99%94/</guid>
+            <pubDate>Fri, 21 Feb 2025 03:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[타미즈 (Tamiz)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%A7%80%EA%B5%AC%EC%98%A8%EB%82%9C%ED%99%94-Feat.-Claire-Hau-%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[starrrrliiiiightttt (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/starrrrliiiiightttt/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/starrrrliiiiightttt/</guid>
+            <pubDate>Fri, 21 Feb 2025 03:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[imDumberThanYou]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_imDumberThanYou_starrrrliiiiightttt-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[About you (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/about-you/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/about-you/</guid>
+            <pubDate>Fri, 21 Feb 2025 03:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[pancy]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_pancy_About-you-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제비다방 컴필레이션 2024/2025 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%a0%9c%eb%b9%84%eb%8b%a4%eb%b0%a9-%ec%bb%b4%ed%95%84%eb%a0%88%ec%9d%b4%ec%85%98-2024-2025/</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 13 Feb 2025 03:21:46 GMT</pubDate>
             <content:encoded><![CDATA[RE'ZEST]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EB%A6%AC%EC%A0%9C%EC%8A%A4%ED%8A%B8-%EC%84%A4%ED%99%94-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놀이터 (Playground) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%86%80%ec%9d%b4%ed%84%b0-playground/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%86%80%ec%9d%b4%ed%84%b0-playground/</guid>
-            <pubDate>Wed, 12 Feb 2025 03:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[이은이은 (ieun ieun)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%9D%80%EC%9D%B4%EC%9D%80-ieun-ieun_%EB%86%80%EC%9D%B4%ED%84%B0-Playground-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울빛 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b2%a8%ec%9a%b8%eb%b9%9b/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b2%a8%ec%9a%b8%eb%b9%9b/</guid>
-            <pubDate>Wed, 12 Feb 2025 03:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[Bebelune]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EA%B9%80%EA%B0%80%EA%B2%BD%EB%8B%98_%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8_%ED%81%AC%EB%A1%AD_02-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선망의 여름이야 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%84%a0%eb%a7%9d%ec%9d%98-%ec%97%ac%eb%a6%84%ec%9d%b4%ec%95%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%a0%eb%a7%9d%ec%9d%98-%ec%97%ac%eb%a6%84%ec%9d%b4%ec%95%bc/</guid>
-            <pubDate>Wed, 12 Feb 2025 03:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[김 봄]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.286 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
