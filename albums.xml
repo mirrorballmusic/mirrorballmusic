@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Feb 2025 02:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 03:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛나는 나의 이름에게]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b9%9b%eb%82%98%eb%8a%94-%eb%82%98%ec%9d%98-%ec%9d%b4%eb%a6%84%ec%97%90%ea%b2%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b9%9b%eb%82%98%eb%8a%94-%eb%82%98%ec%9d%98-%ec%9d%b4%eb%a6%84%ec%97%90%ea%b2%8c/</guid>
+            <pubDate>Sun, 23 Feb 2025 03:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[한비]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/HANBI_2025_ALBUM_FINAL-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Herman]]></title>
             <link>http://mirrorballmusic.co.kr/albums/herman/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Feb 2025 03:21:46 GMT</pubDate>
             <content:encoded><![CDATA[러브송 (LoveSong)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%9F%AC%EB%B8%8C%EC%86%A1-LoveSong_How-have-you-been-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갈증]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b0%88%ec%a6%9d/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b0%88%ec%a6%9d/</guid>
-            <pubDate>Thu, 13 Feb 2025 03:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[오프더로드]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%ED%94%84%EB%8D%94%EB%A1%9C%EB%93%9C_%EA%B0%88%EC%A6%9D-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
