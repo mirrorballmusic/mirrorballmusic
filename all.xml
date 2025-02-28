@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 02:54:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 04:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wave (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/wave-4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/wave-4/</guid>
+            <pubDate>Fri, 28 Feb 2025 04:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원(ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/wave-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리의 그 순간 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ea%b7%b8-%ec%88%9c%ea%b0%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ea%b7%b8-%ec%88%9c%ea%b0%84/</guid>
+            <pubDate>Fri, 28 Feb 2025 04:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[박진민]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%A7%84%EB%AF%BC-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쓰레기 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%93%b0%eb%a0%88%ea%b8%b0-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%93%b0%eb%a0%88%ea%b8%b0-2/</guid>
+            <pubDate>Fri, 28 Feb 2025 04:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[요정]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%EC%93%B0%EB%A0%88%EA%B8%B0-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Is Kinda (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/love-is-kinda/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/love-is-kinda/</guid>
+            <pubDate>Fri, 28 Feb 2025 04:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[투명]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%9E%90%EC%BC%93%EC%9D%B4%EB%AF%B8%EC%A7%80-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Letter (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/letter-2/</link>
@@ -216,36 +248,12 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/2025-%EC%95%BC%EC%83%9D%EB%A7%88%EC%99%80-%EC%9E%90%EC%9C%A0%EB%B6%80%EC%9D%B8-single-cover-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노래를 합시다 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%9e%98%eb%a5%bc-%ed%95%a9%ec%8b%9c%eb%8b%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%9e%98%eb%a5%bc-%ed%95%a9%ec%8b%9c%eb%8b%a4/</guid>
-            <pubDate>Wed, 19 Feb 2025 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[SAZA 최우준]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EB%85%B8%EB%9E%98%EB%A5%BC-%ED%95%A9%EC%8B%9C%EB%8B%A4-%EC%B5%9C%EC%A2%85-%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Came Into My Life (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/came-into-my-life/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/came-into-my-life/</guid>
-            <pubDate>Wed, 19 Feb 2025 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[Elevator pitch]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Elevator-pitch_You-Came-Into-My-Life-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중얼대는 말들 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a4%91%ec%96%bc%eb%8c%80%eb%8a%94-%eb%a7%90%eb%93%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a4%91%ec%96%bc%eb%8c%80%eb%8a%94-%eb%a7%90%eb%93%a4/</guid>
-            <pubDate>Wed, 19 Feb 2025 03:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[Chaeryim]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Chaeryim_%EC%A4%91%EC%96%BC%EB%8C%80%EB%8A%94-%EB%A7%90%EB%93%A4-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긴밤의비밀 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b4%eb%b0%a4%ec%9d%98%eb%b9%84%eb%b0%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b4%eb%b0%a4%ec%9d%98%eb%b9%84%eb%b0%80/</guid>
-            <pubDate>Tue, 18 Feb 2025 03:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[지지 (zZ)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EA%B8%B4%EB%B0%A4%EC%9D%98%EB%B9%84%EB%B0%80-300x300.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[K-INDIE CHART VOL.287 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-287/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-287/</guid>
+            <pubDate>Fri, 28 Feb 2025 04:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.26~2025.02.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/t020-300x300.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.286 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
@@ -334,14 +342,6 @@
             <pubDate>Thu, 21 Nov 2024 17:17:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.11 ~ 2024.08.25]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.275 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-275/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-275/</guid>
-            <pubDate>Thu, 21 Nov 2024 17:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.26 ~ 2024.08.10]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EA%B9%80%EC%82%AC%EC%9B%94-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘홍대 앞 어벤져스’ ABTB의 ‘츤데레’ 같은 음악 (미러볼뮤직 ─ RECOMMENDED)]]></title>

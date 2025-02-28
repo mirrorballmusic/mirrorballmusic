@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ K-INDIE CHART</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 02:54:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 04:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-INDIE CHART VOL.287]]></title>
+            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-287/</link>
+            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-287/</guid>
+            <pubDate>Fri, 28 Feb 2025 04:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.26~2025.02.10]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/t020-300x300.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.286]]></title>
             <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-286/</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 15 Sep 2024 03:23:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.11 ~ 2024.08.25]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/09/%EB%84%88%EB%93%9C%EC%BB%A4%EB%84%A5%EC%85%98-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-INDIE CHART VOL.275]]></title>
-            <link>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-275/</link>
-            <guid>http://mirrorballmusic.co.kr/k-indie-chart/k-indie-chart-vol-275/</guid>
-            <pubDate>Sat, 31 Aug 2024 03:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.26 ~ 2024.08.10]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2024/08/%EA%B9%80%EC%82%AC%EC%9B%94-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
