@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Mar 2025 02:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 03:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vertigo (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/vertigo/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/vertigo/</guid>
+            <pubDate>Sat, 01 Mar 2025 03:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[Kiwi]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/Kiwi_Vertigo%EC%B5%9C%EC%A2%85-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wave (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/wave-4/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Feb 2025 03:22:30 GMT</pubDate>
             <content:encoded><![CDATA[seo]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/aisle-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야생마와 자유부인 (Band Ver.) (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%95%bc%ec%83%9d%eb%a7%88%ec%99%80-%ec%9e%90%ec%9c%a0%eb%b6%80%ec%9d%b8-band-ver/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%95%bc%ec%83%9d%eb%a7%88%ec%99%80-%ec%9e%90%ec%9c%a0%eb%b6%80%ec%9d%b8-band-ver/</guid>
-            <pubDate>Thu, 20 Feb 2025 03:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[야생마와 자유부인]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/2025-%EC%95%BC%EC%83%9D%EB%A7%88%EC%99%80-%EC%9E%90%EC%9C%A0%EB%B6%80%EC%9D%B8-single-cover-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.287 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
