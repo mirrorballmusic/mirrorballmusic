@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 02:55:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 03:29:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[느와르]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%8a%90%ec%99%80%eb%a5%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%8a%90%ec%99%80%eb%a5%b4/</guid>
+            <pubDate>Mon, 03 Mar 2025 03:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[HeMeets]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EB%8A%90%EC%99%80%EB%A5%B4_%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC-1x1-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Organic Tender]]></title>
             <link>http://mirrorballmusic.co.kr/albums/organic-tender/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Feb 2025 03:22:30 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/main-image-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열 화]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%97%b4-%ed%99%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%97%b4-%ed%99%94/</guid>
-            <pubDate>Thu, 20 Feb 2025 03:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[운율]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/IMG_9924-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
