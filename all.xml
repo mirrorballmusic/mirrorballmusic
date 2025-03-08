@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Mar 2025 02:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 03:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세잎클로버 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%84%b8%ec%9e%8e%ed%81%b4%eb%a1%9c%eb%b2%84/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%b8%ec%9e%8e%ed%81%b4%eb%a1%9c%eb%b2%84/</guid>
+            <pubDate>Sat, 08 Mar 2025 03:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[장여름]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[In Your Eyes (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/in-your-eyes-3/</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 26 Feb 2025 03:25:34 GMT</pubDate>
             <content:encoded><![CDATA[이호석]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%9E%90%EC%BC%93_%EC%9D%B4%ED%98%B8%EC%84%9D-%EA%B1%B0%ED%92%88-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SILVER (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/silver/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/silver/</guid>
-            <pubDate>Wed, 26 Feb 2025 03:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[fairytale]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/fairytale-%EC%9E%90%EC%BC%93%EC%9D%B4%EB%AF%B8%EC%A7%80-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.287 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
