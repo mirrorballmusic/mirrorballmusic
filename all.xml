@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 05:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 06:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/lazybone_%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%A1%B0%EA%B8%88-%EB%8D%94-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[백사 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <title><![CDATA[백사장 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b0%b1%ec%82%ac/</link>
             <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%b1%ec%82%ac/</guid>
             <pubDate>Mon, 10 Mar 2025 03:19:13 GMT</pubDate>
