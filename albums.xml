@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 02:56:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 03:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이상형]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%83%81%ed%98%95/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%83%81%ed%98%95/</guid>
+            <pubDate>Tue, 11 Mar 2025 03:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%9D%B4%EC%83%81%ED%98%95-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anxiety]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/anxiety/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/anxiety/</guid>
+            <pubDate>Tue, 11 Mar 2025 03:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[극야]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%9E%90%EC%BC%93-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[적막한 청춘]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%81%eb%a7%89%ed%95%9c-%ec%b2%ad%ec%b6%98/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%81%eb%a7%89%ed%95%9c-%ec%b2%ad%ec%b6%98/</guid>
+            <pubDate>Tue, 11 Mar 2025 03:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[김동건]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EB%8F%99%EA%B1%B4_%EC%A0%81%EB%A7%89%ED%95%9C-%EC%B2%AD%EC%B6%98-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수민에게]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%88%98%eb%af%bc%ec%97%90%ea%b2%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%88%98%eb%af%bc%ec%97%90%ea%b2%8c/</guid>
+            <pubDate>Tue, 11 Mar 2025 03:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[수 (sooth)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%88%98-sooth_%EC%88%98%EB%AF%BC%EC%97%90%EA%B2%8C-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Remember Me (feat. Sally)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/remember-me-feat-sally/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/remember-me-feat-sally/</guid>
+            <pubDate>Tue, 11 Mar 2025 03:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[William Son (윌리엄 손)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/Remember-Me-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리는 조금 더]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%eb%8a%94-%ec%a1%b0%ea%b8%88-%eb%8d%94/</link>
@@ -206,46 +246,6 @@
             <pubDate>Sat, 01 Mar 2025 03:32:03 GMT</pubDate>
             <content:encoded><![CDATA[Kiwi]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/Kiwi_Vertigo%EC%B5%9C%EC%A2%85-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wave]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/wave-4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/wave-4/</guid>
-            <pubDate>Fri, 28 Feb 2025 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[Kiik, 신기원(ShinGiWon)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/wave-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 그 순간]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ea%b7%b8-%ec%88%9c%ea%b0%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ea%b7%b8-%ec%88%9c%ea%b0%84/</guid>
-            <pubDate>Fri, 28 Feb 2025 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[박진민]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%A7%84%EB%AF%BC-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쓰레기]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%93%b0%eb%a0%88%ea%b8%b0-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%93%b0%eb%a0%88%ea%b8%b0-2/</guid>
-            <pubDate>Fri, 28 Feb 2025 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[요정]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9A%94%EC%A0%95_%EC%93%B0%EB%A0%88%EA%B8%B0-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Is Kinda]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/love-is-kinda/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/love-is-kinda/</guid>
-            <pubDate>Fri, 28 Feb 2025 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[투명]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%9E%90%EC%BC%93%EC%9D%B4%EB%AF%B8%EC%A7%80-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Letter]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/letter-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/letter-2/</guid>
-            <pubDate>Thu, 27 Feb 2025 03:26:30 GMT</pubDate>
-            <content:encoded><![CDATA[이민석]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93_Letter-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
