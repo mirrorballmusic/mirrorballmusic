@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 02:57:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 03:31:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Those Rays Which Never Die]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/those-rays-which-never-die/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/those-rays-which-never-die/</guid>
+            <pubDate>Thu, 13 Mar 2025 03:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[Arles]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/ARLES_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dance all]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/dance-all/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/dance-all/</guid>
+            <pubDate>Thu, 13 Mar 2025 03:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[BOKBAND (복밴드)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%ED%91%9C%EC%A7%80-dance-all-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[들러리]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%93%a4%eb%9f%ac%eb%a6%ac/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%93%a4%eb%9f%ac%eb%a6%ac/</guid>
+            <pubDate>Thu, 13 Mar 2025 03:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[유진비]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EB%93%A4%EB%9F%AC%EB%A6%AC-%EC%9C%A0%EC%A7%84%EB%B9%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[걱정만 10,000 페이지]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b1%b1%ec%a0%95%eb%a7%8c-10000-%ed%8e%98%ec%9d%b4%ec%a7%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b1%b1%ec%a0%95%eb%a7%8c-10000-%ed%8e%98%ec%9d%b4%ec%a7%80/</guid>
+            <pubDate>Thu, 13 Mar 2025 03:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[JIN25]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/JIN25_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%9D%B4%EB%AF%B8%EC%A7%80-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재회]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9e%ac%ed%9a%8c/</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 05 Mar 2025 03:27:33 GMT</pubDate>
             <content:encoded><![CDATA[거노]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Aunt Mary]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/my-aunt-mary/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/my-aunt-mary/</guid>
-            <pubDate>Tue, 04 Mar 2025 03:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[마이 앤트 메리 (My Aunt Mary)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EB%A7%88%EC%9D%B4%EC%95%A4%ED%8A%B8%EB%A9%94%EB%A6%AC-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gaze]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/gaze/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/gaze/</guid>
-            <pubDate>Tue, 04 Mar 2025 03:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[LO HAVI]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/Gaze-cover-jpg-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sydney]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/sydney/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/sydney/</guid>
-            <pubDate>Tue, 04 Mar 2025 03:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[PYO]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_PYO_Sydney-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 너무 부끄럽네]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%84%ec%a7%9c-%eb%84%88%eb%ac%b4-%eb%b6%80%eb%81%84%eb%9f%bd%eb%84%a4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%84%ec%a7%9c-%eb%84%88%eb%ac%b4-%eb%b6%80%eb%81%84%eb%9f%bd%eb%84%a4/</guid>
-            <pubDate>Tue, 04 Mar 2025 03:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[함원석]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%A7%84%EC%A7%9C-%EB%84%88%EB%AC%B4-%EB%B6%80%EB%81%84%EB%9F%BD%EB%84%A4-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
