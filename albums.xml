@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 02:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 03:29:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 너의 여름, 너는 나의 레모네이드]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8a%94-%eb%84%88%ec%9d%98-%ec%97%ac%eb%a6%84-%eb%84%88%eb%8a%94-%eb%82%98%ec%9d%98-%eb%a0%88%eb%aa%a8%eb%84%a4%ec%9d%b4%eb%93%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8a%94-%eb%84%88%ec%9d%98-%ec%97%ac%eb%a6%84-%eb%84%88%eb%8a%94-%eb%82%98%ec%9d%98-%eb%a0%88%eb%aa%a8%eb%84%a4%ec%9d%b4%eb%93%9c/</guid>
+            <pubDate>Fri, 14 Mar 2025 03:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[류니콘]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지구별 방랑자]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%80%ea%b5%ac%eb%b3%84-%eb%b0%a9%eb%9e%91%ec%9e%90/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%80%ea%b5%ac%eb%b3%84-%eb%b0%a9%eb%9e%91%ec%9e%90/</guid>
+            <pubDate>Fri, 14 Mar 2025 03:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[유최늘샘]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%A7%80%EA%B5%AC%EB%B3%84%EB%B0%A9%EB%9E%91%EC%9E%90.%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그렇게 우리는]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%9a%b0%eb%a6%ac%eb%8a%94/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%9a%b0%eb%a6%ac%eb%8a%94/</guid>
+            <pubDate>Fri, 14 Mar 2025 03:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[박유수]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%9A%B0%EB%A6%AC%EB%8A%94-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배고파]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%b0%ea%b3%a0%ed%8c%8c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%b0%ea%b3%a0%ed%8c%8c/</guid>
+            <pubDate>Fri, 14 Mar 2025 03:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[찬온]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EB%B0%B0%EA%B3%A0%ED%8C%8C-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Those Rays Which Never Die]]></title>
             <link>http://mirrorballmusic.co.kr/albums/those-rays-which-never-die/</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 06 Mar 2025 03:27:59 GMT</pubDate>
             <content:encoded><![CDATA[조영남]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%A1%B0%EC%98%81%EB%82%A8_%EC%96%B4%EC%83%89%ED%95%9C-%EC%9D%BC-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뚜루루]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%9a%9c%eb%a3%a8%eb%a3%a8/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%9a%9c%eb%a3%a8%eb%a3%a8/</guid>
-            <pubDate>Wed, 05 Mar 2025 03:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[roon]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/roon-drr-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노른자의]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%a5%b8%ec%9e%90%ec%9d%98/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%85%b8%eb%a5%b8%ec%9e%90%ec%9d%98/</guid>
-            <pubDate>Wed, 05 Mar 2025 03:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[현상록, 녹음]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%98%84%EC%83%81%EB%A1%9D-%EB%85%B9%EC%9D%8C_%EB%85%B8%EB%A5%B8%EC%9E%90%EC%9D%98-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Feel Good (feat. Kohway)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-feel-good-feat-kohway/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-feel-good-feat-kohway/</guid>
-            <pubDate>Wed, 05 Mar 2025 03:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[badassgatsby, JIJI]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_badassgatsby-JIJI_I-Feel-Good-feat.-Kohway-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무엇일까?]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ec%97%87%ec%9d%bc%ea%b9%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%ac%b4%ec%97%87%ec%9d%bc%ea%b9%8c/</guid>
-            <pubDate>Wed, 05 Mar 2025 03:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[거노]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
