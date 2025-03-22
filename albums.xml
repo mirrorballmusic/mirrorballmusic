@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Mar 2025 02:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 03:32:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No More (Prod. HUE)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/no-more-prod-hue/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/no-more-prod-hue/</guid>
+            <pubDate>Sat, 22 Mar 2025 03:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[문영은(moonO=)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93_%EB%AC%B8%EC%98%81%EC%9D%80_No-More-2-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제35회 유재하 음악경연대회]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%a0%9c35%ed%9a%8c-%ec%9c%a0%ec%9e%ac%ed%95%98-%ec%9d%8c%ec%95%85%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Mar 2025 03:30:53 GMT</pubDate>
             <content:encoded><![CDATA[BOKBAND (복밴드)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%ED%91%9C%EC%A7%80-dance-all-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들러리]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%93%a4%eb%9f%ac%eb%a6%ac/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%93%a4%eb%9f%ac%eb%a6%ac/</guid>
-            <pubDate>Thu, 13 Mar 2025 03:30:53 GMT</pubDate>
-            <content:encoded><![CDATA[유진비]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EB%93%A4%EB%9F%AC%EB%A6%AC-%EC%9C%A0%EC%A7%84%EB%B9%84-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
