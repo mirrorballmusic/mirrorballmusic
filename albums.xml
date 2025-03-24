@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Mar 2025 01:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 03:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MY DEAR]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/my-dear-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/my-dear-3/</guid>
+            <pubDate>Mon, 24 Mar 2025 03:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[AlCHi]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ALCHi_MY-DEAR-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a7%91/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a7%91/</guid>
+            <pubDate>Mon, 24 Mar 2025 03:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[회기본능]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%ED%9A%8C%EA%B8%B0%EB%B3%B8%EB%8A%A5_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2016, scent]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/2016-scent/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/2016-scent/</guid>
+            <pubDate>Mon, 24 Mar 2025 03:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[드문]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EB%93%9C%EB%AC%B8_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알아가줘]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%95%8c%ec%95%84%ea%b0%80%ec%a4%98/</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 14 Mar 2025 03:28:58 GMT</pubDate>
             <content:encoded><![CDATA[유최늘샘]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%A7%80%EA%B5%AC%EB%B3%84%EB%B0%A9%EB%9E%91%EC%9E%90.%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그렇게 우리는]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%9a%b0%eb%a6%ac%eb%8a%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%9a%b0%eb%a6%ac%eb%8a%94/</guid>
-            <pubDate>Fri, 14 Mar 2025 03:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[박유수]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%9A%B0%EB%A6%AC%EB%8A%94-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배고파]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%b0%ea%b3%a0%ed%8c%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%b0%ea%b3%a0%ed%8c%8c/</guid>
-            <pubDate>Fri, 14 Mar 2025 03:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[찬온]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EB%B0%B0%EA%B3%A0%ED%8C%8C-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Those Rays Which Never Die]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/those-rays-which-never-die/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/those-rays-which-never-die/</guid>
-            <pubDate>Thu, 13 Mar 2025 03:30:53 GMT</pubDate>
-            <content:encoded><![CDATA[Arles]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/ARLES_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
