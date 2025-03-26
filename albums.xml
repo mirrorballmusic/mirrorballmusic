@@ -4,9 +4,49 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 02:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 03:34:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄으로 피어]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9c%bc%eb%a1%9c-%ed%94%bc%ec%96%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9c%bc%eb%a1%9c-%ed%94%bc%ec%96%b4/</guid>
+            <pubDate>Wed, 26 Mar 2025 03:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[이정권]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9D%B4%EC%A0%95%EA%B6%8C_%EB%B4%84%EC%9C%BC%EB%A1%9C-%ED%94%BC%EC%96%B4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불시착]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%88%ec%8b%9c%ec%b0%a9/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%88%ec%8b%9c%ec%b0%a9/</guid>
+            <pubDate>Wed, 26 Mar 2025 03:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[원버튼(The Onebutton)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9B%90%EB%B2%84%ED%8A%BC-The-Onebutton_%EB%B6%88%EC%8B%9C%EC%B0%A9-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[greenlight]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/greenlight/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/greenlight/</guid>
+            <pubDate>Wed, 26 Mar 2025 03:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[승이]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%8A%B9%EC%9D%B4_greenlight-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4you]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/4you/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/4you/</guid>
+            <pubDate>Wed, 26 Mar 2025 03:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[Dally(달리)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Dally-%EB%8B%AC%EB%A6%AC_4you-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뚜루루 (Sped Up)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%9a%9c%eb%a3%a8%eb%a3%a8-sped-up/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%9a%9c%eb%a3%a8%eb%a3%a8-sped-up/</guid>
+            <pubDate>Wed, 26 Mar 2025 03:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[roon]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_roon_%EB%9A%9C%EB%A3%A8%EB%A3%A8-Sped-up-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웃음 꽃 바다 모래]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9b%83%ec%9d%8c-%ea%bd%83-%eb%b0%94%eb%8b%a4-%eb%aa%a8%eb%9e%98/</link>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 18 Mar 2025 03:34:00 GMT</pubDate>
             <content:encoded><![CDATA[HWAYEON]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/SCAR_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84--300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공상]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b3%b5%ec%83%81/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b3%b5%ec%83%81/</guid>
-            <pubDate>Tue, 18 Mar 2025 03:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[이디스(edith)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/Gongsang_Cover_Final-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rockstar Alphabet]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/the-rockstar-alphabet/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/the-rockstar-alphabet/</guid>
-            <pubDate>Mon, 17 Mar 2025 03:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[스트릿건즈]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%9E%90%EC%BC%93%EC%9D%B4%EB%AF%B8%EC%A7%80Streetguns-The-Rockstar-alphabet_3000_3000-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NAUSEOUS]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/nauseous/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/nauseous/</guid>
-            <pubDate>Mon, 17 Mar 2025 03:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[재마이 (Gem i)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%9E%AC%EB%A7%88%EC%9D%B4-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예쁘다 예뻐]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%98%88%ec%81%98%eb%8b%a4-%ec%98%88%eb%bb%90/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%98%88%ec%81%98%eb%8b%a4-%ec%98%88%eb%bb%90/</guid>
-            <pubDate>Mon, 17 Mar 2025 03:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[라퍼커션]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/3000x3000-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그대와 춤을 (2025 Ver.)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8c%80%ec%99%80-%ec%b6%a4%ec%9d%84-2025-ver/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8%eb%8c%80%ec%99%80-%ec%b6%a4%ec%9d%84-2025-ver/</guid>
-            <pubDate>Mon, 17 Mar 2025 03:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[루리 (RuLee)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EB%A3%A8%EB%A6%AC-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
