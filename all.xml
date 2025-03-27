@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 02:59:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 03:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[What I Wish For..? (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/what-i-wish-for/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/what-i-wish-for/</guid>
+            <pubDate>Thu, 27 Mar 2025 03:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[Mood]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/What-I-Wish-For.._-%EC%95%84%ED%8A%B8%EC%9B%8D-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤이 와 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ec%9d%b4-%ec%99%80/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ec%9d%b4-%ec%99%80/</guid>
+            <pubDate>Thu, 27 Mar 2025 03:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[재균]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%9E%AC%EA%B7%A0_%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설레발치지 마 (Don’t be so sure) (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%84%a4%eb%a0%88%eb%b0%9c%ec%b9%98%ec%a7%80-%eb%a7%88-dont-be-so-sure/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%a4%eb%a0%88%eb%b0%9c%ec%b9%98%ec%a7%80-%eb%a7%88-dont-be-so-sure/</guid>
+            <pubDate>Thu, 27 Mar 2025 03:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[아인스타운(EINSTOWN)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-%EC%84%A4%EB%A0%88%EB%B0%9C%EC%B9%98%EC%A7%80-%EB%A7%88-Dont-be-so-sure-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정처없이 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%95%ec%b2%98%ec%97%86%ec%9d%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%95%ec%b2%98%ec%97%86%ec%9d%b4/</guid>
+            <pubDate>Thu, 27 Mar 2025 03:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[Yooin(유인)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%9C%A0%EC%9D%B8_%EC%A0%95%EC%B2%98%EC%97%86%EC%9D%B4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%9D%B4%EB%AF%B8%EC%A7%80-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[www. (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/www/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/www/</guid>
+            <pubDate>Thu, 27 Mar 2025 03:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[Vinet]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/Vinet-www.-feat.-jaegyeong-Lee-_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄으로 피어 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%ec%9c%bc%eb%a1%9c-%ed%94%bc%ec%96%b4/</link>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 19 Mar 2025 04:22:47 GMT</pubDate>
             <content:encoded><![CDATA[듣는건너의책임]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/20250209.%EB%84%90%EC%83%9D%EA%B0%81%ED%95%B4.3000-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flower (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/flower-4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/flower-4/</guid>
-            <pubDate>Wed, 19 Mar 2025 04:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[버틀러]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/Flower-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Egyptian Meow (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/egyptian-meow/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/egyptian-meow/</guid>
-            <pubDate>Wed, 19 Mar 2025 04:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[버틀러 (Butler)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/egyptian-meow-edit3-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 잠들면 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80-%ec%9e%a0%eb%93%a4%eb%a9%b4/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%82%b4%ea%b0%80-%ec%9e%a0%eb%93%a4%eb%a9%b4/</guid>
-            <pubDate>Wed, 19 Mar 2025 04:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[정미진]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 시절, 내가 사랑한 소녀 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%8b%9c%ec%a0%88-%eb%82%b4%ea%b0%80-%ec%82%ac%eb%9e%91%ed%95%9c-%ec%86%8c%eb%85%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b7%b8-%ec%8b%9c%ec%a0%88-%eb%82%b4%ea%b0%80-%ec%82%ac%eb%9e%91%ed%95%9c-%ec%86%8c%eb%85%80/</guid>
-            <pubDate>Tue, 18 Mar 2025 15:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[박연]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EB%B0%95%EC%97%B0-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SCAR (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/scar-2/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/scar-2/</guid>
-            <pubDate>Tue, 18 Mar 2025 15:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[HWAYEON]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/SCAR_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84--300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.288 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
