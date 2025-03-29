@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Mar 2025 02:57:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 03:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[freak]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/freak/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/freak/</guid>
+            <pubDate>Sat, 29 Mar 2025 03:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[ibun]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/freak_album_cover-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 둘이, 봄]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%eb%91%98%ec%9d%b4-%eb%b4%84/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Mar 2025 03:34:29 GMT</pubDate>
             <content:encoded><![CDATA[wavex]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_wavex-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Archive spring]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/archive-spring/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/archive-spring/</guid>
-            <pubDate>Thu, 20 Mar 2025 03:30:04 GMT</pubDate>
-            <content:encoded><![CDATA[kenessi]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_kenessi_Archive-spring-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
