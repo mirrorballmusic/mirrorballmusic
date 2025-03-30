@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Mar 2025 01:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 03:06:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sunrise (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/sunrise/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/sunrise/</guid>
+            <pubDate>Sun, 30 Mar 2025 03:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[Kiik, 신기원(ShinGiWon)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/Sunrise-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[freak (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/freak/</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Mar 2025 03:34:29 GMT</pubDate>
             <content:encoded><![CDATA[summersnow, 백성준 baek sungjun]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_summersnow-%EB%B0%B1%EC%84%B1%EC%A4%80-baek-sungjun_anachronistic-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nasty Blue (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/nasty-blue/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/nasty-blue/</guid>
-            <pubDate>Fri, 21 Mar 2025 03:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[wavex]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_wavex-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.288 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
