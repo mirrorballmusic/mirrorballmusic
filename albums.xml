@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 01:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 03:06:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[In Your Words]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/in-your-words/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/in-your-words/</guid>
+            <pubDate>Mon, 31 Mar 2025 03:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[가호]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B0%80%ED%98%B8_In-Your-Words-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fantasy]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/fantasy-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/fantasy-2/</guid>
+            <pubDate>Mon, 31 Mar 2025 03:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[예서]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/Fantasy_%EB%AC%B8%EC%98%88%EC%84%9C_%EC%95%84%ED%8A%B8%EC%9B%A4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[deepest]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/deepest/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/deepest/</guid>
+            <pubDate>Mon, 31 Mar 2025 03:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[투명(twomyung)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/twomyng_deepest_cover-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sunrise]]></title>
             <link>http://mirrorballmusic.co.kr/albums/sunrise/</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 22 Mar 2025 03:32:16 GMT</pubDate>
             <content:encoded><![CDATA[문영은(moonO=)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93_%EB%AC%B8%EC%98%81%EC%9D%80_No-More-2-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제35회 유재하 음악경연대회]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%a0%9c35%ed%9a%8c-%ec%9c%a0%ec%9e%ac%ed%95%98-%ec%9d%8c%ec%95%85%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%a0%9c35%ed%9a%8c-%ec%9c%a0%ec%9e%ac%ed%95%98-%ec%9d%8c%ec%95%85%ea%b2%bd%ec%97%b0%eb%8c%80%ed%9a%8c/</guid>
-            <pubDate>Fri, 21 Mar 2025 03:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%9C%A0%EC%9E%AC%ED%95%98-%EC%9D%8C%EC%95%85%EA%B2%BD%EC%97%B0%EB%8C%80%ED%9A%8C-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[芽吹き]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%e8%8a%bd%e5%90%b9%e3%81%8d/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%e8%8a%bd%e5%90%b9%e3%81%8d/</guid>
-            <pubDate>Fri, 21 Mar 2025 03:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[ky0]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_ky0_%E8%8A%BD%E5%90%B9%E3%81%8D-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[anachronistic]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/anachronistic/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/anachronistic/</guid>
-            <pubDate>Fri, 21 Mar 2025 03:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[summersnow, 백성준 baek sungjun]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_summersnow-%EB%B0%B1%EC%84%B1%EC%A4%80-baek-sungjun_anachronistic-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
