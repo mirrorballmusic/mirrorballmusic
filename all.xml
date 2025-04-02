@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 01:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 03:01:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음산책 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%9d%8c%ec%82%b0%ec%b1%85/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%a7%88%ec%9d%8c%ec%82%b0%ec%b1%85/</guid>
+            <pubDate>Wed, 02 Apr 2025 03:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[희로]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%ED%9D%AC%EB%A1%9C_%EC%9E%90%EC%BC%93%EC%9D%B4%EB%AF%B8%EC%A7%80_%ED%9D%AC%EB%A1%9C_%EB%A7%88%EC%9D%8C%EC%82%B0%EC%B1%85-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나래울공원 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%9e%98%ec%9a%b8%ea%b3%b5%ec%9b%90/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Mar 2025 03:36:10 GMT</pubDate>
             <content:encoded><![CDATA[오타르(OTAR)]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%98%A4%ED%83%80%EB%A5%B4-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기린 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%eb%a6%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ea%b8%b0%eb%a6%b0/</guid>
-            <pubDate>Mon, 24 Mar 2025 04:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[심플페이지 (Simple Pages)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%8B%AC%ED%94%8C%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.289 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
