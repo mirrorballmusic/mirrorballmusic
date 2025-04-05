@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 02:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 03:33:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cool]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/cool/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/cool/</guid>
+            <pubDate>Sat, 05 Apr 2025 03:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[손을모아]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/%EC%86%90%EC%9D%84%EB%AA%A8%EC%95%84-cool-%EC%95%A8%EB%B2%94-%EC%9E%90%EC%BC%93-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄바람 (SPRING BREEZE)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%eb%b0%94%eb%9e%8c-spring-breeze/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Mar 2025 03:37:31 GMT</pubDate>
             <content:encoded><![CDATA[재균]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%9E%AC%EA%B7%A0_%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설레발치지 마 (Don’t be so sure)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%84%a4%eb%a0%88%eb%b0%9c%ec%b9%98%ec%a7%80-%eb%a7%88-dont-be-so-sure/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%84%a4%eb%a0%88%eb%b0%9c%ec%b9%98%ec%a7%80-%eb%a7%88-dont-be-so-sure/</guid>
-            <pubDate>Thu, 27 Mar 2025 03:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[아인스타운(EINSTOWN)]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-%EC%84%A4%EB%A0%88%EB%B0%9C%EC%B9%98%EC%A7%80-%EB%A7%88-Dont-be-so-sure-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
