@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 01:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 03:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄밤 (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%eb%b0%a4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%84%eb%b0%a4/</guid>
+            <pubDate>Sun, 06 Apr 2025 03:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[소란하는 밤]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/%EB%B4%84%EB%B0%A4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cool (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/cool/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Mar 2025 03:37:31 GMT</pubDate>
             <content:encoded><![CDATA[Mood]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/What-I-Wish-For.._-%EC%95%84%ED%8A%B8%EC%9B%8D-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤이 와 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ec%9d%b4-%ec%99%80/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b0%a4%ec%9d%b4-%ec%99%80/</guid>
-            <pubDate>Thu, 27 Mar 2025 03:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[재균]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%9E%AC%EA%B7%A0_%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.289 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
