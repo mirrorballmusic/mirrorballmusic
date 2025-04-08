@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 01:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 03:01:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I need (미러볼뮤직 ─ ALBUMS)]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/i-need/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/i-need/</guid>
+            <pubDate>Tue, 08 Apr 2025 03:00:55 GMT</pubDate>
+            <content:encoded><![CDATA[wedOcean, Julie]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/I-need-Artwork-3000X3000-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[늘 그랬듯이 헤어지진 마 (미러볼뮤직 ─ ALBUMS)]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%8a%98-%ea%b7%b8%eb%9e%ac%eb%93%af%ec%9d%b4-%ed%97%a4%ec%96%b4%ec%a7%80%ec%a7%84-%eb%a7%88/</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 29 Mar 2025 03:31:57 GMT</pubDate>
             <content:encoded><![CDATA[ibun]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/freak_album_cover-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 둘이, 봄 (미러볼뮤직 ─ ALBUMS)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%eb%91%98%ec%9d%b4-%eb%b4%84/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9a%b0%eb%a6%ac-%eb%91%98%ec%9d%b4-%eb%b4%84/</guid>
-            <pubDate>Fri, 28 Mar 2025 03:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[나린]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%9A%B0%EB%A6%AC-%EB%91%98%EC%9D%B4-%EB%B4%84-300x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-INDIE CHART VOL.289 (미러볼뮤직 ─ K-INDIE CHART)]]></title>
