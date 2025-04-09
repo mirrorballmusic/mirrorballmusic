@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 03:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 04:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이유]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%9c%a0-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%9c%a0-2/</guid>
+            <pubDate>Wed, 09 Apr 2025 04:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[박호성]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%95%ED%98%B8%EC%84%B1_%EC%9D%B4%EC%9C%A0-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나는 행성이고 여긴 우리 집이야]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%82%98%eb%8a%94-%ed%96%89%ec%84%b1%ec%9d%b4%ea%b3%a0-%ec%97%ac%ea%b8%b4-%ec%9a%b0%eb%a6%ac-%ec%a7%91%ec%9d%b4%ec%95%bc/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Apr 2025 03:13:14 GMT</pubDate>
             <content:encoded><![CDATA[태림]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%ED%83%9C%EB%A6%BC-%EB%B6%80%EB%94%94-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%9D%B4%EB%AF%B8%EC%A7%80-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 슬프지 않아도 돼]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%9c-%ec%8a%ac%ed%94%84%ec%a7%80-%ec%95%8a%ec%95%84%eb%8f%84-%eb%8f%bc/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%a0%9c-%ec%8a%ac%ed%94%84%ec%a7%80-%ec%95%8a%ec%95%84%eb%8f%84-%eb%8f%bc/</guid>
-            <pubDate>Tue, 01 Apr 2025 03:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[정서윤]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%A0%95%EC%84%9C%EC%9C%A4_%EC%9D%B4%EC%A0%9C%EC%8A%AC%ED%94%84%EC%A7%80%EC%95%8A%EC%95%84%EB%8F%84%EB%8F%BC_%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
