@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 08:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 09:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이상해]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%83%81%ed%95%b4/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%83%81%ed%95%b4/</guid>
+            <pubDate>Wed, 09 Apr 2025 09:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[허회경]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%97%88%ED%9A%8C%EA%B2%BD_%EC%9D%B4%EC%83%81%ED%95%B4-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이유]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ec%9d%b4%ec%9c%a0-2/</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Apr 2025 03:13:14 GMT</pubDate>
             <content:encoded><![CDATA[녹음]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%85%B9%EC%9D%8C_%EC%9C%A8%EB%8F%84-disc-1-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부디]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b6%80%eb%94%94/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b6%80%eb%94%94/</guid>
-            <pubDate>Tue, 01 Apr 2025 03:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[태림]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%ED%83%9C%EB%A6%BC-%EB%B6%80%EB%94%94-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%9D%B4%EB%AF%B8%EC%A7%80-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
