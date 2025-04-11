@@ -4,9 +4,33 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 03:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 04:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[편지 안에 모든 말을 담아낼 수 없어서]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/%ed%8e%b8%ec%a7%80-%ec%95%88%ec%97%90-%eb%aa%a8%eb%93%a0-%eb%a7%90%ec%9d%84-%eb%8b%b4%ec%95%84%eb%82%bc-%ec%88%98-%ec%97%86%ec%96%b4%ec%84%9c/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/%ed%8e%b8%ec%a7%80-%ec%95%88%ec%97%90-%eb%aa%a8%eb%93%a0-%eb%a7%90%ec%9d%84-%eb%8b%b4%ec%95%84%eb%82%bc-%ec%88%98-%ec%97%86%ec%96%b4%ec%84%9c/</guid>
+            <pubDate>Fri, 11 Apr 2025 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[옛그리움(Old Yearning)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/%EC%98%9B%EA%B7%B8%EB%A6%AC%EC%9B%80_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OVIIRAK]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/oviirak/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/oviirak/</guid>
+            <pubDate>Fri, 11 Apr 2025 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[Oeyeview]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/Oeyeview_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[body language]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/body-language/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/body-language/</guid>
+            <pubDate>Fri, 11 Apr 2025 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[weloveproof]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/weloveproof_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[통신불가]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%86%b5%ec%8b%a0%eb%b6%88%ea%b0%80/</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 03 Apr 2025 03:38:33 GMT</pubDate>
             <content:encoded><![CDATA[Jhunnit, 장한나]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jhunnit-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사실 나도 알아 이게 사랑인건데]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%ec%82%ac%ec%8b%a4-%eb%82%98%eb%8f%84-%ec%95%8c%ec%95%84-%ec%9d%b4%ea%b2%8c-%ec%82%ac%eb%9e%91%ec%9d%b8%ea%b1%b4%eb%8d%b0/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%ec%82%ac%ec%8b%a4-%eb%82%98%eb%8f%84-%ec%95%8c%ec%95%84-%ec%9d%b4%ea%b2%8c-%ec%82%ac%eb%9e%91%ec%9d%b8%ea%b1%b4%eb%8d%b0/</guid>
-            <pubDate>Thu, 03 Apr 2025 03:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[김치영]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B9%80%EC%B9%98%EC%98%81-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Albatross]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/albatross/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/albatross/</guid>
-            <pubDate>Thu, 03 Apr 2025 03:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[LIS]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_LID_Albatross-%EC%9E%90%EC%BC%93-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6242]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/6242/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/6242/</guid>
-            <pubDate>Wed, 02 Apr 2025 04:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[HeMeets]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/%ED%9E%88%EB%AF%B8%EC%B8%A0_6242-artwork-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
