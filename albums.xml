@@ -4,9 +4,17 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Apr 2025 02:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 03:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Titan]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/titan/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/titan/</guid>
+            <pubDate>Sat, 12 Apr 2025 03:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[류니콘]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/%EB%A5%98%EB%8B%88%EC%BD%98_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[편지 안에 모든 말을 담아낼 수 없어서]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%ed%8e%b8%ec%a7%80-%ec%95%88%ec%97%90-%eb%aa%a8%eb%93%a0-%eb%a7%90%ec%9d%84-%eb%8b%b4%ec%95%84%eb%82%bc-%ec%88%98-%ec%97%86%ec%96%b4%ec%84%9c/</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Apr 2025 03:38:33 GMT</pubDate>
             <content:encoded><![CDATA[황브라더스, 장예지]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/Cover_Daisy-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Selfie]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/94225/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/94225/</guid>
-            <pubDate>Thu, 03 Apr 2025 03:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[Jhunnit, 장한나]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Jhunnit-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
