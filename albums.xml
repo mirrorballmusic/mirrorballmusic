@@ -4,9 +4,41 @@
         <title>미러볼뮤직 ─ ALBUMS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 01:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 03:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cybertruck]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/cybertruck/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/cybertruck/</guid>
+            <pubDate>Mon, 14 Apr 2025 03:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[맥거핀(MGFF)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/MGFF_Cybertruck-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Green]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/green-3/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/green-3/</guid>
+            <pubDate>Mon, 14 Apr 2025 03:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[민]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/Green-%EC%9E%90%EC%BC%93-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[my moonstruck baby]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/my-moonstruck-baby/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/my-moonstruck-baby/</guid>
+            <pubDate>Mon, 14 Apr 2025 03:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[박휘노]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/my-moonstruck-baby-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HI]]></title>
+            <link>http://mirrorballmusic.co.kr/albums/hi-2/</link>
+            <guid>http://mirrorballmusic.co.kr/albums/hi-2/</guid>
+            <pubDate>Mon, 14 Apr 2025 03:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[비제로 (BASEMENTZEROFLOOR)]]></content:encoded>
+            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/HI-COVER_3000px-300x300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낯설지 않아서]]></title>
             <link>http://mirrorballmusic.co.kr/albums/%eb%82%af%ec%84%a4%ec%a7%80-%ec%95%8a%ec%95%84%ec%84%9c/</link>
@@ -214,38 +246,6 @@
             <pubDate>Sun, 06 Apr 2025 03:04:32 GMT</pubDate>
             <content:encoded><![CDATA[소란하는 밤]]></content:encoded>
             <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/%EB%B4%84%EB%B0%A4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cool]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/cool/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/cool/</guid>
-            <pubDate>Sat, 05 Apr 2025 03:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[손을모아]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/04/%EC%86%90%EC%9D%84%EB%AA%A8%EC%95%84-cool-%EC%95%A8%EB%B2%94-%EC%9E%90%EC%BC%93-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄바람 (SPRING BREEZE)]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/%eb%b4%84%eb%b0%94%eb%9e%8c-spring-breeze/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/%eb%b4%84%eb%b0%94%eb%9e%8c-spring-breeze/</guid>
-            <pubDate>Fri, 04 Apr 2025 03:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[Monday Feeling]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EB%B4%84%EB%B0%94%EB%9E%8C_%EB%8C%80%EC%A7%80-1-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I-diary]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/i-diary/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/i-diary/</guid>
-            <pubDate>Fri, 04 Apr 2025 03:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[ido]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/ido_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-300x300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[vintageshop.]]></title>
-            <link>http://mirrorballmusic.co.kr/albums/vintageshop/</link>
-            <guid>http://mirrorballmusic.co.kr/albums/vintageshop/</guid>
-            <pubDate>Fri, 04 Apr 2025 03:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[AINN]]></content:encoded>
-            <enclosure url="http://mirrorballmusic.co.kr/wp-content/uploads/2025/03/vintageshop._cover-300x300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
